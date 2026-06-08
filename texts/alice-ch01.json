@@ -5,17 +5,14 @@
   "author": "Lewis Carroll",
   "source": "Project Gutenberg (public domain)",
   "level": "B1",
-  "tags": [
-    "fiction",
-    "classic"
-  ],
+  "tags": ["fiction", "classic"],
   "createdAt": "2026-06-08",
   "paragraphs": [
     {
       "sentences": [
         {
           "en": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
-          "pl": "Alicja zaczynała być już bardzo zmęczona siedzeniem przy siostrze na brzegu i brakiem zajęcia.",
+          "pl": "Alicja zaczynała się bardzo nudzić siedzeniem przy swojej siostrze na brzegu rzeki i tym, że nie miała nic do roboty.",
           "tokens": [
             { "w": "Alice", "t": "Alicja", "lemma": "Alice" },
             { "w": "was", "t": "była", "lemma": "be" },
@@ -31,25 +28,25 @@
             { "w": "sister", "t": "siostrze", "lemma": "sister" },
             { "w": "on", "t": "na", "lemma": "on" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "bank", "t": "brzegu", "lemma": "bank" },
+            { "w": "bank", "t": "brzegu rzeki", "lemma": "bank" },
             { "w": "and", "t": "i", "lemma": "and" },
             { "w": "of", "t": "z", "lemma": "of" },
             { "w": "having", "t": "mając", "lemma": "have" },
             { "w": "nothing", "t": "nic", "lemma": "nothing" },
             { "w": "to", "t": "do", "lemma": "to" },
-            { "w": "do", "t": "roboty", "lemma": "do" }
+            { "w": "do", "t": "robić", "lemma": "do" }
           ]
         },
         {
           "en": "Once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it.",
-          "pl": "Raz czy dwa zajrzała do książki, którą czytała jej siostra, ale nie było w niej obrazków ani dialogów.",
+          "pl": "Raz czy dwa zerknęła do książki, którą czytała jej siostra, ale nie było w niej obrazków ani rozmów.",
           "tokens": [
             { "w": "Once", "t": "raz", "lemma": "once" },
-            { "w": "or", "t": "czy", "lemma": "or" },
+            { "w": "or", "t": "lub", "lemma": "or" },
             { "w": "twice", "t": "dwa razy", "lemma": "twice" },
             { "w": "she", "t": "ona", "lemma": "she" },
-            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
-            { "w": "peeped", "t": "zajrzała", "lemma": "peep" },
+            { "w": "had", "t": "miała", "lemma": "have" },
+            { "w": "peeped", "t": "zerknęła", "lemma": "peep" },
             { "w": "into", "t": "do", "lemma": "into" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
             { "w": "book", "t": "książki", "lemma": "book" },
@@ -63,7 +60,7 @@
             { "w": "no", "t": "żadnych", "lemma": "no" },
             { "w": "pictures", "t": "obrazków", "lemma": "picture" },
             { "w": "or", "t": "ani", "lemma": "or" },
-            { "w": "conversations", "t": "dialogów", "lemma": "conversation" },
+            { "w": "conversations", "t": "rozmów", "lemma": "conversation" },
             { "w": "in", "t": "w", "lemma": "in" },
             { "w": "it", "t": "niej", "lemma": "it" }
           ]
@@ -74,25 +71,54 @@
       "sentences": [
         {
           "en": "\"And what is the use of a book,\" thought Alice, \"without pictures or conversations?\"",
-          "pl": "„A jaki jest pożytek z książki”, pomyślała Alicja, „bez obrazków i dialogów?”",
+          "pl": "„A na co komu książka — pomyślała Alicja — bez obrazków albo rozmów?”",
           "tokens": [
             { "w": "And", "t": "a", "lemma": "and" },
-            { "w": "what", "t": "jaki", "lemma": "what" },
+            { "w": "what", "t": "co", "lemma": "what" },
             { "w": "is", "t": "jest", "lemma": "be" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
             { "w": "use", "t": "pożytek", "lemma": "use" },
             { "w": "of", "t": "z", "lemma": "of" },
             { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "book", "t": "książki", "lemma": "book" },
+            { "w": "book", "t": "książka", "lemma": "book" },
             { "w": "thought", "t": "pomyślała", "lemma": "think" },
             { "w": "Alice", "t": "Alicja", "lemma": "Alice" },
             { "w": "without", "t": "bez", "lemma": "without" },
             { "w": "pictures", "t": "obrazków", "lemma": "picture" },
-            { "w": "or", "t": "i", "lemma": "or" },
-            { "w": "conversations", "t": "dialogów", "lemma": "conversation" }
+            { "w": "or", "t": "albo", "lemma": "or" },
+            { "w": "conversations", "t": "rozmów", "lemma": "conversation" }
           ]
         }
       ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Dlaczego Alicja zaczynała się nudzić?",
+      "options": [
+        "Nie miała nic do roboty, siedząc przy siostrze",
+        "Zgubiła swoją książkę",
+        "Czekała na kolację"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Alicja sądziła o książce, którą czytała jej siostra?",
+      "options": [
+        "Że jest bezużyteczna bez obrazków i rozmów",
+        "Że jest bardzo ciekawa",
+        "Że jest za trudna"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie siedziała Alicja?",
+      "options": [
+        "Na brzegu rzeki",
+        "W bibliotece",
+        "W ogrodzie"
+      ],
+      "answer": 0
     }
   ]
 }
