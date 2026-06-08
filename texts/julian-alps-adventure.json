@@ -15,13 +15,13 @@
     {
       "sentences": [
         {
-          "en": "Leo and his family were hiking in the beautiful Julian Alps.",
-          "pl": "Leo i jego rodzina wędrowali w pięknych Alpach Julijskich.",
+          "en": "Adam, Zuzanna, and Piotr were hiking in the beautiful Julian Alps.",
+          "pl": "Adam, Zuzanna i Piotr wędrowali w pięknych Alpach Julijskich.",
           "tokens": [
-            { "w": "Leo", "t": "Leo", "lemma": "Leo" },
+            { "w": "Adam", "t": "Adam", "lemma": "Adam" },
+            { "w": "Zuzanna", "t": "Zuzanna", "lemma": "Zuzanna" },
             { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "his", "t": "jego", "lemma": "his" },
-            { "w": "family", "t": "rodzina", "lemma": "family" },
+            { "w": "Piotr", "t": "Piotr", "lemma": "Piotr" },
             { "w": "were", "t": "byli", "lemma": "be" },
             { "w": "hiking", "t": "wędrując", "lemma": "hike" },
             { "w": "in", "t": "w", "lemma": "in" },
@@ -48,10 +48,10 @@
           ]
         },
         {
-          "en": "He loved the challenge of climbing steep trails and discovering hidden places.",
-          "pl": "Uwielbiał wyzwanie wspinania się po stromych szlakach i odkrywania ukrytych miejsc.",
+          "en": "Adam loved the challenge of climbing steep trails and discovering hidden places.",
+          "pl": "Adam uwielbiał wyzwanie wspinania się po stromych szlakach i odkrywania ukrytych miejsc.",
           "tokens": [
-            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "Adam", "t": "Adam", "lemma": "Adam" },
             { "w": "loved", "t": "uwielbiał", "lemma": "love" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
             { "w": "challenge", "t": "wyzwanie", "lemma": "challenge" },
@@ -70,11 +70,11 @@
     {
       "sentences": [
         {
-          "en": "Suddenly, Leo noticed a small, dark opening behind a large grey boulder.",
-          "pl": "Nagle Leo zauważył mały, ciemny otwór za dużym, szarym głazem.",
+          "en": "Suddenly, he noticed a small, dark opening behind a large grey boulder.",
+          "pl": "Nagle zauważył mały, ciemny otwór za dużym, szarym głazem.",
           "tokens": [
             { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
-            { "w": "Leo", "t": "Leo", "lemma": "Leo" },
+            { "w": "he", "t": "on", "lemma": "he" },
             { "w": "noticed", "t": "zauważył", "lemma": "notice" },
             { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
             { "w": "small", "t": "mały", "lemma": "small" },
@@ -88,16 +88,14 @@
           ]
         },
         {
-          "en": "He called his younger brother and sister to come and look at his discovery.",
-          "pl": "Zawołał swojego młodszego brata i siostrę, aby podeszli i spojrzeli na jego odkrycie.",
+          "en": "He called Zuzanna and Piotr to come and look at his discovery.",
+          "pl": "Zawołał Zuzannę i Piotra, aby podeszli i spojrzeli na jego odkrycie.",
           "tokens": [
             { "w": "He", "t": "on", "lemma": "he" },
             { "w": "called", "t": "zawołał", "lemma": "call" },
-            { "w": "his", "t": "swojego", "lemma": "his" },
-            { "w": "younger", "t": "młodszego", "lemma": "young" },
-            { "w": "brother", "t": "brata", "lemma": "brother" },
+            { "w": "Zuzanna", "t": "Zuzannę", "lemma": "Zuzanna" },
             { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "sister", "t": "siostrę", "lemma": "sister" },
+            { "w": "Piotr", "t": "Piotra", "lemma": "Piotr" },
             { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
             { "w": "come", "t": "przyjść", "lemma": "come" },
             { "w": "and", "t": "i", "lemma": "and" },
