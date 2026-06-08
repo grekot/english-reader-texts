@@ -29,6 +29,20 @@
       ],
       "file": "texts/building-a-cabin.json",
       "sha256": "84d424648f9372538e984d491b6a0930ea6c7210648b22f8bcd1415260dcbffe"
+    },
+    {
+      "id": "julian-alps-adventure",
+      "title": "The Secret Cave in the Mountains",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dla dzieci",
+      "tags": [
+        "adventure",
+        "kids",
+        "nature"
+      ],
+      "file": "texts/julian-alps-adventure.json",
+      "sha256": "c04b1bb83787abce8d58b7d0af2461510b13fdf9d5e1b535ce3e1b681c0a4ca0"
     }
   ]
 }
