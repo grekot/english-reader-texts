@@ -14,6 +14,21 @@
       ],
       "file": "texts/alice-ch01.json",
       "sha256": "01279b354ee0f0962a9754ad20ca4a4561067e7893f04f12bfd16ed0035d5c56"
+    },
+    {
+      "id": "building-a-cabin-long",
+      "title": "The Ultimate Guide to Building Your Own Cabin",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Techniczne",
+      "tags": [
+        "diy",
+        "woodworking",
+        "construction",
+        "guide"
+      ],
+      "file": "texts/building-a-cabin.json",
+      "sha256": "d8be75e84ca69156ec62ef6c1803c38ec6d3717f4dd56dcfef09dd488c1bae00"
     }
   ]
 }
