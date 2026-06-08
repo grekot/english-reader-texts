@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "building-a-cabin-long",
-  "title": "The Ultimate Guide to Building Your Own Cabin",
+  "title": "The Complete Guide to Building Your Own Cabin (Extended)",
   "author": "AI Assistant",
   "source": "Original Educational Material",
   "level": "B2",
@@ -9,82 +9,68 @@
     "diy",
     "woodworking",
     "construction",
-    "guide"
+    "guide",
+    "long-read"
   ],
   "createdAt": "2026-06-08",
   "paragraphs": [
     {
       "sentences": [
         {
-          "en": "For many people, escaping the chaos of modern city life is a lifelong dream.",
-          "pl": "Dla wielu ludzi ucieczka od chaosu współczesnego życia w mieście to całożyciowe marzenie.",
+          "en": "Building a cabin in the woods is a dream for many city dwellers.",
+          "pl": "Budowa domku w lesie to marzenie wielu mieszkańców miast.",
           "tokens": [
-            { "w": "For", "t": "dla", "lemma": "for" },
-            { "w": "many", "t": "wielu", "lemma": "many" },
-            { "w": "people", "t": "ludzi", "lemma": "person" },
-            { "w": "escaping", "t": "ucieczka", "lemma": "escape" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "chaos", "t": "chaosu", "lemma": "chaos" },
-            { "w": "of", "t": "od", "lemma": "of" },
-            { "w": "modern", "t": "współczesnego", "lemma": "modern" },
-            { "w": "city", "t": "miejskiego", "lemma": "city" },
-            { "w": "life", "t": "życia", "lemma": "life" },
-            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "Building", "t": "budowa", "lemma": "build" },
             { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "lifelong", "t": "całożyciowe", "lemma": "lifelong" },
-            { "w": "dream", "t": "marzenie", "lemma": "dream" }
+            { "w": "cabin", "t": "domku", "lemma": "cabin" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "woods", "t": "lesie", "lemma": "woods" },
+            { "w": "is", "t": "to (jest)", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dream", "t": "marzenie", "lemma": "dream" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "many", "t": "wielu", "lemma": "many" },
+            { "w": "city", "t": "miejskich", "lemma": "city" },
+            { "w": "dwellers", "t": "mieszkańców", "lemma": "dweller" }
           ]
         },
         {
-          "en": "Building a small wooden cabin in the countryside offers a perfect solution.",
-          "pl": "Zbudowanie małego drewnianego domku na wsi oferuje doskonałe rozwiązanie.",
+          "en": "It offers a peaceful retreat from the noise and stress of modern life.",
+          "pl": "Oferuje to spokojną odskocznię od hałasu i stresu współczesnego życia.",
           "tokens": [
-            { "w": "Building", "t": "zbudowanie", "lemma": "build" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "small", "t": "małego", "lemma": "small" },
-            { "w": "wooden", "t": "drewnianego", "lemma": "wooden" },
-            { "w": "cabin", "t": "domku", "lemma": "cabin" },
-            { "w": "in", "t": "na", "lemma": "in" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "countryside", "t": "wsi", "lemma": "countryside" },
+            { "w": "It", "t": "to", "lemma": "it" },
             { "w": "offers", "t": "oferuje", "lemma": "offer" },
             { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "perfect", "t": "doskonałe", "lemma": "perfect" },
-            { "w": "solution", "t": "rozwiązanie", "lemma": "solution" }
-          ]
-        },
-        {
-          "en": "However, before you buy any materials, you must carefully plan every detail of the construction.",
-          "pl": "Jednak zanim kupisz jakiekolwiek materiały, musisz dokładnie zaplanować każdy szczegół konstrukcji.",
-          "tokens": [
-            { "w": "However", "t": "jednak", "lemma": "however" },
-            { "w": "before", "t": "zanim", "lemma": "before" },
-            { "w": "you", "t": "ty", "lemma": "you" },
-            { "w": "buy", "t": "kupisz", "lemma": "buy" },
-            { "w": "any", "t": "jakiekolwiek", "lemma": "any" },
-            { "w": "materials", "t": "materiały", "lemma": "material" },
-            { "w": "you", "t": "ty", "lemma": "you" },
-            { "w": "must", "t": "musisz", "lemma": "must" },
-            { "w": "carefully", "t": "dokładnie", "lemma": "carefully" },
-            { "w": "plan", "t": "zaplanować", "lemma": "plan" },
-            { "w": "every", "t": "każdy", "lemma": "every" },
-            { "w": "detail", "t": "szczegół", "lemma": "detail" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
+            { "w": "peaceful", "t": "spokojną", "lemma": "peaceful" },
+            { "w": "retreat", "t": "odskocznię", "lemma": "retreat" },
+            { "w": "from", "t": "od", "lemma": "from" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "construction", "t": "konstrukcji", "lemma": "construction" }
+            { "w": "noise", "t": "hałasu", "lemma": "noise" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "stress", "t": "stresu", "lemma": "stress" },
+            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
+            { "w": "modern", "t": "współczesnego", "lemma": "modern" },
+            { "w": "life", "t": "życia", "lemma": "life" }
           ]
         },
         {
-          "en": "A well-thought-out design prevents expensive mistakes later.",
-          "pl": "Przemyślany projekt zapobiega kosztownym błędom w przyszłości.",
+          "en": "However, turning this dream into a reality requires careful planning and hard work.",
+          "pl": "Jednakże zamiana tego marzenia w rzeczywistość wymaga starannego planowania i ciężkiej pracy.",
           "tokens": [
-            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "well-thought-out", "t": "przemyślany", "lemma": "well-thought-out" },
-            { "w": "design", "t": "projekt", "lemma": "design" },
-            { "w": "prevents", "t": "zapobiega", "lemma": "prevent" },
-            { "w": "expensive", "t": "kosztownym", "lemma": "expensive" },
-            { "w": "mistakes", "t": "błędom", "lemma": "mistake" },
-            { "w": "later", "t": "później", "lemma": "later" }
+            { "w": "However", "t": "jednakże", "lemma": "however" },
+            { "w": "turning", "t": "zamiana", "lemma": "turn" },
+            { "w": "this", "t": "tego", "lemma": "this" },
+            { "w": "dream", "t": "marzenia", "lemma": "dream" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "reality", "t": "rzeczywistość", "lemma": "reality" },
+            { "w": "requires", "t": "wymaga", "lemma": "require" },
+            { "w": "careful", "t": "starannego", "lemma": "careful" },
+            { "w": "planning", "t": "planowania", "lemma": "planning" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "hard", "t": "ciężkiej", "lemma": "hard" },
+            { "w": "work", "t": "pracy", "lemma": "work" }
           ]
         }
       ]
@@ -92,73 +78,118 @@
     {
       "sentences": [
         {
-          "en": "Choosing the right location is the first critical step.",
-          "pl": "Wybór właściwej lokalizacji to pierwszy krytyczny krok.",
+          "en": "Before purchasing any materials, you must check local building regulations.",
+          "pl": "Zanim kupisz jakiekolwiek materiały, musisz sprawdzić lokalne przepisy budowlane.",
           "tokens": [
-            { "w": "Choosing", "t": "wybór", "lemma": "choose" },
+            { "w": "Before", "t": "zanim", "lemma": "before" },
+            { "w": "purchasing", "t": "kupisz", "lemma": "purchase" },
+            { "w": "any", "t": "jakiekolwiek", "lemma": "any" },
+            { "w": "materials", "t": "materiały", "lemma": "material" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "must", "t": "musisz", "lemma": "must" },
+            { "w": "check", "t": "sprawdzić", "lemma": "check" },
+            { "w": "local", "t": "lokalne", "lemma": "local" },
+            { "w": "building", "t": "budowlane", "lemma": "building" },
+            { "w": "regulations", "t": "przepisy", "lemma": "regulation" }
+          ]
+        },
+        {
+          "en": "Depending on your area, you might need special permits to start construction.",
+          "pl": "W zależności od twojej okolicy, możesz potrzebować specjalnych pozwoleń na rozpoczęcie budowy.",
+          "tokens": [
+            { "w": "Depending", "t": "w zależności", "lemma": "depend" },
+            { "w": "on", "t": "od", "lemma": "on" },
+            { "w": "your", "t": "twojej", "lemma": "your" },
+            { "w": "area", "t": "okolicy", "lemma": "area" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "might", "t": "możesz", "lemma": "might" },
+            { "w": "need", "t": "potrzebować", "lemma": "need" },
+            { "w": "special", "t": "specjalnych", "lemma": "special" },
+            { "w": "permits", "t": "pozwoleń", "lemma": "permit" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "start", "t": "rozpocząć", "lemma": "start" },
+            { "w": "construction", "t": "budowę", "lemma": "construction" }
+          ]
+        },
+        {
+          "en": "A detailed blueprint will help you calculate the exact amount of wood needed.",
+          "pl": "Szczegółowy plan pomoże ci obliczyć dokładną ilość potrzebnego drewna.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "detailed", "t": "szczegółowy", "lemma": "detailed" },
+            { "w": "blueprint", "t": "plan", "lemma": "blueprint" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "help", "t": "pomoże", "lemma": "help" },
+            { "w": "you", "t": "ci", "lemma": "you" },
+            { "w": "calculate", "t": "obliczyć", "lemma": "calculate" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "right", "t": "właściwej", "lemma": "right" },
-            { "w": "location", "t": "lokalizacji", "lemma": "location" },
+            { "w": "exact", "t": "dokładną", "lemma": "exact" },
+            { "w": "amount", "t": "ilość", "lemma": "amount" },
+            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
+            { "w": "wood", "t": "drewna", "lemma": "wood" },
+            { "w": "needed", "t": "potrzebnego", "lemma": "need" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The foundation is the most critical part of your entire project.",
+          "pl": "Fundament to najbardziej krytyczna część całego twojego projektu.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "foundation", "t": "fundament", "lemma": "foundation" },
             { "w": "is", "t": "to (jest)", "lemma": "be" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "first", "t": "pierwszy", "lemma": "first" },
-            { "w": "critical", "t": "krytyczny", "lemma": "critical" },
-            { "w": "step", "t": "krok", "lemma": "step" }
-          ]
-        },
-        {
-          "en": "You need a flat piece of land with stable soil and good drainage.",
-          "pl": "Potrzebujesz płaskiego kawałka ziemi ze stabilną glebą i dobrym drenażem.",
-          "tokens": [
-            { "w": "You", "t": "ty", "lemma": "you" },
-            { "w": "need", "t": "potrzebujesz", "lemma": "need" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "flat", "t": "płaskiego", "lemma": "flat" },
-            { "w": "piece", "t": "kawałka", "lemma": "piece" },
+            { "w": "most", "t": "najbardziej", "lemma": "most" },
+            { "w": "critical", "t": "krytyczna", "lemma": "critical" },
+            { "w": "part", "t": "część", "lemma": "part" },
             { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "land", "t": "ziemi", "lemma": "land" },
-            { "w": "with", "t": "ze", "lemma": "with" },
-            { "w": "stable", "t": "stabilną", "lemma": "stable" },
-            { "w": "soil", "t": "glebą", "lemma": "soil" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "good", "t": "dobrym", "lemma": "good" },
-            { "w": "drainage", "t": "drenażem", "lemma": "drainage" }
+            { "w": "your", "t": "twojego", "lemma": "your" },
+            { "w": "entire", "t": "całego", "lemma": "entire" },
+            { "w": "project", "t": "projektu", "lemma": "project" }
           ]
         },
         {
-          "en": "Once the site is ready, you can start laying the foundation.",
-          "pl": "Gdy miejsce jest gotowe, możesz zacząć kłaść fundament.",
+          "en": "If the base is uneven, the walls will lean and the structure will be unstable.",
+          "pl": "Jeśli podstawa jest nierówna, ściany będą się pochylać, a konstrukcja będzie niestabilna.",
           "tokens": [
-            { "w": "Once", "t": "gdy", "lemma": "once" },
+            { "w": "If", "t": "jeśli", "lemma": "if" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "site", "t": "miejsce", "lemma": "site" },
+            { "w": "base", "t": "podstawa", "lemma": "base" },
             { "w": "is", "t": "jest", "lemma": "be" },
-            { "w": "ready", "t": "gotowe", "lemma": "ready" },
-            { "w": "you", "t": "możesz", "lemma": "you" },
-            { "w": "can", "t": "możesz", "lemma": "can" },
-            { "w": "start", "t": "zacząć", "lemma": "start" },
-            { "w": "laying", "t": "kłaść", "lemma": "lay" },
+            { "w": "uneven", "t": "nierówna", "lemma": "uneven" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "foundation", "t": "fundament", "lemma": "foundation" }
+            { "w": "walls", "t": "ściany", "lemma": "wall" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "lean", "t": "pochylać się", "lemma": "lean" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "structure", "t": "konstrukcja", "lemma": "structure" },
+            { "w": "will", "t": "będzie", "lemma": "will" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "unstable", "t": "niestabilna", "lemma": "unstable" }
           ]
         },
         {
-          "en": "Many builders prefer concrete piers because they are durable and easy to install.",
-          "pl": "Wielu budowniczych woli betonowe filary, ponieważ są trwałe i łatwe w montażu.",
+          "en": "Many beginners choose concrete piers because they are relatively inexpensive and easy to install.",
+          "pl": "Wielu początkujących wybiera betonowe filary, ponieważ są one stosunkowo niedrogie i łatwe w montażu.",
           "tokens": [
             { "w": "Many", "t": "wielu", "lemma": "many" },
-            { "w": "builders", "t": "budowniczych", "lemma": "builder" },
-            { "w": "prefer", "t": "woli", "lemma": "prefer" },
+            { "w": "beginners", "t": "początkujących", "lemma": "beginner" },
+            { "w": "choose", "t": "wybiera", "lemma": "choose" },
             { "w": "concrete", "t": "betonowe", "lemma": "concrete" },
             { "w": "piers", "t": "filary", "lemma": "pier" },
             { "w": "because", "t": "ponieważ", "lemma": "because" },
             { "w": "they", "t": "one", "lemma": "they" },
             { "w": "are", "t": "są", "lemma": "be" },
-            { "w": "durable", "t": "trwałe", "lemma": "durable" },
+            { "w": "relatively", "t": "stosunkowo", "lemma": "relatively" },
+            { "w": "inexpensive", "t": "niedrogie", "lemma": "inexpensive" },
             { "w": "and", "t": "i", "lemma": "and" },
             { "w": "easy", "t": "łatwe", "lemma": "easy" },
-            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
-            { "w": "install", "t": "zamontować", "lemma": "install" }
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "install", "t": "zamontowania", "lemma": "install" }
           ]
         }
       ]
@@ -166,72 +197,55 @@
     {
       "sentences": [
         {
-          "en": "After the foundation cures, the framing process begins.",
-          "pl": "Po utwardzeniu fundamentu rozpoczyna się proces tworzenia ramy konstrukcyjnej.",
+          "en": "Once the foundation is fully cured, you can begin framing the floor.",
+          "pl": "Gdy fundament w pełni stwardnieje, możesz zacząć tworzyć szkielet podłogi.",
           "tokens": [
-            { "w": "After", "t": "po", "lemma": "after" },
+            { "w": "Once", "t": "gdy", "lemma": "once" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "foundation", "t": "fundamentu", "lemma": "foundation" },
-            { "w": "cures", "t": "utwardzeniu", "lemma": "cure" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "framing", "t": "szkieletu", "lemma": "framing" },
-            { "w": "process", "t": "proces", "lemma": "process" },
-            { "w": "begins", "t": "zaczyna się", "lemma": "begin" }
-          ]
-        },
-        {
-          "en": "This is when the cabin finally starts to take shape.",
-          "pl": "To właśnie wtedy domek w końcu zaczyna nabierać kształtu.",
-          "tokens": [
-            { "w": "This", "t": "to", "lemma": "this" },
+            { "w": "foundation", "t": "fundament", "lemma": "foundation" },
             { "w": "is", "t": "jest", "lemma": "be" },
-            { "w": "when", "t": "wtedy gdy", "lemma": "when" },
+            { "w": "fully", "t": "w pełni", "lemma": "fully" },
+            { "w": "cured", "t": "stwardniały", "lemma": "cure" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "can", "t": "możesz", "lemma": "can" },
+            { "w": "begin", "t": "zacząć", "lemma": "begin" },
+            { "w": "framing", "t": "tworzyć szkielet", "lemma": "frame" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "cabin", "t": "domek", "lemma": "cabin" },
-            { "w": "finally", "t": "w końcu", "lemma": "finally" },
-            { "w": "starts", "t": "zaczyna", "lemma": "start" },
-            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
-            { "w": "take", "t": "nabierać", "lemma": "take" },
-            { "w": "shape", "t": "kształtu", "lemma": "shape" }
+            { "w": "floor", "t": "podłogi", "lemma": "floor" }
           ]
         },
         {
-          "en": "Heavy wooden beams form the skeletal structure of the walls and roof.",
-          "pl": "Ciężkie drewniane belki tworzą szkieletową strukturę ścian i dachu.",
+          "en": "Using pressure-treated lumber prevents rot and serious moisture damage over time.",
+          "pl": "Użycie drewna impregnowanego ciśnieniowo zapobiega gniciu i poważnym uszkodzeniom spowodowanym wilgocią z biegiem czasu.",
+          "tokens": [
+            { "w": "Using", "t": "użycie", "lemma": "use" },
+            { "w": "pressure-treated", "t": "impregnowanego ciśnieniowo", "lemma": "pressure-treated" },
+            { "w": "lumber", "t": "tarcicy (drewna)", "lemma": "lumber" },
+            { "w": "prevents", "t": "zapobiega", "lemma": "prevent" },
+            { "w": "rot", "t": "gniciu", "lemma": "rot" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "serious", "t": "poważnym", "lemma": "serious" },
+            { "w": "moisture", "t": "przez wilgoć", "lemma": "moisture" },
+            { "w": "damage", "t": "uszkodzeniom", "lemma": "damage" },
+            { "w": "over", "t": "z biegiem", "lemma": "over" },
+            { "w": "time", "t": "czasu", "lemma": "time" }
+          ]
+        },
+        {
+          "en": "Heavy wooden beams must be perfectly level to guarantee structural integrity.",
+          "pl": "Ciężkie drewniane belki muszą być idealnie poziome, aby zagwarantować spójność konstrukcyjną.",
           "tokens": [
             { "w": "Heavy", "t": "ciężkie", "lemma": "heavy" },
             { "w": "wooden", "t": "drewniane", "lemma": "wooden" },
             { "w": "beams", "t": "belki", "lemma": "beam" },
-            { "w": "form", "t": "tworzą", "lemma": "form" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "skeletal", "t": "szkieletową", "lemma": "skeletal" },
-            { "w": "structure", "t": "strukturę", "lemma": "structure" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "walls", "t": "ścian", "lemma": "wall" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "roof", "t": "dachu", "lemma": "roof" }
-          ]
-        },
-        {
-          "en": "It is essential to use a spirit level constantly to ensure everything is perfectly straight.",
-          "pl": "Niezbędne jest stałe używanie poziomicy, aby upewnić się, że wszystko jest idealnie proste.",
-          "tokens": [
-            { "w": "It", "t": "to", "lemma": "it" },
-            { "w": "is", "t": "jest", "lemma": "be" },
-            { "w": "essential", "t": "niezbędne", "lemma": "essential" },
-            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
-            { "w": "use", "t": "używać", "lemma": "use" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "spirit", "t": "poziomicy (cz. nazwy)", "lemma": "spirit" },
-            { "w": "level", "t": "poziomicy", "lemma": "level" },
-            { "w": "constantly", "t": "stale", "lemma": "constantly" },
-            { "w": "to", "t": "aby", "lemma": "to" },
-            { "w": "ensure", "t": "upewnić się", "lemma": "ensure" },
-            { "w": "everything", "t": "wszystko", "lemma": "everything" },
-            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "must", "t": "muszą", "lemma": "must" },
+            { "w": "be", "t": "być", "lemma": "be" },
             { "w": "perfectly", "t": "idealnie", "lemma": "perfectly" },
-            { "w": "straight", "t": "proste", "lemma": "straight" }
+            { "w": "level", "t": "poziome", "lemma": "level" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "guarantee", "t": "zagwarantować", "lemma": "guarantee" },
+            { "w": "structural", "t": "konstrukcyjną", "lemma": "structural" },
+            { "w": "integrity", "t": "spójność", "lemma": "integrity" }
           ]
         }
       ]
@@ -239,75 +253,183 @@
     {
       "sentences": [
         {
-          "en": "Protecting the interior from harsh weather requires high-quality insulation.",
-          "pl": "Ochrona wnętrza przed surową pogodą wymaga wysokiej jakości izolacji.",
+          "en": "Putting the roof on is usually the most challenging phase of the build.",
+          "pl": "Montaż dachu to zazwyczaj najbardziej wymagający etap budowy.",
           "tokens": [
-            { "w": "Protecting", "t": "ochrona", "lemma": "protect" },
+            { "w": "Putting", "t": "kładzenie", "lemma": "put" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "interior", "t": "wnętrza", "lemma": "interior" },
-            { "w": "from", "t": "przed", "lemma": "from" },
-            { "w": "harsh", "t": "surową", "lemma": "harsh" },
-            { "w": "weather", "t": "pogodą", "lemma": "weather" },
-            { "w": "requires", "t": "wymaga", "lemma": "require" },
+            { "w": "roof", "t": "dachu", "lemma": "roof" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "usually", "t": "zazwyczaj", "lemma": "usually" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "najbardziej", "lemma": "most" },
+            { "w": "challenging", "t": "wymagającym", "lemma": "challenging" },
+            { "w": "phase", "t": "etapem", "lemma": "phase" },
+            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "build", "t": "budowy", "lemma": "build" }
+          ]
+        },
+        {
+          "en": "You must work carefully at a dangerous height to install the heavy roof trusses.",
+          "pl": "Musisz pracować ostrożnie na niebezpiecznej wysokości, aby zamontować ciężkie wiązary dachowe.",
+          "tokens": [
+            { "w": "You", "t": "ty", "lemma": "you" },
+            { "w": "must", "t": "musisz", "lemma": "must" },
+            { "w": "work", "t": "pracować", "lemma": "work" },
+            { "w": "carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dangerous", "t": "niebezpiecznej", "lemma": "dangerous" },
+            { "w": "height", "t": "wysokości", "lemma": "height" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "install", "t": "zamontować", "lemma": "install" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "heavy", "t": "ciężkie", "lemma": "heavy" },
+            { "w": "roof", "t": "dachowe", "lemma": "roof" },
+            { "w": "trusses", "t": "wiązary", "lemma": "truss" }
+          ]
+        },
+        {
+          "en": "Afterward, applying high-quality shingles will protect the interior from rain and heavy snow.",
+          "pl": "Później, położenie wysokiej jakości gontów ochroni wnętrze przed deszczem i obfitym śniegiem.",
+          "tokens": [
+            { "w": "Afterward", "t": "później", "lemma": "afterward" },
+            { "w": "applying", "t": "nałożenie", "lemma": "apply" },
             { "w": "high-quality", "t": "wysokiej jakości", "lemma": "high-quality" },
+            { "w": "shingles", "t": "gontów", "lemma": "shingle" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "protect", "t": "ochroni", "lemma": "protect" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "interior", "t": "wnętrze", "lemma": "interior" },
+            { "w": "from", "t": "przed", "lemma": "from" },
+            { "w": "rain", "t": "deszczem", "lemma": "rain" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "heavy", "t": "obfitym", "lemma": "heavy" },
+            { "w": "snow", "t": "śniegiem", "lemma": "snow" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "After completing the roof, it is time to focus on the exterior walls.",
+          "pl": "Po ukończeniu dachu, nadszedł czas, aby skupić się na ścianach zewnętrznych.",
+          "tokens": [
+            { "w": "After", "t": "po", "lemma": "after" },
+            { "w": "completing", "t": "ukończeniu", "lemma": "complete" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "roof", "t": "dachu", "lemma": "roof" },
+            { "w": "it", "t": "to", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "time", "t": "czas", "lemma": "time" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "focus", "t": "skupić się", "lemma": "focus" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "exterior", "t": "zewnętrznych", "lemma": "exterior" },
+            { "w": "walls", "t": "ścianach", "lemma": "wall" }
+          ]
+        },
+        {
+          "en": "Installing durable wooden siding not only looks beautiful but also adds insulation.",
+          "pl": "Zamontowanie trwałej drewnianej elewacji nie tylko pięknie wygląda, ale również dodaje izolacji.",
+          "tokens": [
+            { "w": "Installing", "t": "zamontowanie", "lemma": "install" },
+            { "w": "durable", "t": "trwałej", "lemma": "durable" },
+            { "w": "wooden", "t": "drewnianej", "lemma": "wooden" },
+            { "w": "siding", "t": "elewacji", "lemma": "siding" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "looks", "t": "wygląda", "lemma": "look" },
+            { "w": "beautiful", "t": "pięknie", "lemma": "beautiful" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "also", "t": "również", "lemma": "also" },
+            { "w": "adds", "t": "dodaje", "lemma": "add" },
             { "w": "insulation", "t": "izolacji", "lemma": "insulation" }
           ]
         },
         {
-          "en": "Proper insulation keeps the cabin warm in winter and cool during the summer months.",
-          "pl": "Właściwa izolacja utrzymuje domek ciepłym zimą i chłodnym podczas miesięcy letnich.",
+          "en": "You should treat the wood with a protective stain to prevent fading from the sun.",
+          "pl": "Powinieneś pokryć drewno ochronną bejcą, aby zapobiec blaknięciu od słońca.",
           "tokens": [
-            { "w": "Proper", "t": "właściwa", "lemma": "proper" },
+            { "w": "You", "t": "ty", "lemma": "you" },
+            { "w": "should", "t": "powinieneś", "lemma": "should" },
+            { "w": "treat", "t": "pokryć (zaimpregnować)", "lemma": "treat" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wood", "t": "drewno", "lemma": "wood" },
+            { "w": "with", "t": "za pomocą", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "protective", "t": "ochronnej", "lemma": "protective" },
+            { "w": "stain", "t": "bejcy", "lemma": "stain" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "prevent", "t": "zapobiec", "lemma": "prevent" },
+            { "w": "fading", "t": "blaknięciu", "lemma": "fade" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sun", "t": "słońca", "lemma": "sun" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Proper insulation in the walls and ceiling keeps the cabin comfortable year-round.",
+          "pl": "Odpowiednia izolacja w ścianach i suficie utrzymuje domek wygodnym przez cały rok.",
+          "tokens": [
+            { "w": "Proper", "t": "odpowiednia", "lemma": "proper" },
             { "w": "insulation", "t": "izolacja", "lemma": "insulation" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "walls", "t": "ścianach", "lemma": "wall" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "ceiling", "t": "suficie", "lemma": "ceiling" },
             { "w": "keeps", "t": "utrzymuje", "lemma": "keep" },
             { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
             { "w": "cabin", "t": "domek", "lemma": "cabin" },
-            { "w": "warm", "t": "ciepłym", "lemma": "warm" },
-            { "w": "in", "t": "w", "lemma": "in" },
-            { "w": "winter", "t": "zimie", "lemma": "winter" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "cool", "t": "chłodnym", "lemma": "cool" },
-            { "w": "during", "t": "podczas", "lemma": "during" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "summer", "t": "letnich", "lemma": "summer" },
-            { "w": "months", "t": "miesięcy", "lemma": "month" }
+            { "w": "comfortable", "t": "wygodnym", "lemma": "comfortable" },
+            { "w": "year-round", "t": "przez cały rok", "lemma": "year-round" }
           ]
         },
         {
-          "en": "Finally, you can install the windows, doors, and interior wooden panels.",
-          "pl": "Na koniec możesz zamontować okna, drzwi i wewnętrzne panele drewniane.",
+          "en": "Installing large windows allows natural light to enter and provides beautiful views.",
+          "pl": "Montaż dużych okien pozwala na wpadanie naturalnego światła i zapewnia piękne widoki.",
           "tokens": [
-            { "w": "Finally", "t": "na koniec", "lemma": "finally" },
-            { "w": "you", "t": "możesz", "lemma": "you" },
-            { "w": "can", "t": "możesz", "lemma": "can" },
-            { "w": "install", "t": "zamontować", "lemma": "install" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "windows", "t": "okna", "lemma": "window" },
-            { "w": "doors", "t": "drzwi", "lemma": "door" },
+            { "w": "Installing", "t": "montaż", "lemma": "install" },
+            { "w": "large", "t": "dużych", "lemma": "large" },
+            { "w": "windows", "t": "okien", "lemma": "window" },
+            { "w": "allows", "t": "pozwala", "lemma": "allow" },
+            { "w": "natural", "t": "naturalnemu", "lemma": "natural" },
+            { "w": "light", "t": "światłu", "lemma": "light" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "enter", "t": "wpadać", "lemma": "enter" },
             { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "provides", "t": "zapewnia", "lemma": "provide" },
+            { "w": "beautiful", "t": "piękne", "lemma": "beautiful" },
+            { "w": "views", "t": "widoki", "lemma": "view" }
+          ]
+        },
+        {
+          "en": "When the interior panels are finally finished, you can proudly enjoy your handcrafted home.",
+          "pl": "Kiedy wewnętrzne panele są wreszcie wykończone, możesz z dumą cieszyć się swoim własnoręcznie zrobionym domem.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
             { "w": "interior", "t": "wewnętrzne", "lemma": "interior" },
-            { "w": "wooden", "t": "drewniane", "lemma": "wooden" },
-            { "w": "panels", "t": "panele", "lemma": "panel" }
-          ]
-        },
-        {
-          "en": "Although it takes a lot of hard work, the final result is incredibly rewarding.",
-          "pl": "Chociaż wymaga to dużo ciężkiej pracy, efekt końcowy daje ogromną satysfakcję.",
-          "tokens": [
-            { "w": "Although", "t": "chociaż", "lemma": "although" },
-            { "w": "it", "t": "to", "lemma": "it" },
-            { "w": "takes", "t": "wymaga", "lemma": "take" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "lot", "t": "dużo", "lemma": "lot" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "hard", "t": "ciężkiej", "lemma": "hard" },
-            { "w": "work", "t": "pracy", "lemma": "work" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "final", "t": "końcowy", "lemma": "final" },
-            { "w": "result", "t": "efekt", "lemma": "result" },
-            { "w": "is", "t": "jest", "lemma": "be" },
-            { "w": "incredibly", "t": "ogromnie", "lemma": "incredibly" },
-            { "w": "rewarding", "t": "satysfakcjonujący", "lemma": "rewarding" }
+            { "w": "panels", "t": "panele", "lemma": "panel" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "finally", "t": "wreszcie", "lemma": "finally" },
+            { "w": "finished", "t": "wykończone", "lemma": "finish" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "can", "t": "możesz", "lemma": "can" },
+            { "w": "proudly", "t": "z dumą", "lemma": "proudly" },
+            { "w": "enjoy", "t": "cieszyć się", "lemma": "enjoy" },
+            { "w": "your", "t": "swoim", "lemma": "your" },
+            { "w": "handcrafted", "t": "własnoręcznie zrobionym", "lemma": "handcrafted" },
+            { "w": "home", "t": "domem", "lemma": "home" }
           ]
         }
       ]
