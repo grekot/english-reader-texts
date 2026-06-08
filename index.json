@@ -7,9 +7,12 @@
       "title": "Alice's Adventures in Wonderland — Chapter 1 (fragment)",
       "author": "Lewis Carroll",
       "level": "B1",
-      "tags": ["fiction", "classic"],
+      "tags": [
+        "fiction",
+        "classic"
+      ],
       "file": "texts/alice-ch01.json",
-      "sha256": "7daa99eb99c9e4c312e3cfa6c00c4d4b17878dbd6c26b731dc912639e69582c4"
+      "sha256": "01279b354ee0f0962a9754ad20ca4a4561067e7893f04f12bfd16ed0035d5c56"
     }
   ]
 }
