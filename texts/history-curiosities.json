@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "id": "history-curiosities",
+  "title": "Strange but True: Curiosities from History",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "facts",
+    "trivia",
+    "nonfiction",
+    "teen"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "History is full of surprising facts that sound almost impossible, yet they are completely true.",
+          "pl": "Historia jest pełna zaskakujących faktów, które brzmią niemal niemożliwie, a jednak są całkowicie prawdziwe.",
+          "tokens": [
+            { "w": "History", "t": "historia", "lemma": "history" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "full", "t": "pełna", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "surprising", "t": "zaskakujących", "lemma": "surprising" },
+            { "w": "facts", "t": "faktów", "lemma": "fact" },
+            { "w": "that", "t": "które", "lemma": "that" },
+            { "w": "sound", "t": "brzmią", "lemma": "sound" },
+            { "w": "almost", "t": "niemal", "lemma": "almost" },
+            { "w": "impossible", "t": "niemożliwie", "lemma": "impossible" },
+            { "w": "yet", "t": "a jednak", "lemma": "yet" },
+            { "w": "they", "t": "one", "lemma": "they" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "completely", "t": "całkowicie", "lemma": "completely" },
+            { "w": "true", "t": "prawdziwe", "lemma": "true" }
+          ]
+        },
+        {
+          "en": "These curiosities can change the way we imagine the past.",
+          "pl": "Te ciekawostki mogą zmienić sposób, w jaki wyobrażamy sobie przeszłość.",
+          "tokens": [
+            { "w": "These", "t": "te", "lemma": "this" },
+            { "w": "curiosities", "t": "ciekawostki", "lemma": "curiosity" },
+            { "w": "can", "t": "mogą", "lemma": "can" },
+            { "w": "change", "t": "zmienić", "lemma": "change" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "way", "t": "sposób", "lemma": "way" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "imagine", "t": "wyobrażamy sobie", "lemma": "imagine" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "past", "t": "przeszłość", "lemma": "past" }
+          ]
+        },
+        {
+          "en": "Here are some of the most fascinating examples.",
+          "pl": "Oto kilka najbardziej fascynujących przykładów.",
+          "tokens": [
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "some", "t": "kilka", "lemma": "some" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "fascinating", "t": "fascynujących", "lemma": "fascinating" },
+            { "w": "examples", "t": "przykładów", "lemma": "example" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Queen Cleopatra of Egypt lived around the year 30 BC.",
+          "pl": "Królowa Egiptu Kleopatra żyła około roku 30 p.n.e.",
+          "tokens": [
+            { "w": "Queen", "t": "królowa", "lemma": "queen" },
+            { "w": "Cleopatra", "t": "Kleopatra", "lemma": "Cleopatra" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Egypt", "t": "Egiptu", "lemma": "Egypt" },
+            { "w": "lived", "t": "żyła", "lemma": "live" },
+            { "w": "around", "t": "około", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "year", "t": "roku", "lemma": "year" },
+            { "w": "30", "t": "30" },
+            { "w": "BC", "t": "p.n.e.", "lemma": "BC" }
+          ]
+        },
+        {
+          "en": "The Great Pyramid of Giza was already about 2,500 years old in her time.",
+          "pl": "Wielka Piramida w Gizie miała już wtedy około 2500 lat.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Great", "t": "Wielka", "lemma": "great" },
+            { "w": "Pyramid", "t": "Piramida", "lemma": "pyramid" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Giza", "t": "Gizie", "lemma": "Giza" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "already", "t": "już", "lemma": "already" },
+            { "w": "about", "t": "około", "lemma": "about" },
+            { "w": "2,500", "t": "2500" },
+            { "w": "years", "t": "lat", "lemma": "year" },
+            { "w": "old", "t": "(wieku)", "lemma": "old" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "her", "t": "jej", "lemma": "her" },
+            { "w": "time", "t": "czasach", "lemma": "time" }
+          ]
+        },
+        {
+          "en": "Surprisingly, Cleopatra lived closer to the first Moon landing than to the building of that pyramid.",
+          "pl": "Co zaskakujące, Kleopatra żyła bliżej pierwszego lądowania na Księżycu niż budowy tej piramidy.",
+          "tokens": [
+            { "w": "Surprisingly", "t": "zaskakująco", "lemma": "surprisingly" },
+            { "w": "Cleopatra", "t": "Kleopatra", "lemma": "Cleopatra" },
+            { "w": "lived", "t": "żyła", "lemma": "live" },
+            { "w": "closer", "t": "bliżej", "lemma": "close" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszego", "lemma": "first" },
+            { "w": "Moon", "t": "na Księżycu", "lemma": "Moon" },
+            { "w": "landing", "t": "lądowania", "lemma": "landing" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "building", "t": "budowy", "lemma": "building" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "that", "t": "tej", "lemma": "that" },
+            { "w": "pyramid", "t": "piramidy", "lemma": "pyramid" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The University of Oxford in England is older than the Aztec Empire.",
+          "pl": "Uniwersytet Oksfordzki w Anglii jest starszy niż imperium Azteków.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "University", "t": "uniwersytet", "lemma": "university" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Oxford", "t": "Oksfordzki", "lemma": "Oxford" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "England", "t": "Anglii", "lemma": "England" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "older", "t": "starszy", "lemma": "old" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Aztec", "t": "aztecki", "lemma": "Aztec" },
+            { "w": "Empire", "t": "imperium", "lemma": "empire" }
+          ]
+        },
+        {
+          "en": "Teaching began in Oxford around the year 1096.",
+          "pl": "Nauczanie rozpoczęło się w Oksfordzie około roku 1096.",
+          "tokens": [
+            { "w": "Teaching", "t": "nauczanie", "lemma": "teaching" },
+            { "w": "began", "t": "rozpoczęło się", "lemma": "begin" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "Oxford", "t": "Oksfordzie", "lemma": "Oxford" },
+            { "w": "around", "t": "około", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "year", "t": "roku", "lemma": "year" },
+            { "w": "1096", "t": "1096" }
+          ]
+        },
+        {
+          "en": "The famous Aztec capital, Tenochtitlan, was founded more than two hundred years later, in 1325.",
+          "pl": "Słynna aztecka stolica, Tenochtitlan, została założona ponad dwieście lat później, w 1325 roku.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "famous", "t": "słynna", "lemma": "famous" },
+            { "w": "Aztec", "t": "aztecka", "lemma": "Aztec" },
+            { "w": "capital", "t": "stolica", "lemma": "capital" },
+            { "w": "Tenochtitlan", "t": "Tenochtitlan", "lemma": "Tenochtitlan" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "founded", "t": "założona", "lemma": "found" },
+            { "w": "more", "t": "ponad", "lemma": "more" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "two", "t": "dwieście", "lemma": "two" },
+            { "w": "hundred", "t": "(sto)", "lemma": "hundred" },
+            { "w": "years", "t": "lat", "lemma": "year" },
+            { "w": "later", "t": "później", "lemma": "later" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "1325", "t": "1325" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Most people believe that Christopher Columbus was the first European to reach America.",
+          "pl": "Większość ludzi wierzy, że Krzysztof Kolumb był pierwszym Europejczykiem, który dotarł do Ameryki.",
+          "tokens": [
+            { "w": "Most", "t": "większość", "lemma": "most" },
+            { "w": "people", "t": "ludzi", "lemma": "people" },
+            { "w": "believe", "t": "wierzy", "lemma": "believe" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "Christopher", "t": "Krzysztof", "lemma": "Christopher" },
+            { "w": "Columbus", "t": "Kolumb", "lemma": "Columbus" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszym", "lemma": "first" },
+            { "w": "European", "t": "Europejczykiem", "lemma": "European" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "reach", "t": "dotrzeć do", "lemma": "reach" },
+            { "w": "America", "t": "Ameryki", "lemma": "America" }
+          ]
+        },
+        {
+          "en": "However, Viking sailors landed in North America around the year 1000.",
+          "pl": "Jednak wikińscy żeglarze wylądowali w Ameryce Północnej około roku 1000.",
+          "tokens": [
+            { "w": "However", "t": "jednak", "lemma": "however" },
+            { "w": "Viking", "t": "wikińscy", "lemma": "Viking" },
+            { "w": "sailors", "t": "żeglarze", "lemma": "sailor" },
+            { "w": "landed", "t": "wylądowali", "lemma": "land" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "North", "t": "Północnej", "lemma": "north" },
+            { "w": "America", "t": "Ameryce", "lemma": "America" },
+            { "w": "around", "t": "około", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "year", "t": "roku", "lemma": "year" },
+            { "w": "1000", "t": "1000" }
+          ]
+        },
+        {
+          "en": "Their leader, Leif Erikson, arrived almost five hundred years before Columbus was even born.",
+          "pl": "Ich przywódca, Leif Erikson, przybył niemal pięćset lat zanim Kolumb w ogóle się urodził.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "leader", "t": "przywódca", "lemma": "leader" },
+            { "w": "Leif", "t": "Leif", "lemma": "Leif" },
+            { "w": "Erikson", "t": "Erikson", "lemma": "Erikson" },
+            { "w": "arrived", "t": "przybył", "lemma": "arrive" },
+            { "w": "almost", "t": "niemal", "lemma": "almost" },
+            { "w": "five", "t": "pięćset", "lemma": "five" },
+            { "w": "hundred", "t": "(sto)", "lemma": "hundred" },
+            { "w": "years", "t": "lat", "lemma": "year" },
+            { "w": "before", "t": "zanim", "lemma": "before" },
+            { "w": "Columbus", "t": "Kolumb", "lemma": "Columbus" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "even", "t": "w ogóle", "lemma": "even" },
+            { "w": "born", "t": "urodził się", "lemma": "bear" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The workers who built the Egyptian pyramids were not slaves, as many films suggest.",
+          "pl": "Robotnicy, którzy zbudowali egipskie piramidy, nie byli niewolnikami, jak sugeruje wiele filmów.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "workers", "t": "robotnicy", "lemma": "worker" },
+            { "w": "who", "t": "którzy", "lemma": "who" },
+            { "w": "built", "t": "zbudowali", "lemma": "build" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Egyptian", "t": "egipskie", "lemma": "Egyptian" },
+            { "w": "pyramids", "t": "piramidy", "lemma": "pyramid" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "slaves", "t": "niewolnikami", "lemma": "slave" },
+            { "w": "as", "t": "jak", "lemma": "as" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "films", "t": "filmów", "lemma": "film" },
+            { "w": "suggest", "t": "sugeruje", "lemma": "suggest" }
+          ]
+        },
+        {
+          "en": "They were skilled, paid laborers who received food, shelter, and even medical care.",
+          "pl": "Byli wykwalifikowanymi, opłacanymi pracownikami, którzy otrzymywali jedzenie, schronienie, a nawet opiekę medyczną.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "skilled", "t": "wykwalifikowanymi", "lemma": "skilled" },
+            { "w": "paid", "t": "opłacanymi", "lemma": "pay" },
+            { "w": "laborers", "t": "pracownikami", "lemma": "laborer" },
+            { "w": "who", "t": "którzy", "lemma": "who" },
+            { "w": "received", "t": "otrzymywali", "lemma": "receive" },
+            { "w": "food", "t": "jedzenie", "lemma": "food" },
+            { "w": "shelter", "t": "schronienie", "lemma": "shelter" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "even", "t": "nawet", "lemma": "even" },
+            { "w": "medical", "t": "medyczną", "lemma": "medical" },
+            { "w": "care", "t": "opiekę", "lemma": "care" }
+          ]
+        },
+        {
+          "en": "Part of their daily payment was bread and a large amount of beer.",
+          "pl": "Częścią ich dziennej zapłaty był chleb i duża ilość piwa.",
+          "tokens": [
+            { "w": "Part", "t": "część", "lemma": "part" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "daily", "t": "dziennej", "lemma": "daily" },
+            { "w": "payment", "t": "zapłaty", "lemma": "payment" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "bread", "t": "chleb", "lemma": "bread" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "large", "t": "duża", "lemma": "large" },
+            { "w": "amount", "t": "ilość", "lemma": "amount" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "beer", "t": "piwa", "lemma": "beer" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The shortest war in history took place in 1896 between Britain and Zanzibar.",
+          "pl": "Najkrótsza wojna w historii miała miejsce w 1896 roku między Wielką Brytanią a Zanzibarem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "shortest", "t": "najkrótsza", "lemma": "short" },
+            { "w": "war", "t": "wojna", "lemma": "war" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "history", "t": "historii", "lemma": "history" },
+            { "w": "took", "t": "miała miejsce", "lemma": "take" },
+            { "w": "place", "t": "(miejsce)", "lemma": "place" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "1896", "t": "1896" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "Britain", "t": "Wielką Brytanią", "lemma": "Britain" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "Zanzibar", "t": "Zanzibarem", "lemma": "Zanzibar" }
+          ]
+        },
+        {
+          "en": "The fighting began in the morning and ended after only about forty minutes.",
+          "pl": "Walka rozpoczęła się rano i zakończyła po zaledwie około czterdziestu minutach.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fighting", "t": "walka", "lemma": "fighting" },
+            { "w": "began", "t": "rozpoczęła się", "lemma": "begin" },
+            { "w": "in", "t": "(rano)", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "morning", "t": "rano", "lemma": "morning" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "ended", "t": "zakończyła się", "lemma": "end" },
+            { "w": "after", "t": "po", "lemma": "after" },
+            { "w": "only", "t": "zaledwie", "lemma": "only" },
+            { "w": "about", "t": "około", "lemma": "about" },
+            { "w": "forty", "t": "czterdziestu", "lemma": "forty" },
+            { "w": "minutes", "t": "minutach", "lemma": "minute" }
+          ]
+        },
+        {
+          "en": "By lunchtime, the entire war was already over.",
+          "pl": "Do pory obiadowej cała wojna była już skończona.",
+          "tokens": [
+            { "w": "By", "t": "do", "lemma": "by" },
+            { "w": "lunchtime", "t": "pory obiadowej", "lemma": "lunchtime" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "entire", "t": "cała", "lemma": "entire" },
+            { "w": "war", "t": "wojna", "lemma": "war" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "already", "t": "już", "lemma": "already" },
+            { "w": "over", "t": "skończona", "lemma": "over" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Facts like these remind us that the past is stranger and more exciting than any story.",
+          "pl": "Fakty takie jak te przypominają nam, że przeszłość jest dziwniejsza i bardziej ekscytująca niż niejedna opowieść.",
+          "tokens": [
+            { "w": "Facts", "t": "fakty", "lemma": "fact" },
+            { "w": "like", "t": "takie jak", "lemma": "like" },
+            { "w": "these", "t": "te", "lemma": "this" },
+            { "w": "remind", "t": "przypominają", "lemma": "remind" },
+            { "w": "us", "t": "nam", "lemma": "us" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "past", "t": "przeszłość", "lemma": "past" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "stranger", "t": "dziwniejsza", "lemma": "strange" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "more", "t": "bardziej", "lemma": "more" },
+            { "w": "exciting", "t": "ekscytująca", "lemma": "exciting" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "any", "t": "jakakolwiek", "lemma": "any" },
+            { "w": "story", "t": "opowieść", "lemma": "story" }
+          ]
+        },
+        {
+          "en": "Each curiosity hides a deeper lesson about how people really lived.",
+          "pl": "Każda ciekawostka kryje głębszą lekcję o tym, jak ludzie naprawdę żyli.",
+          "tokens": [
+            { "w": "Each", "t": "każda", "lemma": "each" },
+            { "w": "curiosity", "t": "ciekawostka", "lemma": "curiosity" },
+            { "w": "hides", "t": "kryje", "lemma": "hide" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "deeper", "t": "głębszą", "lemma": "deep" },
+            { "w": "lesson", "t": "lekcję", "lemma": "lesson" },
+            { "w": "about", "t": "o tym", "lemma": "about" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "really", "t": "naprawdę", "lemma": "really" },
+            { "w": "lived", "t": "żyli", "lemma": "live" }
+          ]
+        },
+        {
+          "en": "The more we explore history, the more amazing secrets we discover.",
+          "pl": "Im więcej zgłębiamy historię, tym więcej niesamowitych sekretów odkrywamy.",
+          "tokens": [
+            { "w": "The", "t": "(im)", "lemma": "the" },
+            { "w": "more", "t": "więcej", "lemma": "more" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "explore", "t": "zgłębiamy", "lemma": "explore" },
+            { "w": "history", "t": "historię", "lemma": "history" },
+            { "w": "the", "t": "(tym)", "lemma": "the" },
+            { "w": "more", "t": "więcej", "lemma": "more" },
+            { "w": "amazing", "t": "niesamowitych", "lemma": "amazing" },
+            { "w": "secrets", "t": "sekretów", "lemma": "secret" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "discover", "t": "odkrywamy", "lemma": "discover" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Bliżej którego wydarzenia żyła Kleopatra?",
+      "options": [
+        "Bliżej lądowania na Księżycu niż budowy Wielkiej Piramidy",
+        "Bliżej budowy Wielkiej Piramidy",
+        "Dokładnie w połowie między nimi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co jest starsze?",
+      "options": [
+        "Uniwersytet Oksfordzki niż imperium Azteków",
+        "Imperium Azteków niż Uniwersytet Oksfordzki",
+        "Powstały w tym samym roku"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto dotarł do Ameryki Północnej około 500 lat przed Kolumbem?",
+      "options": [
+        "Wikingowie pod wodzą Leifa Eriksona",
+        "Starożytni Egipcjanie",
+        "Aztekowie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym częściowo płacono robotnikom budującym piramidy?",
+      "options": [
+        "Chlebem i dużą ilością piwa",
+        "Złotem i klejnotami",
+        "Niczym — byli niewolnikami"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak długo trwała najkrótsza wojna w historii (1896)?",
+      "options": [
+        "Około czterdziestu minut",
+        "Około czterdziestu dni",
+        "Dokładnie jeden rok"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki wniosek płynie z tych ciekawostek?",
+      "options": [
+        "Przeszłość jest dziwniejsza i bardziej ekscytująca niż niejedna opowieść",
+        "Historia jest zawsze nudna i przewidywalna",
+        "Nie warto sprawdzać faktów historycznych"
+      ],
+      "answer": 0
+    }
+  ]
+}

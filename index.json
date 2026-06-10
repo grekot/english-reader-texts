@@ -230,6 +230,22 @@
       ],
       "file": "texts/maja-lake-lights.json",
       "sha256": "4daf2502a8c35603b0d6a8bcc9cc4b2dc70921a36a4ea5b3c8f01b995c860185"
+    },
+    {
+      "id": "history-curiosities",
+      "title": "Strange but True: Curiosities from History",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "facts",
+        "trivia",
+        "nonfiction",
+        "teen"
+      ],
+      "file": "texts/history-curiosities.json",
+      "sha256": "da976d8c8737bca8cb3264ff90e6229a989fcff2514a8214b755673f7c2d0a3b"
     }
   ]
 }
