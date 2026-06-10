@@ -182,6 +182,54 @@
       ],
       "file": "texts/maja-forest-mystery.json",
       "sha256": "82904d68756d4e6730a5f93e61e1ccdc7a89a4d8c2ceed81baec6d25a4c6f2d9"
+    },
+    {
+      "id": "maja-school-secret",
+      "title": "Maja and Ola: The School Secret",
+      "author": "AI Assistant",
+      "level": "B1",
+      "category": "Dla młodzieży",
+      "tags": [
+        "fiction",
+        "mystery",
+        "animals",
+        "friendship",
+        "teen"
+      ],
+      "file": "texts/maja-school-secret.json",
+      "sha256": "c1a119df78189e1b17b923d3cea57b35b4e67713b6856210207b0cbd823502a8"
+    },
+    {
+      "id": "maja-missing-necklace",
+      "title": "Maja and Ola: The Missing Necklace",
+      "author": "AI Assistant",
+      "level": "B1",
+      "category": "Dla młodzieży",
+      "tags": [
+        "fiction",
+        "mystery",
+        "friendship",
+        "detective",
+        "teen"
+      ],
+      "file": "texts/maja-missing-necklace.json",
+      "sha256": "bbedf6854dff3d3eed65bfc0678de48487f81bce004719d7748e35af4d3042b6"
+    },
+    {
+      "id": "maja-lake-lights",
+      "title": "Maja and Ola: Lights Over the Lake",
+      "author": "AI Assistant",
+      "level": "B1",
+      "category": "Dla młodzieży",
+      "tags": [
+        "fiction",
+        "mystery",
+        "nature",
+        "science",
+        "teen"
+      ],
+      "file": "texts/maja-lake-lights.json",
+      "sha256": "4daf2502a8c35603b0d6a8bcc9cc4b2dc70921a36a4ea5b3c8f01b995c860185"
     }
   ]
 }

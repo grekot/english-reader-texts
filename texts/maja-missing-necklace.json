@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 1,
+  "id": "maja-missing-necklace",
+  "title": "Maja and Ola: The Missing Necklace",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B1",
+  "tags": [
+    "fiction",
+    "mystery",
+    "friendship",
+    "detective",
+    "teen"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "During the summer, Ola came to visit Maja at her grandmother's village.",
+          "pl": "Podczas lata Ola przyjechała odwiedzić Maję w wiosce jej babci.",
+          "tokens": [
+            { "w": "During", "t": "podczas", "lemma": "during" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "summer", "t": "lata", "lemma": "summer" },
+            { "w": "Ola", "t": "Ola", "lemma": "Ola" },
+            { "w": "came", "t": "przyjechała", "lemma": "come" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "visit", "t": "odwiedzić", "lemma": "visit" },
+            { "w": "Maja", "t": "Maję", "lemma": "Maja" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "her", "t": "jej", "lemma": "her" },
+            { "w": "grandmother's", "t": "babci", "lemma": "grandmother" },
+            { "w": "village", "t": "wiosce", "lemma": "village" }
+          ]
+        },
+        {
+          "en": "On Saturday, the family planned a big birthday dinner in the garden.",
+          "pl": "W sobotę rodzina zaplanowała wielką urodzinową kolację w ogrodzie.",
+          "tokens": [
+            { "w": "On", "t": "w", "lemma": "on" },
+            { "w": "Saturday", "t": "sobotę", "lemma": "Saturday" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "family", "t": "rodzina", "lemma": "family" },
+            { "w": "planned", "t": "zaplanowała", "lemma": "plan" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "big", "t": "wielką", "lemma": "big" },
+            { "w": "birthday", "t": "urodzinową", "lemma": "birthday" },
+            { "w": "dinner", "t": "kolację", "lemma": "dinner" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "garden", "t": "ogrodzie", "lemma": "garden" }
+          ]
+        },
+        {
+          "en": "Grandmother proudly wore her favourite golden necklace for the special evening.",
+          "pl": "Babcia dumnie założyła swój ulubiony złoty naszyjnik na ten wyjątkowy wieczór.",
+          "tokens": [
+            { "w": "Grandmother", "t": "babcia", "lemma": "grandmother" },
+            { "w": "proudly", "t": "dumnie", "lemma": "proudly" },
+            { "w": "wore", "t": "miała na sobie", "lemma": "wear" },
+            { "w": "her", "t": "swój", "lemma": "her" },
+            { "w": "favourite", "t": "ulubiony", "lemma": "favourite" },
+            { "w": "golden", "t": "złoty", "lemma": "golden" },
+            { "w": "necklace", "t": "naszyjnik", "lemma": "necklace" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "special", "t": "wyjątkowy", "lemma": "special" },
+            { "w": "evening", "t": "wieczór", "lemma": "evening" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Just before the guests arrived, the grandmother cried out in shock.",
+          "pl": "Tuż zanim przybyli goście, babcia wykrzyknęła w szoku.",
+          "tokens": [
+            { "w": "Just", "t": "tuż", "lemma": "just" },
+            { "w": "before", "t": "zanim", "lemma": "before" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "guests", "t": "goście", "lemma": "guest" },
+            { "w": "arrived", "t": "przybyli", "lemma": "arrive" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "grandmother", "t": "babcia", "lemma": "grandmother" },
+            { "w": "cried", "t": "krzyknęła", "lemma": "cry" },
+            { "w": "out", "t": "(partykuła)", "lemma": "out" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "shock", "t": "szoku", "lemma": "shock" }
+          ]
+        },
+        {
+          "en": "Her precious necklace had completely disappeared from around her neck.",
+          "pl": "Jej cenny naszyjnik całkowicie zniknął z jej szyi.",
+          "tokens": [
+            { "w": "Her", "t": "jej", "lemma": "her" },
+            { "w": "precious", "t": "cenny", "lemma": "precious" },
+            { "w": "necklace", "t": "naszyjnik", "lemma": "necklace" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "completely", "t": "całkowicie", "lemma": "completely" },
+            { "w": "disappeared", "t": "zniknął", "lemma": "disappear" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "her", "t": "jej", "lemma": "her" },
+            { "w": "neck", "t": "szyi", "lemma": "neck" }
+          ]
+        },
+        {
+          "en": "A young neighbour, who had arrived early, suddenly looked very nervous.",
+          "pl": "Młody sąsiad, który przybył wcześnie, nagle wyglądał bardzo nerwowo.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "young", "t": "młody", "lemma": "young" },
+            { "w": "neighbour", "t": "sąsiad", "lemma": "neighbour" },
+            { "w": "who", "t": "który", "lemma": "who" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "arrived", "t": "przybył", "lemma": "arrive" },
+            { "w": "early", "t": "wcześnie", "lemma": "early" },
+            { "w": "suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "looked", "t": "wyglądał", "lemma": "look" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "nervous", "t": "nerwowo", "lemma": "nervous" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Some of the adults began to whisper that the nervous boy might be the thief.",
+          "pl": "Niektórzy z dorosłych zaczęli szeptać, że zdenerwowany chłopiec może być złodziejem.",
+          "tokens": [
+            { "w": "Some", "t": "niektórzy", "lemma": "some" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "adults", "t": "dorosłych", "lemma": "adult" },
+            { "w": "began", "t": "zaczęli", "lemma": "begin" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "whisper", "t": "szeptać", "lemma": "whisper" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "nervous", "t": "zdenerwowany", "lemma": "nervous" },
+            { "w": "boy", "t": "chłopiec", "lemma": "boy" },
+            { "w": "might", "t": "może", "lemma": "might" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziejem", "lemma": "thief" }
+          ]
+        },
+        {
+          "en": "Maja frowned, because she did not believe he had taken anything.",
+          "pl": "Maja zmarszczyła brwi, ponieważ nie wierzyła, że on cokolwiek wziął.",
+          "tokens": [
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "frowned", "t": "zmarszczyła brwi", "lemma": "frown" },
+            { "w": "because", "t": "ponieważ", "lemma": "because" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "did", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "believe", "t": "wierzyła", "lemma": "believe" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "taken", "t": "wziął", "lemma": "take" },
+            { "w": "anything", "t": "cokolwiek", "lemma": "anything" }
+          ]
+        },
+        {
+          "en": "\"Let's find the real answer before anyone blames him,\" she told Ola firmly.",
+          "pl": "„Znajdźmy prawdziwą odpowiedź, zanim ktokolwiek go obwini”, powiedziała stanowczo do Oli.",
+          "tokens": [
+            { "w": "Let's", "t": "(zróbmy to)", "lemma": "let us" },
+            { "w": "find", "t": "znajdźmy", "lemma": "find" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "real", "t": "prawdziwą", "lemma": "real" },
+            { "w": "answer", "t": "odpowiedź", "lemma": "answer" },
+            { "w": "before", "t": "zanim", "lemma": "before" },
+            { "w": "anyone", "t": "ktokolwiek", "lemma": "anyone" },
+            { "w": "blames", "t": "obwini", "lemma": "blame" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "told", "t": "powiedziała", "lemma": "tell" },
+            { "w": "Ola", "t": "Oli", "lemma": "Ola" },
+            { "w": "firmly", "t": "stanowczo", "lemma": "firmly" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The two friends carefully retraced every step the grandmother had taken that day.",
+          "pl": "Dwie przyjaciółki uważnie prześledziły każdy krok, który babcia zrobiła tego dnia.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwie", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciółki", "lemma": "friend" },
+            { "w": "carefully", "t": "uważnie", "lemma": "carefully" },
+            { "w": "retraced", "t": "prześledziły", "lemma": "retrace" },
+            { "w": "every", "t": "każdy", "lemma": "every" },
+            { "w": "step", "t": "krok", "lemma": "step" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "grandmother", "t": "babcia", "lemma": "grandmother" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "taken", "t": "zrobiła", "lemma": "take" },
+            { "w": "that", "t": "tego", "lemma": "that" },
+            { "w": "day", "t": "dnia", "lemma": "day" }
+          ]
+        },
+        {
+          "en": "They checked the kitchen, the hallway, and finally the flower garden behind the house.",
+          "pl": "Sprawdziły kuchnię, korytarz, a w końcu ogród kwiatowy za domem.",
+          "tokens": [
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "checked", "t": "sprawdziły", "lemma": "check" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "kitchen", "t": "kuchnię", "lemma": "kitchen" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "hallway", "t": "korytarz", "lemma": "hallway" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "flower", "t": "kwiatowy", "lemma": "flower" },
+            { "w": "garden", "t": "ogród", "lemma": "garden" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "house", "t": "domem", "lemma": "house" }
+          ]
+        },
+        {
+          "en": "Near the roses, Ola spotted something shining between the green leaves.",
+          "pl": "Blisko róż Ola dostrzegła coś błyszczącego między zielonymi liśćmi.",
+          "tokens": [
+            { "w": "Near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "roses", "t": "róż", "lemma": "rose" },
+            { "w": "Ola", "t": "Ola", "lemma": "Ola" },
+            { "w": "spotted", "t": "dostrzegła", "lemma": "spot" },
+            { "w": "something", "t": "coś", "lemma": "something" },
+            { "w": "shining", "t": "błyszczącego", "lemma": "shine" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "green", "t": "zielonymi", "lemma": "green" },
+            { "w": "leaves", "t": "liśćmi", "lemma": "leaf" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The golden necklace was hanging on a sharp thorn, exactly where grandmother had leaned over.",
+          "pl": "Złoty naszyjnik wisiał na ostrym kolcu, dokładnie tam, gdzie babcia się pochyliła.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "golden", "t": "złoty", "lemma": "golden" },
+            { "w": "necklace", "t": "naszyjnik", "lemma": "necklace" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "hanging", "t": "wisiał", "lemma": "hang" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "sharp", "t": "ostrym", "lemma": "sharp" },
+            { "w": "thorn", "t": "kolcu", "lemma": "thorn" },
+            { "w": "exactly", "t": "dokładnie", "lemma": "exactly" },
+            { "w": "where", "t": "tam gdzie", "lemma": "where" },
+            { "w": "grandmother", "t": "babcia", "lemma": "grandmother" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "leaned", "t": "pochyliła się", "lemma": "lean" },
+            { "w": "over", "t": "(nad czymś)", "lemma": "over" }
+          ]
+        },
+        {
+          "en": "It had simply slipped off while she was cutting fresh flowers for the table.",
+          "pl": "Po prostu się zsunął, gdy ścinała świeże kwiaty na stół.",
+          "tokens": [
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "simply", "t": "po prostu", "lemma": "simply" },
+            { "w": "slipped", "t": "zsunął się", "lemma": "slip" },
+            { "w": "off", "t": "(partykuła)", "lemma": "off" },
+            { "w": "while", "t": "gdy", "lemma": "while" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "cutting", "t": "ścinała", "lemma": "cut" },
+            { "w": "fresh", "t": "świeże", "lemma": "fresh" },
+            { "w": "flowers", "t": "kwiaty", "lemma": "flower" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "table", "t": "stół", "lemma": "table" }
+          ]
+        },
+        {
+          "en": "The clasp was old and weak, so it had opened all by itself.",
+          "pl": "Zapięcie było stare i słabe, więc otworzyło się całkiem samo.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "clasp", "t": "zapięcie", "lemma": "clasp" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "old", "t": "stare", "lemma": "old" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "weak", "t": "słabe", "lemma": "weak" },
+            { "w": "so", "t": "więc", "lemma": "so" },
+            { "w": "it", "t": "ono", "lemma": "it" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "opened", "t": "otworzyło się", "lemma": "open" },
+            { "w": "all", "t": "(całkiem)", "lemma": "all" },
+            { "w": "by", "t": "(samo)", "lemma": "by" },
+            { "w": "itself", "t": "samo", "lemma": "itself" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Everyone felt ashamed for suspecting the innocent neighbour so quickly.",
+          "pl": "Wszyscy poczuli wstyd, że tak szybko podejrzewali niewinnego sąsiada.",
+          "tokens": [
+            { "w": "Everyone", "t": "wszyscy", "lemma": "everyone" },
+            { "w": "felt", "t": "poczuli", "lemma": "feel" },
+            { "w": "ashamed", "t": "wstyd", "lemma": "ashamed" },
+            { "w": "for", "t": "(za)", "lemma": "for" },
+            { "w": "suspecting", "t": "podejrzewanie", "lemma": "suspect" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "innocent", "t": "niewinnego", "lemma": "innocent" },
+            { "w": "neighbour", "t": "sąsiada", "lemma": "neighbour" },
+            { "w": "so", "t": "tak", "lemma": "so" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" }
+          ]
+        },
+        {
+          "en": "The grandmother hugged the girls and thanked them for their sharp eyes.",
+          "pl": "Babcia przytuliła dziewczyny i podziękowała im za ich bystre oczy.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "grandmother", "t": "babcia", "lemma": "grandmother" },
+            { "w": "hugged", "t": "przytuliła", "lemma": "hug" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "girls", "t": "dziewczyny", "lemma": "girl" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "thanked", "t": "podziękowała", "lemma": "thank" },
+            { "w": "them", "t": "im", "lemma": "they" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "sharp", "t": "bystre", "lemma": "sharp" },
+            { "w": "eyes", "t": "oczy", "lemma": "eye" }
+          ]
+        },
+        {
+          "en": "That evening, the birthday dinner was happier than ever before.",
+          "pl": "Tego wieczoru urodzinowa kolacja była szczęśliwsza niż kiedykolwiek wcześniej.",
+          "tokens": [
+            { "w": "That", "t": "tego", "lemma": "that" },
+            { "w": "evening", "t": "wieczoru", "lemma": "evening" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "birthday", "t": "urodzinowa", "lemma": "birthday" },
+            { "w": "dinner", "t": "kolacja", "lemma": "dinner" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "happier", "t": "szczęśliwsza", "lemma": "happy" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "ever", "t": "kiedykolwiek", "lemma": "ever" },
+            { "w": "before", "t": "wcześniej", "lemma": "before" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Po co Ola przyjechała do wioski?",
+      "options": [
+        "Żeby odwiedzić Maję u jej babci",
+        "Żeby pójść do nowej szkoły",
+        "Żeby sprzedać naszyjnik"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zniknęło tuż przed przyjęciem?",
+      "options": [
+        "Złoty naszyjnik babci",
+        "Tort urodzinowy",
+        "Klucze do domu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "O co niesłusznie podejrzewano młodego sąsiada?",
+      "options": [
+        "Że ukradł naszyjnik",
+        "Że zniszczył ogród",
+        "Że spóźnił się na kolację"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie dziewczyny znalazły naszyjnik?",
+      "options": [
+        "Zawieszony na kolcu róży w ogrodzie",
+        "W kieszeni sąsiada",
+        "Pod stołem w kuchni"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dlaczego naszyjnik spadł?",
+      "options": [
+        "Zapięcie było stare i słabe, otworzyło się samo",
+        "Babcia go zgubiła w mieście",
+        "Ktoś go celowo zerwał"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak zakończył się ten wieczór?",
+      "options": [
+        "Kolacja była szczęśliwsza niż kiedykolwiek wcześniej",
+        "Przyjęcie zostało odwołane",
+        "Sąsiad obraził się i wyszedł"
+      ],
+      "answer": 0
+    }
+  ]
+}

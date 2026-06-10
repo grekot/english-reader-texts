@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "id": "maja-lake-lights",
+  "title": "Maja and Ola: Lights Over the Lake",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B1",
+  "tags": [
+    "fiction",
+    "mystery",
+    "nature",
+    "science",
+    "teen"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "For several nights, strange blue lights had been glowing over the small lake.",
+          "pl": "Przez kilka nocy dziwne niebieskie światła świeciły nad małym jeziorem.",
+          "tokens": [
+            { "w": "For", "t": "przez", "lemma": "for" },
+            { "w": "several", "t": "kilka", "lemma": "several" },
+            { "w": "nights", "t": "nocy", "lemma": "night" },
+            { "w": "strange", "t": "dziwne", "lemma": "strange" },
+            { "w": "blue", "t": "niebieskie", "lemma": "blue" },
+            { "w": "lights", "t": "światła", "lemma": "light" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "been", "t": "(aspekt ciągły)", "lemma": "be" },
+            { "w": "glowing", "t": "świeciły", "lemma": "glow" },
+            { "w": "over", "t": "nad", "lemma": "over" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "small", "t": "małym", "lemma": "small" },
+            { "w": "lake", "t": "jeziorem", "lemma": "lake" }
+          ]
+        },
+        {
+          "en": "Some villagers were frightened and whispered about ghosts and other mysteries.",
+          "pl": "Niektórzy mieszkańcy wioski byli przestraszeni i szeptali o duchach i innych tajemnicach.",
+          "tokens": [
+            { "w": "Some", "t": "niektórzy", "lemma": "some" },
+            { "w": "villagers", "t": "mieszkańcy wioski", "lemma": "villager" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "frightened", "t": "przestraszeni", "lemma": "frightened" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "whispered", "t": "szeptali", "lemma": "whisper" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "ghosts", "t": "duchach", "lemma": "ghost" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "other", "t": "innych", "lemma": "other" },
+            { "w": "mysteries", "t": "tajemnicach", "lemma": "mystery" }
+          ]
+        },
+        {
+          "en": "Maja and Ola, of course, wanted to discover the real explanation.",
+          "pl": "Maja i Ola, oczywiście, chciały odkryć prawdziwe wyjaśnienie.",
+          "tokens": [
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Ola", "t": "Ola", "lemma": "Ola" },
+            { "w": "of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "wanted", "t": "chciały", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "discover", "t": "odkryć", "lemma": "discover" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "real", "t": "prawdziwe", "lemma": "real" },
+            { "w": "explanation", "t": "wyjaśnienie", "lemma": "explanation" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "With their grandmother's permission, they walked carefully toward the shore after dark.",
+          "pl": "Za pozwoleniem babci ostrożnie poszły w stronę brzegu po zmroku.",
+          "tokens": [
+            { "w": "With", "t": "za", "lemma": "with" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "grandmother's", "t": "babci", "lemma": "grandmother" },
+            { "w": "permission", "t": "pozwoleniem", "lemma": "permission" },
+            { "w": "they", "t": "one", "lemma": "they" },
+            { "w": "walked", "t": "szły", "lemma": "walk" },
+            { "w": "carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "toward", "t": "w stronę", "lemma": "toward" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "shore", "t": "brzegu", "lemma": "shore" },
+            { "w": "after", "t": "po", "lemma": "after" },
+            { "w": "dark", "t": "zmroku", "lemma": "dark" }
+          ]
+        },
+        {
+          "en": "The summer air was warm, and the only sound was the gentle water.",
+          "pl": "Letnie powietrze było ciepłe, a jedynym dźwiękiem była spokojna woda.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "summer", "t": "letnie", "lemma": "summer" },
+            { "w": "air", "t": "powietrze", "lemma": "air" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "warm", "t": "ciepłe", "lemma": "warm" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "only", "t": "jedynym", "lemma": "only" },
+            { "w": "sound", "t": "dźwiękiem", "lemma": "sound" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "gentle", "t": "spokojna", "lemma": "gentle" },
+            { "w": "water", "t": "woda", "lemma": "water" }
+          ]
+        },
+        {
+          "en": "Suddenly, hundreds of tiny lights began to float above the wet grass.",
+          "pl": "Nagle setki maleńkich światełek zaczęły unosić się nad mokrą trawą.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "hundreds", "t": "setki", "lemma": "hundred" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "tiny", "t": "maleńkich", "lemma": "tiny" },
+            { "w": "lights", "t": "światełek", "lemma": "light" },
+            { "w": "began", "t": "zaczęły", "lemma": "begin" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "float", "t": "unosić się", "lemma": "float" },
+            { "w": "above", "t": "nad", "lemma": "above" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wet", "t": "mokrą", "lemma": "wet" },
+            { "w": "grass", "t": "trawą", "lemma": "grass" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The girls held their breath, amazed by the magical glowing cloud.",
+          "pl": "Dziewczyny wstrzymały oddech, zdumione magiczną świecącą chmurą.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "girls", "t": "dziewczyny", "lemma": "girl" },
+            { "w": "held", "t": "wstrzymały", "lemma": "hold" },
+            { "w": "their", "t": "(swój)", "lemma": "their" },
+            { "w": "breath", "t": "oddech", "lemma": "breath" },
+            { "w": "amazed", "t": "zdumione", "lemma": "amaze" },
+            { "w": "by", "t": "(przez)", "lemma": "by" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "magical", "t": "magiczną", "lemma": "magical" },
+            { "w": "glowing", "t": "świecącą", "lemma": "glow" },
+            { "w": "cloud", "t": "chmurą", "lemma": "cloud" }
+          ]
+        },
+        {
+          "en": "Near the trees, they saw two adults wearing head torches and holding notebooks.",
+          "pl": "Blisko drzew zobaczyły dwoje dorosłych noszących latarki czołowe i trzymających notesy.",
+          "tokens": [
+            { "w": "Near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trees", "t": "drzew", "lemma": "tree" },
+            { "w": "they", "t": "one", "lemma": "they" },
+            { "w": "saw", "t": "zobaczyły", "lemma": "see" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "adults", "t": "dorosłych", "lemma": "adult" },
+            { "w": "wearing", "t": "noszących", "lemma": "wear" },
+            { "w": "head", "t": "czołowe", "lemma": "head" },
+            { "w": "torches", "t": "latarki", "lemma": "torch" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "holding", "t": "trzymających", "lemma": "hold" },
+            { "w": "notebooks", "t": "notesy", "lemma": "notebook" }
+          ]
+        },
+        {
+          "en": "The strangers turned out to be friendly scientists studying the local wildlife.",
+          "pl": "Nieznajomi okazali się życzliwymi naukowcami badającymi lokalną przyrodę.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "strangers", "t": "nieznajomi", "lemma": "stranger" },
+            { "w": "turned", "t": "okazali się", "lemma": "turn" },
+            { "w": "out", "t": "(partykuła)", "lemma": "out" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "friendly", "t": "życzliwymi", "lemma": "friendly" },
+            { "w": "scientists", "t": "naukowcami", "lemma": "scientist" },
+            { "w": "studying", "t": "badającymi", "lemma": "study" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "local", "t": "lokalną", "lemma": "local" },
+            { "w": "wildlife", "t": "przyrodę", "lemma": "wildlife" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Those lights are fireflies,\" one scientist explained with a warm smile.",
+          "pl": "„Te światła to świetliki”, wyjaśnił jeden naukowiec z ciepłym uśmiechem.",
+          "tokens": [
+            { "w": "Those", "t": "te", "lemma": "that" },
+            { "w": "lights", "t": "światła", "lemma": "light" },
+            { "w": "are", "t": "(to)", "lemma": "be" },
+            { "w": "fireflies", "t": "świetliki", "lemma": "firefly" },
+            { "w": "one", "t": "jeden", "lemma": "one" },
+            { "w": "scientist", "t": "naukowiec", "lemma": "scientist" },
+            { "w": "explained", "t": "wyjaśnił", "lemma": "explain" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "warm", "t": "ciepłym", "lemma": "warm" },
+            { "w": "smile", "t": "uśmiechem", "lemma": "smile" }
+          ]
+        },
+        {
+          "en": "\"They use their glow to send signals to each other on summer nights.\"",
+          "pl": "„Używają swojego blasku, by wysyłać sobie nawzajem sygnały w letnie noce”.",
+          "tokens": [
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "use", "t": "używają", "lemma": "use" },
+            { "w": "their", "t": "swojego", "lemma": "their" },
+            { "w": "glow", "t": "blasku", "lemma": "glow" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "send", "t": "wysyłać", "lemma": "send" },
+            { "w": "signals", "t": "sygnały", "lemma": "signal" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "each", "t": "(siebie)", "lemma": "each" },
+            { "w": "other", "t": "nawzajem", "lemma": "other" },
+            { "w": "on", "t": "w", "lemma": "on" },
+            { "w": "summer", "t": "letnie", "lemma": "summer" },
+            { "w": "nights", "t": "noce", "lemma": "night" }
+          ]
+        },
+        {
+          "en": "Maja and Ola listened with wide, excited eyes.",
+          "pl": "Maja i Ola słuchały z szeroko otwartymi, podekscytowanymi oczami.",
+          "tokens": [
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Ola", "t": "Ola", "lemma": "Ola" },
+            { "w": "listened", "t": "słuchały", "lemma": "listen" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "wide", "t": "szeroko otwartymi", "lemma": "wide" },
+            { "w": "excited", "t": "podekscytowanymi", "lemma": "excited" },
+            { "w": "eyes", "t": "oczami", "lemma": "eye" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The scientists let the girls help count the rare insects in their notebooks.",
+          "pl": "Naukowcy pozwolili dziewczynom pomóc liczyć rzadkie owady w swoich notesach.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "scientists", "t": "naukowcy", "lemma": "scientist" },
+            { "w": "let", "t": "pozwolili", "lemma": "let" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "girls", "t": "dziewczynom", "lemma": "girl" },
+            { "w": "help", "t": "pomóc", "lemma": "help" },
+            { "w": "count", "t": "liczyć", "lemma": "count" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rare", "t": "rzadkie", "lemma": "rare" },
+            { "w": "insects", "t": "owady", "lemma": "insect" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "their", "t": "swoich", "lemma": "their" },
+            { "w": "notebooks", "t": "notesach", "lemma": "notebook" }
+          ]
+        },
+        {
+          "en": "They learned that clean water and dark skies are important for the fireflies.",
+          "pl": "Dowiedziały się, że czysta woda i ciemne niebo są ważne dla świetlików.",
+          "tokens": [
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "learned", "t": "dowiedziały się", "lemma": "learn" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "clean", "t": "czysta", "lemma": "clean" },
+            { "w": "water", "t": "woda", "lemma": "water" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "dark", "t": "ciemne", "lemma": "dark" },
+            { "w": "skies", "t": "niebo", "lemma": "sky" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "important", "t": "ważne", "lemma": "important" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fireflies", "t": "świetlików", "lemma": "firefly" }
+          ]
+        },
+        {
+          "en": "Pollution and bright city lights can easily harm these delicate creatures.",
+          "pl": "Zanieczyszczenie i jasne miejskie światła mogą łatwo zaszkodzić tym delikatnym stworzeniom.",
+          "tokens": [
+            { "w": "Pollution", "t": "zanieczyszczenie", "lemma": "pollution" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "bright", "t": "jasne", "lemma": "bright" },
+            { "w": "city", "t": "miejskie", "lemma": "city" },
+            { "w": "lights", "t": "światła", "lemma": "light" },
+            { "w": "can", "t": "mogą", "lemma": "can" },
+            { "w": "easily", "t": "łatwo", "lemma": "easily" },
+            { "w": "harm", "t": "zaszkodzić", "lemma": "harm" },
+            { "w": "these", "t": "tym", "lemma": "this" },
+            { "w": "delicate", "t": "delikatnym", "lemma": "delicate" },
+            { "w": "creatures", "t": "stworzeniom", "lemma": "creature" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next day, the girls explained the mystery to the worried villagers.",
+          "pl": "Następnego dnia dziewczyny wyjaśniły tajemnicę zmartwionym mieszkańcom wioski.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnego", "lemma": "next" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "girls", "t": "dziewczyny", "lemma": "girl" },
+            { "w": "explained", "t": "wyjaśniły", "lemma": "explain" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mystery", "t": "tajemnicę", "lemma": "mystery" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "worried", "t": "zmartwionym", "lemma": "worried" },
+            { "w": "villagers", "t": "mieszkańcom wioski", "lemma": "villager" }
+          ]
+        },
+        {
+          "en": "Everyone felt relieved, and the silly ghost stories quickly disappeared.",
+          "pl": "Wszyscy poczuli ulgę, a głupie opowieści o duchach szybko zniknęły.",
+          "tokens": [
+            { "w": "Everyone", "t": "wszyscy", "lemma": "everyone" },
+            { "w": "felt", "t": "poczuli", "lemma": "feel" },
+            { "w": "relieved", "t": "ulgę", "lemma": "relieved" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "silly", "t": "głupie", "lemma": "silly" },
+            { "w": "ghost", "t": "o duchach", "lemma": "ghost" },
+            { "w": "stories", "t": "opowieści", "lemma": "story" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "disappeared", "t": "zniknęły", "lemma": "disappear" }
+          ]
+        },
+        {
+          "en": "From that night on, Maja dreamed of becoming a scientist who protects nature.",
+          "pl": "Od tej nocy Maja marzyła, by zostać naukowcem, który chroni przyrodę.",
+          "tokens": [
+            { "w": "From", "t": "od", "lemma": "from" },
+            { "w": "that", "t": "tej", "lemma": "that" },
+            { "w": "night", "t": "nocy", "lemma": "night" },
+            { "w": "on", "t": "(odtąd)", "lemma": "on" },
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "dreamed", "t": "marzyła", "lemma": "dream" },
+            { "w": "of", "t": "(o)", "lemma": "of" },
+            { "w": "becoming", "t": "zostaniu", "lemma": "become" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "scientist", "t": "naukowcem", "lemma": "scientist" },
+            { "w": "who", "t": "który", "lemma": "who" },
+            { "w": "protects", "t": "chroni", "lemma": "protect" },
+            { "w": "nature", "t": "przyrodę", "lemma": "nature" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co świeciło nad jeziorem przez kilka nocy?",
+      "options": [
+        "Dziwne niebieskie światła",
+        "Reflektory z łodzi",
+        "Płonące ognisko"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego bali się niektórzy mieszkańcy wioski?",
+      "options": [
+        "Że to duchy i inne tajemnicze zjawiska",
+        "Że to powódź",
+        "Że to złodzieje"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kim okazali się nieznajomi przy drzewach?",
+      "options": [
+        "Życzliwymi naukowcami badającymi przyrodę",
+        "Zagubionymi turystami",
+        "Rybakami"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym naprawdę były tajemnicze światła?",
+      "options": [
+        "Świetlikami (robaczkami świętojańskimi)",
+        "Latarniami duchów",
+        "Odbiciem księżyca"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co jest ważne dla świetlików?",
+      "options": [
+        "Czysta woda i ciemne niebo",
+        "Jasne światła miasta",
+        "Ciepła woda w jeziorze"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "O czym od tej nocy zaczęła marzyć Maja?",
+      "options": [
+        "Żeby zostać naukowcem chroniącym przyrodę",
+        "Żeby zamieszkać w mieście",
+        "Żeby już nigdy nie wracać nad jezioro"
+      ],
+      "answer": 0
+    }
+  ]
+}
