@@ -150,6 +150,22 @@
       ],
       "file": "texts/julian-alps-travel-guide.json",
       "sha256": "fd58f2a92880a604ae3832da587c5718ccdd2acdcdec41e68bf96f51e94ac99b"
+    },
+    {
+      "id": "travel-dialogues-slovenia",
+      "title": "Travel Dialogues: A Trip to Slovenia",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "slovenia",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/travel-dialogues-slovenia.json",
+      "sha256": "eaa2404fbc068be5fdb56f5eedd86e171929fc9af2af390720d12f6561b54995"
     }
   ]
 }

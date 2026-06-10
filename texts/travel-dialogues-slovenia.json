@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "id": "travel-dialogues-slovenia",
+  "title": "Travel Dialogues: A Trip to Slovenia",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "dialogues",
+    "travel",
+    "slovenia",
+    "phrases",
+    "everyday"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Receptionist: Good evening! Welcome to our hotel.",
+          "pl": "Recepcjonista: Dobry wieczór! Witamy w naszym hotelu.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Good", "t": "dobry", "lemma": "good" },
+            { "w": "evening", "t": "wieczór", "lemma": "evening" },
+            { "w": "Welcome", "t": "witamy", "lemma": "welcome" },
+            { "w": "to", "t": "w", "lemma": "to" },
+            { "w": "our", "t": "naszym", "lemma": "our" },
+            { "w": "hotel", "t": "hotelu", "lemma": "hotel" }
+          ]
+        },
+        {
+          "en": "Guest: Good evening. I have a reservation under the name Kowalski.",
+          "pl": "Gość: Dobry wieczór. Mam rezerwację na nazwisko Kowalski.",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Good", "t": "dobry", "lemma": "good" },
+            { "w": "evening", "t": "wieczór", "lemma": "evening" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "have", "t": "mam", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "reservation", "t": "rezerwację", "lemma": "reservation" },
+            { "w": "under", "t": "na", "lemma": "under" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "name", "t": "nazwisko", "lemma": "name" },
+            { "w": "Kowalski", "t": "Kowalski", "lemma": "Kowalski" }
+          ]
+        },
+        {
+          "en": "Receptionist: Let me check. Yes, a double room for three nights.",
+          "pl": "Recepcjonista: Pozwoli pan, że sprawdzę. Tak, pokój dwuosobowy na trzy noce.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Let", "t": "pozwól", "lemma": "let" },
+            { "w": "me", "t": "mi", "lemma": "me" },
+            { "w": "check", "t": "sprawdzić", "lemma": "check" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "double", "t": "dwuosobowy", "lemma": "double" },
+            { "w": "room", "t": "pokój", "lemma": "room" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "three", "t": "trzy", "lemma": "three" },
+            { "w": "nights", "t": "noce", "lemma": "night" }
+          ]
+        },
+        {
+          "en": "Guest: That's correct. What time is breakfast served?",
+          "pl": "Gość: Zgadza się. O której godzinie podawane jest śniadanie?",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "That's", "t": "to się zgadza", "lemma": "that is" },
+            { "w": "correct", "t": "poprawne", "lemma": "correct" },
+            { "w": "What", "t": "o której", "lemma": "what" },
+            { "w": "time", "t": "godzinie", "lemma": "time" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "breakfast", "t": "śniadanie", "lemma": "breakfast" },
+            { "w": "served", "t": "podawane", "lemma": "serve" }
+          ]
+        },
+        {
+          "en": "Receptionist: Breakfast is from seven to ten in the morning.",
+          "pl": "Recepcjonista: Śniadanie jest od siódmej do dziesiątej rano.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Breakfast", "t": "śniadanie", "lemma": "breakfast" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "seven", "t": "siódmej", "lemma": "seven" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "ten", "t": "dziesiątej", "lemma": "ten" },
+            { "w": "in", "t": "(w)", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "morning", "t": "rano", "lemma": "morning" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Waiter: Good afternoon. Are you ready to order?",
+          "pl": "Kelner: Dzień dobry. Czy są państwo gotowi do zamówienia?",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Good", "t": "dobry", "lemma": "good" },
+            { "w": "afternoon", "t": "popołudnie", "lemma": "afternoon" },
+            { "w": "Are", "t": "(czy są)", "lemma": "be" },
+            { "w": "you", "t": "państwo", "lemma": "you" },
+            { "w": "ready", "t": "gotowi", "lemma": "ready" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "order", "t": "zamówić", "lemma": "order" }
+          ]
+        },
+        {
+          "en": "Customer: Yes, I would like the grilled trout and a green salad.",
+          "pl": "Klient: Tak, poproszę grillowanego pstrąga i zieloną sałatkę.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "like", "t": "chciałbym", "lemma": "like" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "grilled", "t": "grillowanego", "lemma": "grill" },
+            { "w": "trout", "t": "pstrąga", "lemma": "trout" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "green", "t": "zieloną", "lemma": "green" },
+            { "w": "salad", "t": "sałatkę", "lemma": "salad" }
+          ]
+        },
+        {
+          "en": "Waiter: Excellent choice. Would you like something to drink?",
+          "pl": "Kelner: Doskonały wybór. Czy chcieliby państwo coś do picia?",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Excellent", "t": "doskonały", "lemma": "excellent" },
+            { "w": "choice", "t": "wybór", "lemma": "choice" },
+            { "w": "Would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "you", "t": "państwo", "lemma": "you" },
+            { "w": "like", "t": "chcieliby", "lemma": "like" },
+            { "w": "something", "t": "coś", "lemma": "something" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "drink", "t": "wypić", "lemma": "drink" }
+          ]
+        },
+        {
+          "en": "Customer: A glass of local white wine, please.",
+          "pl": "Klient: Kieliszek lokalnego białego wina poproszę.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "glass", "t": "kieliszek", "lemma": "glass" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "local", "t": "lokalnego", "lemma": "local" },
+            { "w": "white", "t": "białego", "lemma": "white" },
+            { "w": "wine", "t": "wina", "lemma": "wine" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Waiter: Of course. I will bring it right away.",
+          "pl": "Kelner: Oczywiście. Przyniosę je od razu.",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "bring", "t": "przyniosę", "lemma": "bring" },
+            { "w": "it", "t": "je", "lemma": "it" },
+            { "w": "right", "t": "od", "lemma": "right" },
+            { "w": "away", "t": "razu", "lemma": "away" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tourist: Excuse me, how do I get to the lake?",
+          "pl": "Turysta: Przepraszam, jak dotrę do jeziora?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Excuse", "t": "przepraszam", "lemma": "excuse" },
+            { "w": "me", "t": "mnie", "lemma": "me" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "do", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "get", "t": "dotrę", "lemma": "get" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "lake", "t": "jeziora", "lemma": "lake" }
+          ]
+        },
+        {
+          "en": "Local: Walk straight ahead and turn left at the church.",
+          "pl": "Miejscowy: Idź prosto przed siebie i skręć w lewo przy kościele.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "Walk", "t": "idź", "lemma": "walk" },
+            { "w": "straight", "t": "prosto", "lemma": "straight" },
+            { "w": "ahead", "t": "przed siebie", "lemma": "ahead" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "turn", "t": "skręć", "lemma": "turn" },
+            { "w": "left", "t": "w lewo", "lemma": "left" },
+            { "w": "at", "t": "przy", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "church", "t": "kościele", "lemma": "church" }
+          ]
+        },
+        {
+          "en": "Tourist: Is it far from here?",
+          "pl": "Turysta: Czy to daleko stąd?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Is", "t": "(czy) jest", "lemma": "be" },
+            { "w": "it", "t": "to", "lemma": "it" },
+            { "w": "far", "t": "daleko", "lemma": "far" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "here", "t": "tu", "lemma": "here" }
+          ]
+        },
+        {
+          "en": "Local: No, it is only a ten-minute walk.",
+          "pl": "Miejscowy: Nie, to tylko dziesięciominutowy spacer.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "No", "t": "nie", "lemma": "no" },
+            { "w": "it", "t": "to", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "ten-minute", "t": "dziesięciominutowy", "lemma": "ten-minute" },
+            { "w": "walk", "t": "spacer", "lemma": "walk" }
+          ]
+        },
+        {
+          "en": "Tourist: Thank you very much for your help.",
+          "pl": "Turysta: Bardzo dziękuję za pomoc.",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(ci)", "lemma": "you" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "much", "t": "(bardzo)", "lemma": "much" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "your", "t": "twoją", "lemma": "your" },
+            { "w": "help", "t": "pomoc", "lemma": "help" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tourist: Hello, I would like two tickets to Bled, please.",
+          "pl": "Turysta: Dzień dobry, poproszę dwa bilety do Bled.",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Hello", "t": "dzień dobry", "lemma": "hello" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "like", "t": "poproszę", "lemma": "like" },
+            { "w": "two", "t": "dwa", "lemma": "two" },
+            { "w": "tickets", "t": "bilety", "lemma": "ticket" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "Bled", "t": "Bled", "lemma": "Bled" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Clerk: Single or return?",
+          "pl": "Kasjer: W jedną stronę czy powrotne?",
+          "tokens": [
+            { "w": "Clerk", "t": "kasjer", "lemma": "clerk" },
+            { "w": "Single", "t": "w jedną stronę", "lemma": "single" },
+            { "w": "or", "t": "czy", "lemma": "or" },
+            { "w": "return", "t": "powrotne", "lemma": "return" }
+          ]
+        },
+        {
+          "en": "Tourist: Return tickets, please. When does the next bus leave?",
+          "pl": "Turysta: Powrotne poproszę. Kiedy odjeżdża następny autobus?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Return", "t": "powrotne", "lemma": "return" },
+            { "w": "tickets", "t": "bilety", "lemma": "ticket" },
+            { "w": "please", "t": "proszę", "lemma": "please" },
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "does", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następny", "lemma": "next" },
+            { "w": "bus", "t": "autobus", "lemma": "bus" },
+            { "w": "leave", "t": "odjeżdża", "lemma": "leave" }
+          ]
+        },
+        {
+          "en": "Clerk: It leaves at two thirty from platform three.",
+          "pl": "Kasjer: Odjeżdża o drugiej trzydzieści z peronu trzeciego.",
+          "tokens": [
+            { "w": "Clerk", "t": "kasjer", "lemma": "clerk" },
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "leaves", "t": "odjeżdża", "lemma": "leave" },
+            { "w": "at", "t": "o", "lemma": "at" },
+            { "w": "two", "t": "drugiej", "lemma": "two" },
+            { "w": "thirty", "t": "trzydzieści", "lemma": "thirty" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "platform", "t": "peronu", "lemma": "platform" },
+            { "w": "three", "t": "trzeciego", "lemma": "three" }
+          ]
+        },
+        {
+          "en": "Tourist: Perfect. How much does it cost?",
+          "pl": "Turysta: Doskonale. Ile to kosztuje?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Perfect", "t": "doskonale", "lemma": "perfect" },
+            { "w": "How", "t": "ile", "lemma": "how" },
+            { "w": "much", "t": "(ile)", "lemma": "much" },
+            { "w": "does", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "it", "t": "to", "lemma": "it" },
+            { "w": "cost", "t": "kosztuje", "lemma": "cost" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tourist: Hi, we want to hike in the mountains tomorrow.",
+          "pl": "Turysta: Cześć, chcemy jutro powędrować w górach.",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Hi", "t": "cześć", "lemma": "hi" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "want", "t": "chcemy", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "hike", "t": "wędrować", "lemma": "hike" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mountains", "t": "górach", "lemma": "mountain" },
+            { "w": "tomorrow", "t": "jutro", "lemma": "tomorrow" }
+          ]
+        },
+        {
+          "en": "Officer: Great! Which trail are you interested in?",
+          "pl": "Pracownik: Świetnie! Który szlak państwa interesuje?",
+          "tokens": [
+            { "w": "Officer", "t": "pracownik", "lemma": "officer" },
+            { "w": "Great", "t": "świetnie", "lemma": "great" },
+            { "w": "Which", "t": "który", "lemma": "which" },
+            { "w": "trail", "t": "szlak", "lemma": "trail" },
+            { "w": "are", "t": "(czy)", "lemma": "be" },
+            { "w": "you", "t": "państwo", "lemma": "you" },
+            { "w": "interested", "t": "interesuje", "lemma": "interested" },
+            { "w": "in", "t": "(w)", "lemma": "in" }
+          ]
+        },
+        {
+          "en": "Tourist: Something not too difficult, with a beautiful view.",
+          "pl": "Turysta: Coś niezbyt trudnego, z pięknym widokiem.",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Something", "t": "coś", "lemma": "something" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "too", "t": "zbyt", "lemma": "too" },
+            { "w": "difficult", "t": "trudnego", "lemma": "difficult" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "beautiful", "t": "pięknym", "lemma": "beautiful" },
+            { "w": "view", "t": "widokiem", "lemma": "view" }
+          ]
+        },
+        {
+          "en": "Officer: I recommend the trail to the waterfall. It takes about two hours.",
+          "pl": "Pracownik: Polecam szlak do wodospadu. Zajmuje około dwóch godzin.",
+          "tokens": [
+            { "w": "Officer", "t": "pracownik", "lemma": "officer" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "recommend", "t": "polecam", "lemma": "recommend" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trail", "t": "szlak", "lemma": "trail" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "waterfall", "t": "wodospadu", "lemma": "waterfall" },
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "takes", "t": "zajmuje", "lemma": "take" },
+            { "w": "about", "t": "około", "lemma": "about" },
+            { "w": "two", "t": "dwóch", "lemma": "two" },
+            { "w": "hours", "t": "godzin", "lemma": "hour" }
+          ]
+        },
+        {
+          "en": "Tourist: That sounds perfect. Do we need any special equipment?",
+          "pl": "Turysta: Brzmi doskonale. Czy potrzebujemy jakiegoś specjalnego sprzętu?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "That", "t": "to", "lemma": "that" },
+            { "w": "sounds", "t": "brzmi", "lemma": "sound" },
+            { "w": "perfect", "t": "doskonale", "lemma": "perfect" },
+            { "w": "Do", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "need", "t": "potrzebujemy", "lemma": "need" },
+            { "w": "any", "t": "jakiegoś", "lemma": "any" },
+            { "w": "special", "t": "specjalnego", "lemma": "special" },
+            { "w": "equipment", "t": "sprzętu", "lemma": "equipment" }
+          ]
+        },
+        {
+          "en": "Officer: Just good shoes, water, and a light jacket.",
+          "pl": "Pracownik: Tylko dobrych butów, wody i lekkiej kurtki.",
+          "tokens": [
+            { "w": "Officer", "t": "pracownik", "lemma": "officer" },
+            { "w": "Just", "t": "tylko", "lemma": "just" },
+            { "w": "good", "t": "dobrych", "lemma": "good" },
+            { "w": "shoes", "t": "butów", "lemma": "shoe" },
+            { "w": "water", "t": "wody", "lemma": "water" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "light", "t": "lekkiej", "lemma": "light" },
+            { "w": "jacket", "t": "kurtki", "lemma": "jacket" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tourist: How much are these cherries?",
+          "pl": "Turysta: Ile kosztują te czereśnie?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "How", "t": "ile", "lemma": "how" },
+            { "w": "much", "t": "(ile)", "lemma": "much" },
+            { "w": "are", "t": "(kosztują)", "lemma": "be" },
+            { "w": "these", "t": "te", "lemma": "this" },
+            { "w": "cherries", "t": "czereśnie", "lemma": "cherry" }
+          ]
+        },
+        {
+          "en": "Seller: Three euros per kilogram. They are very fresh.",
+          "pl": "Sprzedawca: Trzy euro za kilogram. Są bardzo świeże.",
+          "tokens": [
+            { "w": "Seller", "t": "sprzedawca", "lemma": "seller" },
+            { "w": "Three", "t": "trzy", "lemma": "three" },
+            { "w": "euros", "t": "euro", "lemma": "euro" },
+            { "w": "per", "t": "za", "lemma": "per" },
+            { "w": "kilogram", "t": "kilogram", "lemma": "kilogram" },
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "fresh", "t": "świeże", "lemma": "fresh" }
+          ]
+        },
+        {
+          "en": "Tourist: I'll take half a kilogram, please.",
+          "pl": "Turysta: Wezmę pół kilograma, proszę.",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "I'll", "t": "(ja) wezmę", "lemma": "I will" },
+            { "w": "take", "t": "wezmę", "lemma": "take" },
+            { "w": "half", "t": "pół", "lemma": "half" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "kilogram", "t": "kilograma", "lemma": "kilogram" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Seller: Here you are. Would you like anything else?",
+          "pl": "Sprzedawca: Proszę bardzo. Czy chciałby pan coś jeszcze?",
+          "tokens": [
+            { "w": "Seller", "t": "sprzedawca", "lemma": "seller" },
+            { "w": "Here", "t": "proszę bardzo (idiom)", "lemma": "here" },
+            { "w": "you", "t": "(część zwrotu)", "lemma": "you" },
+            { "w": "are", "t": "(część zwrotu)", "lemma": "be" },
+            { "w": "Would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "like", "t": "chciałby", "lemma": "like" },
+            { "w": "anything", "t": "coś", "lemma": "anything" },
+            { "w": "else", "t": "jeszcze", "lemma": "else" }
+          ]
+        },
+        {
+          "en": "Tourist: No, thank you. That's all for today.",
+          "pl": "Turysta: Nie, dziękuję. To wszystko na dziś.",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "No", "t": "nie", "lemma": "no" },
+            { "w": "thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(ci)", "lemma": "you" },
+            { "w": "That's", "t": "to", "lemma": "that is" },
+            { "w": "all", "t": "wszystko", "lemma": "all" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "today", "t": "dziś", "lemma": "today" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Na ile nocy gość zarezerwował pokój w hotelu?",
+      "options": [
+        "Na trzy noce",
+        "Na jedną noc",
+        "Na tydzień"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co klient zamówił w restauracji do jedzenia?",
+      "options": [
+        "Grillowanego pstrąga i zieloną sałatkę",
+        "Pizzę i frytki",
+        "Zupę i chleb"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak dojść do jeziora według miejscowego?",
+      "options": [
+        "Iść prosto i skręcić w lewo przy kościele",
+        "Skręcić w prawo za mostem",
+        "Pojechać autobusem numer pięć"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "O której odjeżdża autobus do Bled?",
+      "options": [
+        "O drugiej trzydzieści, z peronu trzeciego",
+        "O siódmej rano",
+        "O dziesiątej wieczorem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki szlak poleca pracownik informacji turystycznej?",
+      "options": [
+        "Szlak do wodospadu, około dwóch godzin",
+        "Trudną wspinaczkę na Triglav",
+        "Spacer wokół jeziora"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Ile kosztują czereśnie na targu?",
+      "options": [
+        "Trzy euro za kilogram",
+        "Pięć euro za kilogram",
+        "Jedno euro za sztukę"
+      ],
+      "answer": 0
+    }
+  ]
+}
