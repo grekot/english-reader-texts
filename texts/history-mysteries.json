@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "id": "history-mysteries",
+  "title": "Unsolved Mysteries of History",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "mystery",
+    "archaeology",
+    "trivia",
+    "nonfiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Throughout history, some events and places have never been fully explained.",
+          "pl": "Przez całą historię niektóre wydarzenia i miejsca nigdy nie zostały w pełni wyjaśnione.",
+          "tokens": [
+            { "w": "Throughout", "t": "przez całą", "lemma": "throughout" },
+            { "w": "history", "t": "historię", "lemma": "history" },
+            { "w": "some", "t": "niektóre", "lemma": "some" },
+            { "w": "events", "t": "wydarzenia", "lemma": "event" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "places", "t": "miejsca", "lemma": "place" },
+            { "w": "have", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "been", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "fully", "t": "w pełni", "lemma": "fully" },
+            { "w": "explained", "t": "wyjaśnione", "lemma": "explain" }
+          ]
+        },
+        {
+          "en": "They continue to puzzle scientists and capture our imagination.",
+          "pl": "Wciąż intrygują naukowców i pobudzają naszą wyobraźnię.",
+          "tokens": [
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "continue", "t": "nadal", "lemma": "continue" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "puzzle", "t": "intrygować", "lemma": "puzzle" },
+            { "w": "scientists", "t": "naukowców", "lemma": "scientist" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "capture", "t": "pobudzać", "lemma": "capture" },
+            { "w": "our", "t": "naszą", "lemma": "our" },
+            { "w": "imagination", "t": "wyobraźnię", "lemma": "imagination" }
+          ]
+        },
+        {
+          "en": "Here are five of the greatest unsolved mysteries from the past.",
+          "pl": "Oto pięć z największych nierozwiązanych tajemnic z przeszłości.",
+          "tokens": [
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "five", "t": "pięć", "lemma": "five" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "greatest", "t": "największych", "lemma": "great" },
+            { "w": "unsolved", "t": "nierozwiązanych", "lemma": "unsolved" },
+            { "w": "mysteries", "t": "tajemnic", "lemma": "mystery" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "past", "t": "przeszłości", "lemma": "past" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1587, a group of English settlers built a small colony on Roanoke Island in North America.",
+          "pl": "W 1587 roku grupa angielskich osadników zbudowała małą kolonię na Wyspie Roanoke w Ameryce Północnej.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1587", "t": "1587" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "group", "t": "grupa", "lemma": "group" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "English", "t": "angielskich", "lemma": "English" },
+            { "w": "settlers", "t": "osadników", "lemma": "settler" },
+            { "w": "built", "t": "zbudowała", "lemma": "build" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "małą", "lemma": "small" },
+            { "w": "colony", "t": "kolonię", "lemma": "colony" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "Roanoke", "t": "Roanoke", "lemma": "Roanoke" },
+            { "w": "Island", "t": "Wyspie", "lemma": "island" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "North", "t": "Północnej", "lemma": "north" },
+            { "w": "America", "t": "Ameryce", "lemma": "America" }
+          ]
+        },
+        {
+          "en": "When a ship returned three years later, every single person had vanished without a trace.",
+          "pl": "Kiedy statek wrócił trzy lata później, każda osoba zniknęła bez śladu.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "ship", "t": "statek", "lemma": "ship" },
+            { "w": "returned", "t": "wrócił", "lemma": "return" },
+            { "w": "three", "t": "trzy", "lemma": "three" },
+            { "w": "years", "t": "lata", "lemma": "year" },
+            { "w": "later", "t": "później", "lemma": "later" },
+            { "w": "every", "t": "każda", "lemma": "every" },
+            { "w": "single", "t": "(dosłownie jedna)", "lemma": "single" },
+            { "w": "person", "t": "osoba", "lemma": "person" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "vanished", "t": "zniknęła", "lemma": "vanish" },
+            { "w": "without", "t": "bez", "lemma": "without" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "trace", "t": "śladu", "lemma": "trace" }
+          ]
+        },
+        {
+          "en": "The only clue was a single word, \"Croatoan,\" carved into a wooden post.",
+          "pl": "Jedyną wskazówką było pojedyncze słowo „Croatoan”, wyryte w drewnianym słupie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "only", "t": "jedyną", "lemma": "only" },
+            { "w": "clue", "t": "wskazówką", "lemma": "clue" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "single", "t": "pojedyncze", "lemma": "single" },
+            { "w": "word", "t": "słowo", "lemma": "word" },
+            { "w": "Croatoan", "t": "Croatoan", "lemma": "Croatoan" },
+            { "w": "carved", "t": "wyryte", "lemma": "carve" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "wooden", "t": "drewnianym", "lemma": "wooden" },
+            { "w": "post", "t": "słupie", "lemma": "post" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In southern England stands Stonehenge, a circle of enormous stones built around five thousand years ago.",
+          "pl": "W południowej Anglii stoi Stonehenge, krąg ogromnych kamieni zbudowany około pięć tysięcy lat temu.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "southern", "t": "południowej", "lemma": "southern" },
+            { "w": "England", "t": "Anglii", "lemma": "England" },
+            { "w": "stands", "t": "stoi", "lemma": "stand" },
+            { "w": "Stonehenge", "t": "Stonehenge", "lemma": "Stonehenge" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "circle", "t": "krąg", "lemma": "circle" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "enormous", "t": "ogromnych", "lemma": "enormous" },
+            { "w": "stones", "t": "kamieni", "lemma": "stone" },
+            { "w": "built", "t": "zbudowany", "lemma": "build" },
+            { "w": "around", "t": "około", "lemma": "around" },
+            { "w": "five", "t": "pięć", "lemma": "five" },
+            { "w": "thousand", "t": "tysięcy", "lemma": "thousand" },
+            { "w": "years", "t": "lat", "lemma": "year" },
+            { "w": "ago", "t": "temu", "lemma": "ago" }
+          ]
+        },
+        {
+          "en": "Some of these stones weigh many tonnes and were somehow moved from hills far away.",
+          "pl": "Niektóre z tych kamieni ważą wiele ton i zostały jakoś przeniesione z odległych wzgórz.",
+          "tokens": [
+            { "w": "Some", "t": "niektóre", "lemma": "some" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "these", "t": "tych", "lemma": "this" },
+            { "w": "stones", "t": "kamieni", "lemma": "stone" },
+            { "w": "weigh", "t": "ważą", "lemma": "weigh" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "tonnes", "t": "ton", "lemma": "tonne" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "were", "t": "(zostały)", "lemma": "be" },
+            { "w": "somehow", "t": "jakoś", "lemma": "somehow" },
+            { "w": "moved", "t": "przeniesione", "lemma": "move" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "hills", "t": "wzgórz", "lemma": "hill" },
+            { "w": "far", "t": "daleko", "lemma": "far" },
+            { "w": "away", "t": "(oddalonych)", "lemma": "away" }
+          ]
+        },
+        {
+          "en": "Even today, nobody knows exactly how or why ancient people built it.",
+          "pl": "Nawet dziś nikt nie wie dokładnie, jak ani dlaczego starożytni ludzie je zbudowali.",
+          "tokens": [
+            { "w": "Even", "t": "nawet", "lemma": "even" },
+            { "w": "today", "t": "dziś", "lemma": "today" },
+            { "w": "nobody", "t": "nikt", "lemma": "nobody" },
+            { "w": "knows", "t": "wie", "lemma": "know" },
+            { "w": "exactly", "t": "dokładnie", "lemma": "exactly" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "or", "t": "ani", "lemma": "or" },
+            { "w": "why", "t": "dlaczego", "lemma": "why" },
+            { "w": "ancient", "t": "starożytni", "lemma": "ancient" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "built", "t": "zbudowali", "lemma": "build" },
+            { "w": "it", "t": "je", "lemma": "it" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The ancient Egyptians preserved the bodies of their dead in a process called mummification.",
+          "pl": "Starożytni Egipcjanie zachowywali ciała swoich zmarłych w procesie zwanym mumifikacją.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ancient", "t": "starożytni", "lemma": "ancient" },
+            { "w": "Egyptians", "t": "Egipcjanie", "lemma": "Egyptian" },
+            { "w": "preserved", "t": "zachowywali", "lemma": "preserve" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bodies", "t": "ciała", "lemma": "body" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "their", "t": "swoich", "lemma": "their" },
+            { "w": "dead", "t": "zmarłych", "lemma": "dead" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "process", "t": "procesie", "lemma": "process" },
+            { "w": "called", "t": "zwanym", "lemma": "call" },
+            { "w": "mummification", "t": "mumifikacją", "lemma": "mummification" }
+          ]
+        },
+        {
+          "en": "They believed that a well-preserved body was necessary for life after death.",
+          "pl": "Wierzyli, że dobrze zachowane ciało jest niezbędne do życia po śmierci.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "believed", "t": "wierzyli", "lemma": "believe" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "well-preserved", "t": "dobrze zachowane", "lemma": "well-preserved" },
+            { "w": "body", "t": "ciało", "lemma": "body" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "necessary", "t": "niezbędne", "lemma": "necessary" },
+            { "w": "for", "t": "do", "lemma": "for" },
+            { "w": "life", "t": "życia", "lemma": "life" },
+            { "w": "after", "t": "po", "lemma": "after" },
+            { "w": "death", "t": "śmierci", "lemma": "death" }
+          ]
+        },
+        {
+          "en": "When explorers opened the tomb of the young king Tutankhamun, stories of a deadly curse quickly spread.",
+          "pl": "Kiedy odkrywcy otworzyli grobowiec młodego króla Tutanchamona, szybko rozeszły się opowieści o śmiertelnej klątwie.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "explorers", "t": "odkrywcy", "lemma": "explorer" },
+            { "w": "opened", "t": "otworzyli", "lemma": "open" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tomb", "t": "grobowiec", "lemma": "tomb" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "young", "t": "młodego", "lemma": "young" },
+            { "w": "king", "t": "króla", "lemma": "king" },
+            { "w": "Tutankhamun", "t": "Tutanchamona", "lemma": "Tutankhamun" },
+            { "w": "stories", "t": "opowieści", "lemma": "story" },
+            { "w": "of", "t": "o", "lemma": "of" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "deadly", "t": "śmiertelnej", "lemma": "deadly" },
+            { "w": "curse", "t": "klątwie", "lemma": "curse" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "spread", "t": "rozeszły się", "lemma": "spread" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "On a tiny island in the Pacific Ocean stand almost a thousand giant stone statues.",
+          "pl": "Na maleńkiej wyspie na Oceanie Spokojnym stoi niemal tysiąc gigantycznych kamiennych posągów.",
+          "tokens": [
+            { "w": "On", "t": "na", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "tiny", "t": "maleńkiej", "lemma": "tiny" },
+            { "w": "island", "t": "wyspie", "lemma": "island" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Pacific", "t": "Spokojnym", "lemma": "Pacific" },
+            { "w": "Ocean", "t": "Oceanie", "lemma": "ocean" },
+            { "w": "stand", "t": "stoi", "lemma": "stand" },
+            { "w": "almost", "t": "niemal", "lemma": "almost" },
+            { "w": "a", "t": "(jeden)", "lemma": "a" },
+            { "w": "thousand", "t": "tysiąc", "lemma": "thousand" },
+            { "w": "giant", "t": "gigantycznych", "lemma": "giant" },
+            { "w": "stone", "t": "kamiennych", "lemma": "stone" },
+            { "w": "statues", "t": "posągów", "lemma": "statue" }
+          ]
+        },
+        {
+          "en": "Each figure was carved from solid rock and can weigh as much as a truck.",
+          "pl": "Każda figura została wyrzeźbiona z litej skały i może ważyć tyle, co ciężarówka.",
+          "tokens": [
+            { "w": "Each", "t": "każda", "lemma": "each" },
+            { "w": "figure", "t": "figura", "lemma": "figure" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "carved", "t": "wyrzeźbiona", "lemma": "carve" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "solid", "t": "litej", "lemma": "solid" },
+            { "w": "rock", "t": "skały", "lemma": "rock" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "can", "t": "może", "lemma": "can" },
+            { "w": "weigh", "t": "ważyć", "lemma": "weigh" },
+            { "w": "as", "t": "tyle", "lemma": "as" },
+            { "w": "much", "t": "(co)", "lemma": "much" },
+            { "w": "as", "t": "co", "lemma": "as" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "truck", "t": "ciężarówka", "lemma": "truck" }
+          ]
+        },
+        {
+          "en": "For a long time, experts could not understand how the islanders moved them without machines.",
+          "pl": "Przez długi czas eksperci nie potrafili zrozumieć, jak wyspiarze przemieszczali je bez maszyn.",
+          "tokens": [
+            { "w": "For", "t": "przez", "lemma": "for" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "long", "t": "długi", "lemma": "long" },
+            { "w": "time", "t": "czas", "lemma": "time" },
+            { "w": "experts", "t": "eksperci", "lemma": "expert" },
+            { "w": "could", "t": "mogli", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "understand", "t": "zrozumieć", "lemma": "understand" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "islanders", "t": "wyspiarze", "lemma": "islander" },
+            { "w": "moved", "t": "przemieszczali", "lemma": "move" },
+            { "w": "them", "t": "je", "lemma": "them" },
+            { "w": "without", "t": "bez", "lemma": "without" },
+            { "w": "machines", "t": "maszyn", "lemma": "machine" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the deserts of Peru, ancient people created enormous drawings in the ground.",
+          "pl": "Na pustyniach Peru starożytni ludzie stworzyli ogromne rysunki w ziemi.",
+          "tokens": [
+            { "w": "In", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "deserts", "t": "pustyniach", "lemma": "desert" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Peru", "t": "Peru", "lemma": "Peru" },
+            { "w": "ancient", "t": "starożytni", "lemma": "ancient" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "created", "t": "stworzyli", "lemma": "create" },
+            { "w": "enormous", "t": "ogromne", "lemma": "enormous" },
+            { "w": "drawings", "t": "rysunki", "lemma": "drawing" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ground", "t": "ziemi", "lemma": "ground" }
+          ]
+        },
+        {
+          "en": "These shapes are so large that they can only be seen clearly from the sky.",
+          "pl": "Te kształty są tak duże, że można je wyraźnie zobaczyć tylko z nieba.",
+          "tokens": [
+            { "w": "These", "t": "te", "lemma": "this" },
+            { "w": "shapes", "t": "kształty", "lemma": "shape" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "so", "t": "tak", "lemma": "so" },
+            { "w": "large", "t": "duże", "lemma": "large" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "they", "t": "one", "lemma": "they" },
+            { "w": "can", "t": "można", "lemma": "can" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "be", "t": "(być)", "lemma": "be" },
+            { "w": "seen", "t": "zobaczyć", "lemma": "see" },
+            { "w": "clearly", "t": "wyraźnie", "lemma": "clearly" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sky", "t": "nieba", "lemma": "sky" }
+          ]
+        },
+        {
+          "en": "Their true purpose remains one of the biggest puzzles in archaeology.",
+          "pl": "Ich prawdziwy cel pozostaje jedną z największych zagadek w archeologii.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "true", "t": "prawdziwy", "lemma": "true" },
+            { "w": "purpose", "t": "cel", "lemma": "purpose" },
+            { "w": "remains", "t": "pozostaje", "lemma": "remain" },
+            { "w": "one", "t": "jedną", "lemma": "one" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "biggest", "t": "największych", "lemma": "big" },
+            { "w": "puzzles", "t": "zagadek", "lemma": "puzzle" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "archaeology", "t": "archeologii", "lemma": "archaeology" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mysteries like these remind us how much of the past is still unknown.",
+          "pl": "Tajemnice takie jak te przypominają nam, jak wiele z przeszłości wciąż pozostaje nieznane.",
+          "tokens": [
+            { "w": "Mysteries", "t": "tajemnice", "lemma": "mystery" },
+            { "w": "like", "t": "takie jak", "lemma": "like" },
+            { "w": "these", "t": "te", "lemma": "this" },
+            { "w": "remind", "t": "przypominają", "lemma": "remind" },
+            { "w": "us", "t": "nam", "lemma": "us" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "much", "t": "wiele", "lemma": "much" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "past", "t": "przeszłości", "lemma": "past" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "still", "t": "wciąż", "lemma": "still" },
+            { "w": "unknown", "t": "nieznane", "lemma": "unknown" }
+          ]
+        },
+        {
+          "en": "Every new discovery can answer one question and create several more.",
+          "pl": "Każde nowe odkrycie może odpowiedzieć na jedno pytanie i stworzyć kilka kolejnych.",
+          "tokens": [
+            { "w": "Every", "t": "każde", "lemma": "every" },
+            { "w": "new", "t": "nowe", "lemma": "new" },
+            { "w": "discovery", "t": "odkrycie", "lemma": "discovery" },
+            { "w": "can", "t": "może", "lemma": "can" },
+            { "w": "answer", "t": "odpowiedzieć na", "lemma": "answer" },
+            { "w": "one", "t": "jedno", "lemma": "one" },
+            { "w": "question", "t": "pytanie", "lemma": "question" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "create", "t": "stworzyć", "lemma": "create" },
+            { "w": "several", "t": "kilka", "lemma": "several" },
+            { "w": "more", "t": "kolejnych", "lemma": "more" }
+          ]
+        },
+        {
+          "en": "Perhaps one day, you will be the person who solves an ancient secret.",
+          "pl": "Być może pewnego dnia to ty będziesz osobą, która rozwiąże starożytną tajemnicę.",
+          "tokens": [
+            { "w": "Perhaps", "t": "być może", "lemma": "perhaps" },
+            { "w": "one", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "be", "t": "będziesz", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "person", "t": "osobą", "lemma": "person" },
+            { "w": "who", "t": "która", "lemma": "who" },
+            { "w": "solves", "t": "rozwiąże", "lemma": "solve" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "ancient", "t": "starożytną", "lemma": "ancient" },
+            { "w": "secret", "t": "tajemnicę", "lemma": "secret" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co stało się z kolonią Roanoke?",
+      "options": [
+        "Wszyscy zniknęli bez śladu; jedyną wskazówką było słowo „Croatoan”",
+        "Kolonię zniszczył pożar",
+        "Mieszkańcy wrócili do Anglii"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co pozostaje tajemnicą Stonehenge?",
+      "options": [
+        "Nikt nie wie dokładnie, jak i po co je zbudowano",
+        "Kto je odkrył w XX wieku",
+        "Z jakiego metalu je wykonano"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Po co starożytni Egipcjanie mumifikowali zmarłych?",
+      "options": [
+        "Wierzyli, że dobrze zachowane ciało jest potrzebne do życia po śmierci",
+        "Żeby zaoszczędzić miejsce w mieście",
+        "Aby sprzedać ciała innym krajom"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co stoi na maleńkiej wyspie na Oceanie Spokojnym?",
+      "options": [
+        "Prawie tysiąc gigantycznych kamiennych posągów",
+        "Wielka piramida",
+        "Starożytna biblioteka"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym są ogromne rysunki na pustyniach Peru (linie z Nazca)?",
+      "options": [
+        "Kształty tak wielkie, że widać je wyraźnie tylko z nieba",
+        "Mapy ukrytych skarbów",
+        "Naturalne formacje skalne"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki wniosek płynie z tekstu?",
+      "options": [
+        "Wiele z przeszłości wciąż jest nieznane; każde odkrycie rodzi nowe pytania",
+        "Wszystkie zagadki historii już rozwiązano",
+        "Tajemnice historii nie są warte badania"
+      ],
+      "answer": 0
+    }
+  ]
+}

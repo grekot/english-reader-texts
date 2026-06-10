@@ -310,6 +310,22 @@
       ],
       "file": "texts/great-mistakes-disasters.json",
       "sha256": "2b342c297de088da0afeef47654819ee3a688d29a48ce5a1b27e5c2aa966f336"
+    },
+    {
+      "id": "history-mysteries",
+      "title": "Unsolved Mysteries of History",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "mystery",
+        "archaeology",
+        "trivia",
+        "nonfiction"
+      ],
+      "file": "texts/history-mysteries.json",
+      "sha256": "08a3dea7cc506d9aada1b8fe723f8aff01cc732b3e48b8cf68d3d9a87449615c"
     }
   ]
 }
