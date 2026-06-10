@@ -341,6 +341,51 @@
       ],
       "file": "texts/avengers-save-the-city.json",
       "sha256": "5834ae9ee284704fdae18b7fd3991d1d0843f718eff4b7d49fc0b6d65bf375f8"
+    },
+    {
+      "id": "spiderman-city-thief",
+      "title": "Spider-Man and the City Thief",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Avengers",
+      "tags": [
+        "adventure",
+        "kids",
+        "superheroes",
+        "fiction"
+      ],
+      "file": "texts/spiderman-city-thief.json",
+      "sha256": "b667e5c0cf07d8c70b510e432308b8839734d5354315c460d2e754679352fb98"
+    },
+    {
+      "id": "thor-frost-giants",
+      "title": "Thor and the Frost Giants",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Avengers",
+      "tags": [
+        "adventure",
+        "kids",
+        "superheroes",
+        "fiction"
+      ],
+      "file": "texts/thor-frost-giants.json",
+      "sha256": "4697366b68286d640a8d822f7c73bf7929b4a9286beb1ea53a956c8c1c7fd531"
+    },
+    {
+      "id": "hulks-big-day",
+      "title": "Hulk's Big Day",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Avengers",
+      "tags": [
+        "adventure",
+        "kids",
+        "superheroes",
+        "fiction"
+      ],
+      "file": "texts/hulks-big-day.json",
+      "sha256": "d4b99e8d33c034b91482df2a2ac764850eea886c8ec505b34ae19d14a286021b"
     }
   ]
 }

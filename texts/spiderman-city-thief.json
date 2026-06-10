@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "id": "spiderman-city-thief",
+  "title": "Spider-Man and the City Thief",
+  "author": "AI Assistant",
+  "source": "Original fan story (Spider-Man / Marvel characters belong to Marvel)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "superheroes",
+    "fiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Peter Parker was a young boy who had amazing spider powers.",
+          "pl": "Peter Parker był młodym chłopcem, który miał niesamowite pajęcze moce.",
+          "tokens": [
+            { "w": "Peter", "t": "Peter", "lemma": "Peter" },
+            { "w": "Parker", "t": "Parker", "lemma": "Parker" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "young", "t": "młodym", "lemma": "young" },
+            { "w": "boy", "t": "chłopcem", "lemma": "boy" },
+            { "w": "who", "t": "który", "lemma": "who" },
+            { "w": "had", "t": "miał", "lemma": "have" },
+            { "w": "amazing", "t": "niesamowite", "lemma": "amazing" },
+            { "w": "spider", "t": "pajęcze", "lemma": "spider" },
+            { "w": "powers", "t": "moce", "lemma": "power" }
+          ]
+        },
+        {
+          "en": "He could climb tall walls and shoot sticky webs from his hands.",
+          "pl": "Potrafił wspinać się po wysokich ścianach i wystrzeliwać lepkie sieci z rąk.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "could", "t": "potrafił", "lemma": "can" },
+            { "w": "climb", "t": "wspinać się", "lemma": "climb" },
+            { "w": "tall", "t": "wysokie", "lemma": "tall" },
+            { "w": "walls", "t": "ściany", "lemma": "wall" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "shoot", "t": "wystrzeliwać", "lemma": "shoot" },
+            { "w": "sticky", "t": "lepkie", "lemma": "sticky" },
+            { "w": "webs", "t": "sieci", "lemma": "web" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "his", "t": "swoich", "lemma": "his" },
+            { "w": "hands", "t": "rąk", "lemma": "hand" }
+          ]
+        },
+        {
+          "en": "As Spider-Man, he protected the busy city every night.",
+          "pl": "Jako Spider-Man chronił ruchliwe miasto każdej nocy.",
+          "tokens": [
+            { "w": "As", "t": "jako", "lemma": "as" },
+            { "w": "Spider-Man", "t": "Spider-Man", "lemma": "Spider-Man" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "protected", "t": "chronił", "lemma": "protect" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "busy", "t": "ruchliwe", "lemma": "busy" },
+            { "w": "city", "t": "miasto", "lemma": "city" },
+            { "w": "every", "t": "każdej", "lemma": "every" },
+            { "w": "night", "t": "nocy", "lemma": "night" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One evening, a sneaky thief broke into the city museum.",
+          "pl": "Pewnego wieczoru przebiegły złodziej włamał się do miejskiego muzeum.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "evening", "t": "wieczoru", "lemma": "evening" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "sneaky", "t": "przebiegły", "lemma": "sneaky" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "broke", "t": "włamał się", "lemma": "break" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "city", "t": "miejskiego", "lemma": "city" },
+            { "w": "museum", "t": "muzeum", "lemma": "museum" }
+          ]
+        },
+        {
+          "en": "He wanted to steal a famous golden crown.",
+          "pl": "Chciał ukraść słynną złotą koronę.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "wanted", "t": "chciał", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "steal", "t": "ukraść", "lemma": "steal" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "famous", "t": "słynną", "lemma": "famous" },
+            { "w": "golden", "t": "złotą", "lemma": "golden" },
+            { "w": "crown", "t": "koronę", "lemma": "crown" }
+          ]
+        },
+        {
+          "en": "A quiet alarm sent a message straight to Spider-Man.",
+          "pl": "Cichy alarm wysłał wiadomość prosto do Spider-Mana.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "quiet", "t": "cichy", "lemma": "quiet" },
+            { "w": "alarm", "t": "alarm", "lemma": "alarm" },
+            { "w": "sent", "t": "wysłał", "lemma": "send" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "message", "t": "wiadomość", "lemma": "message" },
+            { "w": "straight", "t": "prosto", "lemma": "straight" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "Spider-Man", "t": "Spider-Mana", "lemma": "Spider-Man" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Spider-Man swung quickly between the tall buildings.",
+          "pl": "Spider-Man bujał się szybko między wysokimi budynkami.",
+          "tokens": [
+            { "w": "Spider-Man", "t": "Spider-Man", "lemma": "Spider-Man" },
+            { "w": "swung", "t": "bujał się", "lemma": "swing" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tall", "t": "wysokimi", "lemma": "tall" },
+            { "w": "buildings", "t": "budynkami", "lemma": "building" }
+          ]
+        },
+        {
+          "en": "He arrived at the museum in just a few minutes.",
+          "pl": "Dotarł do muzeum w zaledwie kilka minut.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "arrived", "t": "dotarł", "lemma": "arrive" },
+            { "w": "at", "t": "do", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "museum", "t": "muzeum", "lemma": "museum" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "just", "t": "zaledwie", "lemma": "just" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "few", "t": "kilka", "lemma": "few" },
+            { "w": "minutes", "t": "minut", "lemma": "minute" }
+          ]
+        },
+        {
+          "en": "Through the window, he saw the thief holding the shiny crown.",
+          "pl": "Przez okno zobaczył złodzieja trzymającego lśniącą koronę.",
+          "tokens": [
+            { "w": "Through", "t": "przez", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "window", "t": "okno", "lemma": "window" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "saw", "t": "zobaczył", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" },
+            { "w": "holding", "t": "trzymającego", "lemma": "hold" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "shiny", "t": "lśniącą", "lemma": "shiny" },
+            { "w": "crown", "t": "koronę", "lemma": "crown" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The thief jumped out and ran across the dark rooftops.",
+          "pl": "Złodziej wyskoczył i biegł po ciemnych dachach.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "jumped", "t": "wyskoczył", "lemma": "jump" },
+            { "w": "out", "t": "(na zewnątrz)", "lemma": "out" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "ran", "t": "biegł", "lemma": "run" },
+            { "w": "across", "t": "po", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "dark", "t": "ciemnych", "lemma": "dark" },
+            { "w": "rooftops", "t": "dachach", "lemma": "rooftop" }
+          ]
+        },
+        {
+          "en": "Spider-Man chased him, swinging on his strong webs.",
+          "pl": "Spider-Man gonił go, bujając się na swoich mocnych sieciach.",
+          "tokens": [
+            { "w": "Spider-Man", "t": "Spider-Man", "lemma": "Spider-Man" },
+            { "w": "chased", "t": "gonił", "lemma": "chase" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "swinging", "t": "bujając się", "lemma": "swing" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "his", "t": "swoich", "lemma": "his" },
+            { "w": "strong", "t": "mocnych", "lemma": "strong" },
+            { "w": "webs", "t": "sieciach", "lemma": "web" }
+          ]
+        },
+        {
+          "en": "The two raced high above the sleeping city.",
+          "pl": "Obaj ścigali się wysoko nad śpiącym miastem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwaj", "lemma": "two" },
+            { "w": "raced", "t": "ścigali się", "lemma": "race" },
+            { "w": "high", "t": "wysoko", "lemma": "high" },
+            { "w": "above", "t": "nad", "lemma": "above" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sleeping", "t": "śpiącym", "lemma": "sleep" },
+            { "w": "city", "t": "miastem", "lemma": "city" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Finally, Spider-Man shot a web and caught the thief's bag.",
+          "pl": "W końcu Spider-Man wystrzelił sieć i złapał torbę złodzieja.",
+          "tokens": [
+            { "w": "Finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "Spider-Man", "t": "Spider-Man", "lemma": "Spider-Man" },
+            { "w": "shot", "t": "wystrzelił", "lemma": "shoot" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "web", "t": "sieć", "lemma": "web" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "caught", "t": "złapał", "lemma": "catch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief's", "t": "złodzieja", "lemma": "thief" },
+            { "w": "bag", "t": "torbę", "lemma": "bag" }
+          ]
+        },
+        {
+          "en": "The golden crown was safe inside it.",
+          "pl": "Złota korona była bezpieczna w środku.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "golden", "t": "złota", "lemma": "golden" },
+            { "w": "crown", "t": "korona", "lemma": "crown" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "safe", "t": "bezpieczna", "lemma": "safe" },
+            { "w": "inside", "t": "w środku", "lemma": "inside" },
+            { "w": "it", "t": "niej", "lemma": "it" }
+          ]
+        },
+        {
+          "en": "He gently tied the surprised thief to a lamp post for the police.",
+          "pl": "Delikatnie przywiązał zaskoczonego złodzieja do latarni dla policji.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "gently", "t": "delikatnie", "lemma": "gently" },
+            { "w": "tied", "t": "przywiązał", "lemma": "tie" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "surprised", "t": "zaskoczonego", "lemma": "surprised" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "lamp", "t": "latarni", "lemma": "lamp" },
+            { "w": "post", "t": "(słupa)", "lemma": "post" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "police", "t": "policji", "lemma": "police" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next morning, the museum thanked the brave young hero.",
+          "pl": "Następnego ranka muzeum podziękowało odważnemu młodemu bohaterowi.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnego", "lemma": "next" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "museum", "t": "muzeum", "lemma": "museum" },
+            { "w": "thanked", "t": "podziękowało", "lemma": "thank" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "brave", "t": "odważnemu", "lemma": "brave" },
+            { "w": "young", "t": "młodemu", "lemma": "young" },
+            { "w": "hero", "t": "bohaterowi", "lemma": "hero" }
+          ]
+        },
+        {
+          "en": "The newspapers printed a big photo of Spider-Man.",
+          "pl": "Gazety wydrukowały duże zdjęcie Spider-Mana.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "newspapers", "t": "gazety", "lemma": "newspaper" },
+            { "w": "printed", "t": "wydrukowały", "lemma": "print" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "big", "t": "duże", "lemma": "big" },
+            { "w": "photo", "t": "zdjęcie", "lemma": "photo" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Spider-Man", "t": "Spider-Mana", "lemma": "Spider-Man" }
+          ]
+        },
+        {
+          "en": "Peter just smiled and kept his secret to himself.",
+          "pl": "Peter po prostu uśmiechnął się i zachował swój sekret dla siebie.",
+          "tokens": [
+            { "w": "Peter", "t": "Peter", "lemma": "Peter" },
+            { "w": "just", "t": "po prostu", "lemma": "just" },
+            { "w": "smiled", "t": "uśmiechnął się", "lemma": "smile" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "kept", "t": "zachował", "lemma": "keep" },
+            { "w": "his", "t": "swój", "lemma": "his" },
+            { "w": "secret", "t": "sekret", "lemma": "secret" },
+            { "w": "to", "t": "(dla)", "lemma": "to" },
+            { "w": "himself", "t": "siebie", "lemma": "himself" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Jakie moce miał Peter Parker?",
+      "options": [
+        "Pajęcze moce — wspinanie się i wystrzeliwanie sieci",
+        "Umiejętność latania",
+        "Super siłę jak Hulk"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co złodziej chciał ukraść z muzeum?",
+      "options": [
+        "Słynną złotą koronę",
+        "Stary obraz",
+        "Magiczny młot"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Spider-Man poruszał się po mieście?",
+      "options": [
+        "Bujał się na sieciach między budynkami",
+        "Jechał szybkim samochodem",
+        "Leciał w kombinezonie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Spider-Man powstrzymał złodzieja?",
+      "options": [
+        "Wystrzelił sieć, złapał torbę i przywiązał go do latarni",
+        "Pozwolił mu uciec",
+        "Zadzwonił do Thora"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobiły gazety następnego ranka?",
+      "options": [
+        "Wydrukowały duże zdjęcie Spider-Mana",
+        "Nie napisały nic o bohaterze",
+        "Oskarżyły Spider-Mana o kradzież"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Peter zrobił ze swoim sekretem?",
+      "options": [
+        "Zachował go dla siebie",
+        "Opowiedział o nim w telewizji",
+        "Zapomniał o nim"
+      ],
+      "answer": 0
+    }
+  ]
+}

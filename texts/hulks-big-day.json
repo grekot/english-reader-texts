@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "id": "hulks-big-day",
+  "title": "Hulk's Big Day",
+  "author": "AI Assistant",
+  "source": "Original fan story (Hulk / Marvel characters belong to Marvel)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "superheroes",
+    "fiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Bruce Banner was a kind and clever scientist.",
+          "pl": "Bruce Banner był miłym i sprytnym naukowcem.",
+          "tokens": [
+            { "w": "Bruce", "t": "Bruce", "lemma": "Bruce" },
+            { "w": "Banner", "t": "Banner", "lemma": "Banner" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "kind", "t": "miłym", "lemma": "kind" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "clever", "t": "sprytnym", "lemma": "clever" },
+            { "w": "scientist", "t": "naukowcem", "lemma": "scientist" }
+          ]
+        },
+        {
+          "en": "When he became angry, he turned into the giant green Hulk.",
+          "pl": "Kiedy się złościł, zamieniał się w wielkiego zielonego Hulka.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "became", "t": "stawał się", "lemma": "become" },
+            { "w": "angry", "t": "zły", "lemma": "angry" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "turned", "t": "zamieniał się", "lemma": "turn" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "giant", "t": "wielkiego", "lemma": "giant" },
+            { "w": "green", "t": "zielonego", "lemma": "green" },
+            { "w": "Hulk", "t": "Hulka", "lemma": "Hulk" }
+          ]
+        },
+        {
+          "en": "The Hulk was very strong, but he had a good heart.",
+          "pl": "Hulk był bardzo silny, ale miał dobre serce.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Hulk", "t": "Hulk", "lemma": "Hulk" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "strong", "t": "silny", "lemma": "strong" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "had", "t": "miał", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "good", "t": "dobre", "lemma": "good" },
+            { "w": "heart", "t": "serce", "lemma": "heart" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One morning, heavy rain caused a small river to flood.",
+          "pl": "Pewnego ranka ulewny deszcz sprawił, że mała rzeka wylała.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "heavy", "t": "ulewny", "lemma": "heavy" },
+            { "w": "rain", "t": "deszcz", "lemma": "rain" },
+            { "w": "caused", "t": "sprawił", "lemma": "cause" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "mała", "lemma": "small" },
+            { "w": "river", "t": "rzeka", "lemma": "river" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "flood", "t": "wylała", "lemma": "flood" }
+          ]
+        },
+        {
+          "en": "The rushing water broke an old wooden bridge in the town.",
+          "pl": "Rwąca woda zerwała stary drewniany most w mieście.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rushing", "t": "rwąca", "lemma": "rush" },
+            { "w": "water", "t": "woda", "lemma": "water" },
+            { "w": "broke", "t": "zerwała", "lemma": "break" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "old", "t": "stary", "lemma": "old" },
+            { "w": "wooden", "t": "drewniany", "lemma": "wooden" },
+            { "w": "bridge", "t": "most", "lemma": "bridge" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "town", "t": "mieście", "lemma": "town" }
+          ]
+        },
+        {
+          "en": "Some people were trapped on the other side.",
+          "pl": "Niektórzy ludzie zostali uwięzieni po drugiej stronie.",
+          "tokens": [
+            { "w": "Some", "t": "niektórzy", "lemma": "some" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "were", "t": "zostali", "lemma": "be" },
+            { "w": "trapped", "t": "uwięzieni", "lemma": "trap" },
+            { "w": "on", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "other", "t": "drugiej", "lemma": "other" },
+            { "w": "side", "t": "stronie", "lemma": "side" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Hulk ran to the river as fast as he could.",
+          "pl": "Hulk pobiegł do rzeki tak szybko, jak tylko mógł.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Hulk", "t": "Hulk", "lemma": "Hulk" },
+            { "w": "ran", "t": "pobiegł", "lemma": "run" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "river", "t": "rzeki", "lemma": "river" },
+            { "w": "as", "t": "tak", "lemma": "as" },
+            { "w": "fast", "t": "szybko", "lemma": "fast" },
+            { "w": "as", "t": "jak", "lemma": "as" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "could", "t": "mógł", "lemma": "can" }
+          ]
+        },
+        {
+          "en": "He lifted a huge fallen tree with his enormous arms.",
+          "pl": "Podniósł ogromne powalone drzewo swoimi potężnymi ramionami.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "lifted", "t": "podniósł", "lemma": "lift" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "huge", "t": "ogromne", "lemma": "huge" },
+            { "w": "fallen", "t": "powalone", "lemma": "fall" },
+            { "w": "tree", "t": "drzewo", "lemma": "tree" },
+            { "w": "with", "t": "(za pomocą)", "lemma": "with" },
+            { "w": "his", "t": "swoimi", "lemma": "his" },
+            { "w": "enormous", "t": "potężnymi", "lemma": "enormous" },
+            { "w": "arms", "t": "ramionami", "lemma": "arm" }
+          ]
+        },
+        {
+          "en": "Carefully, he laid it across the water like a new bridge.",
+          "pl": "Ostrożnie położył je w poprzek wody jak nowy most.",
+          "tokens": [
+            { "w": "Carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "laid", "t": "położył", "lemma": "lay" },
+            { "w": "it", "t": "je", "lemma": "it" },
+            { "w": "across", "t": "w poprzek", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "water", "t": "wody", "lemma": "water" },
+            { "w": "like", "t": "jak", "lemma": "like" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "new", "t": "nowy", "lemma": "new" },
+            { "w": "bridge", "t": "most", "lemma": "bridge" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One by one, the people walked safely over the tree.",
+          "pl": "Jeden po drugim ludzie bezpiecznie przeszli po drzewie.",
+          "tokens": [
+            { "w": "One", "t": "jeden", "lemma": "one" },
+            { "w": "by", "t": "po", "lemma": "by" },
+            { "w": "one", "t": "drugim", "lemma": "one" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "walked", "t": "przeszli", "lemma": "walk" },
+            { "w": "safely", "t": "bezpiecznie", "lemma": "safely" },
+            { "w": "over", "t": "po", "lemma": "over" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tree", "t": "drzewie", "lemma": "tree" }
+          ]
+        },
+        {
+          "en": "A little girl was too afraid to cross alone.",
+          "pl": "Mała dziewczynka była zbyt przestraszona, by przejść sama.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "little", "t": "mała", "lemma": "little" },
+            { "w": "girl", "t": "dziewczynka", "lemma": "girl" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "too", "t": "zbyt", "lemma": "too" },
+            { "w": "afraid", "t": "przestraszona", "lemma": "afraid" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "cross", "t": "przejść", "lemma": "cross" },
+            { "w": "alone", "t": "sama", "lemma": "alone" }
+          ]
+        },
+        {
+          "en": "The gentle Hulk carried her across in his big, warm hands.",
+          "pl": "Łagodny Hulk przeniósł ją na drugą stronę w swoich wielkich, ciepłych dłoniach.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "gentle", "t": "łagodny", "lemma": "gentle" },
+            { "w": "Hulk", "t": "Hulk", "lemma": "Hulk" },
+            { "w": "carried", "t": "przeniósł", "lemma": "carry" },
+            { "w": "her", "t": "ją", "lemma": "her" },
+            { "w": "across", "t": "na drugą stronę", "lemma": "across" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "his", "t": "swoich", "lemma": "his" },
+            { "w": "big", "t": "wielkich", "lemma": "big" },
+            { "w": "warm", "t": "ciepłych", "lemma": "warm" },
+            { "w": "hands", "t": "dłoniach", "lemma": "hand" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "When everyone was safe, the rain finally stopped.",
+          "pl": "Kiedy wszyscy byli bezpieczni, deszcz w końcu ustał.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "everyone", "t": "wszyscy", "lemma": "everyone" },
+            { "w": "was", "t": "byli", "lemma": "be" },
+            { "w": "safe", "t": "bezpieczni", "lemma": "safe" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rain", "t": "deszcz", "lemma": "rain" },
+            { "w": "finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "stopped", "t": "ustał", "lemma": "stop" }
+          ]
+        },
+        {
+          "en": "The sun came out and a colorful rainbow appeared.",
+          "pl": "Słońce wyszło i pojawiła się kolorowa tęcza.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sun", "t": "słońce", "lemma": "sun" },
+            { "w": "came", "t": "wyszło", "lemma": "come" },
+            { "w": "out", "t": "(na zewnątrz)", "lemma": "out" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "colorful", "t": "kolorowa", "lemma": "colorful" },
+            { "w": "rainbow", "t": "tęcza", "lemma": "rainbow" },
+            { "w": "appeared", "t": "pojawiła się", "lemma": "appear" }
+          ]
+        },
+        {
+          "en": "The townspeople thanked the friendly green giant.",
+          "pl": "Mieszkańcy miasta podziękowali przyjaznemu zielonemu olbrzymowi.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "townspeople", "t": "mieszkańcy miasta", "lemma": "townspeople" },
+            { "w": "thanked", "t": "podziękowali", "lemma": "thank" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "friendly", "t": "przyjaznemu", "lemma": "friendly" },
+            { "w": "green", "t": "zielonemu", "lemma": "green" },
+            { "w": "giant", "t": "olbrzymowi", "lemma": "giant" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Hulk smiled shyly and waved goodbye.",
+          "pl": "Hulk uśmiechnął się nieśmiało i pomachał na pożegnanie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Hulk", "t": "Hulk", "lemma": "Hulk" },
+            { "w": "smiled", "t": "uśmiechnął się", "lemma": "smile" },
+            { "w": "shyly", "t": "nieśmiało", "lemma": "shyly" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "waved", "t": "pomachał", "lemma": "wave" },
+            { "w": "goodbye", "t": "na pożegnanie", "lemma": "goodbye" }
+          ]
+        },
+        {
+          "en": "Then he slowly changed back into Bruce Banner.",
+          "pl": "Potem powoli zmienił się z powrotem w Bruce'a Bannera.",
+          "tokens": [
+            { "w": "Then", "t": "potem", "lemma": "then" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "slowly", "t": "powoli", "lemma": "slowly" },
+            { "w": "changed", "t": "zmienił się", "lemma": "change" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "Bruce", "t": "Bruce'a", "lemma": "Bruce" },
+            { "w": "Banner", "t": "Bannera", "lemma": "Banner" }
+          ]
+        },
+        {
+          "en": "That day, everyone learned that the Hulk was a true hero.",
+          "pl": "Tego dnia wszyscy nauczyli się, że Hulk jest prawdziwym bohaterem.",
+          "tokens": [
+            { "w": "That", "t": "tego", "lemma": "that" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "everyone", "t": "wszyscy", "lemma": "everyone" },
+            { "w": "learned", "t": "nauczyli się", "lemma": "learn" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Hulk", "t": "Hulk", "lemma": "Hulk" },
+            { "w": "was", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "true", "t": "prawdziwym", "lemma": "true" },
+            { "w": "hero", "t": "bohaterem", "lemma": "hero" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "W kogo zmieniał się Bruce Banner, gdy się złościł?",
+      "options": [
+        "W wielkiego zielonego Hulka",
+        "W Spider-Mana",
+        "W Thora"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co spowodowało powódź w mieście?",
+      "options": [
+        "Ulewny deszcz — rzeka wylała i zerwała stary most",
+        "Atak lodowych gigantów",
+        "Trzęsienie ziemi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego Hulk użył jako nowego mostu?",
+      "options": [
+        "Ogromnego powalonego drzewa",
+        "Wielkiego kamienia",
+        "Swojej peleryny"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Hulk zrobił z przestraszoną dziewczynką?",
+      "options": [
+        "Przeniósł ją na drugą stronę w swoich dłoniach",
+        "Kazał jej przejść samej",
+        "Zostawił ją po drugiej stronie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co pojawiło się, gdy deszcz ustał?",
+      "options": [
+        "Słońce i kolorowa tęcza",
+        "Kolejna burza",
+        "Gęsta mgła"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego wszyscy nauczyli się tego dnia?",
+      "options": [
+        "Że Hulk jest prawdziwym bohaterem",
+        "Że Hulk jest groźny i zły",
+        "Że lepiej unikać rzeki"
+      ],
+      "answer": 0
+    }
+  ]
+}

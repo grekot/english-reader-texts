@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "thor-frost-giants",
+  "title": "Thor and the Frost Giants",
+  "author": "AI Assistant",
+  "source": "Original fan story (Thor / Marvel characters belong to Marvel)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "superheroes",
+    "fiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Thor was the strong god of thunder from the magic land of Asgard.",
+          "pl": "Thor był silnym bogiem piorunów z magicznej krainy Asgardu.",
+          "tokens": [
+            { "w": "Thor", "t": "Thor", "lemma": "Thor" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "strong", "t": "silnym", "lemma": "strong" },
+            { "w": "god", "t": "bogiem", "lemma": "god" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "thunder", "t": "piorunów", "lemma": "thunder" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "magic", "t": "magicznej", "lemma": "magic" },
+            { "w": "land", "t": "krainy", "lemma": "land" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Asgard", "t": "Asgardu", "lemma": "Asgard" }
+          ]
+        },
+        {
+          "en": "He carried a powerful hammer that no enemy could lift.",
+          "pl": "Nosił potężny młot, którego żaden wróg nie mógł podnieść.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "carried", "t": "nosił", "lemma": "carry" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "powerful", "t": "potężny", "lemma": "powerful" },
+            { "w": "hammer", "t": "młot", "lemma": "hammer" },
+            { "w": "that", "t": "którego", "lemma": "that" },
+            { "w": "no", "t": "żaden", "lemma": "no" },
+            { "w": "enemy", "t": "wróg", "lemma": "enemy" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "lift", "t": "podnieść", "lemma": "lift" }
+          ]
+        },
+        {
+          "en": "With one swing, he could call lightning from the sky.",
+          "pl": "Jednym zamachem mógł przywołać błyskawicę z nieba.",
+          "tokens": [
+            { "w": "With", "t": "(jednym)", "lemma": "with" },
+            { "w": "one", "t": "jednym", "lemma": "one" },
+            { "w": "swing", "t": "zamachem", "lemma": "swing" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "call", "t": "przywołać", "lemma": "call" },
+            { "w": "lightning", "t": "błyskawicę", "lemma": "lightning" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sky", "t": "nieba", "lemma": "sky" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One cold winter, huge Frost Giants marched toward a small village.",
+          "pl": "Pewnej mroźnej zimy ogromni Lodowi Giganci maszerowali w stronę małej wioski.",
+          "tokens": [
+            { "w": "One", "t": "pewnej", "lemma": "one" },
+            { "w": "cold", "t": "mroźnej", "lemma": "cold" },
+            { "w": "winter", "t": "zimy", "lemma": "winter" },
+            { "w": "huge", "t": "ogromni", "lemma": "huge" },
+            { "w": "Frost", "t": "Lodowi", "lemma": "frost" },
+            { "w": "Giants", "t": "Giganci", "lemma": "giant" },
+            { "w": "marched", "t": "maszerowali", "lemma": "march" },
+            { "w": "toward", "t": "w stronę", "lemma": "toward" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "małej", "lemma": "small" },
+            { "w": "village", "t": "wioski", "lemma": "village" }
+          ]
+        },
+        {
+          "en": "Their icy breath froze the rivers and the trees.",
+          "pl": "Ich lodowaty oddech zamrażał rzeki i drzewa.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "icy", "t": "lodowaty", "lemma": "icy" },
+            { "w": "breath", "t": "oddech", "lemma": "breath" },
+            { "w": "froze", "t": "zamrażał", "lemma": "freeze" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rivers", "t": "rzeki", "lemma": "river" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trees", "t": "drzewa", "lemma": "tree" }
+          ]
+        },
+        {
+          "en": "The frightened villagers called for Thor's help.",
+          "pl": "Przestraszeni mieszkańcy wioski wołali o pomoc Thora.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "frightened", "t": "przestraszeni", "lemma": "frightened" },
+            { "w": "villagers", "t": "mieszkańcy wioski", "lemma": "villager" },
+            { "w": "called", "t": "wołali", "lemma": "call" },
+            { "w": "for", "t": "o", "lemma": "for" },
+            { "w": "Thor's", "t": "Thora", "lemma": "Thor" },
+            { "w": "help", "t": "pomoc", "lemma": "help" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Thor flew down from the clouds in a bright storm.",
+          "pl": "Thor zleciał z chmur w jasnej burzy.",
+          "tokens": [
+            { "w": "Thor", "t": "Thor", "lemma": "Thor" },
+            { "w": "flew", "t": "zleciał", "lemma": "fly" },
+            { "w": "down", "t": "(w dół)", "lemma": "down" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "clouds", "t": "chmur", "lemma": "cloud" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "bright", "t": "jasnej", "lemma": "bright" },
+            { "w": "storm", "t": "burzy", "lemma": "storm" }
+          ]
+        },
+        {
+          "en": "He landed in front of the giants and raised his hammer high.",
+          "pl": "Wylądował przed gigantami i uniósł wysoko swój młot.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "landed", "t": "wylądował", "lemma": "land" },
+            { "w": "in", "t": "przed", "lemma": "in" },
+            { "w": "front", "t": "(przód)", "lemma": "front" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "giants", "t": "gigantami", "lemma": "giant" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "raised", "t": "uniósł", "lemma": "raise" },
+            { "w": "his", "t": "swój", "lemma": "his" },
+            { "w": "hammer", "t": "młot", "lemma": "hammer" },
+            { "w": "high", "t": "wysoko", "lemma": "high" }
+          ]
+        },
+        {
+          "en": "\"You will not harm these people,\" he said bravely.",
+          "pl": "„Nie skrzywdzicie tych ludzi”, powiedział odważnie.",
+          "tokens": [
+            { "w": "You", "t": "wy", "lemma": "you" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "harm", "t": "skrzywdzicie", "lemma": "harm" },
+            { "w": "these", "t": "tych", "lemma": "this" },
+            { "w": "people", "t": "ludzi", "lemma": "people" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "said", "t": "powiedział", "lemma": "say" },
+            { "w": "bravely", "t": "odważnie", "lemma": "bravely" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The biggest giant threw a huge block of ice at him.",
+          "pl": "Największy gigant rzucił w niego ogromnym blokiem lodu.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "biggest", "t": "największy", "lemma": "big" },
+            { "w": "giant", "t": "gigant", "lemma": "giant" },
+            { "w": "threw", "t": "rzucił", "lemma": "throw" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "huge", "t": "ogromny", "lemma": "huge" },
+            { "w": "block", "t": "blok", "lemma": "block" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "ice", "t": "lodu", "lemma": "ice" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "him", "t": "niego", "lemma": "he" }
+          ]
+        },
+        {
+          "en": "Thor smashed it into pieces with one mighty hit.",
+          "pl": "Thor rozbił go na kawałki jednym potężnym uderzeniem.",
+          "tokens": [
+            { "w": "Thor", "t": "Thor", "lemma": "Thor" },
+            { "w": "smashed", "t": "rozbił", "lemma": "smash" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "into", "t": "na", "lemma": "into" },
+            { "w": "pieces", "t": "kawałki", "lemma": "piece" },
+            { "w": "with", "t": "(za pomocą)", "lemma": "with" },
+            { "w": "one", "t": "jednym", "lemma": "one" },
+            { "w": "mighty", "t": "potężnym", "lemma": "mighty" },
+            { "w": "hit", "t": "uderzeniem", "lemma": "hit" }
+          ]
+        },
+        {
+          "en": "Then he called down a powerful bolt of lightning.",
+          "pl": "Potem przywołał potężny piorun błyskawicy.",
+          "tokens": [
+            { "w": "Then", "t": "potem", "lemma": "then" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "called", "t": "przywołał", "lemma": "call" },
+            { "w": "down", "t": "(w dół)", "lemma": "down" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "powerful", "t": "potężny", "lemma": "powerful" },
+            { "w": "bolt", "t": "piorun", "lemma": "bolt" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "lightning", "t": "błyskawicy", "lemma": "lightning" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The frightened giants turned and ran back to their frozen mountains.",
+          "pl": "Przestraszeni giganci odwrócili się i uciekli z powrotem w swoje zamarznięte góry.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "frightened", "t": "przestraszeni", "lemma": "frightened" },
+            { "w": "giants", "t": "giganci", "lemma": "giant" },
+            { "w": "turned", "t": "odwrócili się", "lemma": "turn" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "ran", "t": "uciekli", "lemma": "run" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "their", "t": "swoje", "lemma": "their" },
+            { "w": "frozen", "t": "zamarznięte", "lemma": "frozen" },
+            { "w": "mountains", "t": "góry", "lemma": "mountain" }
+          ]
+        },
+        {
+          "en": "Slowly, the ice melted and the warm sun returned.",
+          "pl": "Powoli lód stopniał i wróciło ciepłe słońce.",
+          "tokens": [
+            { "w": "Slowly", "t": "powoli", "lemma": "slowly" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ice", "t": "lód", "lemma": "ice" },
+            { "w": "melted", "t": "stopniał", "lemma": "melt" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "warm", "t": "ciepłe", "lemma": "warm" },
+            { "w": "sun", "t": "słońce", "lemma": "sun" },
+            { "w": "returned", "t": "wróciło", "lemma": "return" }
+          ]
+        },
+        {
+          "en": "The happy villagers cheered for the god of thunder.",
+          "pl": "Szczęśliwi mieszkańcy wioski wiwatowali na cześć boga piorunów.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "happy", "t": "szczęśliwi", "lemma": "happy" },
+            { "w": "villagers", "t": "mieszkańcy wioski", "lemma": "villager" },
+            { "w": "cheered", "t": "wiwatowali", "lemma": "cheer" },
+            { "w": "for", "t": "na cześć", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "god", "t": "boga", "lemma": "god" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "thunder", "t": "piorunów", "lemma": "thunder" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Thor smiled and promised to protect them again.",
+          "pl": "Thor uśmiechnął się i obiecał znów ich chronić.",
+          "tokens": [
+            { "w": "Thor", "t": "Thor", "lemma": "Thor" },
+            { "w": "smiled", "t": "uśmiechnął się", "lemma": "smile" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "promised", "t": "obiecał", "lemma": "promise" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "protect", "t": "chronić", "lemma": "protect" },
+            { "w": "them", "t": "ich", "lemma": "them" },
+            { "w": "again", "t": "znów", "lemma": "again" }
+          ]
+        },
+        {
+          "en": "Then he flew back up into the bright sky.",
+          "pl": "Potem wzleciał z powrotem w górę, na jasne niebo.",
+          "tokens": [
+            { "w": "Then", "t": "potem", "lemma": "then" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "flew", "t": "wzleciał", "lemma": "fly" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "up", "t": "w górę", "lemma": "up" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bright", "t": "jasne", "lemma": "bright" },
+            { "w": "sky", "t": "niebo", "lemma": "sky" }
+          ]
+        },
+        {
+          "en": "From that day, the village was always safe and warm.",
+          "pl": "Od tego dnia wioska była zawsze bezpieczna i ciepła.",
+          "tokens": [
+            { "w": "From", "t": "od", "lemma": "from" },
+            { "w": "that", "t": "tego", "lemma": "that" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "village", "t": "wioska", "lemma": "village" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "safe", "t": "bezpieczna", "lemma": "safe" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "warm", "t": "ciepła", "lemma": "warm" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Skąd pochodził Thor?",
+      "options": [
+        "Z magicznej krainy Asgard — był bogiem piorunów",
+        "Z dalekiej planety",
+        "Z dużego miasta"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Thor mógł przywołać jednym zamachem młota?",
+      "options": [
+        "Błyskawicę z nieba",
+        "Deszcz kwiatów",
+        "Armię robotów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co lodowi giganci robili swoim mroźnym oddechem?",
+      "options": [
+        "Zamrażali rzeki i drzewa",
+        "Gasili ogień",
+        "Topili śnieg"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Thor zrobił z blokiem lodu rzuconym przez giganta?",
+      "options": [
+        "Rozbił go na kawałki jednym potężnym uderzeniem",
+        "Uchylił się przed nim",
+        "Złapał go i odrzucił"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobili giganci po walce?",
+      "options": [
+        "Uciekli z powrotem w swoje zamarznięte góry",
+        "Poddali się i zostali w wiosce",
+        "Zbudowali zamek z lodu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak skończyła się historia dla wioski?",
+      "options": [
+        "Wioska była zawsze bezpieczna i ciepła",
+        "Wioska zamarzła na zawsze",
+        "Mieszkańcy musieli się wyprowadzić"
+      ],
+      "answer": 0
+    }
+  ]
+}
