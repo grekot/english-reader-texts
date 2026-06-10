@@ -64,7 +64,7 @@
       "title": "Mario and Luigi to the Rescue",
       "author": "AI Assistant",
       "level": "A2",
-      "category": "Dla dzieci",
+      "category": "Super Mario",
       "tags": [
         "adventure",
         "kids",
@@ -77,7 +77,7 @@
     {
       "id": "mario-bros-adventure",
       "title": "Mario and Luigi's Epic Mushroom Kingdom Rescue",
-      "category": "Dla dzieci",
+      "category": "Super Mario",
       "file": "texts/mario-bros-adventure.json",
       "author": "AI Assistant",
       "level": "A2",
@@ -95,7 +95,7 @@
       "title": "Mario and Yoshi's Island Adventure",
       "author": "AI Assistant",
       "level": "A2",
-      "category": "Dla dzieci",
+      "category": "Super Mario",
       "tags": [
         "adventure",
         "kids",
@@ -110,7 +110,7 @@
       "title": "Luigi and the Haunted Mansion",
       "author": "AI Assistant",
       "level": "A2",
-      "category": "Dla dzieci",
+      "category": "Super Mario",
       "tags": [
         "adventure",
         "kids",
@@ -125,7 +125,7 @@
       "title": "The Great Mario Kart Race",
       "author": "AI Assistant",
       "level": "A2",
-      "category": "Dla dzieci",
+      "category": "Super Mario",
       "tags": [
         "adventure",
         "kids",
@@ -332,7 +332,7 @@
       "title": "The Avengers Save the City",
       "author": "AI Assistant",
       "level": "A2",
-      "category": "Dla dzieci",
+      "category": "Avengers",
       "tags": [
         "adventure",
         "kids",
