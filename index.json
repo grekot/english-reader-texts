@@ -73,6 +73,22 @@
       ],
       "file": "texts/mario-luigi-rescue.json",
       "sha256": "a72d92da98aadcc5a9adb60cd0b8162137a55a83f2aaa68c746fe4cfe34c9c27"
+    },
+    {
+      "id": "mario-bros-adventure",
+      "title": "Mario and Luigi's Epic Mushroom Kingdom Rescue",
+      "category": "Dla dzieci",
+      "file": "texts/mario-bros-adventure.json",
+      "author": "AI Assistant",
+      "level": "A2",
+      "tags": [
+        "adventure",
+        "gaming",
+        "kids",
+        "fantasy",
+        "long-read"
+      ],
+      "sha256": "8180fce657bbd949a8aa125b6fe3966c3796366d426fba3e32a3f461dfccf42d"
     }
   ]
 }

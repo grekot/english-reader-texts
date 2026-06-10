@@ -1,0 +1,450 @@
+{
+  "schemaVersion": 1,
+  "id": "mario-bros-adventure",
+  "title": "Mario and Luigi's Epic Mushroom Kingdom Rescue",
+  "author": "AI Assistant",
+  "source": "Original Fiction (Super Mario Universe)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "gaming",
+    "kids",
+    "fantasy",
+    "long-read"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Mario and Luigi were relaxing near the castle.",
+          "pl": "Mario i Luigi relaksowali się w pobliżu zamku.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "relaxing", "t": "relaksując się", "lemma": "relax" },
+            { "w": "near", "t": "w pobliżu", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "castle", "t": "zamku", "lemma": "castle" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The sun was shining brightly in the Mushroom Kingdom.",
+          "pl": "Słońce świeciło jasno w Grzybowym Królestwie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sun", "t": "słońce", "lemma": "sun" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "shining", "t": "świecące", "lemma": "shine" },
+            { "w": "brightly", "t": "jasno", "lemma": "brightly" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Mushroom", "t": "Grzybowym", "lemma": "Mushroom" },
+            { "w": "Kingdom", "t": "Królestwie", "lemma": "Kingdom" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a tiny Toad ran toward them in a panic.",
+          "pl": "Nagle malutki Toad podbiegł do nich w panice.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "tiny", "t": "malutki", "lemma": "tiny" },
+            { "w": "Toad", "t": "Toad", "lemma": "Toad" },
+            { "w": "ran", "t": "podbiegł", "lemma": "run" },
+            { "w": "toward", "t": "w kierunku", "lemma": "toward" },
+            { "w": "them", "t": "ich", "lemma": "they" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "panic", "t": "panice", "lemma": "panic" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Bowser has stolen the legendary Super Star!\"",
+          "pl": "„Bowser ukradł legendarną Super Gwiazdę!”",
+          "tokens": [
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "has", "t": "(czas przeszły)", "lemma": "have" },
+            { "w": "stolen", "t": "ukradł", "lemma": "steal" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "legendary", "t": "legendarną", "lemma": "legendary" },
+            { "w": "Super", "t": "Super", "lemma": "Super" },
+            { "w": "Star", "t": "Gwiazdę", "lemma": "Star" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Without hesitation, the brave brothers jumped into a green warp pipe.",
+          "pl": "Bez wahania odważni bracia wskoczyli do zielonej rury teleportacyjnej.",
+          "tokens": [
+            { "w": "Without", "t": "bez", "lemma": "without" },
+            { "w": "hesitation", "t": "wahania", "lemma": "hesitation" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "brave", "t": "odważni", "lemma": "brave" },
+            { "w": "brothers", "t": "bracia", "lemma": "brother" },
+            { "w": "jumped", "t": "wskoczyli", "lemma": "jump" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "green", "t": "zielonej", "lemma": "green" },
+            { "w": "warp", "t": "teleportacyjnej", "lemma": "warp" },
+            { "w": "pipe", "t": "rury", "lemma": "pipe" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "They landed in a dark, damp underground cave.",
+          "pl": "Wylądowali w ciemnej, wilgotnej podziemnej jaskini.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "landed", "t": "wylądowali", "lemma": "land" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dark", "t": "ciemnej", "lemma": "dark" },
+            { "w": "damp", "t": "wilgotnej", "lemma": "damp" },
+            { "w": "underground", "t": "podziemnej", "lemma": "underground" },
+            { "w": "cave", "t": "jaskini", "lemma": "cave" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Several angry Goombas blocked their path forward.",
+          "pl": "Kilka złych Goombów zablokowało im drogę naprzód.",
+          "tokens": [
+            { "w": "Several", "t": "kilka", "lemma": "several" },
+            { "w": "angry", "t": "złych", "lemma": "angry" },
+            { "w": "Goombas", "t": "Goombów", "lemma": "Goomba" },
+            { "w": "blocked", "t": "zablokowało", "lemma": "block" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "path", "t": "drogę", "lemma": "path" },
+            { "w": "forward", "t": "naprzód", "lemma": "forward" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mario easily jumped on their heads to defeat them.",
+          "pl": "Mario łatwo wskoczył na ich głowy, aby ich pokonać.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "easily", "t": "łatwo", "lemma": "easily" },
+            { "w": "jumped", "t": "wskoczył", "lemma": "jump" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "heads", "t": "głowy", "lemma": "head" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "defeat", "t": "pokonać", "lemma": "defeat" },
+            { "w": "them", "t": "ich", "lemma": "they" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Next, they entered a hot, sandy desert area.",
+          "pl": "Następnie weszli na gorący, piaszczysty obszar pustyni.",
+          "tokens": [
+            { "w": "Next", "t": "następnie", "lemma": "next" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "entered", "t": "weszli", "lemma": "enter" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hot", "t": "gorący", "lemma": "hot" },
+            { "w": "sandy", "t": "piaszczysty", "lemma": "sandy" },
+            { "w": "desert", "t": "pustyni", "lemma": "desert" },
+            { "w": "area", "t": "obszar", "lemma": "area" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Luigi found a hidden block containing a Fire Flower.",
+          "pl": "Luigi znalazł ukryty blok zawierający Ognisty Kwiat.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "found", "t": "znalazł", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hidden", "t": "ukryty", "lemma": "hidden" },
+            { "w": "block", "t": "blok", "lemma": "block" },
+            { "w": "containing", "t": "zawierający", "lemma": "contain" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "Fire", "t": "Ognisty", "lemma": "Fire" },
+            { "w": "Flower", "t": "Kwiat", "lemma": "Flower" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "He transformed and threw bouncing fireballs at the enemies.",
+          "pl": "Przemienił się i zaczął rzucać skaczącymi ognistymi kulami we wrogów.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "transformed", "t": "przemienił się", "lemma": "transform" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "threw", "t": "rzucał", "lemma": "throw" },
+            { "w": "bouncing", "t": "skaczącymi", "lemma": "bounce" },
+            { "w": "fireballs", "t": "ognistymi kulami", "lemma": "fireball" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemies", "t": "wrogów", "lemma": "enemy" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "After the desert, they faced a freezing, snowy mountain.",
+          "pl": "Po pustyni zmierzyli się z mroźną, śnieżną górą.",
+          "tokens": [
+            { "w": "After", "t": "po", "lemma": "after" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "desert", "t": "pustyni", "lemma": "desert" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "faced", "t": "zmierzyli się z", "lemma": "face" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "freezing", "t": "mroźną", "lemma": "freezing" },
+            { "w": "snowy", "t": "śnieżną", "lemma": "snowy" },
+            { "w": "mountain", "t": "górą", "lemma": "mountain" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Slippery ice made it very difficult to walk safely.",
+          "pl": "Śliski lód bardzo utrudniał bezpieczne chodzenie.",
+          "tokens": [
+            { "w": "Slippery", "t": "śliski", "lemma": "slippery" },
+            { "w": "ice", "t": "lód", "lemma": "ice" },
+            { "w": "made", "t": "sprawiał (czynił)", "lemma": "make" },
+            { "w": "it", "t": "to", "lemma": "it" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "difficult", "t": "trudnym", "lemma": "difficult" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "walk", "t": "chodzić", "lemma": "walk" },
+            { "w": "safely", "t": "bezpiecznie", "lemma": "safely" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Luigi slipped, but Mario grabbed his hand just in time.",
+          "pl": "Luigi poślizgnął się, ale Mario w porę chwycił go za rękę.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "slipped", "t": "poślizgnął się", "lemma": "slip" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "grabbed", "t": "chwycił", "lemma": "grab" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "hand", "t": "rękę", "lemma": "hand" },
+            { "w": "just", "t": "w samą", "lemma": "just" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "time", "t": "porę", "lemma": "time" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Finally, the dark silhouette of Bowser's castle appeared before them.",
+          "pl": "Wreszcie przed nimi pojawiła się mroczna sylwetka zamku Bowsera.",
+          "tokens": [
+            { "w": "Finally", "t": "wreszcie", "lemma": "finally" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "dark", "t": "mroczna", "lemma": "dark" },
+            { "w": "silhouette", "t": "sylwetka", "lemma": "silhouette" },
+            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
+            { "w": "Bowser's", "t": "Bowsera", "lemma": "Bowser" },
+            { "w": "castle", "t": "zamku", "lemma": "castle" },
+            { "w": "appeared", "t": "pojawiła się", "lemma": "appear" },
+            { "w": "before", "t": "przed", "lemma": "before" },
+            { "w": "them", "t": "nimi", "lemma": "they" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A dangerous river of boiling lava surrounded the fortress.",
+          "pl": "Niebezpieczna rzeka wrzącej lawy otaczała fortecę.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dangerous", "t": "niebezpieczna", "lemma": "dangerous" },
+            { "w": "river", "t": "rzeka", "lemma": "river" },
+            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
+            { "w": "boiling", "t": "wrzącej", "lemma": "boiling" },
+            { "w": "lava", "t": "lawy", "lemma": "lava" },
+            { "w": "surrounded", "t": "otaczała", "lemma": "surround" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fortress", "t": "fortecę", "lemma": "fortress" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "They carefully crossed a narrow stone bridge to enter inside.",
+          "pl": "Ostrożnie przeszli przez wąski kamienny most, aby wejść do środka.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "crossed", "t": "przeszli", "lemma": "cross" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "narrow", "t": "wąski", "lemma": "narrow" },
+            { "w": "stone", "t": "kamienny", "lemma": "stone" },
+            { "w": "bridge", "t": "most", "lemma": "bridge" },
+            { "w": "to", "t": "aby", "lemma": "to" },
+            { "w": "enter", "t": "wejść", "lemma": "enter" },
+            { "w": "inside", "t": "do środka", "lemma": "inside" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Inside the throne room, Bowser was holding the glowing Star.",
+          "pl": "Wewnątrz sali tronowej Bowser trzymał błyszczącą Gwiazdę.",
+          "tokens": [
+            { "w": "Inside", "t": "wewnątrz", "lemma": "inside" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "throne", "t": "tronowej", "lemma": "throne" },
+            { "w": "room", "t": "sali", "lemma": "room" },
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "holding", "t": "trzymający", "lemma": "hold" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "glowing", "t": "błyszczącą", "lemma": "glow" },
+            { "w": "Star", "t": "Gwiazdę", "lemma": "Star" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Luigi bravely distracted the giant turtle by shouting loudly.",
+          "pl": "Luigi odważnie odwrócił uwagę gigantycznego żółwia, krzycząc głośno.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "bravely", "t": "odważnie", "lemma": "bravely" },
+            { "w": "distracted", "t": "odwrócił uwagę", "lemma": "distract" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "giant", "t": "gigantycznego", "lemma": "giant" },
+            { "w": "turtle", "t": "żółwia", "lemma": "turtle" },
+            { "w": "by", "t": "poprzez", "lemma": "by" },
+            { "w": "shouting", "t": "krzyczenie", "lemma": "shout" },
+            { "w": "loudly", "t": "głośno", "lemma": "loudly" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mario grabbed the Star, turned invincible, and chased Bowser away.",
+          "pl": "Mario chwycił Gwiazdę, stał się niezwyciężony i przegonił Bowsera.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "grabbed", "t": "chwycił", "lemma": "grab" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Star", "t": "Gwiazdę", "lemma": "Star" },
+            { "w": "turned", "t": "stał się", "lemma": "turn" },
+            { "w": "invincible", "t": "niezwyciężony", "lemma": "invincible" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "chased", "t": "przegonił", "lemma": "chase" },
+            { "w": "Bowser", "t": "Bowsera", "lemma": "Bowser" },
+            { "w": "away", "t": "precz", "lemma": "away" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The brothers returned the Star to Princess Peach and celebrated their victory.",
+          "pl": "Bracia zwrócili Gwiazdę księżniczce Peach i świętowali swoje zwycięstwo.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "brothers", "t": "bracia", "lemma": "brother" },
+            { "w": "returned", "t": "zwrócili", "lemma": "return" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Star", "t": "Gwiazdę", "lemma": "Star" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "Princess", "t": "Księżniczki", "lemma": "Princess" },
+            { "w": "Peach", "t": "Peach", "lemma": "Peach" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "celebrated", "t": "świętowali", "lemma": "celebrate" },
+            { "w": "their", "t": "ich (swoje)", "lemma": "their" },
+            { "w": "victory", "t": "zwycięstwo", "lemma": "victory" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Kto ukradł legendarną Super Gwiazdę?",
+      "options": [
+        "Toad",
+        "Luigi",
+        "Bowser"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Co znalazł Luigi na gorącej pustyni?",
+      "options": [
+        "Zieloną rurę",
+        "Ognisty Kwiat",
+        "Śliski lód"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "W jaki sposób Luigi pomógł odzyskać Gwiazdę w zamku?",
+      "options": [
+        "Zbudował kamienny most",
+        "Odwrócił uwagę gigantycznego żółwia",
+        "Złapał spadającą gwiazdę"
+      ],
+      "answer": 1
+    }
+  ]
+}
