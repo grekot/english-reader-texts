@@ -58,6 +58,21 @@
         "adventure"
       ],
       "sha256": "0d16a7f5527c80aa40079f1a4d4fcde5041692047e05896497a443de7cb49681"
+    },
+    {
+      "id": "mario-luigi-rescue",
+      "title": "Mario and Luigi to the Rescue",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dla dzieci",
+      "tags": [
+        "adventure",
+        "kids",
+        "games",
+        "fiction"
+      ],
+      "file": "texts/mario-luigi-rescue.json",
+      "sha256": "a72d92da98aadcc5a9adb60cd0b8162137a55a83f2aaa68c746fe4cfe34c9c27"
     }
   ]
 }

@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "id": "mario-luigi-rescue",
+  "title": "Mario and Luigi to the Rescue",
+  "author": "AI Assistant",
+  "source": "Original fan story (Super Mario Bros. characters belong to Nintendo)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "games",
+    "fiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One sunny morning, Mario and Luigi were eating breakfast in their cozy house.",
+          "pl": "Pewnego słonecznego ranka Mario i Luigi jedli śniadanie w swoim przytulnym domu.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "sunny", "t": "słonecznego", "lemma": "sunny" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "eating", "t": "jedli", "lemma": "eat" },
+            { "w": "breakfast", "t": "śniadanie", "lemma": "breakfast" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "their", "t": "swoim", "lemma": "their" },
+            { "w": "cozy", "t": "przytulnym", "lemma": "cozy" },
+            { "w": "house", "t": "domu", "lemma": "house" }
+          ]
+        },
+        {
+          "en": "Suddenly, a small Toad ran through the door with a worried face.",
+          "pl": "Nagle mały Toad wbiegł przez drzwi ze zmartwioną twarzą.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "mały", "lemma": "small" },
+            { "w": "Toad", "t": "Toad", "lemma": "Toad" },
+            { "w": "ran", "t": "wbiegł", "lemma": "run" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "door", "t": "drzwi", "lemma": "door" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "worried", "t": "zmartwioną", "lemma": "worried" },
+            { "w": "face", "t": "twarzą", "lemma": "face" }
+          ]
+        },
+        {
+          "en": "\"Help! Bowser has captured Princess Peach again!\" cried the little Toad.",
+          "pl": "„Pomocy! Bowser znowu porwał księżniczkę Peach!” krzyknął mały Toad.",
+          "tokens": [
+            { "w": "Help", "t": "pomocy", "lemma": "help" },
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "has", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "captured", "t": "porwał", "lemma": "capture" },
+            { "w": "Princess", "t": "księżniczkę", "lemma": "princess" },
+            { "w": "Peach", "t": "Peach", "lemma": "Peach" },
+            { "w": "again", "t": "znowu", "lemma": "again" },
+            { "w": "cried", "t": "krzyknął", "lemma": "cry" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "little", "t": "mały", "lemma": "little" },
+            { "w": "Toad", "t": "Toad", "lemma": "Toad" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mario jumped up from his chair and put on his red cap.",
+          "pl": "Mario zerwał się z krzesła i założył swoją czerwoną czapkę.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "jumped", "t": "zerwał się", "lemma": "jump" },
+            { "w": "up", "t": "w górę", "lemma": "up" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "chair", "t": "krzesła", "lemma": "chair" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "put", "t": "założył", "lemma": "put" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "his", "t": "swoją", "lemma": "his" },
+            { "w": "red", "t": "czerwoną", "lemma": "red" },
+            { "w": "cap", "t": "czapkę", "lemma": "cap" }
+          ]
+        },
+        {
+          "en": "\"Don't worry, Toad. We will save the Princess,\" he said bravely.",
+          "pl": "„Nie martw się, Toad. Uratujemy księżniczkę”, powiedział odważnie.",
+          "tokens": [
+            { "w": "Don't", "t": "nie", "lemma": "do not" },
+            { "w": "worry", "t": "martw się", "lemma": "worry" },
+            { "w": "Toad", "t": "Toad", "lemma": "Toad" },
+            { "w": "We", "t": "my", "lemma": "we" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "save", "t": "uratujemy", "lemma": "save" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Princess", "t": "księżniczkę", "lemma": "princess" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "said", "t": "powiedział", "lemma": "say" },
+            { "w": "bravely", "t": "odważnie", "lemma": "bravely" }
+          ]
+        },
+        {
+          "en": "Luigi felt a little scared, but he followed his brave brother.",
+          "pl": "Luigi czuł się trochę przestraszony, ale poszedł za swoim odważnym bratem.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "felt", "t": "czuł się", "lemma": "feel" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "little", "t": "trochę", "lemma": "little" },
+            { "w": "scared", "t": "przestraszony", "lemma": "scared" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "followed", "t": "poszedł za", "lemma": "follow" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "brave", "t": "odważnym", "lemma": "brave" },
+            { "w": "brother", "t": "bratem", "lemma": "brother" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The two brothers ran across the green fields toward Bowser's dark castle.",
+          "pl": "Dwaj bracia biegli przez zielone pola w stronę ciemnego zamku Bowsera.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwaj", "lemma": "two" },
+            { "w": "brothers", "t": "bracia", "lemma": "brother" },
+            { "w": "ran", "t": "biegli", "lemma": "run" },
+            { "w": "across", "t": "przez", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "green", "t": "zielone", "lemma": "green" },
+            { "w": "fields", "t": "pola", "lemma": "field" },
+            { "w": "toward", "t": "w stronę", "lemma": "toward" },
+            { "w": "Bowser's", "t": "Bowsera", "lemma": "Bowser" },
+            { "w": "dark", "t": "ciemnego", "lemma": "dark" },
+            { "w": "castle", "t": "zamku", "lemma": "castle" }
+          ]
+        },
+        {
+          "en": "On the way, they jumped on mushrooms and collected shiny gold coins.",
+          "pl": "Po drodze skakali po grzybach i zbierali błyszczące złote monety.",
+          "tokens": [
+            { "w": "On", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "way", "t": "drodze", "lemma": "way" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "jumped", "t": "skakali", "lemma": "jump" },
+            { "w": "on", "t": "po", "lemma": "on" },
+            { "w": "mushrooms", "t": "grzybach", "lemma": "mushroom" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "collected", "t": "zbierali", "lemma": "collect" },
+            { "w": "shiny", "t": "błyszczące", "lemma": "shiny" },
+            { "w": "gold", "t": "złote", "lemma": "gold" },
+            { "w": "coins", "t": "monety", "lemma": "coin" }
+          ]
+        },
+        {
+          "en": "A hungry Goomba tried to stop them, but Mario jumped over it easily.",
+          "pl": "Głodny Goomba próbował ich zatrzymać, ale Mario łatwo go przeskoczył.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hungry", "t": "głodny", "lemma": "hungry" },
+            { "w": "Goomba", "t": "Goomba", "lemma": "Goomba" },
+            { "w": "tried", "t": "próbował", "lemma": "try" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "stop", "t": "zatrzymać", "lemma": "stop" },
+            { "w": "them", "t": "ich", "lemma": "they" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "jumped", "t": "przeskoczył", "lemma": "jump" },
+            { "w": "over", "t": "nad", "lemma": "over" },
+            { "w": "it", "t": "niego", "lemma": "it" },
+            { "w": "easily", "t": "łatwo", "lemma": "easily" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "At last, they reached the huge castle made of black stone.",
+          "pl": "W końcu dotarli do ogromnego zamku zrobionego z czarnego kamienia.",
+          "tokens": [
+            { "w": "At", "t": "w", "lemma": "at" },
+            { "w": "last", "t": "końcu", "lemma": "last" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "reached", "t": "dotarli do", "lemma": "reach" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "huge", "t": "ogromnego", "lemma": "huge" },
+            { "w": "castle", "t": "zamku", "lemma": "castle" },
+            { "w": "made", "t": "zrobionego", "lemma": "make" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "black", "t": "czarnego", "lemma": "black" },
+            { "w": "stone", "t": "kamienia", "lemma": "stone" }
+          ]
+        },
+        {
+          "en": "Hot lava bubbled around the walls, and the air smelled of smoke.",
+          "pl": "Gorąca lawa bulgotała wokół murów, a powietrze pachniało dymem.",
+          "tokens": [
+            { "w": "Hot", "t": "gorąca", "lemma": "hot" },
+            { "w": "lava", "t": "lawa", "lemma": "lava" },
+            { "w": "bubbled", "t": "bulgotała", "lemma": "bubble" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "walls", "t": "murów", "lemma": "wall" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "air", "t": "powietrze", "lemma": "air" },
+            { "w": "smelled", "t": "pachniało", "lemma": "smell" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "smoke", "t": "dymem", "lemma": "smoke" }
+          ]
+        },
+        {
+          "en": "Luigi took a deep breath and whispered, \"We can do this together.\"",
+          "pl": "Luigi wziął głęboki oddech i szepnął: „Damy radę razem”.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "took", "t": "wziął", "lemma": "take" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "deep", "t": "głęboki", "lemma": "deep" },
+            { "w": "breath", "t": "oddech", "lemma": "breath" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "whispered", "t": "szepnął", "lemma": "whisper" },
+            { "w": "We", "t": "my", "lemma": "we" },
+            { "w": "can", "t": "możemy", "lemma": "can" },
+            { "w": "do", "t": "zrobić", "lemma": "do" },
+            { "w": "this", "t": "to", "lemma": "this" },
+            { "w": "together", "t": "razem", "lemma": "together" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Inside, Bowser was waiting for them with an angry roar.",
+          "pl": "W środku Bowser czekał na nich z gniewnym rykiem.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "waiting", "t": "czekał", "lemma": "wait" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "them", "t": "nich", "lemma": "they" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "angry", "t": "gniewnym", "lemma": "angry" },
+            { "w": "roar", "t": "rykiem", "lemma": "roar" }
+          ]
+        },
+        {
+          "en": "Mario threw a fireball, and Luigi pulled a secret lever on the wall.",
+          "pl": "Mario rzucił kulę ognia, a Luigi pociągnął tajną dźwignię na ścianie.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "threw", "t": "rzucił", "lemma": "throw" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "fireball", "t": "kulę ognia", "lemma": "fireball" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "pulled", "t": "pociągnął", "lemma": "pull" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajną", "lemma": "secret" },
+            { "w": "lever", "t": "dźwignię", "lemma": "lever" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wall", "t": "ścianie", "lemma": "wall" }
+          ]
+        },
+        {
+          "en": "The floor opened, and the giant turtle fell into a deep hole.",
+          "pl": "Podłoga się otworzyła i wielki żółw wpadł do głębokiej dziury.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "floor", "t": "podłoga", "lemma": "floor" },
+            { "w": "opened", "t": "otworzyła się", "lemma": "open" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "giant", "t": "wielki", "lemma": "giant" },
+            { "w": "turtle", "t": "żółw", "lemma": "turtle" },
+            { "w": "fell", "t": "wpadł", "lemma": "fall" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "deep", "t": "głębokiej", "lemma": "deep" },
+            { "w": "hole", "t": "dziury", "lemma": "hole" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Princess Peach was finally free, and she thanked the two heroes with a big smile.",
+          "pl": "Księżniczka Peach była wreszcie wolna i podziękowała dwóm bohaterom szerokim uśmiechem.",
+          "tokens": [
+            { "w": "Princess", "t": "księżniczka", "lemma": "princess" },
+            { "w": "Peach", "t": "Peach", "lemma": "Peach" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "finally", "t": "wreszcie", "lemma": "finally" },
+            { "w": "free", "t": "wolna", "lemma": "free" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "thanked", "t": "podziękowała", "lemma": "thank" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwóm", "lemma": "two" },
+            { "w": "heroes", "t": "bohaterom", "lemma": "hero" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "big", "t": "szerokim", "lemma": "big" },
+            { "w": "smile", "t": "uśmiechem", "lemma": "smile" }
+          ]
+        },
+        {
+          "en": "They all returned home together as the sun went down behind the hills.",
+          "pl": "Wszyscy razem wrócili do domu, gdy słońce zachodziło za wzgórzami.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "all", "t": "wszyscy", "lemma": "all" },
+            { "w": "returned", "t": "wrócili", "lemma": "return" },
+            { "w": "home", "t": "do domu", "lemma": "home" },
+            { "w": "together", "t": "razem", "lemma": "together" },
+            { "w": "as", "t": "gdy", "lemma": "as" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sun", "t": "słońce", "lemma": "sun" },
+            { "w": "went", "t": "zachodziło", "lemma": "go" },
+            { "w": "down", "t": "w dół", "lemma": "down" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "hills", "t": "wzgórzami", "lemma": "hill" }
+          ]
+        },
+        {
+          "en": "That night, Mario and Luigi were proud, tired, and very happy.",
+          "pl": "Tej nocy Mario i Luigi byli dumni, zmęczeni i bardzo szczęśliwi.",
+          "tokens": [
+            { "w": "That", "t": "tej", "lemma": "that" },
+            { "w": "night", "t": "nocy", "lemma": "night" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "proud", "t": "dumni", "lemma": "proud" },
+            { "w": "tired", "t": "zmęczeni", "lemma": "tired" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "happy", "t": "szczęśliwi", "lemma": "happy" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Kto został porwany przez Bowsera?",
+      "options": [
+        "Księżniczka Peach",
+        "Toad",
+        "Luigi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Mario założył, zanim wyruszył na ratunek?",
+      "options": [
+        "Swoją czerwoną czapkę",
+        "Złotą koronę",
+        "Zielone buty"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co bracia robili po drodze do zamku?",
+      "options": [
+        "Skakali po grzybach i zbierali złote monety",
+        "Łowili ryby w rzece",
+        "Spali pod drzewem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak bracia pokonali Bowsera?",
+      "options": [
+        "Mario rzucił kulę ognia, a Luigi pociągnął tajną dźwignię",
+        "Poprosili Toada o pomoc",
+        "Uciekli z zamku"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak czuł się Luigi na początku przygody?",
+      "options": [
+        "Trochę przestraszony",
+        "Bardzo zły",
+        "Znudzony"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co stało się na końcu opowiadania?",
+      "options": [
+        "Wszyscy razem wrócili do domu",
+        "Bowser uciekł z księżniczką",
+        "Mario zgubił się w zamku"
+      ],
+      "answer": 0
+    }
+  ]
+}
