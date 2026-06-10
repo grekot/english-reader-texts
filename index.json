@@ -278,6 +278,38 @@
       ],
       "file": "texts/poland-in-a-nutshell.json",
       "sha256": "fff81f29892963ccb2c2d021effd7786431f1f8457309ce3837c80220fa0834f"
+    },
+    {
+      "id": "ancient-daily-life",
+      "title": "Daily Life in the Ancient World",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "ancient",
+        "rome",
+        "egypt",
+        "greece"
+      ],
+      "file": "texts/ancient-daily-life.json",
+      "sha256": "f35ccc45499ab0c6d6dec14049db27ee6a7510ba3e410b8cfc46b4e35f59f2b3"
+    },
+    {
+      "id": "great-mistakes-disasters",
+      "title": "Great Mistakes and Disasters in History",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "disasters",
+        "mistakes",
+        "trivia",
+        "nonfiction"
+      ],
+      "file": "texts/great-mistakes-disasters.json",
+      "sha256": "2b342c297de088da0afeef47654819ee3a688d29a48ce5a1b27e5c2aa966f336"
     }
   ]
 }

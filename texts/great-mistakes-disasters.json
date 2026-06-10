@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 1,
+  "id": "great-mistakes-disasters",
+  "title": "Great Mistakes and Disasters in History",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "disasters",
+    "mistakes",
+    "trivia",
+    "nonfiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "History is not only a story of great victories and clever plans.",
+          "pl": "Historia to nie tylko opowieść o wielkich zwycięstwach i sprytnych planach.",
+          "tokens": [
+            { "w": "History", "t": "historia", "lemma": "history" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "story", "t": "opowieścią", "lemma": "story" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "great", "t": "wielkich", "lemma": "great" },
+            { "w": "victories", "t": "zwycięstw", "lemma": "victory" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "clever", "t": "sprytnych", "lemma": "clever" },
+            { "w": "plans", "t": "planów", "lemma": "plan" }
+          ]
+        },
+        {
+          "en": "It is also full of huge mistakes, strange accidents, and unexpected disasters.",
+          "pl": "Jest też pełna ogromnych błędów, dziwnych wypadków i nieoczekiwanych katastrof.",
+          "tokens": [
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "also", "t": "też", "lemma": "also" },
+            { "w": "full", "t": "pełna", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "huge", "t": "ogromnych", "lemma": "huge" },
+            { "w": "mistakes", "t": "błędów", "lemma": "mistake" },
+            { "w": "strange", "t": "dziwnych", "lemma": "strange" },
+            { "w": "accidents", "t": "wypadków", "lemma": "accident" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "unexpected", "t": "nieoczekiwanych", "lemma": "unexpected" },
+            { "w": "disasters", "t": "katastrof", "lemma": "disaster" }
+          ]
+        },
+        {
+          "en": "These failures often teach us more than the success stories do.",
+          "pl": "Te porażki często uczą nas więcej niż historie o sukcesach.",
+          "tokens": [
+            { "w": "These", "t": "te", "lemma": "this" },
+            { "w": "failures", "t": "porażki", "lemma": "failure" },
+            { "w": "often", "t": "często", "lemma": "often" },
+            { "w": "teach", "t": "uczą", "lemma": "teach" },
+            { "w": "us", "t": "nas", "lemma": "us" },
+            { "w": "more", "t": "więcej", "lemma": "more" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "success", "t": "o sukcesach", "lemma": "success" },
+            { "w": "stories", "t": "historie", "lemma": "story" },
+            { "w": "do", "t": "(robią)", "lemma": "do" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1912, the Titanic was called the safest ship ever built, and people said it could never sink.",
+          "pl": "W 1912 roku Titanic nazywano najbezpieczniejszym statkiem, jaki kiedykolwiek zbudowano, a ludzie mówili, że nigdy nie zatonie.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1912", "t": "1912" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Titanic", "t": "Titanic", "lemma": "Titanic" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "called", "t": "nazywany", "lemma": "call" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "safest", "t": "najbezpieczniejszym", "lemma": "safe" },
+            { "w": "ship", "t": "statkiem", "lemma": "ship" },
+            { "w": "ever", "t": "kiedykolwiek", "lemma": "ever" },
+            { "w": "built", "t": "zbudowanym", "lemma": "build" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "said", "t": "mówili", "lemma": "say" },
+            { "w": "it", "t": "(że) on", "lemma": "it" },
+            { "w": "could", "t": "może", "lemma": "can" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "sink", "t": "zatonąć", "lemma": "sink" }
+          ]
+        },
+        {
+          "en": "Because everyone was so confident, the ship carried far too few lifeboats for its passengers.",
+          "pl": "Ponieważ wszyscy byli tak pewni, statek miał o wiele za mało szalup ratunkowych dla swoich pasażerów.",
+          "tokens": [
+            { "w": "Because", "t": "ponieważ", "lemma": "because" },
+            { "w": "everyone", "t": "wszyscy", "lemma": "everyone" },
+            { "w": "was", "t": "byli", "lemma": "be" },
+            { "w": "so", "t": "tak", "lemma": "so" },
+            { "w": "confident", "t": "pewni", "lemma": "confident" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ship", "t": "statek", "lemma": "ship" },
+            { "w": "carried", "t": "miał", "lemma": "carry" },
+            { "w": "far", "t": "o wiele", "lemma": "far" },
+            { "w": "too", "t": "za", "lemma": "too" },
+            { "w": "few", "t": "mało", "lemma": "few" },
+            { "w": "lifeboats", "t": "szalup ratunkowych", "lemma": "lifeboat" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "its", "t": "swoich", "lemma": "its" },
+            { "w": "passengers", "t": "pasażerów", "lemma": "passenger" }
+          ]
+        },
+        {
+          "en": "When it hit an iceberg on its very first voyage, more than a thousand people lost their lives.",
+          "pl": "Kiedy podczas swojego pierwszego rejsu uderzył w górę lodową, ponad tysiąc ludzi straciło życie.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "it", "t": "on", "lemma": "it" },
+            { "w": "hit", "t": "uderzył w", "lemma": "hit" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "iceberg", "t": "górę lodową", "lemma": "iceberg" },
+            { "w": "on", "t": "(w trakcie)", "lemma": "on" },
+            { "w": "its", "t": "swojego", "lemma": "its" },
+            { "w": "very", "t": "samego", "lemma": "very" },
+            { "w": "first", "t": "pierwszego", "lemma": "first" },
+            { "w": "voyage", "t": "rejsu", "lemma": "voyage" },
+            { "w": "more", "t": "ponad", "lemma": "more" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "thousand", "t": "tysiąc", "lemma": "thousand" },
+            { "w": "people", "t": "ludzi", "lemma": "people" },
+            { "w": "lost", "t": "straciło", "lemma": "lose" },
+            { "w": "their", "t": "swoje", "lemma": "their" },
+            { "w": "lives", "t": "życie", "lemma": "life" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The famous Leaning Tower of Pisa in Italy was never meant to lean at all.",
+          "pl": "Słynna Krzywa Wieża w Pizie we Włoszech wcale nie miała się przechylać.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "famous", "t": "słynna", "lemma": "famous" },
+            { "w": "Leaning", "t": "Krzywa", "lemma": "lean" },
+            { "w": "Tower", "t": "Wieża", "lemma": "tower" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Pisa", "t": "w Pizie", "lemma": "Pisa" },
+            { "w": "in", "t": "we", "lemma": "in" },
+            { "w": "Italy", "t": "Włoszech", "lemma": "Italy" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "meant", "t": "miała", "lemma": "mean" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "lean", "t": "przechylać się", "lemma": "lean" },
+            { "w": "at", "t": "(wcale)", "lemma": "at" },
+            { "w": "all", "t": "wcale", "lemma": "all" }
+          ]
+        },
+        {
+          "en": "The builders placed it on soft, sandy ground that could not support its weight.",
+          "pl": "Budowniczowie postawili ją na miękkim, piaszczystym gruncie, który nie mógł udźwignąć jej ciężaru.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "builders", "t": "budowniczowie", "lemma": "builder" },
+            { "w": "placed", "t": "postawili", "lemma": "place" },
+            { "w": "it", "t": "ją", "lemma": "it" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "soft", "t": "miękkim", "lemma": "soft" },
+            { "w": "sandy", "t": "piaszczystym", "lemma": "sandy" },
+            { "w": "ground", "t": "gruncie", "lemma": "ground" },
+            { "w": "that", "t": "który", "lemma": "that" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "support", "t": "udźwignąć", "lemma": "support" },
+            { "w": "its", "t": "jej", "lemma": "its" },
+            { "w": "weight", "t": "ciężaru", "lemma": "weight" }
+          ]
+        },
+        {
+          "en": "Their mistake created one of the most visited monuments in the world.",
+          "pl": "Ich błąd stworzył jeden z najczęściej odwiedzanych zabytków na świecie.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "mistake", "t": "błąd", "lemma": "mistake" },
+            { "w": "created", "t": "stworzył", "lemma": "create" },
+            { "w": "one", "t": "jeden", "lemma": "one" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "visited", "t": "odwiedzanych", "lemma": "visit" },
+            { "w": "monuments", "t": "zabytków", "lemma": "monument" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świecie", "lemma": "world" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1812, Napoleon led a huge army deep into Russia, expecting a quick victory.",
+          "pl": "W 1812 roku Napoleon poprowadził ogromną armię w głąb Rosji, spodziewając się szybkiego zwycięstwa.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1812", "t": "1812" },
+            { "w": "Napoleon", "t": "Napoleon", "lemma": "Napoleon" },
+            { "w": "led", "t": "poprowadził", "lemma": "lead" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "huge", "t": "ogromną", "lemma": "huge" },
+            { "w": "army", "t": "armię", "lemma": "army" },
+            { "w": "deep", "t": "głęboko", "lemma": "deep" },
+            { "w": "into", "t": "w głąb", "lemma": "into" },
+            { "w": "Russia", "t": "Rosji", "lemma": "Russia" },
+            { "w": "expecting", "t": "spodziewając się", "lemma": "expect" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "quick", "t": "szybkiego", "lemma": "quick" },
+            { "w": "victory", "t": "zwycięstwa", "lemma": "victory" }
+          ]
+        },
+        {
+          "en": "However, the terrible winter and lack of food destroyed most of his soldiers.",
+          "pl": "Jednak straszna zima i brak żywności zniszczyły większość jego żołnierzy.",
+          "tokens": [
+            { "w": "However", "t": "jednak", "lemma": "however" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "terrible", "t": "straszna", "lemma": "terrible" },
+            { "w": "winter", "t": "zima", "lemma": "winter" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "lack", "t": "brak", "lemma": "lack" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "food", "t": "żywności", "lemma": "food" },
+            { "w": "destroyed", "t": "zniszczyły", "lemma": "destroy" },
+            { "w": "most", "t": "większość", "lemma": "most" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "soldiers", "t": "żołnierzy", "lemma": "soldier" }
+          ]
+        },
+        {
+          "en": "If he had turned back earlier, the history of Europe might have looked very different.",
+          "pl": "Gdyby zawrócił wcześniej, historia Europy mogłaby wyglądać zupełnie inaczej.",
+          "tokens": [
+            { "w": "If", "t": "gdyby", "lemma": "if" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "had", "t": "(tryb warunkowy)", "lemma": "have" },
+            { "w": "turned", "t": "zawrócił", "lemma": "turn" },
+            { "w": "back", "t": "(z powrotem)", "lemma": "back" },
+            { "w": "earlier", "t": "wcześniej", "lemma": "early" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "history", "t": "historia", "lemma": "history" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Europe", "t": "Europy", "lemma": "Europe" },
+            { "w": "might", "t": "mogłaby", "lemma": "might" },
+            { "w": "have", "t": "(tryb przeszły)", "lemma": "have" },
+            { "w": "looked", "t": "wyglądać", "lemma": "look" },
+            { "w": "very", "t": "zupełnie", "lemma": "very" },
+            { "w": "different", "t": "inaczej", "lemma": "different" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1999, scientists lost an expensive spacecraft on its way to the planet Mars.",
+          "pl": "W 1999 roku naukowcy stracili drogi statek kosmiczny w drodze do planety Mars.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1999", "t": "1999" },
+            { "w": "scientists", "t": "naukowcy", "lemma": "scientist" },
+            { "w": "lost", "t": "stracili", "lemma": "lose" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "expensive", "t": "drogi", "lemma": "expensive" },
+            { "w": "spacecraft", "t": "statek kosmiczny", "lemma": "spacecraft" },
+            { "w": "on", "t": "(w drodze)", "lemma": "on" },
+            { "w": "its", "t": "swojej", "lemma": "its" },
+            { "w": "way", "t": "drodze", "lemma": "way" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "planet", "t": "planety", "lemma": "planet" },
+            { "w": "Mars", "t": "Mars", "lemma": "Mars" }
+          ]
+        },
+        {
+          "en": "One team had used metric units while another used the older imperial system.",
+          "pl": "Jeden zespół używał jednostek metrycznych, podczas gdy inny używał starszego systemu imperialnego.",
+          "tokens": [
+            { "w": "One", "t": "jeden", "lemma": "one" },
+            { "w": "team", "t": "zespół", "lemma": "team" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "used", "t": "używał", "lemma": "use" },
+            { "w": "metric", "t": "metrycznych", "lemma": "metric" },
+            { "w": "units", "t": "jednostek", "lemma": "unit" },
+            { "w": "while", "t": "podczas gdy", "lemma": "while" },
+            { "w": "another", "t": "inny", "lemma": "another" },
+            { "w": "used", "t": "używał", "lemma": "use" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "older", "t": "starszego", "lemma": "old" },
+            { "w": "imperial", "t": "imperialnego", "lemma": "imperial" },
+            { "w": "system", "t": "systemu", "lemma": "system" }
+          ]
+        },
+        {
+          "en": "Because of this simple confusion, the orbiter flew too close to Mars and was destroyed.",
+          "pl": "Z powodu tego prostego pomieszania sonda podleciała zbyt blisko Marsa i została zniszczona.",
+          "tokens": [
+            { "w": "Because", "t": "z powodu", "lemma": "because" },
+            { "w": "of", "t": "(powodu)", "lemma": "of" },
+            { "w": "this", "t": "tego", "lemma": "this" },
+            { "w": "simple", "t": "prostego", "lemma": "simple" },
+            { "w": "confusion", "t": "pomieszania", "lemma": "confusion" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "orbiter", "t": "sonda", "lemma": "orbiter" },
+            { "w": "flew", "t": "podleciała", "lemma": "fly" },
+            { "w": "too", "t": "zbyt", "lemma": "too" },
+            { "w": "close", "t": "blisko", "lemma": "close" },
+            { "w": "to", "t": "(do)", "lemma": "to" },
+            { "w": "Mars", "t": "Marsa", "lemma": "Mars" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "destroyed", "t": "zniszczona", "lemma": "destroy" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1666, a small fire started in a baker's shop in the city of London.",
+          "pl": "W 1666 roku mały pożar zaczął się w sklepie piekarza w mieście Londynie.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1666", "t": "1666" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "mały", "lemma": "small" },
+            { "w": "fire", "t": "pożar", "lemma": "fire" },
+            { "w": "started", "t": "zaczął się", "lemma": "start" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "baker's", "t": "piekarza", "lemma": "baker" },
+            { "w": "shop", "t": "sklepie", "lemma": "shop" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "city", "t": "mieście", "lemma": "city" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "London", "t": "Londynie", "lemma": "London" }
+          ]
+        },
+        {
+          "en": "Since most houses were made of wood and stood very close together, the flames spread quickly.",
+          "pl": "Ponieważ większość domów była z drewna i stała bardzo blisko siebie, płomienie rozprzestrzeniały się szybko.",
+          "tokens": [
+            { "w": "Since", "t": "ponieważ", "lemma": "since" },
+            { "w": "most", "t": "większość", "lemma": "most" },
+            { "w": "houses", "t": "domów", "lemma": "house" },
+            { "w": "were", "t": "było", "lemma": "be" },
+            { "w": "made", "t": "zrobionych", "lemma": "make" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "wood", "t": "drewna", "lemma": "wood" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "stood", "t": "stało", "lemma": "stand" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "close", "t": "blisko", "lemma": "close" },
+            { "w": "together", "t": "siebie", "lemma": "together" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "flames", "t": "płomienie", "lemma": "flame" },
+            { "w": "spread", "t": "rozprzestrzeniały się", "lemma": "spread" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" }
+          ]
+        },
+        {
+          "en": "The fire burned for days and destroyed a large part of the old city.",
+          "pl": "Pożar płonął przez wiele dni i zniszczył dużą część starego miasta.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fire", "t": "pożar", "lemma": "fire" },
+            { "w": "burned", "t": "płonął", "lemma": "burn" },
+            { "w": "for", "t": "przez", "lemma": "for" },
+            { "w": "days", "t": "dni", "lemma": "day" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "destroyed", "t": "zniszczył", "lemma": "destroy" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "large", "t": "dużą", "lemma": "large" },
+            { "w": "part", "t": "część", "lemma": "part" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "old", "t": "starego", "lemma": "old" },
+            { "w": "city", "t": "miasta", "lemma": "city" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Every one of these disasters began with a decision that seemed reasonable at the time.",
+          "pl": "Każda z tych katastrof zaczęła się od decyzji, która wówczas wydawała się rozsądna.",
+          "tokens": [
+            { "w": "Every", "t": "każda", "lemma": "every" },
+            { "w": "one", "t": "(z nich)", "lemma": "one" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "these", "t": "tych", "lemma": "this" },
+            { "w": "disasters", "t": "katastrof", "lemma": "disaster" },
+            { "w": "began", "t": "zaczęła się", "lemma": "begin" },
+            { "w": "with", "t": "od", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "decision", "t": "decyzji", "lemma": "decision" },
+            { "w": "that", "t": "która", "lemma": "that" },
+            { "w": "seemed", "t": "wydawała się", "lemma": "seem" },
+            { "w": "reasonable", "t": "rozsądna", "lemma": "reasonable" },
+            { "w": "at", "t": "(wówczas)", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "time", "t": "wtedy", "lemma": "time" }
+          ]
+        },
+        {
+          "en": "They remind us how a single mistake can change the course of history.",
+          "pl": "Przypominają nam, jak pojedynczy błąd może zmienić bieg historii.",
+          "tokens": [
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "remind", "t": "przypominają", "lemma": "remind" },
+            { "w": "us", "t": "nam", "lemma": "us" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "single", "t": "pojedynczy", "lemma": "single" },
+            { "w": "mistake", "t": "błąd", "lemma": "mistake" },
+            { "w": "can", "t": "może", "lemma": "can" },
+            { "w": "change", "t": "zmienić", "lemma": "change" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "course", "t": "bieg", "lemma": "course" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "history", "t": "historii", "lemma": "history" }
+          ]
+        },
+        {
+          "en": "By studying these failures, we learn to think more carefully about the future.",
+          "pl": "Badając te porażki, uczymy się myśleć uważniej o przyszłości.",
+          "tokens": [
+            { "w": "By", "t": "(przez)", "lemma": "by" },
+            { "w": "studying", "t": "badając", "lemma": "study" },
+            { "w": "these", "t": "te", "lemma": "this" },
+            { "w": "failures", "t": "porażki", "lemma": "failure" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "learn", "t": "uczymy się", "lemma": "learn" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "think", "t": "myśleć", "lemma": "think" },
+            { "w": "more", "t": "bardziej", "lemma": "more" },
+            { "w": "carefully", "t": "uważnie", "lemma": "carefully" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "future", "t": "przyszłości", "lemma": "future" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Dlaczego Titanic miał za mało szalup ratunkowych?",
+      "options": [
+        "Bo wszyscy byli przekonani, że jest niezatapialny",
+        "Bo szalupy były zbyt drogie",
+        "Bo zapomniano je załadować w porcie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dlaczego Krzywa Wieża w Pizie się przechyla?",
+      "options": [
+        "Postawiono ją na miękkim, piaszczystym gruncie",
+        "Uderzył w nią piorun",
+        "Zbudowano ją celowo krzywą"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zniszczyło armię Napoleona w Rosji w 1812 roku?",
+      "options": [
+        "Sroga zima i brak żywności",
+        "Wielka bitwa morska",
+        "Zaraza w stolicy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Z powodu jakiego błędu stracono sondę kosmiczną w 1999 roku?",
+      "options": [
+        "Pomieszania jednostek metrycznych i imperialnych",
+        "Awarii silnika rakiety",
+        "Burzy słonecznej"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak zaczął się wielki pożar Londynu w 1666 roku?",
+      "options": [
+        "Od małego ognia w sklepie piekarza; drewniane domy szybko zajęły się ogniem",
+        "Od uderzenia pioruna w katedrę",
+        "Od wybuchu w fabryce prochu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki wniosek płynie z tekstu?",
+      "options": [
+        "Pojedynczy błąd może zmienić bieg historii; warto uczyć się na pomyłkach",
+        "Katastrof nie da się niczego nauczyć",
+        "Wszystkie katastrofy są dziełem przypadku bez przyczyny"
+      ],
+      "answer": 0
+    }
+  ]
+}

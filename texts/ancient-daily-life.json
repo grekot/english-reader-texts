@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "id": "ancient-daily-life",
+  "title": "Daily Life in the Ancient World",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "ancient",
+    "rome",
+    "egypt",
+    "greece"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Most history books focus on emperors, wars, and great battles.",
+          "pl": "Większość książek historycznych skupia się na cesarzach, wojnach i wielkich bitwach.",
+          "tokens": [
+            { "w": "Most", "t": "większość", "lemma": "most" },
+            { "w": "history", "t": "historyczne", "lemma": "history" },
+            { "w": "books", "t": "książek", "lemma": "book" },
+            { "w": "focus", "t": "skupia się", "lemma": "focus" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "emperors", "t": "cesarzach", "lemma": "emperor" },
+            { "w": "wars", "t": "wojnach", "lemma": "war" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "great", "t": "wielkich", "lemma": "great" },
+            { "w": "battles", "t": "bitwach", "lemma": "battle" }
+          ]
+        },
+        {
+          "en": "But ordinary people in the ancient world lived surprisingly interesting daily lives.",
+          "pl": "Ale zwykli ludzie w starożytnym świecie wiedli zaskakująco ciekawe codzienne życie.",
+          "tokens": [
+            { "w": "But", "t": "ale", "lemma": "but" },
+            { "w": "ordinary", "t": "zwykli", "lemma": "ordinary" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ancient", "t": "starożytnym", "lemma": "ancient" },
+            { "w": "world", "t": "świecie", "lemma": "world" },
+            { "w": "lived", "t": "wiedli", "lemma": "live" },
+            { "w": "surprisingly", "t": "zaskakująco", "lemma": "surprisingly" },
+            { "w": "interesting", "t": "ciekawe", "lemma": "interesting" },
+            { "w": "daily", "t": "codzienne", "lemma": "daily" },
+            { "w": "lives", "t": "życie", "lemma": "life" }
+          ]
+        },
+        {
+          "en": "Here is how Romans, Egyptians, and Greeks really spent their days.",
+          "pl": "Oto jak Rzymianie, Egipcjanie i Grecy naprawdę spędzali swoje dni.",
+          "tokens": [
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "is", "t": "(jest)", "lemma": "be" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "Romans", "t": "Rzymianie", "lemma": "Roman" },
+            { "w": "Egyptians", "t": "Egipcjanie", "lemma": "Egyptian" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Greeks", "t": "Grecy", "lemma": "Greek" },
+            { "w": "really", "t": "naprawdę", "lemma": "really" },
+            { "w": "spent", "t": "spędzali", "lemma": "spend" },
+            { "w": "their", "t": "swoje", "lemma": "their" },
+            { "w": "days", "t": "dni", "lemma": "day" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Many Romans lived in crowded apartment blocks without their own kitchens.",
+          "pl": "Wielu Rzymian mieszkało w zatłoczonych blokach mieszkalnych bez własnych kuchni.",
+          "tokens": [
+            { "w": "Many", "t": "wielu", "lemma": "many" },
+            { "w": "Romans", "t": "Rzymian", "lemma": "Roman" },
+            { "w": "lived", "t": "mieszkało", "lemma": "live" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "crowded", "t": "zatłoczonych", "lemma": "crowded" },
+            { "w": "apartment", "t": "mieszkalnych", "lemma": "apartment" },
+            { "w": "blocks", "t": "blokach", "lemma": "block" },
+            { "w": "without", "t": "bez", "lemma": "without" },
+            { "w": "their", "t": "własnych", "lemma": "their" },
+            { "w": "own", "t": "własnych", "lemma": "own" },
+            { "w": "kitchens", "t": "kuchni", "lemma": "kitchen" }
+          ]
+        },
+        {
+          "en": "Instead of cooking at home, they bought hot meals from small street bars called thermopolia.",
+          "pl": "Zamiast gotować w domu, kupowali gorące posiłki w małych ulicznych barach zwanych thermopolia.",
+          "tokens": [
+            { "w": "Instead", "t": "zamiast", "lemma": "instead" },
+            { "w": "of", "t": "(czego)", "lemma": "of" },
+            { "w": "cooking", "t": "gotować", "lemma": "cook" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "home", "t": "domu", "lemma": "home" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "bought", "t": "kupowali", "lemma": "buy" },
+            { "w": "hot", "t": "gorące", "lemma": "hot" },
+            { "w": "meals", "t": "posiłki", "lemma": "meal" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "small", "t": "małych", "lemma": "small" },
+            { "w": "street", "t": "ulicznych", "lemma": "street" },
+            { "w": "bars", "t": "barów", "lemma": "bar" },
+            { "w": "called", "t": "zwanych", "lemma": "call" },
+            { "w": "thermopolia", "t": "thermopolia", "lemma": "thermopolia" }
+          ]
+        },
+        {
+          "en": "In a way, ancient Rome already had its own kind of fast food.",
+          "pl": "W pewnym sensie starożytny Rzym miał już swój własny rodzaj fast foodu.",
+          "tokens": [
+            { "w": "In", "t": "(w pewnym sensie)", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "way", "t": "sposób", "lemma": "way" },
+            { "w": "ancient", "t": "starożytny", "lemma": "ancient" },
+            { "w": "Rome", "t": "Rzym", "lemma": "Rome" },
+            { "w": "already", "t": "już", "lemma": "already" },
+            { "w": "had", "t": "miał", "lemma": "have" },
+            { "w": "its", "t": "swój", "lemma": "its" },
+            { "w": "own", "t": "własny", "lemma": "own" },
+            { "w": "kind", "t": "rodzaj", "lemma": "kind" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "fast", "t": "szybkiego", "lemma": "fast" },
+            { "w": "food", "t": "jedzenia", "lemma": "food" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Public bathhouses were among the most popular places in any Roman city.",
+          "pl": "Publiczne łaźnie były wśród najpopularniejszych miejsc w każdym rzymskim mieście.",
+          "tokens": [
+            { "w": "Public", "t": "publiczne", "lemma": "public" },
+            { "w": "bathhouses", "t": "łaźnie", "lemma": "bathhouse" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "among", "t": "wśród", "lemma": "among" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "popular", "t": "popularniejszych", "lemma": "popular" },
+            { "w": "places", "t": "miejsc", "lemma": "place" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "any", "t": "każdym", "lemma": "any" },
+            { "w": "Roman", "t": "rzymskim", "lemma": "Roman" },
+            { "w": "city", "t": "mieście", "lemma": "city" }
+          ]
+        },
+        {
+          "en": "People went there not only to wash but also to exercise, talk, and do business.",
+          "pl": "Ludzie chodzili tam nie tylko się myć, ale także ćwiczyć, rozmawiać i robić interesy.",
+          "tokens": [
+            { "w": "People", "t": "ludzie", "lemma": "people" },
+            { "w": "went", "t": "chodzili", "lemma": "go" },
+            { "w": "there", "t": "tam", "lemma": "there" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "wash", "t": "myć się", "lemma": "wash" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "also", "t": "także", "lemma": "also" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "exercise", "t": "ćwiczyć", "lemma": "exercise" },
+            { "w": "talk", "t": "rozmawiać", "lemma": "talk" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "do", "t": "robić", "lemma": "do" },
+            { "w": "business", "t": "interesy", "lemma": "business" }
+          ]
+        },
+        {
+          "en": "A visit to the baths could easily fill an entire afternoon.",
+          "pl": "Wizyta w łaźniach mogła łatwo wypełnić całe popołudnie.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "visit", "t": "wizyta", "lemma": "visit" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "baths", "t": "łaźniach", "lemma": "bath" },
+            { "w": "could", "t": "mogła", "lemma": "can" },
+            { "w": "easily", "t": "łatwo", "lemma": "easily" },
+            { "w": "fill", "t": "wypełnić", "lemma": "fill" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "entire", "t": "całe", "lemma": "entire" },
+            { "w": "afternoon", "t": "popołudnie", "lemma": "afternoon" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In ancient Egypt, both men and women wore dark eye makeup called kohl.",
+          "pl": "W starożytnym Egipcie zarówno mężczyźni, jak i kobiety nosili ciemny makijaż oczu zwany kohl.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "ancient", "t": "starożytnym", "lemma": "ancient" },
+            { "w": "Egypt", "t": "Egipcie", "lemma": "Egypt" },
+            { "w": "both", "t": "zarówno", "lemma": "both" },
+            { "w": "men", "t": "mężczyźni", "lemma": "man" },
+            { "w": "and", "t": "jak i", "lemma": "and" },
+            { "w": "women", "t": "kobiety", "lemma": "woman" },
+            { "w": "wore", "t": "nosili", "lemma": "wear" },
+            { "w": "dark", "t": "ciemny", "lemma": "dark" },
+            { "w": "eye", "t": "do oczu", "lemma": "eye" },
+            { "w": "makeup", "t": "makijaż", "lemma": "makeup" },
+            { "w": "called", "t": "zwany", "lemma": "call" },
+            { "w": "kohl", "t": "kohl", "lemma": "kohl" }
+          ]
+        },
+        {
+          "en": "It was not only fashionable but also protected their eyes from the bright desert sun.",
+          "pl": "Był nie tylko modny, ale też chronił ich oczy przed jasnym pustynnym słońcem.",
+          "tokens": [
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "fashionable", "t": "modne", "lemma": "fashionable" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "also", "t": "także", "lemma": "also" },
+            { "w": "protected", "t": "chroniło", "lemma": "protect" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "eyes", "t": "oczy", "lemma": "eye" },
+            { "w": "from", "t": "przed", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bright", "t": "jasnym", "lemma": "bright" },
+            { "w": "desert", "t": "pustynnym", "lemma": "desert" },
+            { "w": "sun", "t": "słońcem", "lemma": "sun" }
+          ]
+        },
+        {
+          "en": "Egyptians also valued cleanliness and washed several times a day.",
+          "pl": "Egipcjanie cenili także czystość i myli się kilka razy dziennie.",
+          "tokens": [
+            { "w": "Egyptians", "t": "Egipcjanie", "lemma": "Egyptian" },
+            { "w": "also", "t": "także", "lemma": "also" },
+            { "w": "valued", "t": "cenili", "lemma": "value" },
+            { "w": "cleanliness", "t": "czystość", "lemma": "cleanliness" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "washed", "t": "myli się", "lemma": "wash" },
+            { "w": "several", "t": "kilka", "lemma": "several" },
+            { "w": "times", "t": "razy", "lemma": "time" },
+            { "w": "a", "t": "(na)", "lemma": "a" },
+            { "w": "day", "t": "dzień", "lemma": "day" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "To relax, Egyptian families loved to play a board game called Senet.",
+          "pl": "Aby się zrelaksować, egipskie rodziny uwielbiały grać w grę planszową zwaną Senet.",
+          "tokens": [
+            { "w": "To", "t": "(aby)", "lemma": "to" },
+            { "w": "relax", "t": "zrelaksować się", "lemma": "relax" },
+            { "w": "Egyptian", "t": "egipskie", "lemma": "Egyptian" },
+            { "w": "families", "t": "rodziny", "lemma": "family" },
+            { "w": "loved", "t": "uwielbiały", "lemma": "love" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "play", "t": "grać", "lemma": "play" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "board", "t": "planszową", "lemma": "board" },
+            { "w": "game", "t": "grę", "lemma": "game" },
+            { "w": "called", "t": "zwaną", "lemma": "call" },
+            { "w": "Senet", "t": "Senet", "lemma": "Senet" }
+          ]
+        },
+        {
+          "en": "Players moved their pieces across thirty squares, hoping for good luck.",
+          "pl": "Gracze przesuwali swoje pionki przez trzydzieści pól, mając nadzieję na szczęście.",
+          "tokens": [
+            { "w": "Players", "t": "gracze", "lemma": "player" },
+            { "w": "moved", "t": "przesuwali", "lemma": "move" },
+            { "w": "their", "t": "swoje", "lemma": "their" },
+            { "w": "pieces", "t": "pionki", "lemma": "piece" },
+            { "w": "across", "t": "przez", "lemma": "across" },
+            { "w": "thirty", "t": "trzydzieści", "lemma": "thirty" },
+            { "w": "squares", "t": "pól", "lemma": "square" },
+            { "w": "hoping", "t": "mając nadzieję", "lemma": "hope" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "good", "t": "(dobre)", "lemma": "good" },
+            { "w": "luck", "t": "szczęście", "lemma": "luck" }
+          ]
+        },
+        {
+          "en": "Some Egyptians believed the game was even connected to the journey into the afterlife.",
+          "pl": "Niektórzy Egipcjanie wierzyli, że gra była nawet związana z podróżą do życia pozagrobowego.",
+          "tokens": [
+            { "w": "Some", "t": "niektórzy", "lemma": "some" },
+            { "w": "Egyptians", "t": "Egipcjanie", "lemma": "Egyptian" },
+            { "w": "believed", "t": "wierzyli", "lemma": "believe" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "game", "t": "gra", "lemma": "game" },
+            { "w": "was", "t": "(czas przeszły)", "lemma": "be" },
+            { "w": "even", "t": "nawet", "lemma": "even" },
+            { "w": "connected", "t": "związana", "lemma": "connect" },
+            { "w": "to", "t": "z", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "journey", "t": "podróżą", "lemma": "journey" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "afterlife", "t": "życia pozagrobowego", "lemma": "afterlife" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In ancient Greece, free men spent much of their day in the agora, the central marketplace.",
+          "pl": "W starożytnej Grecji wolni mężczyźni spędzali dużą część dnia na agorze, centralnym rynku.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "ancient", "t": "starożytnej", "lemma": "ancient" },
+            { "w": "Greece", "t": "Grecji", "lemma": "Greece" },
+            { "w": "free", "t": "wolni", "lemma": "free" },
+            { "w": "men", "t": "mężczyźni", "lemma": "man" },
+            { "w": "spent", "t": "spędzali", "lemma": "spend" },
+            { "w": "much", "t": "dużą część", "lemma": "much" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "their", "t": "swojego", "lemma": "their" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "agora", "t": "agorze", "lemma": "agora" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "central", "t": "centralnym", "lemma": "central" },
+            { "w": "marketplace", "t": "rynku", "lemma": "marketplace" }
+          ]
+        },
+        {
+          "en": "There they shopped, met friends, and argued about politics and new ideas.",
+          "pl": "Tam robili zakupy, spotykali przyjaciół i spierali się o politykę i nowe idee.",
+          "tokens": [
+            { "w": "There", "t": "tam", "lemma": "there" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "shopped", "t": "robili zakupy", "lemma": "shop" },
+            { "w": "met", "t": "spotykali", "lemma": "meet" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "argued", "t": "spierali się", "lemma": "argue" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "politics", "t": "politykę", "lemma": "politics" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "new", "t": "nowe", "lemma": "new" },
+            { "w": "ideas", "t": "idee", "lemma": "idea" }
+          ]
+        },
+        {
+          "en": "This love of public discussion helped give birth to democracy itself.",
+          "pl": "Ta miłość do publicznej dyskusji pomogła zrodzić samą demokrację.",
+          "tokens": [
+            { "w": "This", "t": "ta", "lemma": "this" },
+            { "w": "love", "t": "miłość", "lemma": "love" },
+            { "w": "of", "t": "do", "lemma": "of" },
+            { "w": "public", "t": "publicznej", "lemma": "public" },
+            { "w": "discussion", "t": "dyskusji", "lemma": "discussion" },
+            { "w": "helped", "t": "pomogła", "lemma": "help" },
+            { "w": "give", "t": "(dać początek)", "lemma": "give" },
+            { "w": "birth", "t": "zrodzić", "lemma": "birth" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "democracy", "t": "demokrację", "lemma": "democracy" },
+            { "w": "itself", "t": "samą", "lemma": "itself" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The daily lives of ancient people were often busier and more modern than we imagine.",
+          "pl": "Codzienne życie starożytnych ludzi było często bardziej zajęte i nowoczesne, niż sobie wyobrażamy.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "daily", "t": "codzienne", "lemma": "daily" },
+            { "w": "lives", "t": "życie", "lemma": "life" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "ancient", "t": "starożytnych", "lemma": "ancient" },
+            { "w": "people", "t": "ludzi", "lemma": "people" },
+            { "w": "were", "t": "było", "lemma": "be" },
+            { "w": "often", "t": "często", "lemma": "often" },
+            { "w": "busier", "t": "bardziej zajęte", "lemma": "busy" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "more", "t": "bardziej", "lemma": "more" },
+            { "w": "modern", "t": "nowoczesne", "lemma": "modern" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "imagine", "t": "wyobrażamy sobie", "lemma": "imagine" }
+          ]
+        },
+        {
+          "en": "They enjoyed food, games, fashion, and conversation, just as we do today.",
+          "pl": "Cieszyli się jedzeniem, grami, modą i rozmową, tak jak my dziś.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "enjoyed", "t": "cieszyli się", "lemma": "enjoy" },
+            { "w": "food", "t": "jedzeniem", "lemma": "food" },
+            { "w": "games", "t": "grami", "lemma": "game" },
+            { "w": "fashion", "t": "modą", "lemma": "fashion" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "conversation", "t": "rozmową", "lemma": "conversation" },
+            { "w": "just", "t": "tak", "lemma": "just" },
+            { "w": "as", "t": "jak", "lemma": "as" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "do", "t": "(robimy)", "lemma": "do" },
+            { "w": "today", "t": "dziś", "lemma": "today" }
+          ]
+        },
+        {
+          "en": "Looking closely at ordinary life brings the ancient world back to life.",
+          "pl": "Uważne przyjrzenie się zwykłemu życiu przywraca starożytny świat do życia.",
+          "tokens": [
+            { "w": "Looking", "t": "patrzenie", "lemma": "look" },
+            { "w": "closely", "t": "uważnie", "lemma": "closely" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "ordinary", "t": "zwykłe", "lemma": "ordinary" },
+            { "w": "life", "t": "życie", "lemma": "life" },
+            { "w": "brings", "t": "przywraca", "lemma": "bring" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ancient", "t": "starożytny", "lemma": "ancient" },
+            { "w": "world", "t": "świat", "lemma": "world" },
+            { "w": "back", "t": "(z powrotem)", "lemma": "back" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "life", "t": "życia", "lemma": "life" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie wielu Rzymian kupowało ciepłe posiłki?",
+      "options": [
+        "W ulicznych barach zwanych thermopolia, bo nie mieli własnych kuchni",
+        "W wielkich supermarketach",
+        "Wyłącznie w pałacu cesarza"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Po co Rzymianie chodzili do łaźni publicznych?",
+      "options": [
+        "Nie tylko się myć, ale też ćwiczyć, rozmawiać i robić interesy",
+        "Tylko po to, by szybko się umyć",
+        "Żeby się modlić do bogów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Po co starożytni Egipcjanie nosili ciemny makijaż oczu (kohl)?",
+      "options": [
+        "Dla mody, a także by chronić oczy przed słońcem",
+        "Aby ukryć się przed wrogami",
+        "Tylko podczas wojny"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "W jaką grę planszową grały egipskie rodziny?",
+      "options": [
+        "Senet",
+        "Szachy",
+        "Warcaby"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie wolni Grecy spędzali dużą część dnia?",
+      "options": [
+        "Na agorze (rynku), rozmawiając o polityce i ideach",
+        "W zamkniętych domach",
+        "Na polu bitwy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki wniosek płynie z tekstu?",
+      "options": [
+        "Życie codzienne starożytnych było bardziej nowoczesne, niż myślimy",
+        "Starożytni ludzie nic nie robili przez cały dzień",
+        "Historia dotyczy tylko cesarzy i wojen"
+      ],
+      "answer": 0
+    }
+  ]
+}
