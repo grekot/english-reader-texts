@@ -1,0 +1,509 @@
+{
+  "schemaVersion": 1,
+  "id": "inventions-by-accident",
+  "title": "Inventions by Accident: Happy Mistakes in History",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "inventions",
+    "science",
+    "trivia",
+    "nonfiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Some of the most useful inventions in history were never planned at all.",
+          "pl": "Niektóre z najbardziej użytecznych wynalazków w historii nigdy nie były zaplanowane.",
+          "tokens": [
+            { "w": "Some", "t": "niektóre", "lemma": "some" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "useful", "t": "użytecznych", "lemma": "useful" },
+            { "w": "inventions", "t": "wynalazków", "lemma": "invention" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "history", "t": "historii", "lemma": "history" },
+            { "w": "were", "t": "(czas przeszły)", "lemma": "be" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "planned", "t": "zaplanowane", "lemma": "plan" },
+            { "w": "at", "t": "(wcale)", "lemma": "at" },
+            { "w": "all", "t": "wcale", "lemma": "all" }
+          ]
+        },
+        {
+          "en": "They appeared by accident, often because of a lucky mistake.",
+          "pl": "Pojawiły się przez przypadek, często z powodu szczęśliwego błędu.",
+          "tokens": [
+            { "w": "They", "t": "one", "lemma": "they" },
+            { "w": "appeared", "t": "pojawiły się", "lemma": "appear" },
+            { "w": "by", "t": "przez", "lemma": "by" },
+            { "w": "accident", "t": "przypadek", "lemma": "accident" },
+            { "w": "often", "t": "często", "lemma": "often" },
+            { "w": "because", "t": "z powodu", "lemma": "because" },
+            { "w": "of", "t": "(powodu)", "lemma": "of" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "lucky", "t": "szczęśliwego", "lemma": "lucky" },
+            { "w": "mistake", "t": "błędu", "lemma": "mistake" }
+          ]
+        },
+        {
+          "en": "Here are a few discoveries that changed the world by pure chance.",
+          "pl": "Oto kilka odkryć, które zmieniły świat przez czysty przypadek.",
+          "tokens": [
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "few", "t": "kilka", "lemma": "few" },
+            { "w": "discoveries", "t": "odkryć", "lemma": "discovery" },
+            { "w": "that", "t": "które", "lemma": "that" },
+            { "w": "changed", "t": "zmieniły", "lemma": "change" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świat", "lemma": "world" },
+            { "w": "by", "t": "przez", "lemma": "by" },
+            { "w": "pure", "t": "czysty", "lemma": "pure" },
+            { "w": "chance", "t": "przypadek", "lemma": "chance" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1928, the scientist Alexander Fleming returned from holiday to his untidy laboratory.",
+          "pl": "W 1928 roku naukowiec Alexander Fleming wrócił z wakacji do swojego nieuporządkowanego laboratorium.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1928", "t": "1928" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "scientist", "t": "naukowiec", "lemma": "scientist" },
+            { "w": "Alexander", "t": "Alexander", "lemma": "Alexander" },
+            { "w": "Fleming", "t": "Fleming", "lemma": "Fleming" },
+            { "w": "returned", "t": "wrócił", "lemma": "return" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "holiday", "t": "wakacji", "lemma": "holiday" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "untidy", "t": "nieuporządkowanego", "lemma": "untidy" },
+            { "w": "laboratory", "t": "laboratorium", "lemma": "laboratory" }
+          ]
+        },
+        {
+          "en": "He noticed that a strange mould had grown on one of his dishes and killed the bacteria around it.",
+          "pl": "Zauważył, że na jednym z naczyń wyrosła dziwna pleśń, która zabiła bakterie wokół niej.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "noticed", "t": "zauważył", "lemma": "notice" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "strange", "t": "dziwna", "lemma": "strange" },
+            { "w": "mould", "t": "pleśń", "lemma": "mould" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "grown", "t": "wyrosła", "lemma": "grow" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "one", "t": "jednym", "lemma": "one" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "dishes", "t": "naczyń", "lemma": "dish" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "killed", "t": "zabiła", "lemma": "kill" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bacteria", "t": "bakterie", "lemma": "bacteria" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "it", "t": "niej", "lemma": "it" }
+          ]
+        },
+        {
+          "en": "This accidental discovery became penicillin, the first antibiotic, which has saved millions of lives.",
+          "pl": "To przypadkowe odkrycie stało się penicyliną, pierwszym antybiotykiem, który uratował miliony żyć.",
+          "tokens": [
+            { "w": "This", "t": "to", "lemma": "this" },
+            { "w": "accidental", "t": "przypadkowe", "lemma": "accidental" },
+            { "w": "discovery", "t": "odkrycie", "lemma": "discovery" },
+            { "w": "became", "t": "stało się", "lemma": "become" },
+            { "w": "penicillin", "t": "penicyliną", "lemma": "penicillin" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszym", "lemma": "first" },
+            { "w": "antibiotic", "t": "antybiotykiem", "lemma": "antibiotic" },
+            { "w": "which", "t": "który", "lemma": "which" },
+            { "w": "has", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "saved", "t": "uratował", "lemma": "save" },
+            { "w": "millions", "t": "miliony", "lemma": "million" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "lives", "t": "żyć", "lemma": "life" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "During the 1940s, an engineer named Percy Spencer was testing radar equipment.",
+          "pl": "W latach 40. inżynier o imieniu Percy Spencer testował sprzęt radarowy.",
+          "tokens": [
+            { "w": "During", "t": "w trakcie", "lemma": "during" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "1940s", "t": "lat 40.", "lemma": "1940s" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "engineer", "t": "inżynier", "lemma": "engineer" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "Percy", "t": "Percy", "lemma": "Percy" },
+            { "w": "Spencer", "t": "Spencer", "lemma": "Spencer" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "testing", "t": "testował", "lemma": "test" },
+            { "w": "radar", "t": "radarowy", "lemma": "radar" },
+            { "w": "equipment", "t": "sprzęt", "lemma": "equipment" }
+          ]
+        },
+        {
+          "en": "He suddenly realized that a chocolate bar in his pocket had completely melted.",
+          "pl": "Nagle zdał sobie sprawę, że baton czekoladowy w jego kieszeni całkowicie się rozpuścił.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "realized", "t": "zdał sobie sprawę", "lemma": "realize" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "chocolate", "t": "czekoladowy", "lemma": "chocolate" },
+            { "w": "bar", "t": "baton", "lemma": "bar" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "pocket", "t": "kieszeni", "lemma": "pocket" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "completely", "t": "całkowicie", "lemma": "completely" },
+            { "w": "melted", "t": "się rozpuścił", "lemma": "melt" }
+          ]
+        },
+        {
+          "en": "The invisible waves had cooked it, and soon the first microwave oven was born.",
+          "pl": "Niewidzialne fale ugotowały go i wkrótce narodziła się pierwsza kuchenka mikrofalowa.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "invisible", "t": "niewidzialne", "lemma": "invisible" },
+            { "w": "waves", "t": "fale", "lemma": "wave" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "cooked", "t": "ugotowały", "lemma": "cook" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "soon", "t": "wkrótce", "lemma": "soon" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwsza", "lemma": "first" },
+            { "w": "microwave", "t": "mikrofalowa", "lemma": "microwave" },
+            { "w": "oven", "t": "kuchenka", "lemma": "oven" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "born", "t": "narodziła się", "lemma": "bear" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A researcher at a large company once tried to create a very strong glue.",
+          "pl": "Pewien badacz w dużej firmie próbował kiedyś stworzyć bardzo mocny klej.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "researcher", "t": "badacz", "lemma": "researcher" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "large", "t": "dużej", "lemma": "large" },
+            { "w": "company", "t": "firmie", "lemma": "company" },
+            { "w": "once", "t": "kiedyś", "lemma": "once" },
+            { "w": "tried", "t": "próbował", "lemma": "try" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "create", "t": "stworzyć", "lemma": "create" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "strong", "t": "mocny", "lemma": "strong" },
+            { "w": "glue", "t": "klej", "lemma": "glue" }
+          ]
+        },
+        {
+          "en": "Instead, he produced a weak glue that could stick and be removed again and again.",
+          "pl": "Zamiast tego wytworzył słaby klej, który mógł się przyklejać i być usuwany wciąż od nowa.",
+          "tokens": [
+            { "w": "Instead", "t": "zamiast tego", "lemma": "instead" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "produced", "t": "wytworzył", "lemma": "produce" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "weak", "t": "słaby", "lemma": "weak" },
+            { "w": "glue", "t": "klej", "lemma": "glue" },
+            { "w": "that", "t": "który", "lemma": "that" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "stick", "t": "przyklejać", "lemma": "stick" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "be", "t": "(być)", "lemma": "be" },
+            { "w": "removed", "t": "usuwany", "lemma": "remove" },
+            { "w": "again", "t": "wciąż", "lemma": "again" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "again", "t": "od nowa", "lemma": "again" }
+          ]
+        },
+        {
+          "en": "Years later, a colleague used it to make the famous yellow Post-it notes.",
+          "pl": "Lata później kolega użył go, by zrobić słynne żółte karteczki Post-it.",
+          "tokens": [
+            { "w": "Years", "t": "lata", "lemma": "year" },
+            { "w": "later", "t": "później", "lemma": "later" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "colleague", "t": "kolega", "lemma": "colleague" },
+            { "w": "used", "t": "użył", "lemma": "use" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "make", "t": "zrobić", "lemma": "make" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "famous", "t": "słynne", "lemma": "famous" },
+            { "w": "yellow", "t": "żółte", "lemma": "yellow" },
+            { "w": "Post-it", "t": "Post-it", "lemma": "Post-it" },
+            { "w": "notes", "t": "karteczki", "lemma": "note" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1853, a chef named George Crum was annoyed by a difficult customer.",
+          "pl": "W 1853 roku kucharz o imieniu George Crum był zirytowany przez trudnego klienta.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1853", "t": "1853" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "chef", "t": "kucharz", "lemma": "chef" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "George", "t": "George", "lemma": "George" },
+            { "w": "Crum", "t": "Crum", "lemma": "Crum" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "annoyed", "t": "zirytowany", "lemma": "annoy" },
+            { "w": "by", "t": "przez", "lemma": "by" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "difficult", "t": "trudnego", "lemma": "difficult" },
+            { "w": "customer", "t": "klienta", "lemma": "customer" }
+          ]
+        },
+        {
+          "en": "The man kept complaining that his fried potatoes were too thick and soft.",
+          "pl": "Mężczyzna ciągle narzekał, że jego smażone ziemniaki są zbyt grube i miękkie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "kept", "t": "ciągle", "lemma": "keep" },
+            { "w": "complaining", "t": "narzekał", "lemma": "complain" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "fried", "t": "smażone", "lemma": "fry" },
+            { "w": "potatoes", "t": "ziemniaki", "lemma": "potato" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "too", "t": "zbyt", "lemma": "too" },
+            { "w": "thick", "t": "grube", "lemma": "thick" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "soft", "t": "miękkie", "lemma": "soft" }
+          ]
+        },
+        {
+          "en": "As a joke, the chef sliced them paper-thin and fried them hard, accidentally inventing the potato chip.",
+          "pl": "Dla żartu kucharz pokroił je cienko jak papier i usmażył na chrupko, przypadkiem wynajdując chips ziemniaczany.",
+          "tokens": [
+            { "w": "As", "t": "dla", "lemma": "as" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "joke", "t": "żartu", "lemma": "joke" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "chef", "t": "kucharz", "lemma": "chef" },
+            { "w": "sliced", "t": "pokroił", "lemma": "slice" },
+            { "w": "them", "t": "je", "lemma": "them" },
+            { "w": "paper-thin", "t": "cienko jak papier", "lemma": "paper-thin" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "fried", "t": "usmażył", "lemma": "fry" },
+            { "w": "them", "t": "je", "lemma": "them" },
+            { "w": "hard", "t": "na chrupko", "lemma": "hard" },
+            { "w": "accidentally", "t": "przypadkiem", "lemma": "accidentally" },
+            { "w": "inventing", "t": "wynajdując", "lemma": "invent" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "potato", "t": "ziemniaczany", "lemma": "potato" },
+            { "w": "chip", "t": "chips", "lemma": "chip" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One day, a Swiss engineer went for a walk in the countryside with his dog.",
+          "pl": "Pewnego dnia szwajcarski inżynier poszedł na spacer po wsi ze swoim psem.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "Swiss", "t": "szwajcarski", "lemma": "Swiss" },
+            { "w": "engineer", "t": "inżynier", "lemma": "engineer" },
+            { "w": "went", "t": "poszedł", "lemma": "go" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "walk", "t": "spacer", "lemma": "walk" },
+            { "w": "in", "t": "po", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "countryside", "t": "wsi", "lemma": "countryside" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "dog", "t": "psem", "lemma": "dog" }
+          ]
+        },
+        {
+          "en": "He became curious about the tiny plant burrs that stuck firmly to the animal's fur.",
+          "pl": "Zaciekawiły go maleńkie roślinne rzepy, które mocno przyczepiały się do sierści zwierzęcia.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "became", "t": "zaciekawił się", "lemma": "become" },
+            { "w": "curious", "t": "ciekawy", "lemma": "curious" },
+            { "w": "about", "t": "(czym)", "lemma": "about" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tiny", "t": "maleńkimi", "lemma": "tiny" },
+            { "w": "plant", "t": "roślinnymi", "lemma": "plant" },
+            { "w": "burrs", "t": "rzepami", "lemma": "burr" },
+            { "w": "that", "t": "które", "lemma": "that" },
+            { "w": "stuck", "t": "przyczepiały się", "lemma": "stick" },
+            { "w": "firmly", "t": "mocno", "lemma": "firmly" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "animal's", "t": "zwierzęcia", "lemma": "animal" },
+            { "w": "fur", "t": "sierści", "lemma": "fur" }
+          ]
+        },
+        {
+          "en": "After studying them under a microscope, he created Velcro, the hook-and-loop fastener we still use today.",
+          "pl": "Po zbadaniu ich pod mikroskopem stworzył rzep – haczykowo-pętelkowe zapięcie, którego używamy do dziś.",
+          "tokens": [
+            { "w": "After", "t": "po", "lemma": "after" },
+            { "w": "studying", "t": "zbadaniu", "lemma": "study" },
+            { "w": "them", "t": "ich", "lemma": "them" },
+            { "w": "under", "t": "pod", "lemma": "under" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "microscope", "t": "mikroskopem", "lemma": "microscope" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "created", "t": "stworzył", "lemma": "create" },
+            { "w": "Velcro", "t": "rzep (Velcro)", "lemma": "Velcro" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "hook-and-loop", "t": "haczykowo-pętelkowe", "lemma": "hook-and-loop" },
+            { "w": "fastener", "t": "zapięcie", "lemma": "fastener" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "still", "t": "wciąż", "lemma": "still" },
+            { "w": "use", "t": "używamy", "lemma": "use" },
+            { "w": "today", "t": "dziś", "lemma": "today" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "These stories show that mistakes are not always bad news.",
+          "pl": "Te historie pokazują, że błędy nie zawsze są złą wiadomością.",
+          "tokens": [
+            { "w": "These", "t": "te", "lemma": "this" },
+            { "w": "stories", "t": "historie", "lemma": "story" },
+            { "w": "show", "t": "pokazują", "lemma": "show" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "mistakes", "t": "błędy", "lemma": "mistake" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "bad", "t": "złą", "lemma": "bad" },
+            { "w": "news", "t": "wiadomością", "lemma": "news" }
+          ]
+        },
+        {
+          "en": "A curious mind can turn an accident into something brilliant.",
+          "pl": "Ciekawy umysł potrafi zamienić przypadek w coś genialnego.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "curious", "t": "ciekawy", "lemma": "curious" },
+            { "w": "mind", "t": "umysł", "lemma": "mind" },
+            { "w": "can", "t": "potrafi", "lemma": "can" },
+            { "w": "turn", "t": "zamienić", "lemma": "turn" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "accident", "t": "przypadek", "lemma": "accident" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "something", "t": "coś", "lemma": "something" },
+            { "w": "brilliant", "t": "genialnego", "lemma": "brilliant" }
+          ]
+        },
+        {
+          "en": "Sometimes the greatest ideas arrive when we least expect them.",
+          "pl": "Czasami najlepsze pomysły przychodzą, kiedy najmniej się ich spodziewamy.",
+          "tokens": [
+            { "w": "Sometimes", "t": "czasami", "lemma": "sometimes" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "greatest", "t": "najlepsze", "lemma": "great" },
+            { "w": "ideas", "t": "pomysły", "lemma": "idea" },
+            { "w": "arrive", "t": "przychodzą", "lemma": "arrive" },
+            { "w": "when", "t": "kiedy", "lemma": "when" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "least", "t": "najmniej", "lemma": "least" },
+            { "w": "expect", "t": "spodziewamy się", "lemma": "expect" },
+            { "w": "them", "t": "ich", "lemma": "them" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co przypadkiem odkrył Alexander Fleming w 1928 roku?",
+      "options": [
+        "Penicylinę – pierwszy antybiotyk",
+        "Kuchenkę mikrofalową",
+        "Klej do karteczek Post-it"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Percy Spencer wpadł na pomysł kuchenki mikrofalowej?",
+      "options": [
+        "Batonik w jego kieszeni rozpuścił się od fal radaru",
+        "Zobaczył to we śnie",
+        "Skopiował pomysł od kolegi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym pierwotnie miał być klej, z którego powstały karteczki Post-it?",
+      "options": [
+        "Bardzo mocnym klejem (wyszedł słaby)",
+        "Klejem do drewna",
+        "Farbą w sprayu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak powstały chipsy ziemniaczane?",
+      "options": [
+        "Kucharz pociął ziemniaki cienko na złość marudnemu klientowi",
+        "Wynalazła je duża fabryka",
+        "Powstały przez pomyłkę w piekarni"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zainspirowało wynalazek rzepu (Velcro)?",
+      "options": [
+        "Czepliwe rzepy roślin na sierści psa",
+        "Pajęczyna w lesie",
+        "Zamek błyskawiczny"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki wniosek płynie z tych historii?",
+      "options": [
+        "Pomyłki nie zawsze są złe; ciekawy umysł zmienia przypadek w coś genialnego",
+        "Wynalazków nie da się zaplanować",
+        "Tylko naukowcy mogą coś odkryć"
+      ],
+      "answer": 0
+    }
+  ]
+}

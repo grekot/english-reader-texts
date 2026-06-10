@@ -246,6 +246,38 @@
       ],
       "file": "texts/history-curiosities.json",
       "sha256": "da976d8c8737bca8cb3264ff90e6229a989fcff2514a8214b755673f7c2d0a3b"
+    },
+    {
+      "id": "inventions-by-accident",
+      "title": "Inventions by Accident: Happy Mistakes in History",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "inventions",
+        "science",
+        "trivia",
+        "nonfiction"
+      ],
+      "file": "texts/inventions-by-accident.json",
+      "sha256": "83d2d81d31f8ef031c3802a61f10f68e7180c6ea71ffe256e92b75df927d0991"
+    },
+    {
+      "id": "poland-in-a-nutshell",
+      "title": "Poland in a Nutshell: Surprising Facts",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "poland",
+        "facts",
+        "trivia",
+        "nonfiction"
+      ],
+      "file": "texts/poland-in-a-nutshell.json",
+      "sha256": "fff81f29892963ccb2c2d021effd7786431f1f8457309ce3837c80220fa0834f"
     }
   ]
 }

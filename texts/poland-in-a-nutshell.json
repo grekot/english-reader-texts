@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "id": "poland-in-a-nutshell",
+  "title": "Poland in a Nutshell: Surprising Facts",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "poland",
+    "facts",
+    "trivia",
+    "nonfiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Poland is a country with a long and surprising history that many people abroad do not know well.",
+          "pl": "Polska to kraj o długiej i zaskakującej historii, której wielu ludzi za granicą nie zna dobrze.",
+          "tokens": [
+            { "w": "Poland", "t": "Polska", "lemma": "Poland" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "country", "t": "krajem", "lemma": "country" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "long", "t": "długą", "lemma": "long" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "surprising", "t": "zaskakującą", "lemma": "surprising" },
+            { "w": "history", "t": "historią", "lemma": "history" },
+            { "w": "that", "t": "którą", "lemma": "that" },
+            { "w": "many", "t": "wielu", "lemma": "many" },
+            { "w": "people", "t": "ludzi", "lemma": "people" },
+            { "w": "abroad", "t": "za granicą", "lemma": "abroad" },
+            { "w": "do", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "know", "t": "zna", "lemma": "know" },
+            { "w": "well", "t": "dobrze", "lemma": "well" }
+          ]
+        },
+        {
+          "en": "Its scientists, soldiers, and thinkers have influenced the whole world.",
+          "pl": "Jej naukowcy, żołnierze i myśliciele wpłynęli na cały świat.",
+          "tokens": [
+            { "w": "Its", "t": "jej", "lemma": "its" },
+            { "w": "scientists", "t": "naukowcy", "lemma": "scientist" },
+            { "w": "soldiers", "t": "żołnierze", "lemma": "soldier" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "thinkers", "t": "myśliciele", "lemma": "thinker" },
+            { "w": "have", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "influenced", "t": "wpłynęli na", "lemma": "influence" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "whole", "t": "cały", "lemma": "whole" },
+            { "w": "world", "t": "świat", "lemma": "world" }
+          ]
+        },
+        {
+          "en": "Here are some fascinating facts about Poland and its past.",
+          "pl": "Oto kilka fascynujących faktów o Polsce i jej przeszłości.",
+          "tokens": [
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "some", "t": "kilka", "lemma": "some" },
+            { "w": "fascinating", "t": "fascynujących", "lemma": "fascinating" },
+            { "w": "facts", "t": "faktów", "lemma": "fact" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "Poland", "t": "Polsce", "lemma": "Poland" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "its", "t": "jej", "lemma": "its" },
+            { "w": "past", "t": "przeszłości", "lemma": "past" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The astronomer Nicolaus Copernicus was born in the Polish city of Toruń in 1473.",
+          "pl": "Astronom Mikołaj Kopernik urodził się w polskim mieście Toruniu w 1473 roku.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "astronomer", "t": "astronom", "lemma": "astronomer" },
+            { "w": "Nicolaus", "t": "Mikołaj", "lemma": "Nicolaus" },
+            { "w": "Copernicus", "t": "Kopernik", "lemma": "Copernicus" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "born", "t": "urodził się", "lemma": "bear" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Polish", "t": "polskim", "lemma": "Polish" },
+            { "w": "city", "t": "mieście", "lemma": "city" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "Toruń", "t": "Toruniu", "lemma": "Toruń" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "1473", "t": "1473" }
+          ]
+        },
+        {
+          "en": "He was the first to argue clearly that the Earth moves around the Sun, not the other way around.",
+          "pl": "Jako pierwszy jasno dowodził, że to Ziemia krąży wokół Słońca, a nie odwrotnie.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszym", "lemma": "first" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "argue", "t": "dowodzić", "lemma": "argue" },
+            { "w": "clearly", "t": "jasno", "lemma": "clearly" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Earth", "t": "Ziemia", "lemma": "Earth" },
+            { "w": "moves", "t": "krąży", "lemma": "move" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Sun", "t": "Słońca", "lemma": "Sun" },
+            { "w": "not", "t": "a nie", "lemma": "not" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "other", "t": "odwrotnie (idiom)", "lemma": "other" },
+            { "w": "way", "t": "(część zwrotu)", "lemma": "way" },
+            { "w": "around", "t": "(część zwrotu)", "lemma": "around" }
+          ]
+        },
+        {
+          "en": "His bold idea completely changed the way humanity understands the universe.",
+          "pl": "Jego śmiała myśl całkowicie zmieniła sposób, w jaki ludzkość rozumie wszechświat.",
+          "tokens": [
+            { "w": "His", "t": "jego", "lemma": "his" },
+            { "w": "bold", "t": "śmiała", "lemma": "bold" },
+            { "w": "idea", "t": "myśl", "lemma": "idea" },
+            { "w": "completely", "t": "całkowicie", "lemma": "completely" },
+            { "w": "changed", "t": "zmieniła", "lemma": "change" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "way", "t": "sposób", "lemma": "way" },
+            { "w": "humanity", "t": "ludzkość", "lemma": "humanity" },
+            { "w": "understands", "t": "rozumie", "lemma": "understand" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "universe", "t": "wszechświat", "lemma": "universe" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Maria Skłodowska-Curie was a brilliant Polish scientist who studied radioactivity.",
+          "pl": "Maria Skłodowska-Curie była genialną polską naukowczynią, która badała promieniotwórczość.",
+          "tokens": [
+            { "w": "Maria", "t": "Maria", "lemma": "Maria" },
+            { "w": "Skłodowska-Curie", "t": "Skłodowska-Curie", "lemma": "Skłodowska-Curie" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "brilliant", "t": "genialną", "lemma": "brilliant" },
+            { "w": "Polish", "t": "polską", "lemma": "Polish" },
+            { "w": "scientist", "t": "naukowczynią", "lemma": "scientist" },
+            { "w": "who", "t": "która", "lemma": "who" },
+            { "w": "studied", "t": "badała", "lemma": "study" },
+            { "w": "radioactivity", "t": "promieniotwórczość", "lemma": "radioactivity" }
+          ]
+        },
+        {
+          "en": "She became the first person ever to win two Nobel Prizes in two different sciences.",
+          "pl": "Stała się pierwszą osobą w historii, która zdobyła dwie Nagrody Nobla w dwóch różnych naukach.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "became", "t": "stała się", "lemma": "become" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszą", "lemma": "first" },
+            { "w": "person", "t": "osobą", "lemma": "person" },
+            { "w": "ever", "t": "w historii", "lemma": "ever" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "win", "t": "zdobyć", "lemma": "win" },
+            { "w": "two", "t": "dwie", "lemma": "two" },
+            { "w": "Nobel", "t": "Nobla", "lemma": "Nobel" },
+            { "w": "Prizes", "t": "Nagrody", "lemma": "prize" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "two", "t": "dwóch", "lemma": "two" },
+            { "w": "different", "t": "różnych", "lemma": "different" },
+            { "w": "sciences", "t": "naukach", "lemma": "science" }
+          ]
+        },
+        {
+          "en": "Proud of her homeland, she named the new element she discovered 'polonium' after Poland.",
+          "pl": "Dumna ze swojej ojczyzny, nazwała odkryty przez siebie nowy pierwiastek „polon” na cześć Polski.",
+          "tokens": [
+            { "w": "Proud", "t": "dumna", "lemma": "proud" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "her", "t": "swojej", "lemma": "her" },
+            { "w": "homeland", "t": "ojczyzny", "lemma": "homeland" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "named", "t": "nazwała", "lemma": "name" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "new", "t": "nowy", "lemma": "new" },
+            { "w": "element", "t": "pierwiastek", "lemma": "element" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "discovered", "t": "odkryła", "lemma": "discover" },
+            { "w": "polonium", "t": "polon", "lemma": "polonium" },
+            { "w": "after", "t": "na cześć", "lemma": "after" },
+            { "w": "Poland", "t": "Polski", "lemma": "Poland" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "On the third of May 1791, Poland adopted a modern written constitution.",
+          "pl": "Trzeciego maja 1791 roku Polska uchwaliła nowoczesną, pisaną konstytucję.",
+          "tokens": [
+            { "w": "On", "t": "(dnia)", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "third", "t": "trzeciego", "lemma": "third" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "May", "t": "maja", "lemma": "May" },
+            { "w": "1791", "t": "1791" },
+            { "w": "Poland", "t": "Polska", "lemma": "Poland" },
+            { "w": "adopted", "t": "uchwaliła", "lemma": "adopt" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "modern", "t": "nowoczesną", "lemma": "modern" },
+            { "w": "written", "t": "pisaną", "lemma": "write" },
+            { "w": "constitution", "t": "konstytucję", "lemma": "constitution" }
+          ]
+        },
+        {
+          "en": "It was the first constitution of its kind in Europe and only the second in the entire world.",
+          "pl": "Była to pierwsza tego rodzaju konstytucja w Europie i zaledwie druga na całym świecie.",
+          "tokens": [
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwsza", "lemma": "first" },
+            { "w": "constitution", "t": "konstytucja", "lemma": "constitution" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "its", "t": "tego", "lemma": "its" },
+            { "w": "kind", "t": "rodzaju", "lemma": "kind" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "Europe", "t": "Europie", "lemma": "Europe" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "only", "t": "zaledwie", "lemma": "only" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "second", "t": "druga", "lemma": "second" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "entire", "t": "całym", "lemma": "entire" },
+            { "w": "world", "t": "świecie", "lemma": "world" }
+          ]
+        },
+        {
+          "en": "Poles still celebrate this important achievement as a national holiday today.",
+          "pl": "Polacy wciąż świętują to ważne osiągnięcie jako narodowe święto do dziś.",
+          "tokens": [
+            { "w": "Poles", "t": "Polacy", "lemma": "Pole" },
+            { "w": "still", "t": "wciąż", "lemma": "still" },
+            { "w": "celebrate", "t": "świętują", "lemma": "celebrate" },
+            { "w": "this", "t": "to", "lemma": "this" },
+            { "w": "important", "t": "ważne", "lemma": "important" },
+            { "w": "achievement", "t": "osiągnięcie", "lemma": "achievement" },
+            { "w": "as", "t": "jako", "lemma": "as" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "national", "t": "narodowe", "lemma": "national" },
+            { "w": "holiday", "t": "święto", "lemma": "holiday" },
+            { "w": "today", "t": "dziś", "lemma": "today" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "For almost two centuries, Poland was defended by the famous Winged Hussars.",
+          "pl": "Przez niemal dwa stulecia Polski broniła słynna husaria skrzydlata.",
+          "tokens": [
+            { "w": "For", "t": "przez", "lemma": "for" },
+            { "w": "almost", "t": "niemal", "lemma": "almost" },
+            { "w": "two", "t": "dwa", "lemma": "two" },
+            { "w": "centuries", "t": "stulecia", "lemma": "century" },
+            { "w": "Poland", "t": "Polska", "lemma": "Poland" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "defended", "t": "broniona", "lemma": "defend" },
+            { "w": "by", "t": "przez", "lemma": "by" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "famous", "t": "słynną", "lemma": "famous" },
+            { "w": "Winged", "t": "skrzydlatą", "lemma": "winged" },
+            { "w": "Hussars", "t": "husarię", "lemma": "hussar" }
+          ]
+        },
+        {
+          "en": "These powerful cavalry soldiers wore tall wooden frames covered with eagle feathers on their backs.",
+          "pl": "Ci potężni jeźdźcy nosili na plecach wysokie drewniane ramy pokryte orlimi piórami.",
+          "tokens": [
+            { "w": "These", "t": "ci", "lemma": "this" },
+            { "w": "powerful", "t": "potężni", "lemma": "powerful" },
+            { "w": "cavalry", "t": "konni", "lemma": "cavalry" },
+            { "w": "soldiers", "t": "jeźdźcy", "lemma": "soldier" },
+            { "w": "wore", "t": "nosili", "lemma": "wear" },
+            { "w": "tall", "t": "wysokie", "lemma": "tall" },
+            { "w": "wooden", "t": "drewniane", "lemma": "wooden" },
+            { "w": "frames", "t": "ramy", "lemma": "frame" },
+            { "w": "covered", "t": "pokryte", "lemma": "cover" },
+            { "w": "with", "t": "(czym)", "lemma": "with" },
+            { "w": "eagle", "t": "orlimi", "lemma": "eagle" },
+            { "w": "feathers", "t": "piórami", "lemma": "feather" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "their", "t": "swoich", "lemma": "their" },
+            { "w": "backs", "t": "plecach", "lemma": "back" }
+          ]
+        },
+        {
+          "en": "In 1683, King Jan III Sobieski led them to a great victory against the Ottoman army near Vienna.",
+          "pl": "W 1683 roku król Jan III Sobieski poprowadził ich do wielkiego zwycięstwa przeciwko armii osmańskiej pod Wiedniem.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1683", "t": "1683" },
+            { "w": "King", "t": "król", "lemma": "king" },
+            { "w": "Jan", "t": "Jan", "lemma": "Jan" },
+            { "w": "III", "t": "III", "lemma": "III" },
+            { "w": "Sobieski", "t": "Sobieski", "lemma": "Sobieski" },
+            { "w": "led", "t": "poprowadził", "lemma": "lead" },
+            { "w": "them", "t": "ich", "lemma": "them" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "great", "t": "wielkiego", "lemma": "great" },
+            { "w": "victory", "t": "zwycięstwa", "lemma": "victory" },
+            { "w": "against", "t": "przeciwko", "lemma": "against" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Ottoman", "t": "osmańskiej", "lemma": "Ottoman" },
+            { "w": "army", "t": "armii", "lemma": "army" },
+            { "w": "near", "t": "pod", "lemma": "near" },
+            { "w": "Vienna", "t": "Wiedniem", "lemma": "Vienna" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Long before the Second World War, three young Polish mathematicians achieved something remarkable.",
+          "pl": "Długo przed drugą wojną światową trzej młodzi polscy matematycy dokonali czegoś niezwykłego.",
+          "tokens": [
+            { "w": "Long", "t": "długo", "lemma": "long" },
+            { "w": "before", "t": "przed", "lemma": "before" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Second", "t": "drugą", "lemma": "second" },
+            { "w": "World", "t": "światową", "lemma": "world" },
+            { "w": "War", "t": "wojną", "lemma": "war" },
+            { "w": "three", "t": "trzej", "lemma": "three" },
+            { "w": "young", "t": "młodzi", "lemma": "young" },
+            { "w": "Polish", "t": "polscy", "lemma": "Polish" },
+            { "w": "mathematicians", "t": "matematycy", "lemma": "mathematician" },
+            { "w": "achieved", "t": "dokonali", "lemma": "achieve" },
+            { "w": "something", "t": "czegoś", "lemma": "something" },
+            { "w": "remarkable", "t": "niezwykłego", "lemma": "remarkable" }
+          ]
+        },
+        {
+          "en": "They were the first in the world to break the secret code of the German Enigma machine.",
+          "pl": "Byli pierwszymi na świecie, którzy złamali tajny szyfr niemieckiej maszyny Enigma.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszymi", "lemma": "first" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świecie", "lemma": "world" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "break", "t": "złamać", "lemma": "break" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "secret", "t": "tajny", "lemma": "secret" },
+            { "w": "code", "t": "szyfr", "lemma": "code" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "German", "t": "niemieckiej", "lemma": "German" },
+            { "w": "Enigma", "t": "Enigma", "lemma": "Enigma" },
+            { "w": "machine", "t": "maszyny", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "Their work later helped the Allies win the war and save countless lives.",
+          "pl": "Ich praca pomogła później aliantom wygrać wojnę i ocalić niezliczone istnienia.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "work", "t": "praca", "lemma": "work" },
+            { "w": "later", "t": "później", "lemma": "later" },
+            { "w": "helped", "t": "pomogła", "lemma": "help" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Allies", "t": "aliantom", "lemma": "Allies" },
+            { "w": "win", "t": "wygrać", "lemma": "win" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "war", "t": "wojnę", "lemma": "war" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "save", "t": "ocalić", "lemma": "save" },
+            { "w": "countless", "t": "niezliczone", "lemma": "countless" },
+            { "w": "lives", "t": "istnienia", "lemma": "life" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "From science to bravery, Poland has given the world many reasons to be proud.",
+          "pl": "Od nauki po odwagę, Polska dała światu wiele powodów do dumy.",
+          "tokens": [
+            { "w": "From", "t": "od", "lemma": "from" },
+            { "w": "science", "t": "nauki", "lemma": "science" },
+            { "w": "to", "t": "po", "lemma": "to" },
+            { "w": "bravery", "t": "odwagę", "lemma": "bravery" },
+            { "w": "Poland", "t": "Polska", "lemma": "Poland" },
+            { "w": "has", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "given", "t": "dała", "lemma": "give" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "światu", "lemma": "world" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "reasons", "t": "powodów", "lemma": "reason" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "proud", "t": "dumnym", "lemma": "proud" }
+          ]
+        },
+        {
+          "en": "Its history is full of courage, intelligence, and a strong love of freedom.",
+          "pl": "Jej historia jest pełna odwagi, inteligencji i silnej miłości do wolności.",
+          "tokens": [
+            { "w": "Its", "t": "jej", "lemma": "its" },
+            { "w": "history", "t": "historia", "lemma": "history" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "full", "t": "pełna", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "courage", "t": "odwagi", "lemma": "courage" },
+            { "w": "intelligence", "t": "inteligencji", "lemma": "intelligence" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "strong", "t": "silnej", "lemma": "strong" },
+            { "w": "love", "t": "miłości", "lemma": "love" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "freedom", "t": "wolności", "lemma": "freedom" }
+          ]
+        },
+        {
+          "en": "Learning about the past helps us understand who we are today.",
+          "pl": "Poznawanie przeszłości pomaga nam zrozumieć, kim jesteśmy dziś.",
+          "tokens": [
+            { "w": "Learning", "t": "poznawanie", "lemma": "learn" },
+            { "w": "about", "t": "(o)", "lemma": "about" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "past", "t": "przeszłości", "lemma": "past" },
+            { "w": "helps", "t": "pomaga", "lemma": "help" },
+            { "w": "us", "t": "nam", "lemma": "us" },
+            { "w": "understand", "t": "zrozumieć", "lemma": "understand" },
+            { "w": "who", "t": "kim", "lemma": "who" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "are", "t": "jesteśmy", "lemma": "be" },
+            { "w": "today", "t": "dziś", "lemma": "today" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie i kiedy urodził się Mikołaj Kopernik?",
+      "options": [
+        "W Toruniu w 1473 roku",
+        "W Krakowie w 1543 roku",
+        "W Warszawie w 1410 roku"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym wsławiła się Maria Skłodowska-Curie?",
+      "options": [
+        "Była pierwszą osobą z dwoma Noblami w dwóch różnych naukach; nazwała polon na cześć Polski",
+        "Zbudowała pierwszy teleskop",
+        "Była królową Polski"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym wyjątkowa była Konstytucja 3 Maja (1791)?",
+      "options": [
+        "Była pierwsza tego rodzaju w Europie i druga na świecie",
+        "Była najkrótszą konstytucją w historii",
+        "Obowiązywała tylko jeden dzień"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co nosili na plecach husarze (Winged Hussars)?",
+      "options": [
+        "Wysokie drewniane ramy pokryte orlimi piórami",
+        "Ciężkie metalowe tarcze",
+        "Czerwone peleryny"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego jako pierwsi na świecie dokonali trzej polscy matematycy?",
+      "options": [
+        "Złamali tajny szyfr niemieckiej maszyny Enigma",
+        "Wynaleźli pierwszy komputer",
+        "Zbudowali pierwszą rakietę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki wniosek płynie z tekstu?",
+      "options": [
+        "Polska dała światu wiele powodów do dumy — w nauce i odwadze",
+        "Historia Polski jest mało znana i nieważna",
+        "Polska nigdy nie wpłynęła na świat"
+      ],
+      "answer": 0
+    }
+  ]
+}
