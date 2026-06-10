@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "id": "luigi-haunted-mansion",
+  "title": "Luigi and the Haunted Mansion",
+  "author": "AI Assistant",
+  "source": "Original fan story (Super Mario Bros. characters belong to Nintendo)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "games",
+    "spooky"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One dark night, Luigi stood in front of a huge, spooky mansion.",
+          "pl": "Pewnej ciemnej nocy Luigi stał przed ogromną, straszną rezydencją.",
+          "tokens": [
+            { "w": "One", "t": "pewnej", "lemma": "one" },
+            { "w": "dark", "t": "ciemnej", "lemma": "dark" },
+            { "w": "night", "t": "nocy", "lemma": "night" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "stood", "t": "stał", "lemma": "stand" },
+            { "w": "in", "t": "przed", "lemma": "in" },
+            { "w": "front", "t": "(przód)", "lemma": "front" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "huge", "t": "ogromną", "lemma": "huge" },
+            { "w": "spooky", "t": "straszną", "lemma": "spooky" },
+            { "w": "mansion", "t": "rezydencją", "lemma": "mansion" }
+          ]
+        },
+        {
+          "en": "The old house was cold, and the windows were broken and dusty.",
+          "pl": "Stary dom był zimny, a okna były wybite i zakurzone.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "old", "t": "stary", "lemma": "old" },
+            { "w": "house", "t": "dom", "lemma": "house" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "cold", "t": "zimny", "lemma": "cold" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "windows", "t": "okna", "lemma": "window" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "broken", "t": "wybite", "lemma": "break" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "dusty", "t": "zakurzone", "lemma": "dusty" }
+          ]
+        },
+        {
+          "en": "Luigi held a special vacuum cleaner to catch the ghosts.",
+          "pl": "Luigi trzymał specjalny odkurzacz, żeby łapać duchy.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "held", "t": "trzymał", "lemma": "hold" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "special", "t": "specjalny", "lemma": "special" },
+            { "w": "vacuum", "t": "odkurzacz", "lemma": "vacuum" },
+            { "w": "cleaner", "t": "(czyszczący)", "lemma": "cleaner" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "catch", "t": "łapać", "lemma": "catch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ghosts", "t": "duchy", "lemma": "ghost" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "He opened the heavy wooden door, and it creaked loudly.",
+          "pl": "Otworzył ciężkie drewniane drzwi, a one głośno zaskrzypiały.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "opened", "t": "otworzył", "lemma": "open" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "heavy", "t": "ciężkie", "lemma": "heavy" },
+            { "w": "wooden", "t": "drewniane", "lemma": "wooden" },
+            { "w": "door", "t": "drzwi", "lemma": "door" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "it", "t": "one", "lemma": "it" },
+            { "w": "creaked", "t": "zaskrzypiały", "lemma": "creak" },
+            { "w": "loudly", "t": "głośno", "lemma": "loudly" }
+          ]
+        },
+        {
+          "en": "A white ghost floated down the stairs toward him.",
+          "pl": "Biały duch unosił się w dół schodów w jego stronę.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "white", "t": "biały", "lemma": "white" },
+            { "w": "ghost", "t": "duch", "lemma": "ghost" },
+            { "w": "floated", "t": "unosił się", "lemma": "float" },
+            { "w": "down", "t": "w dół", "lemma": "down" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stairs", "t": "schodów", "lemma": "stair" },
+            { "w": "toward", "t": "w stronę", "lemma": "toward" },
+            { "w": "him", "t": "niego", "lemma": "he" }
+          ]
+        },
+        {
+          "en": "Luigi turned on his flashlight and pointed it at the ghost.",
+          "pl": "Luigi włączył latarkę i wycelował nią w ducha.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "turned", "t": "włączył", "lemma": "turn" },
+            { "w": "on", "t": "(partykuła)", "lemma": "on" },
+            { "w": "his", "t": "swoją", "lemma": "his" },
+            { "w": "flashlight", "t": "latarkę", "lemma": "flashlight" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "pointed", "t": "wycelował", "lemma": "point" },
+            { "w": "it", "t": "nią", "lemma": "it" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ghost", "t": "ducha", "lemma": "ghost" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The light made the ghost freeze, and Luigi sucked it into his machine.",
+          "pl": "Światło sprawiło, że duch zamarł, a Luigi wciągnął go do swojej maszyny.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "light", "t": "światło", "lemma": "light" },
+            { "w": "made", "t": "sprawiło", "lemma": "make" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ghost", "t": "duch", "lemma": "ghost" },
+            { "w": "freeze", "t": "zamarł", "lemma": "freeze" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "sucked", "t": "wciągnął", "lemma": "suck" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "his", "t": "swojej", "lemma": "his" },
+            { "w": "machine", "t": "maszyny", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "He felt scared, but he was also very proud of himself.",
+          "pl": "Czuł się przestraszony, ale był też z siebie bardzo dumny.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "felt", "t": "czuł się", "lemma": "feel" },
+            { "w": "scared", "t": "przestraszony", "lemma": "scared" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "also", "t": "też", "lemma": "also" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "proud", "t": "dumny", "lemma": "proud" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "himself", "t": "siebie", "lemma": "himself" }
+          ]
+        },
+        {
+          "en": "More ghosts hid behind the old paintings on the wall.",
+          "pl": "Więcej duchów ukryło się za starymi obrazami na ścianie.",
+          "tokens": [
+            { "w": "More", "t": "więcej", "lemma": "more" },
+            { "w": "ghosts", "t": "duchów", "lemma": "ghost" },
+            { "w": "hid", "t": "ukryło się", "lemma": "hide" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "old", "t": "starymi", "lemma": "old" },
+            { "w": "paintings", "t": "obrazami", "lemma": "painting" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wall", "t": "ścianie", "lemma": "wall" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the dining room, plates and cups floated through the air.",
+          "pl": "W jadalni talerze i filiżanki unosiły się w powietrzu.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "dining", "t": "jadalnym", "lemma": "dine" },
+            { "w": "room", "t": "pokoju", "lemma": "room" },
+            { "w": "plates", "t": "talerze", "lemma": "plate" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "cups", "t": "filiżanki", "lemma": "cup" },
+            { "w": "floated", "t": "unosiły się", "lemma": "float" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "air", "t": "powietrze", "lemma": "air" }
+          ]
+        },
+        {
+          "en": "Luigi caught three little ghosts near the long, dusty table.",
+          "pl": "Luigi złapał trzy małe duchy przy długim, zakurzonym stole.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "caught", "t": "złapał", "lemma": "catch" },
+            { "w": "three", "t": "trzy", "lemma": "three" },
+            { "w": "little", "t": "małe", "lemma": "little" },
+            { "w": "ghosts", "t": "duchy", "lemma": "ghost" },
+            { "w": "near", "t": "przy", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "long", "t": "długim", "lemma": "long" },
+            { "w": "dusty", "t": "zakurzonym", "lemma": "dusty" },
+            { "w": "table", "t": "stole", "lemma": "table" }
+          ]
+        },
+        {
+          "en": "A cold wind blew out the candles, and the room went dark.",
+          "pl": "Zimny wiatr zdmuchnął świece i pokój pogrążył się w ciemności.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "cold", "t": "zimny", "lemma": "cold" },
+            { "w": "wind", "t": "wiatr", "lemma": "wind" },
+            { "w": "blew", "t": "zdmuchnął", "lemma": "blow" },
+            { "w": "out", "t": "(partykuła)", "lemma": "out" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "candles", "t": "świece", "lemma": "candle" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "room", "t": "pokój", "lemma": "room" },
+            { "w": "went", "t": "stał się", "lemma": "go" },
+            { "w": "dark", "t": "ciemny", "lemma": "dark" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "At the top of the tower, King Boo was waiting with a wide grin.",
+          "pl": "Na szczycie wieży Król Boo czekał z szerokim uśmiechem.",
+          "tokens": [
+            { "w": "At", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "top", "t": "szczycie", "lemma": "top" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tower", "t": "wieży", "lemma": "tower" },
+            { "w": "King", "t": "Król", "lemma": "king" },
+            { "w": "Boo", "t": "Boo", "lemma": "Boo" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "waiting", "t": "czekał", "lemma": "wait" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "wide", "t": "szerokim", "lemma": "wide" },
+            { "w": "grin", "t": "uśmiechem", "lemma": "grin" }
+          ]
+        },
+        {
+          "en": "The giant ghost laughed and threw heavy chairs at Luigi.",
+          "pl": "Wielki duch śmiał się i rzucał ciężkimi krzesłami w Luigiego.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "giant", "t": "wielki", "lemma": "giant" },
+            { "w": "ghost", "t": "duch", "lemma": "ghost" },
+            { "w": "laughed", "t": "śmiał się", "lemma": "laugh" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "threw", "t": "rzucał", "lemma": "throw" },
+            { "w": "heavy", "t": "ciężkimi", "lemma": "heavy" },
+            { "w": "chairs", "t": "krzesłami", "lemma": "chair" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "Luigi", "t": "Luigiego", "lemma": "Luigi" }
+          ]
+        },
+        {
+          "en": "Luigi jumped away and pulled King Boo with his powerful vacuum.",
+          "pl": "Luigi odskoczył na bok i pociągnął Króla Boo swoim potężnym odkurzaczem.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "jumped", "t": "odskoczył", "lemma": "jump" },
+            { "w": "away", "t": "na bok", "lemma": "away" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "pulled", "t": "pociągnął", "lemma": "pull" },
+            { "w": "King", "t": "Króla", "lemma": "king" },
+            { "w": "Boo", "t": "Boo", "lemma": "Boo" },
+            { "w": "with", "t": "za pomocą", "lemma": "with" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "powerful", "t": "potężnego", "lemma": "powerful" },
+            { "w": "vacuum", "t": "odkurzacza", "lemma": "vacuum" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "After a long fight, King Boo finally disappeared into the machine.",
+          "pl": "Po długiej walce Król Boo w końcu zniknął w maszynie.",
+          "tokens": [
+            { "w": "After", "t": "po", "lemma": "after" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "long", "t": "długiej", "lemma": "long" },
+            { "w": "fight", "t": "walce", "lemma": "fight" },
+            { "w": "King", "t": "Król", "lemma": "king" },
+            { "w": "Boo", "t": "Boo", "lemma": "Boo" },
+            { "w": "finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "disappeared", "t": "zniknął", "lemma": "disappear" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "machine", "t": "maszyny", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "The mansion became bright and quiet again.",
+          "pl": "Rezydencja znów stała się jasna i cicha.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mansion", "t": "rezydencja", "lemma": "mansion" },
+            { "w": "became", "t": "stała się", "lemma": "become" },
+            { "w": "bright", "t": "jasna", "lemma": "bright" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "quiet", "t": "cicha", "lemma": "quiet" },
+            { "w": "again", "t": "znów", "lemma": "again" }
+          ]
+        },
+        {
+          "en": "Luigi smiled, happy to be the hero this time.",
+          "pl": "Luigi uśmiechnął się, szczęśliwy, że tym razem to on jest bohaterem.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "smiled", "t": "uśmiechnął się", "lemma": "smile" },
+            { "w": "happy", "t": "szczęśliwy", "lemma": "happy" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "hero", "t": "bohaterem", "lemma": "hero" },
+            { "w": "this", "t": "tym", "lemma": "this" },
+            { "w": "time", "t": "razem", "lemma": "time" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie stał Luigi w ciemną noc?",
+      "options": [
+        "Przed ogromną, straszną rezydencją",
+        "Na szczycie góry",
+        "Na torze wyścigowym"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego Luigi używał, żeby łapać duchy?",
+      "options": [
+        "Specjalnego odkurzacza",
+        "Wielkiej sieci",
+        "Magicznej różdżki"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co sprawiało, że duch zamierał?",
+      "options": [
+        "Światło latarki",
+        "Głośny hałas",
+        "Zimny wiatr"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co latało w powietrzu w jadalni?",
+      "options": [
+        "Talerze i filiżanki",
+        "Stare obrazy",
+        "Złote monety"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto czekał na szczycie wieży?",
+      "options": [
+        "Król Boo",
+        "Bowser",
+        "Księżniczka Peach"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaka stała się rezydencja po walce?",
+      "options": [
+        "Jasna i cicha",
+        "Jeszcze ciemniejsza",
+        "Pełna lawy"
+      ],
+      "answer": 0
+    }
+  ]
+}

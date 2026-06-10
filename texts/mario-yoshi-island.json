@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "id": "mario-yoshi-island",
+  "title": "Mario and Yoshi's Island Adventure",
+  "author": "AI Assistant",
+  "source": "Original fan story (Super Mario Bros. characters belong to Nintendo)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "games",
+    "fiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One morning, Mario woke up on a green island full of palm trees.",
+          "pl": "Pewnego ranka Mario obudził się na zielonej wyspie pełnej palm.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "woke", "t": "obudził się", "lemma": "wake" },
+            { "w": "up", "t": "w górę", "lemma": "up" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "green", "t": "zielonej", "lemma": "green" },
+            { "w": "island", "t": "wyspie", "lemma": "island" },
+            { "w": "full", "t": "pełnej", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "palm", "t": "palmowych", "lemma": "palm" },
+            { "w": "trees", "t": "drzew", "lemma": "tree" }
+          ]
+        },
+        {
+          "en": "A cute green dinosaur named Yoshi was standing next to him.",
+          "pl": "Uroczy zielony dinozaur o imieniu Yoshi stał obok niego.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "cute", "t": "uroczy", "lemma": "cute" },
+            { "w": "green", "t": "zielony", "lemma": "green" },
+            { "w": "dinosaur", "t": "dinozaur", "lemma": "dinosaur" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "Yoshi", "t": "Yoshi", "lemma": "Yoshi" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "standing", "t": "stał", "lemma": "stand" },
+            { "w": "next", "t": "obok", "lemma": "next" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "him", "t": "niego", "lemma": "he" }
+          ]
+        },
+        {
+          "en": "\"Welcome to my island!\" Yoshi said with a happy smile.",
+          "pl": "„Witaj na mojej wyspie!” powiedział Yoshi ze szczęśliwym uśmiechem.",
+          "tokens": [
+            { "w": "Welcome", "t": "witaj", "lemma": "welcome" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "my", "t": "moją", "lemma": "my" },
+            { "w": "island", "t": "wyspie", "lemma": "island" },
+            { "w": "Yoshi", "t": "Yoshi", "lemma": "Yoshi" },
+            { "w": "said", "t": "powiedział", "lemma": "say" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "happy", "t": "szczęśliwym", "lemma": "happy" },
+            { "w": "smile", "t": "uśmiechem", "lemma": "smile" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mario climbed onto Yoshi's back, and they started their adventure together.",
+          "pl": "Mario wspiął się na grzbiet Yoshiego i razem rozpoczęli swoją przygodę.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "climbed", "t": "wspiął się", "lemma": "climb" },
+            { "w": "onto", "t": "na", "lemma": "onto" },
+            { "w": "Yoshi's", "t": "Yoshiego", "lemma": "Yoshi" },
+            { "w": "back", "t": "grzbiet", "lemma": "back" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "started", "t": "rozpoczęli", "lemma": "start" },
+            { "w": "their", "t": "swoją", "lemma": "their" },
+            { "w": "adventure", "t": "przygodę", "lemma": "adventure" },
+            { "w": "together", "t": "razem", "lemma": "together" }
+          ]
+        },
+        {
+          "en": "They ran along a sandy path between tall, yellow flowers.",
+          "pl": "Biegli wzdłuż piaszczystej ścieżki między wysokimi, żółtymi kwiatami.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "ran", "t": "biegli", "lemma": "run" },
+            { "w": "along", "t": "wzdłuż", "lemma": "along" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "sandy", "t": "piaszczystej", "lemma": "sandy" },
+            { "w": "path", "t": "ścieżki", "lemma": "path" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "tall", "t": "wysokimi", "lemma": "tall" },
+            { "w": "yellow", "t": "żółtymi", "lemma": "yellow" },
+            { "w": "flowers", "t": "kwiatami", "lemma": "flower" }
+          ]
+        },
+        {
+          "en": "Yoshi could eat fruit and turn it into useful eggs.",
+          "pl": "Yoshi mógł jeść owoce i zamieniać je w przydatne jajka.",
+          "tokens": [
+            { "w": "Yoshi", "t": "Yoshi", "lemma": "Yoshi" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "eat", "t": "jeść", "lemma": "eat" },
+            { "w": "fruit", "t": "owoce", "lemma": "fruit" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "turn", "t": "zamieniać", "lemma": "turn" },
+            { "w": "it", "t": "je", "lemma": "it" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "useful", "t": "przydatne", "lemma": "useful" },
+            { "w": "eggs", "t": "jajka", "lemma": "egg" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Soon they saw a row of floating blocks above a deep river.",
+          "pl": "Wkrótce zobaczyli rząd unoszących się bloków nad głęboką rzeką.",
+          "tokens": [
+            { "w": "Soon", "t": "wkrótce", "lemma": "soon" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "saw", "t": "zobaczyli", "lemma": "see" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "row", "t": "rząd", "lemma": "row" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "floating", "t": "unoszących się", "lemma": "float" },
+            { "w": "blocks", "t": "bloków", "lemma": "block" },
+            { "w": "above", "t": "nad", "lemma": "above" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "deep", "t": "głęboką", "lemma": "deep" },
+            { "w": "river", "t": "rzeką", "lemma": "river" }
+          ]
+        },
+        {
+          "en": "Yoshi jumped high and kicked his legs to stay in the air longer.",
+          "pl": "Yoshi skoczył wysoko i machał nogami, żeby dłużej utrzymać się w powietrzu.",
+          "tokens": [
+            { "w": "Yoshi", "t": "Yoshi", "lemma": "Yoshi" },
+            { "w": "jumped", "t": "skoczył", "lemma": "jump" },
+            { "w": "high", "t": "wysoko", "lemma": "high" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "kicked", "t": "machał", "lemma": "kick" },
+            { "w": "his", "t": "swoimi", "lemma": "his" },
+            { "w": "legs", "t": "nogami", "lemma": "leg" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "stay", "t": "utrzymać się", "lemma": "stay" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "air", "t": "powietrzu", "lemma": "air" },
+            { "w": "longer", "t": "dłużej", "lemma": "long" }
+          ]
+        },
+        {
+          "en": "Mario laughed because the jump felt like flying.",
+          "pl": "Mario śmiał się, ponieważ skok przypominał latanie.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "laughed", "t": "śmiał się", "lemma": "laugh" },
+            { "w": "because", "t": "ponieważ", "lemma": "because" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "jump", "t": "skok", "lemma": "jump" },
+            { "w": "felt", "t": "wydawał się", "lemma": "feel" },
+            { "w": "like", "t": "jak", "lemma": "like" },
+            { "w": "flying", "t": "latanie", "lemma": "fly" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Behind a waterfall, they found a dark and secret cave.",
+          "pl": "Za wodospadem znaleźli ciemną i tajną jaskinię.",
+          "tokens": [
+            { "w": "Behind", "t": "za", "lemma": "behind" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "waterfall", "t": "wodospadem", "lemma": "waterfall" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "found", "t": "znaleźli", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dark", "t": "ciemną", "lemma": "dark" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "secret", "t": "tajną", "lemma": "secret" },
+            { "w": "cave", "t": "jaskinię", "lemma": "cave" }
+          ]
+        },
+        {
+          "en": "Inside, a row of red coins shone on the wet stone floor.",
+          "pl": "W środku rząd czerwonych monet lśnił na mokrej, kamiennej podłodze.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "row", "t": "rząd", "lemma": "row" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "red", "t": "czerwonych", "lemma": "red" },
+            { "w": "coins", "t": "monet", "lemma": "coin" },
+            { "w": "shone", "t": "lśnił", "lemma": "shine" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wet", "t": "mokrej", "lemma": "wet" },
+            { "w": "stone", "t": "kamiennej", "lemma": "stone" },
+            { "w": "floor", "t": "podłodze", "lemma": "floor" }
+          ]
+        },
+        {
+          "en": "Yoshi quickly grabbed every coin with his long, pink tongue.",
+          "pl": "Yoshi szybko chwytał każdą monetę swoim długim, różowym językiem.",
+          "tokens": [
+            { "w": "Yoshi", "t": "Yoshi", "lemma": "Yoshi" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "grabbed", "t": "chwytał", "lemma": "grab" },
+            { "w": "every", "t": "każdą", "lemma": "every" },
+            { "w": "coin", "t": "monetę", "lemma": "coin" },
+            { "w": "with", "t": "za pomocą", "lemma": "with" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "long", "t": "długiego", "lemma": "long" },
+            { "w": "pink", "t": "różowego", "lemma": "pink" },
+            { "w": "tongue", "t": "języka", "lemma": "tongue" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, an angry Piranha Plant blocked the narrow path.",
+          "pl": "Nagle zła Roślina Piranha zablokowała wąską ścieżkę.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "angry", "t": "zła", "lemma": "angry" },
+            { "w": "Piranha", "t": "Piranha", "lemma": "Piranha" },
+            { "w": "Plant", "t": "Roślina", "lemma": "Plant" },
+            { "w": "blocked", "t": "zablokowała", "lemma": "block" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "narrow", "t": "wąską", "lemma": "narrow" },
+            { "w": "path", "t": "ścieżkę", "lemma": "path" }
+          ]
+        },
+        {
+          "en": "Yoshi threw an egg, and the plant disappeared in a puff of smoke.",
+          "pl": "Yoshi rzucił jajko i roślina zniknęła w obłoku dymu.",
+          "tokens": [
+            { "w": "Yoshi", "t": "Yoshi", "lemma": "Yoshi" },
+            { "w": "threw", "t": "rzucił", "lemma": "throw" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "egg", "t": "jajko", "lemma": "egg" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "plant", "t": "roślina", "lemma": "plant" },
+            { "w": "disappeared", "t": "zniknęła", "lemma": "disappear" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "puff", "t": "obłoku", "lemma": "puff" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "smoke", "t": "dymu", "lemma": "smoke" }
+          ]
+        },
+        {
+          "en": "Mario cheered and patted his brave dinosaur friend.",
+          "pl": "Mario wiwatował i poklepał swojego odważnego przyjaciela dinozaura.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "cheered", "t": "wiwatował", "lemma": "cheer" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "patted", "t": "poklepał", "lemma": "pat" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "brave", "t": "odważnego", "lemma": "brave" },
+            { "w": "dinosaur", "t": "dinozaura", "lemma": "dinosaur" },
+            { "w": "friend", "t": "przyjaciela", "lemma": "friend" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "At the top of the hill, they discovered a shiny golden star.",
+          "pl": "Na szczycie wzgórza odkryli lśniącą złotą gwiazdę.",
+          "tokens": [
+            { "w": "At", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "top", "t": "szczycie", "lemma": "top" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "hill", "t": "wzgórza", "lemma": "hill" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "discovered", "t": "odkryli", "lemma": "discover" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "shiny", "t": "lśniącą", "lemma": "shiny" },
+            { "w": "golden", "t": "złotą", "lemma": "golden" },
+            { "w": "star", "t": "gwiazdę", "lemma": "star" }
+          ]
+        },
+        {
+          "en": "Mario picked it up, and warm light filled the whole island.",
+          "pl": "Mario podniósł ją i ciepłe światło wypełniło całą wyspę.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "picked", "t": "podniósł", "lemma": "pick" },
+            { "w": "it", "t": "ją", "lemma": "it" },
+            { "w": "up", "t": "w górę", "lemma": "up" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "warm", "t": "ciepłe", "lemma": "warm" },
+            { "w": "light", "t": "światło", "lemma": "light" },
+            { "w": "filled", "t": "wypełniło", "lemma": "fill" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "whole", "t": "całą", "lemma": "whole" },
+            { "w": "island", "t": "wyspę", "lemma": "island" }
+          ]
+        },
+        {
+          "en": "It was the best adventure the two friends had ever had.",
+          "pl": "To była najlepsza przygoda, jaką dwaj przyjaciele kiedykolwiek przeżyli.",
+          "tokens": [
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "best", "t": "najlepsza", "lemma": "good" },
+            { "w": "adventure", "t": "przygoda", "lemma": "adventure" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwaj", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciele", "lemma": "friend" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "ever", "t": "kiedykolwiek", "lemma": "ever" },
+            { "w": "had", "t": "mieli", "lemma": "have" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie obudził się Mario?",
+      "options": [
+        "Na zielonej wyspie pełnej palm",
+        "W swoim domu",
+        "Na szczycie góry"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kim był Yoshi?",
+      "options": [
+        "Uroczym zielonym dinozaurem",
+        "Małym Toadem",
+        "Złotą gwiazdą"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "W co Yoshi mógł zamieniać owoce?",
+      "options": [
+        "W przydatne jajka",
+        "W złote monety",
+        "W kwiaty"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego Yoshi używał, żeby zbierać monety?",
+      "options": [
+        "Swojego długiego, różowego języka",
+        "Magicznej różdżki",
+        "Wielkiej sieci"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Yoshi pokonał Roślinę Piranha?",
+      "options": [
+        "Rzucił w nią jajkiem",
+        "Przeskoczył nad nią",
+        "Uciekł do jaskini"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co znaleźli na szczycie wzgórza?",
+      "options": [
+        "Lśniącą złotą gwiazdę",
+        "Tajną jaskinię",
+        "Drewnianą skrzynię"
+      ],
+      "answer": 0
+    }
+  ]
+}

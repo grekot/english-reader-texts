@@ -89,6 +89,51 @@
         "long-read"
       ],
       "sha256": "8180fce657bbd949a8aa125b6fe3966c3796366d426fba3e32a3f461dfccf42d"
+    },
+    {
+      "id": "mario-yoshi-island",
+      "title": "Mario and Yoshi's Island Adventure",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dla dzieci",
+      "tags": [
+        "adventure",
+        "kids",
+        "games",
+        "fiction"
+      ],
+      "file": "texts/mario-yoshi-island.json",
+      "sha256": "7cde753a103f9dc33735f6c5876440c334254b6c372d5dab04b06ad12b926f69"
+    },
+    {
+      "id": "luigi-haunted-mansion",
+      "title": "Luigi and the Haunted Mansion",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dla dzieci",
+      "tags": [
+        "adventure",
+        "kids",
+        "games",
+        "spooky"
+      ],
+      "file": "texts/luigi-haunted-mansion.json",
+      "sha256": "1c67896c5dc15a2744720f79c6b540f837448a8f3ed685e4ff71b8ae729b42cf"
+    },
+    {
+      "id": "mario-kart-race",
+      "title": "The Great Mario Kart Race",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dla dzieci",
+      "tags": [
+        "adventure",
+        "kids",
+        "games",
+        "racing"
+      ],
+      "file": "texts/mario-kart-race.json",
+      "sha256": "a4f632f90edff788cd081cc26169738fdddafddf149d3cc5724eb0551c364292"
     }
   ]
 }

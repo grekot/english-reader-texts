@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "id": "mario-kart-race",
+  "title": "The Great Mario Kart Race",
+  "author": "AI Assistant",
+  "source": "Original fan story (Super Mario Bros. characters belong to Nintendo)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "games",
+    "racing"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "It was a sunny day at the big race track in the Mushroom Kingdom.",
+          "pl": "Był słoneczny dzień na wielkim torze wyścigowym w Grzybowym Królestwie.",
+          "tokens": [
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "sunny", "t": "słoneczny", "lemma": "sunny" },
+            { "w": "day", "t": "dzień", "lemma": "day" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "big", "t": "wielkim", "lemma": "big" },
+            { "w": "race", "t": "wyścigowym", "lemma": "race" },
+            { "w": "track", "t": "torze", "lemma": "track" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Mushroom", "t": "Grzybowym", "lemma": "Mushroom" },
+            { "w": "Kingdom", "t": "Królestwie", "lemma": "kingdom" }
+          ]
+        },
+        {
+          "en": "Mario, Luigi, Peach, and Bowser sat in their fast karts.",
+          "pl": "Mario, Luigi, Peach i Bowser siedzieli w swoich szybkich gokartach.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "Peach", "t": "Peach", "lemma": "Peach" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "sat", "t": "siedzieli", "lemma": "sit" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "their", "t": "swoich", "lemma": "their" },
+            { "w": "fast", "t": "szybkich", "lemma": "fast" },
+            { "w": "karts", "t": "gokartach", "lemma": "kart" }
+          ]
+        },
+        {
+          "en": "The crowd cheered loudly as the race was about to begin.",
+          "pl": "Tłum głośno wiwatował, gdy wyścig miał się właśnie zacząć.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "crowd", "t": "tłum", "lemma": "crowd" },
+            { "w": "cheered", "t": "wiwatował", "lemma": "cheer" },
+            { "w": "loudly", "t": "głośno", "lemma": "loudly" },
+            { "w": "as", "t": "gdy", "lemma": "as" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "race", "t": "wyścig", "lemma": "race" },
+            { "w": "was", "t": "miał", "lemma": "be" },
+            { "w": "about", "t": "właśnie", "lemma": "about" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "begin", "t": "zacząć", "lemma": "begin" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The traffic light turned green, and all the karts shot forward.",
+          "pl": "Światło zmieniło się na zielone i wszystkie gokarty wystrzeliły do przodu.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "traffic", "t": "(drogowe)", "lemma": "traffic" },
+            { "w": "light", "t": "światło", "lemma": "light" },
+            { "w": "turned", "t": "zmieniło się", "lemma": "turn" },
+            { "w": "green", "t": "zielone", "lemma": "green" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "all", "t": "wszystkie", "lemma": "all" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "karts", "t": "gokarty", "lemma": "kart" },
+            { "w": "shot", "t": "wystrzeliły", "lemma": "shoot" },
+            { "w": "forward", "t": "do przodu", "lemma": "forward" }
+          ]
+        },
+        {
+          "en": "Mario drove in first place around the first sharp corner.",
+          "pl": "Mario jechał na pierwszym miejscu, pokonując pierwszy ostry zakręt.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "drove", "t": "jechał", "lemma": "drive" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "first", "t": "pierwszym", "lemma": "first" },
+            { "w": "place", "t": "miejscu", "lemma": "place" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszego", "lemma": "first" },
+            { "w": "sharp", "t": "ostrego", "lemma": "sharp" },
+            { "w": "corner", "t": "zakrętu", "lemma": "corner" }
+          ]
+        },
+        {
+          "en": "Bowser followed close behind in his big, heavy kart.",
+          "pl": "Bowser jechał tuż za nim w swoim dużym, ciężkim gokarcie.",
+          "tokens": [
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "followed", "t": "podążał", "lemma": "follow" },
+            { "w": "close", "t": "tuż", "lemma": "close" },
+            { "w": "behind", "t": "za nim", "lemma": "behind" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "big", "t": "dużym", "lemma": "big" },
+            { "w": "heavy", "t": "ciężkim", "lemma": "heavy" },
+            { "w": "kart", "t": "gokarcie", "lemma": "kart" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Peach grabbed a green shell and threw it at Luigi.",
+          "pl": "Peach chwyciła zieloną skorupę i rzuciła nią w Luigiego.",
+          "tokens": [
+            { "w": "Peach", "t": "Peach", "lemma": "Peach" },
+            { "w": "grabbed", "t": "chwyciła", "lemma": "grab" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "green", "t": "zieloną", "lemma": "green" },
+            { "w": "shell", "t": "skorupę", "lemma": "shell" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "threw", "t": "rzuciła", "lemma": "throw" },
+            { "w": "it", "t": "nią", "lemma": "it" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "Luigi", "t": "Luigiego", "lemma": "Luigi" }
+          ]
+        },
+        {
+          "en": "Luigi spun around but quickly drove back onto the road.",
+          "pl": "Luigi zakręcił się w kółko, ale szybko wjechał z powrotem na drogę.",
+          "tokens": [
+            { "w": "Luigi", "t": "Luigi", "lemma": "Luigi" },
+            { "w": "spun", "t": "zakręcił się", "lemma": "spin" },
+            { "w": "around", "t": "w kółko", "lemma": "around" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "drove", "t": "wjechał", "lemma": "drive" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "onto", "t": "na", "lemma": "onto" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "road", "t": "drogę", "lemma": "road" }
+          ]
+        },
+        {
+          "en": "The racers crossed a long bridge over blue water.",
+          "pl": "Kierowcy przejechali przez długi most nad niebieską wodą.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "racers", "t": "kierowcy", "lemma": "racer" },
+            { "w": "crossed", "t": "przejechali", "lemma": "cross" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "long", "t": "długi", "lemma": "long" },
+            { "w": "bridge", "t": "most", "lemma": "bridge" },
+            { "w": "over", "t": "nad", "lemma": "over" },
+            { "w": "blue", "t": "niebieską", "lemma": "blue" },
+            { "w": "water", "t": "wodą", "lemma": "water" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mario picked up a golden mushroom and got a speed boost.",
+          "pl": "Mario podniósł złotego grzyba i dostał zastrzyk prędkości.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "picked", "t": "podniósł", "lemma": "pick" },
+            { "w": "up", "t": "w górę", "lemma": "up" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "golden", "t": "złotego", "lemma": "golden" },
+            { "w": "mushroom", "t": "grzyba", "lemma": "mushroom" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "got", "t": "dostał", "lemma": "get" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "speed", "t": "prędkości", "lemma": "speed" },
+            { "w": "boost", "t": "zastrzyk", "lemma": "boost" }
+          ]
+        },
+        {
+          "en": "He zoomed past two other karts on the muddy hill.",
+          "pl": "Przemknął obok dwóch innych gokartów na błotnistym wzgórzu.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "zoomed", "t": "przemknął", "lemma": "zoom" },
+            { "w": "past", "t": "obok", "lemma": "past" },
+            { "w": "two", "t": "dwóch", "lemma": "two" },
+            { "w": "other", "t": "innych", "lemma": "other" },
+            { "w": "karts", "t": "gokartów", "lemma": "kart" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "muddy", "t": "błotnistym", "lemma": "muddy" },
+            { "w": "hill", "t": "wzgórzu", "lemma": "hill" }
+          ]
+        },
+        {
+          "en": "Bananas and shells flew everywhere on the busy track.",
+          "pl": "Banany i skorupy latały wszędzie po zatłoczonym torze.",
+          "tokens": [
+            { "w": "Bananas", "t": "banany", "lemma": "banana" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "shells", "t": "skorupy", "lemma": "shell" },
+            { "w": "flew", "t": "latały", "lemma": "fly" },
+            { "w": "everywhere", "t": "wszędzie", "lemma": "everywhere" },
+            { "w": "on", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "busy", "t": "zatłoczonym", "lemma": "busy" },
+            { "w": "track", "t": "torze", "lemma": "track" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "On the last lap, Bowser tried to push Mario off the road.",
+          "pl": "Na ostatnim okrążeniu Bowser próbował zepchnąć Mario z drogi.",
+          "tokens": [
+            { "w": "On", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "last", "t": "ostatnim", "lemma": "last" },
+            { "w": "lap", "t": "okrążeniu", "lemma": "lap" },
+            { "w": "Bowser", "t": "Bowser", "lemma": "Bowser" },
+            { "w": "tried", "t": "próbował", "lemma": "try" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "push", "t": "zepchnąć", "lemma": "push" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "off", "t": "z", "lemma": "off" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "road", "t": "drogi", "lemma": "road" }
+          ]
+        },
+        {
+          "en": "Mario stayed calm and steered carefully around the rocks.",
+          "pl": "Mario zachował spokój i ostrożnie omijał kierownicą skały.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "stayed", "t": "pozostał", "lemma": "stay" },
+            { "w": "calm", "t": "spokojny", "lemma": "calm" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "steered", "t": "kierował", "lemma": "steer" },
+            { "w": "carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rocks", "t": "skał", "lemma": "rock" }
+          ]
+        },
+        {
+          "en": "The finish line was now very close ahead of them.",
+          "pl": "Linia mety była teraz bardzo blisko przed nimi.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "finish", "t": "(mety)", "lemma": "finish" },
+            { "w": "line", "t": "linia", "lemma": "line" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "now", "t": "teraz", "lemma": "now" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "close", "t": "blisko", "lemma": "close" },
+            { "w": "ahead", "t": "przed", "lemma": "ahead" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "them", "t": "nimi", "lemma": "they" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "With one final boost, Mario crossed the line in first place.",
+          "pl": "Z jednym ostatnim przyspieszeniem Mario przekroczył linię na pierwszym miejscu.",
+          "tokens": [
+            { "w": "With", "t": "z", "lemma": "with" },
+            { "w": "one", "t": "jednym", "lemma": "one" },
+            { "w": "final", "t": "ostatnim", "lemma": "final" },
+            { "w": "boost", "t": "przyspieszeniem", "lemma": "boost" },
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "crossed", "t": "przekroczył", "lemma": "cross" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "line", "t": "linię", "lemma": "line" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "first", "t": "pierwszym", "lemma": "first" },
+            { "w": "place", "t": "miejscu", "lemma": "place" }
+          ]
+        },
+        {
+          "en": "The happy crowd threw colorful confetti into the air.",
+          "pl": "Szczęśliwy tłum rzucał kolorowe konfetti w powietrze.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "happy", "t": "szczęśliwy", "lemma": "happy" },
+            { "w": "crowd", "t": "tłum", "lemma": "crowd" },
+            { "w": "threw", "t": "rzucał", "lemma": "throw" },
+            { "w": "colorful", "t": "kolorowe", "lemma": "colorful" },
+            { "w": "confetti", "t": "konfetti", "lemma": "confetti" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "air", "t": "powietrze", "lemma": "air" }
+          ]
+        },
+        {
+          "en": "Mario lifted the golden cup and smiled at all his friends.",
+          "pl": "Mario uniósł złoty puchar i uśmiechnął się do wszystkich swoich przyjaciół.",
+          "tokens": [
+            { "w": "Mario", "t": "Mario", "lemma": "Mario" },
+            { "w": "lifted", "t": "uniósł", "lemma": "lift" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "golden", "t": "złoty", "lemma": "golden" },
+            { "w": "cup", "t": "puchar", "lemma": "cup" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "smiled", "t": "uśmiechnął się", "lemma": "smile" },
+            { "w": "at", "t": "do", "lemma": "at" },
+            { "w": "all", "t": "wszystkich", "lemma": "all" },
+            { "w": "his", "t": "swoich", "lemma": "his" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie odbywał się wyścig?",
+      "options": [
+        "Na wielkim torze w Grzybowym Królestwie",
+        "Na nawiedzonej wyspie",
+        "W ciemnej jaskini"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto jechał tuż za Mario w dużym, ciężkim gokarcie?",
+      "options": [
+        "Bowser",
+        "Peach",
+        "Yoshi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Peach rzuciła w Luigiego?",
+      "options": [
+        "Zieloną skorupę",
+        "Banana",
+        "Złotego grzyba"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co dał Mario złoty grzyb?",
+      "options": [
+        "Zastrzyk prędkości",
+        "Dodatkowe życie",
+        "Tarczę ochronną"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co próbował zrobić Bowser na ostatnim okrążeniu?",
+      "options": [
+        "Zepchnąć Mario z drogi",
+        "Rzucić w niego skorupą",
+        "Poddać się"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Mario uniósł na końcu wyścigu?",
+      "options": [
+        "Złoty puchar",
+        "Zieloną skorupę",
+        "Latarkę"
+      ],
+      "answer": 0
+    }
+  ]
+}
