@@ -134,6 +134,22 @@
       ],
       "file": "texts/mario-kart-race.json",
       "sha256": "a4f632f90edff788cd081cc26169738fdddafddf149d3cc5724eb0551c364292"
+    },
+    {
+      "id": "julian-alps-travel-guide",
+      "title": "A Traveler's Guide to the Julian Alps",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Podróże",
+      "tags": [
+        "travel",
+        "slovenia",
+        "mountains",
+        "nature",
+        "guide"
+      ],
+      "file": "texts/julian-alps-travel-guide.json",
+      "sha256": "fd58f2a92880a604ae3832da587c5718ccdd2acdcdec41e68bf96f51e94ac99b"
     }
   ]
 }

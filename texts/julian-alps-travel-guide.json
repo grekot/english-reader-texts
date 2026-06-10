@@ -1,0 +1,561 @@
+{
+  "schemaVersion": 1,
+  "id": "julian-alps-travel-guide",
+  "title": "A Traveler's Guide to the Julian Alps",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "travel",
+    "slovenia",
+    "mountains",
+    "nature",
+    "guide"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "The Julian Alps are a stunning mountain range that stretches across northwestern Slovenia and into northeastern Italy.",
+          "pl": "Alpy Julijskie to zachwycające pasmo górskie, które rozciąga się przez północno-zachodnią Słowenię i sięga północno-wschodnich Włoch.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Julian", "t": "Julijskie", "lemma": "Julian" },
+            { "w": "Alps", "t": "Alpy", "lemma": "Alps" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "stunning", "t": "zachwycającym", "lemma": "stunning" },
+            { "w": "mountain", "t": "górskim", "lemma": "mountain" },
+            { "w": "range", "t": "pasmem", "lemma": "range" },
+            { "w": "that", "t": "które", "lemma": "that" },
+            { "w": "stretches", "t": "rozciąga się", "lemma": "stretch" },
+            { "w": "across", "t": "przez", "lemma": "across" },
+            { "w": "northwestern", "t": "północno-zachodnią", "lemma": "northwestern" },
+            { "w": "Slovenia", "t": "Słowenię", "lemma": "Slovenia" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "northeastern", "t": "północno-wschodnich", "lemma": "northeastern" },
+            { "w": "Italy", "t": "Włoch", "lemma": "Italy" }
+          ]
+        },
+        {
+          "en": "Named after Julius Caesar, these limestone peaks attract hikers, climbers, and nature lovers from all over the world.",
+          "pl": "Nazwane na cześć Juliusza Cezara, te wapienne szczyty przyciągają wędrowców, wspinaczy i miłośników przyrody z całego świata.",
+          "tokens": [
+            { "w": "Named", "t": "nazwane", "lemma": "name" },
+            { "w": "after", "t": "na cześć", "lemma": "after" },
+            { "w": "Julius", "t": "Juliusza", "lemma": "Julius" },
+            { "w": "Caesar", "t": "Cezara", "lemma": "Caesar" },
+            { "w": "these", "t": "te", "lemma": "this" },
+            { "w": "limestone", "t": "wapienne", "lemma": "limestone" },
+            { "w": "peaks", "t": "szczyty", "lemma": "peak" },
+            { "w": "attract", "t": "przyciągają", "lemma": "attract" },
+            { "w": "hikers", "t": "wędrowców", "lemma": "hiker" },
+            { "w": "climbers", "t": "wspinaczy", "lemma": "climber" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "nature", "t": "przyrody", "lemma": "nature" },
+            { "w": "lovers", "t": "miłośników", "lemma": "lover" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "all", "t": "całego", "lemma": "all" },
+            { "w": "over", "t": "(po całym)", "lemma": "over" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świata", "lemma": "world" }
+          ]
+        },
+        {
+          "en": "For travelers seeking dramatic scenery and fresh mountain air, this region offers an unforgettable experience.",
+          "pl": "Dla podróżnych szukających dramatycznych krajobrazów i świeżego górskiego powietrza ten region oferuje niezapomniane przeżycie.",
+          "tokens": [
+            { "w": "For", "t": "dla", "lemma": "for" },
+            { "w": "travelers", "t": "podróżnych", "lemma": "traveler" },
+            { "w": "seeking", "t": "szukających", "lemma": "seek" },
+            { "w": "dramatic", "t": "dramatycznych", "lemma": "dramatic" },
+            { "w": "scenery", "t": "krajobrazów", "lemma": "scenery" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "fresh", "t": "świeżego", "lemma": "fresh" },
+            { "w": "mountain", "t": "górskiego", "lemma": "mountain" },
+            { "w": "air", "t": "powietrza", "lemma": "air" },
+            { "w": "this", "t": "ten", "lemma": "this" },
+            { "w": "region", "t": "region", "lemma": "region" },
+            { "w": "offers", "t": "oferuje", "lemma": "offer" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "unforgettable", "t": "niezapomniane", "lemma": "unforgettable" },
+            { "w": "experience", "t": "przeżycie", "lemma": "experience" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "At the heart of the range stands Mount Triglav, the highest peak in Slovenia at 2,864 meters.",
+          "pl": "W sercu pasma wznosi się Triglav, najwyższy szczyt Słowenii na wysokości 2864 metrów.",
+          "tokens": [
+            { "w": "At", "t": "w", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "heart", "t": "sercu", "lemma": "heart" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "range", "t": "pasma", "lemma": "range" },
+            { "w": "stands", "t": "wznosi się", "lemma": "stand" },
+            { "w": "Mount", "t": "Góra", "lemma": "mount" },
+            { "w": "Triglav", "t": "Triglav", "lemma": "Triglav" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "highest", "t": "najwyższy", "lemma": "high" },
+            { "w": "peak", "t": "szczyt", "lemma": "peak" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "Slovenia", "t": "Słowenii", "lemma": "Slovenia" },
+            { "w": "at", "t": "na wysokości", "lemma": "at" },
+            { "w": "2,864", "t": "2864" },
+            { "w": "meters", "t": "metrów", "lemma": "meter" }
+          ]
+        },
+        {
+          "en": "Triglav is a national symbol, and its three-headed shape even appears on the country's flag.",
+          "pl": "Triglav jest symbolem narodowym, a jego trójgłowy kształt pojawia się nawet na fladze kraju.",
+          "tokens": [
+            { "w": "Triglav", "t": "Triglav", "lemma": "Triglav" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "national", "t": "narodowym", "lemma": "national" },
+            { "w": "symbol", "t": "symbolem", "lemma": "symbol" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "its", "t": "jego", "lemma": "its" },
+            { "w": "three-headed", "t": "trójgłowy", "lemma": "three-headed" },
+            { "w": "shape", "t": "kształt", "lemma": "shape" },
+            { "w": "even", "t": "nawet", "lemma": "even" },
+            { "w": "appears", "t": "pojawia się", "lemma": "appear" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "country's", "t": "kraju", "lemma": "country" },
+            { "w": "flag", "t": "fladze", "lemma": "flag" }
+          ]
+        },
+        {
+          "en": "Many Slovenes believe that everyone should climb it at least once in their lifetime.",
+          "pl": "Wielu Słoweńców wierzy, że każdy powinien zdobyć go co najmniej raz w życiu.",
+          "tokens": [
+            { "w": "Many", "t": "wielu", "lemma": "many" },
+            { "w": "Slovenes", "t": "Słoweńców", "lemma": "Slovene" },
+            { "w": "believe", "t": "wierzy", "lemma": "believe" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "everyone", "t": "każdy", "lemma": "everyone" },
+            { "w": "should", "t": "powinien", "lemma": "should" },
+            { "w": "climb", "t": "zdobyć", "lemma": "climb" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "at", "t": "co", "lemma": "at" },
+            { "w": "least", "t": "najmniej", "lemma": "least" },
+            { "w": "once", "t": "raz", "lemma": "once" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "their", "t": "swoim", "lemma": "their" },
+            { "w": "lifetime", "t": "życiu", "lemma": "lifetime" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The mountain lies within Triglav National Park, the only national park in the country.",
+          "pl": "Góra leży w obrębie Triglavskiego Parku Narodowego, jedynego parku narodowego w kraju.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mountain", "t": "góra", "lemma": "mountain" },
+            { "w": "lies", "t": "leży", "lemma": "lie" },
+            { "w": "within", "t": "w obrębie", "lemma": "within" },
+            { "w": "Triglav", "t": "Triglavskiego", "lemma": "Triglav" },
+            { "w": "National", "t": "Narodowego", "lemma": "national" },
+            { "w": "Park", "t": "Parku", "lemma": "park" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "only", "t": "jedynego", "lemma": "only" },
+            { "w": "national", "t": "narodowego", "lemma": "national" },
+            { "w": "park", "t": "parku", "lemma": "park" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "country", "t": "kraju", "lemma": "country" }
+          ]
+        },
+        {
+          "en": "The park protects ancient forests, deep valleys, and rare alpine plants and animals.",
+          "pl": "Park chroni prastare lasy, głębokie doliny oraz rzadkie alpejskie rośliny i zwierzęta.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "park", "t": "park", "lemma": "park" },
+            { "w": "protects", "t": "chroni", "lemma": "protect" },
+            { "w": "ancient", "t": "prastare", "lemma": "ancient" },
+            { "w": "forests", "t": "lasy", "lemma": "forest" },
+            { "w": "deep", "t": "głębokie", "lemma": "deep" },
+            { "w": "valleys", "t": "doliny", "lemma": "valley" },
+            { "w": "and", "t": "oraz", "lemma": "and" },
+            { "w": "rare", "t": "rzadkie", "lemma": "rare" },
+            { "w": "alpine", "t": "alpejskie", "lemma": "alpine" },
+            { "w": "plants", "t": "rośliny", "lemma": "plant" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "animals", "t": "zwierzęta", "lemma": "animal" }
+          ]
+        },
+        {
+          "en": "Visitors can follow well-marked trails that range from gentle walks to challenging climbs.",
+          "pl": "Odwiedzający mogą podążać dobrze oznakowanymi szlakami, które obejmują wszystko od łagodnych spacerów po wymagające wspinaczki.",
+          "tokens": [
+            { "w": "Visitors", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "can", "t": "mogą", "lemma": "can" },
+            { "w": "follow", "t": "podążać", "lemma": "follow" },
+            { "w": "well-marked", "t": "dobrze oznakowanymi", "lemma": "well-marked" },
+            { "w": "trails", "t": "szlakami", "lemma": "trail" },
+            { "w": "that", "t": "które", "lemma": "that" },
+            { "w": "range", "t": "rozciągają się", "lemma": "range" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "gentle", "t": "łagodnych", "lemma": "gentle" },
+            { "w": "walks", "t": "spacerów", "lemma": "walk" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "challenging", "t": "wymagających", "lemma": "challenging" },
+            { "w": "climbs", "t": "wspinaczek", "lemma": "climb" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One of the most famous attractions is Lake Bled, a glacial lake with crystal-clear water.",
+          "pl": "Jedną z najsłynniejszych atrakcji jest jezioro Bled, polodowcowe jezioro z krystalicznie czystą wodą.",
+          "tokens": [
+            { "w": "One", "t": "jedną", "lemma": "one" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "famous", "t": "słynnych", "lemma": "famous" },
+            { "w": "attractions", "t": "atrakcji", "lemma": "attraction" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "Lake", "t": "Jezioro", "lemma": "lake" },
+            { "w": "Bled", "t": "Bled", "lemma": "Bled" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "glacial", "t": "polodowcowe", "lemma": "glacial" },
+            { "w": "lake", "t": "jezioro", "lemma": "lake" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "crystal-clear", "t": "krystalicznie czystą", "lemma": "crystal-clear" },
+            { "w": "water", "t": "wodą", "lemma": "water" }
+          ]
+        },
+        {
+          "en": "A small island in the middle holds a picturesque church that visitors reach by traditional wooden boats.",
+          "pl": "Mała wyspa pośrodku mieści malowniczy kościół, do którego odwiedzający docierają tradycyjnymi drewnianymi łodziami.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "mała", "lemma": "small" },
+            { "w": "island", "t": "wyspa", "lemma": "island" },
+            { "w": "in", "t": "po", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "middle", "t": "środku", "lemma": "middle" },
+            { "w": "holds", "t": "mieści", "lemma": "hold" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "picturesque", "t": "malowniczy", "lemma": "picturesque" },
+            { "w": "church", "t": "kościół", "lemma": "church" },
+            { "w": "that", "t": "który", "lemma": "that" },
+            { "w": "visitors", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "reach", "t": "docierają do", "lemma": "reach" },
+            { "w": "by", "t": "(za pomocą)", "lemma": "by" },
+            { "w": "traditional", "t": "tradycyjnymi", "lemma": "traditional" },
+            { "w": "wooden", "t": "drewnianymi", "lemma": "wooden" },
+            { "w": "boats", "t": "łodziami", "lemma": "boat" }
+          ]
+        },
+        {
+          "en": "A medieval castle perched on a cliff offers breathtaking views over the entire valley.",
+          "pl": "Średniowieczny zamek przycupnięty na klifie oferuje zapierające dech widoki na całą dolinę.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "medieval", "t": "średniowieczny", "lemma": "medieval" },
+            { "w": "castle", "t": "zamek", "lemma": "castle" },
+            { "w": "perched", "t": "przycupnięty", "lemma": "perch" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "cliff", "t": "klifie", "lemma": "cliff" },
+            { "w": "offers", "t": "oferuje", "lemma": "offer" },
+            { "w": "breathtaking", "t": "zapierające dech", "lemma": "breathtaking" },
+            { "w": "views", "t": "widoki", "lemma": "view" },
+            { "w": "over", "t": "na", "lemma": "over" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "entire", "t": "całą", "lemma": "entire" },
+            { "w": "valley", "t": "dolinę", "lemma": "valley" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Nearby Lake Bohinj is larger and quieter, surrounded by steep forested slopes.",
+          "pl": "Pobliskie jezioro Bohinj jest większe i spokojniejsze, otoczone stromymi zalesionymi zboczami.",
+          "tokens": [
+            { "w": "Nearby", "t": "pobliskie", "lemma": "nearby" },
+            { "w": "Lake", "t": "Jezioro", "lemma": "lake" },
+            { "w": "Bohinj", "t": "Bohinj", "lemma": "Bohinj" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "larger", "t": "większe", "lemma": "large" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "quieter", "t": "spokojniejsze", "lemma": "quiet" },
+            { "w": "surrounded", "t": "otoczone", "lemma": "surround" },
+            { "w": "by", "t": "przez", "lemma": "by" },
+            { "w": "steep", "t": "stromymi", "lemma": "steep" },
+            { "w": "forested", "t": "zalesionymi", "lemma": "forested" },
+            { "w": "slopes", "t": "zboczami", "lemma": "slope" }
+          ]
+        },
+        {
+          "en": "Adventurous travelers often explore the Vintgar Gorge, where wooden walkways cling to the rock above a rushing river.",
+          "pl": "Żądni przygód podróżni często zwiedzają wąwóz Vintgar, gdzie drewniane kładki przylegają do skały nad rwącą rzeką.",
+          "tokens": [
+            { "w": "Adventurous", "t": "żądni przygód", "lemma": "adventurous" },
+            { "w": "travelers", "t": "podróżni", "lemma": "traveler" },
+            { "w": "often", "t": "często", "lemma": "often" },
+            { "w": "explore", "t": "zwiedzają", "lemma": "explore" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Vintgar", "t": "Vintgar", "lemma": "Vintgar" },
+            { "w": "Gorge", "t": "Wąwóz", "lemma": "gorge" },
+            { "w": "where", "t": "gdzie", "lemma": "where" },
+            { "w": "wooden", "t": "drewniane", "lemma": "wooden" },
+            { "w": "walkways", "t": "kładki", "lemma": "walkway" },
+            { "w": "cling", "t": "przylegają", "lemma": "cling" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rock", "t": "skały", "lemma": "rock" },
+            { "w": "above", "t": "nad", "lemma": "above" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "rushing", "t": "rwącą", "lemma": "rush" },
+            { "w": "river", "t": "rzeką", "lemma": "river" }
+          ]
+        },
+        {
+          "en": "In summer, the cool water and shady paths provide welcome relief from the heat.",
+          "pl": "Latem chłodna woda i zacienione ścieżki zapewniają mile widzianą ulgę od upału.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "summer", "t": "lecie", "lemma": "summer" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "cool", "t": "chłodna", "lemma": "cool" },
+            { "w": "water", "t": "woda", "lemma": "water" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "shady", "t": "zacienione", "lemma": "shady" },
+            { "w": "paths", "t": "ścieżki", "lemma": "path" },
+            { "w": "provide", "t": "zapewniają", "lemma": "provide" },
+            { "w": "welcome", "t": "mile widzianą", "lemma": "welcome" },
+            { "w": "relief", "t": "ulgę", "lemma": "relief" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "heat", "t": "upału", "lemma": "heat" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The famous Vršič Pass, the highest mountain road in Slovenia, winds through fifty sharp hairpin bends.",
+          "pl": "Słynna przełęcz Vršič, najwyższa górska droga w Słowenii, wije się przez pięćdziesiąt ostrych serpentyn.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "famous", "t": "słynna", "lemma": "famous" },
+            { "w": "Vršič", "t": "Vršič", "lemma": "Vršič" },
+            { "w": "Pass", "t": "Przełęcz", "lemma": "pass" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "highest", "t": "najwyższa", "lemma": "high" },
+            { "w": "mountain", "t": "górska", "lemma": "mountain" },
+            { "w": "road", "t": "droga", "lemma": "road" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "Slovenia", "t": "Słowenii", "lemma": "Slovenia" },
+            { "w": "winds", "t": "wije się", "lemma": "wind" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "fifty", "t": "pięćdziesiąt", "lemma": "fifty" },
+            { "w": "sharp", "t": "ostrych", "lemma": "sharp" },
+            { "w": "hairpin", "t": "serpentynowych", "lemma": "hairpin" },
+            { "w": "bends", "t": "zakrętów", "lemma": "bend" }
+          ]
+        },
+        {
+          "en": "On the other side flows the Soča River, known for its remarkable emerald-green color.",
+          "pl": "Po drugiej stronie płynie rzeka Soča, znana ze swojego niezwykłego szmaragdowozielonego koloru.",
+          "tokens": [
+            { "w": "On", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "other", "t": "drugiej", "lemma": "other" },
+            { "w": "side", "t": "stronie", "lemma": "side" },
+            { "w": "flows", "t": "płynie", "lemma": "flow" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Soča", "t": "Soča", "lemma": "Soča" },
+            { "w": "River", "t": "Rzeka", "lemma": "river" },
+            { "w": "known", "t": "znana", "lemma": "know" },
+            { "w": "for", "t": "z", "lemma": "for" },
+            { "w": "its", "t": "swojego", "lemma": "its" },
+            { "w": "remarkable", "t": "niezwykłego", "lemma": "remarkable" },
+            { "w": "emerald-green", "t": "szmaragdowozielonego", "lemma": "emerald-green" },
+            { "w": "color", "t": "koloru", "lemma": "color" }
+          ]
+        },
+        {
+          "en": "Kayakers and fishermen come from far away to enjoy its clean, fast-moving water.",
+          "pl": "Kajakarze i wędkarze przybywają z daleka, aby cieszyć się jej czystą, wartką wodą.",
+          "tokens": [
+            { "w": "Kayakers", "t": "kajakarze", "lemma": "kayaker" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "fishermen", "t": "wędkarze", "lemma": "fisherman" },
+            { "w": "come", "t": "przybywają", "lemma": "come" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "far", "t": "daleka", "lemma": "far" },
+            { "w": "away", "t": "(daleko)", "lemma": "away" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "enjoy", "t": "cieszyć się", "lemma": "enjoy" },
+            { "w": "its", "t": "jej", "lemma": "its" },
+            { "w": "clean", "t": "czystą", "lemma": "clean" },
+            { "w": "fast-moving", "t": "wartką", "lemma": "fast-moving" },
+            { "w": "water", "t": "wodą", "lemma": "water" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The best time to visit is between June and September, when the trails are usually free of snow.",
+          "pl": "Najlepszy czas na wizytę to okres między czerwcem a wrześniem, kiedy szlaki są zwykle wolne od śniegu.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "best", "t": "najlepszy", "lemma": "good" },
+            { "w": "time", "t": "czas", "lemma": "time" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "visit", "t": "odwiedzić", "lemma": "visit" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "June", "t": "czerwcem", "lemma": "June" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "September", "t": "wrześniem", "lemma": "September" },
+            { "w": "when", "t": "kiedy", "lemma": "when" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trails", "t": "szlaki", "lemma": "trail" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "usually", "t": "zwykle", "lemma": "usually" },
+            { "w": "free", "t": "wolne", "lemma": "free" },
+            { "w": "of", "t": "od", "lemma": "of" },
+            { "w": "snow", "t": "śniegu", "lemma": "snow" }
+          ]
+        },
+        {
+          "en": "Travelers should always carry warm clothes, sturdy boots, and plenty of water, because mountain weather can change quickly.",
+          "pl": "Podróżni powinni zawsze mieć przy sobie ciepłe ubrania, solidne buty i dużo wody, ponieważ górska pogoda może zmienić się szybko.",
+          "tokens": [
+            { "w": "Travelers", "t": "podróżni", "lemma": "traveler" },
+            { "w": "should", "t": "powinni", "lemma": "should" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "carry", "t": "mieć przy sobie", "lemma": "carry" },
+            { "w": "warm", "t": "ciepłe", "lemma": "warm" },
+            { "w": "clothes", "t": "ubrania", "lemma": "clothes" },
+            { "w": "sturdy", "t": "solidne", "lemma": "sturdy" },
+            { "w": "boots", "t": "buty", "lemma": "boot" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "plenty", "t": "dużo", "lemma": "plenty" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "water", "t": "wody", "lemma": "water" },
+            { "w": "because", "t": "ponieważ", "lemma": "because" },
+            { "w": "mountain", "t": "górska", "lemma": "mountain" },
+            { "w": "weather", "t": "pogoda", "lemma": "weather" },
+            { "w": "can", "t": "może", "lemma": "can" },
+            { "w": "change", "t": "zmienić się", "lemma": "change" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" }
+          ]
+        },
+        {
+          "en": "Whether you come to hike, relax, or simply admire the views, the Julian Alps will leave a lasting impression.",
+          "pl": "Czy przyjeżdżasz, by wędrować, odpoczywać, czy po prostu podziwiać widoki, Alpy Julijskie pozostawią trwałe wrażenie.",
+          "tokens": [
+            { "w": "Whether", "t": "czy", "lemma": "whether" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "come", "t": "przyjeżdżasz", "lemma": "come" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "hike", "t": "wędrować", "lemma": "hike" },
+            { "w": "relax", "t": "odpoczywać", "lemma": "relax" },
+            { "w": "or", "t": "czy", "lemma": "or" },
+            { "w": "simply", "t": "po prostu", "lemma": "simply" },
+            { "w": "admire", "t": "podziwiać", "lemma": "admire" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "views", "t": "widoki", "lemma": "view" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Julian", "t": "Julijskie", "lemma": "Julian" },
+            { "w": "Alps", "t": "Alpy", "lemma": "Alps" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "leave", "t": "pozostawią", "lemma": "leave" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "lasting", "t": "trwałe", "lemma": "lasting" },
+            { "w": "impression", "t": "wrażenie", "lemma": "impression" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Od kogo Alpy Julijskie wzięły swoją nazwę?",
+      "options": [
+        "Od Juliusza Cezara",
+        "Od króla Słowenii",
+        "Od rzeki Soča"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki jest najwyższy szczyt Słowenii i jego wysokość?",
+      "options": [
+        "Triglav, 2864 metry",
+        "Vršič, 1611 metrów",
+        "Bohinj, 2200 metrów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co znajduje się na małej wyspie na środku jeziora Bled?",
+      "options": [
+        "Malowniczy kościół",
+        "Średniowieczny zamek",
+        "Drewniana przystań"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Z czego słynie rzeka Soča?",
+      "options": [
+        "Z niezwykłego szmaragdowozielonego koloru",
+        "Z gorących źródeł",
+        "Z najgłębszego kanionu w Europie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Ile ostrych serpentyn ma przełęcz Vršič?",
+      "options": [
+        "Pięćdziesiąt",
+        "Dwadzieścia",
+        "Sto"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co podróżni powinni zawsze mieć przy sobie w górach?",
+      "options": [
+        "Ciepłe ubrania, solidne buty i dużo wody",
+        "Tylko aparat fotograficzny",
+        "Łódkę i wędkę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kiedy jest najlepszy czas na odwiedzenie Alp Julijskich?",
+      "options": [
+        "Między czerwcem a wrześniem",
+        "Zimą, od grudnia do lutego",
+        "Wczesną wiosną w marcu"
+      ],
+      "answer": 0
+    }
+  ]
+}
