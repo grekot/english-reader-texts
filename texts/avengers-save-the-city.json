@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "id": "avengers-save-the-city",
+  "title": "The Avengers Save the City",
+  "author": "AI Assistant",
+  "source": "Original fan story (Avengers / Marvel characters belong to Marvel)",
+  "level": "A2",
+  "tags": [
+    "adventure",
+    "kids",
+    "superheroes",
+    "fiction"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One sunny day, a loud alarm rang across the big city.",
+          "pl": "Pewnego słonecznego dnia w wielkim mieście rozległ się głośny alarm.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "sunny", "t": "słonecznego", "lemma": "sunny" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "loud", "t": "głośny", "lemma": "loud" },
+            { "w": "alarm", "t": "alarm", "lemma": "alarm" },
+            { "w": "rang", "t": "rozległ się", "lemma": "ring" },
+            { "w": "across", "t": "po", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "big", "t": "wielkim", "lemma": "big" },
+            { "w": "city", "t": "mieście", "lemma": "city" }
+          ]
+        },
+        {
+          "en": "A villain named Loki wanted to steal a powerful blue gem.",
+          "pl": "Złoczyńca o imieniu Loki chciał ukraść potężny niebieski klejnot.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "villain", "t": "złoczyńca", "lemma": "villain" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "Loki", "t": "Loki", "lemma": "Loki" },
+            { "w": "wanted", "t": "chciał", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "steal", "t": "ukraść", "lemma": "steal" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "powerful", "t": "potężny", "lemma": "powerful" },
+            { "w": "blue", "t": "niebieski", "lemma": "blue" },
+            { "w": "gem", "t": "klejnot", "lemma": "gem" }
+          ]
+        },
+        {
+          "en": "The brave team of heroes called the Avengers rushed to help.",
+          "pl": "Odważna drużyna bohaterów zwana Avengers pospieszyła z pomocą.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "brave", "t": "odważna", "lemma": "brave" },
+            { "w": "team", "t": "drużyna", "lemma": "team" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "heroes", "t": "bohaterów", "lemma": "hero" },
+            { "w": "called", "t": "zwana", "lemma": "call" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Avengers", "t": "Avengers (Mściciele)", "lemma": "Avengers" },
+            { "w": "rushed", "t": "pospieszyła", "lemma": "rush" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "help", "t": "pomóc", "lemma": "help" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Iron Man flew through the sky in his red and gold suit.",
+          "pl": "Iron Man leciał przez niebo w swoim czerwono-złotym kombinezonie.",
+          "tokens": [
+            { "w": "Iron", "t": "Iron", "lemma": "Iron" },
+            { "w": "Man", "t": "Man", "lemma": "Man" },
+            { "w": "flew", "t": "leciał", "lemma": "fly" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sky", "t": "niebo", "lemma": "sky" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "red", "t": "czerwonym", "lemma": "red" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "gold", "t": "złotym", "lemma": "gold" },
+            { "w": "suit", "t": "kombinezonie", "lemma": "suit" }
+          ]
+        },
+        {
+          "en": "Captain America ran fast and carried his round shield.",
+          "pl": "Kapitan Ameryka biegł szybko i niósł swoją okrągłą tarczę.",
+          "tokens": [
+            { "w": "Captain", "t": "Kapitan", "lemma": "captain" },
+            { "w": "America", "t": "Ameryka", "lemma": "America" },
+            { "w": "ran", "t": "biegł", "lemma": "run" },
+            { "w": "fast", "t": "szybko", "lemma": "fast" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "carried", "t": "niósł", "lemma": "carry" },
+            { "w": "his", "t": "swoją", "lemma": "his" },
+            { "w": "round", "t": "okrągłą", "lemma": "round" },
+            { "w": "shield", "t": "tarczę", "lemma": "shield" }
+          ]
+        },
+        {
+          "en": "Thor arrived with his magic hammer and a flash of lightning.",
+          "pl": "Thor przybył ze swoim magicznym młotem i błyskiem błyskawicy.",
+          "tokens": [
+            { "w": "Thor", "t": "Thor", "lemma": "Thor" },
+            { "w": "arrived", "t": "przybył", "lemma": "arrive" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "magic", "t": "magicznym", "lemma": "magic" },
+            { "w": "hammer", "t": "młotem", "lemma": "hammer" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "flash", "t": "błyskiem", "lemma": "flash" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "lightning", "t": "błyskawicy", "lemma": "lightning" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Loki laughed and sent many robots into the streets.",
+          "pl": "Loki śmiał się i wysłał wiele robotów na ulice.",
+          "tokens": [
+            { "w": "Loki", "t": "Loki", "lemma": "Loki" },
+            { "w": "laughed", "t": "śmiał się", "lemma": "laugh" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "sent", "t": "wysłał", "lemma": "send" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "robots", "t": "robotów", "lemma": "robot" },
+            { "w": "into", "t": "na", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "streets", "t": "ulice", "lemma": "street" }
+          ]
+        },
+        {
+          "en": "The frightened people ran away from the loud machines.",
+          "pl": "Przestraszeni ludzie uciekali od głośnych maszyn.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "frightened", "t": "przestraszeni", "lemma": "frightened" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "ran", "t": "uciekali", "lemma": "run" },
+            { "w": "away", "t": "(uciekać)", "lemma": "away" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "loud", "t": "głośnych", "lemma": "loud" },
+            { "w": "machines", "t": "maszyn", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "Black Widow helped the children find a safe place to hide.",
+          "pl": "Czarna Wdowa pomogła dzieciom znaleźć bezpieczne miejsce, by się ukryć.",
+          "tokens": [
+            { "w": "Black", "t": "Czarna", "lemma": "black" },
+            { "w": "Widow", "t": "Wdowa", "lemma": "widow" },
+            { "w": "helped", "t": "pomogła", "lemma": "help" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "children", "t": "dzieciom", "lemma": "child" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "safe", "t": "bezpieczne", "lemma": "safe" },
+            { "w": "place", "t": "miejsce", "lemma": "place" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "hide", "t": "ukryć się", "lemma": "hide" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The strong green Hulk smashed the robots with his huge hands.",
+          "pl": "Silny zielony Hulk rozbijał roboty swoimi ogromnymi rękami.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "strong", "t": "silny", "lemma": "strong" },
+            { "w": "green", "t": "zielony", "lemma": "green" },
+            { "w": "Hulk", "t": "Hulk", "lemma": "Hulk" },
+            { "w": "smashed", "t": "rozbijał", "lemma": "smash" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "robots", "t": "roboty", "lemma": "robot" },
+            { "w": "with", "t": "(za pomocą)", "lemma": "with" },
+            { "w": "his", "t": "swoimi", "lemma": "his" },
+            { "w": "huge", "t": "ogromnymi", "lemma": "huge" },
+            { "w": "hands", "t": "rękami", "lemma": "hand" }
+          ]
+        },
+        {
+          "en": "Spider-Man caught two falling cars with his sticky webs.",
+          "pl": "Spider-Man złapał dwa spadające samochody swoimi lepkimi sieciami.",
+          "tokens": [
+            { "w": "Spider-Man", "t": "Spider-Man", "lemma": "Spider-Man" },
+            { "w": "caught", "t": "złapał", "lemma": "catch" },
+            { "w": "two", "t": "dwa", "lemma": "two" },
+            { "w": "falling", "t": "spadające", "lemma": "fall" },
+            { "w": "cars", "t": "samochody", "lemma": "car" },
+            { "w": "with", "t": "(za pomocą)", "lemma": "with" },
+            { "w": "his", "t": "swoimi", "lemma": "his" },
+            { "w": "sticky", "t": "lepkimi", "lemma": "sticky" },
+            { "w": "webs", "t": "sieciami", "lemma": "web" }
+          ]
+        },
+        {
+          "en": "Together, the heroes worked as one powerful team.",
+          "pl": "Razem bohaterowie działali jako jedna potężna drużyna.",
+          "tokens": [
+            { "w": "Together", "t": "razem", "lemma": "together" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "heroes", "t": "bohaterowie", "lemma": "hero" },
+            { "w": "worked", "t": "działali", "lemma": "work" },
+            { "w": "as", "t": "jako", "lemma": "as" },
+            { "w": "one", "t": "jedna", "lemma": "one" },
+            { "w": "powerful", "t": "potężna", "lemma": "powerful" },
+            { "w": "team", "t": "drużyna", "lemma": "team" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Iron Man flew straight toward Loki and grabbed the blue gem.",
+          "pl": "Iron Man poleciał prosto w stronę Lokiego i chwycił niebieski klejnot.",
+          "tokens": [
+            { "w": "Iron", "t": "Iron", "lemma": "Iron" },
+            { "w": "Man", "t": "Man", "lemma": "Man" },
+            { "w": "flew", "t": "poleciał", "lemma": "fly" },
+            { "w": "straight", "t": "prosto", "lemma": "straight" },
+            { "w": "toward", "t": "w stronę", "lemma": "toward" },
+            { "w": "Loki", "t": "Lokiego", "lemma": "Loki" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "grabbed", "t": "chwycił", "lemma": "grab" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "blue", "t": "niebieski", "lemma": "blue" },
+            { "w": "gem", "t": "klejnot", "lemma": "gem" }
+          ]
+        },
+        {
+          "en": "Thor used his hammer to stop the last giant robot.",
+          "pl": "Thor użył swojego młota, by zatrzymać ostatniego wielkiego robota.",
+          "tokens": [
+            { "w": "Thor", "t": "Thor", "lemma": "Thor" },
+            { "w": "used", "t": "użył", "lemma": "use" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "hammer", "t": "młota", "lemma": "hammer" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "stop", "t": "zatrzymać", "lemma": "stop" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "last", "t": "ostatniego", "lemma": "last" },
+            { "w": "giant", "t": "wielkiego", "lemma": "giant" },
+            { "w": "robot", "t": "robota", "lemma": "robot" }
+          ]
+        },
+        {
+          "en": "Finally, Captain America caught the surprised villain.",
+          "pl": "W końcu Kapitan Ameryka złapał zaskoczonego złoczyńcę.",
+          "tokens": [
+            { "w": "Finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "Captain", "t": "Kapitan", "lemma": "captain" },
+            { "w": "America", "t": "Ameryka", "lemma": "America" },
+            { "w": "caught", "t": "złapał", "lemma": "catch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "surprised", "t": "zaskoczonego", "lemma": "surprised" },
+            { "w": "villain", "t": "złoczyńcę", "lemma": "villain" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The city was safe again, and the people cheered loudly.",
+          "pl": "Miasto znowu było bezpieczne, a ludzie głośno wiwatowali.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "city", "t": "miasto", "lemma": "city" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "safe", "t": "bezpieczne", "lemma": "safe" },
+            { "w": "again", "t": "znowu", "lemma": "again" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "people", "t": "ludzie", "lemma": "people" },
+            { "w": "cheered", "t": "wiwatowali", "lemma": "cheer" },
+            { "w": "loudly", "t": "głośno", "lemma": "loudly" }
+          ]
+        },
+        {
+          "en": "The Avengers smiled and shook hands with the happy crowd.",
+          "pl": "Avengers uśmiechnęli się i uścisnęli dłonie ze szczęśliwym tłumem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Avengers", "t": "Avengers", "lemma": "Avengers" },
+            { "w": "smiled", "t": "uśmiechnęli się", "lemma": "smile" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "shook", "t": "uścisnęli", "lemma": "shake" },
+            { "w": "hands", "t": "dłonie", "lemma": "hand" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "happy", "t": "szczęśliwym", "lemma": "happy" },
+            { "w": "crowd", "t": "tłumem", "lemma": "crowd" }
+          ]
+        },
+        {
+          "en": "Everyone knew that the heroes would always protect them.",
+          "pl": "Wszyscy wiedzieli, że bohaterowie zawsze będą ich chronić.",
+          "tokens": [
+            { "w": "Everyone", "t": "wszyscy", "lemma": "everyone" },
+            { "w": "knew", "t": "wiedzieli", "lemma": "know" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "heroes", "t": "bohaterowie", "lemma": "hero" },
+            { "w": "would", "t": "(będą)", "lemma": "would" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "protect", "t": "chronić", "lemma": "protect" },
+            { "w": "them", "t": "ich", "lemma": "them" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co chciał ukraść Loki?",
+      "options": [
+        "Potężny niebieski klejnot",
+        "Tarczę Kapitana Ameryki",
+        "Młot Thora"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "W czym latał Iron Man?",
+      "options": [
+        "W czerwono-złotym kombinezonie",
+        "W zielonej pelerynie",
+        "Na latającym dywanie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto pomógł dzieciom znaleźć bezpieczne miejsce?",
+      "options": [
+        "Czarna Wdowa",
+        "Hulk",
+        "Loki"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym Spider-Man złapał spadające samochody?",
+      "options": [
+        "Swoimi lepkimi sieciami",
+        "Ogromnymi rękami",
+        "Magicznym młotem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto złapał zaskoczonego złoczyńcę na końcu?",
+      "options": [
+        "Kapitan Ameryka",
+        "Spider-Man",
+        "Thor"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak zareagowali ludzie, gdy miasto było znów bezpieczne?",
+      "options": [
+        "Głośno wiwatowali",
+        "Uciekli z miasta",
+        "Schowali się w domach"
+      ],
+      "answer": 0
+    }
+  ]
+}

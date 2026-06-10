@@ -326,6 +326,21 @@
       ],
       "file": "texts/history-mysteries.json",
       "sha256": "08a3dea7cc506d9aada1b8fe723f8aff01cc732b3e48b8cf68d3d9a87449615c"
+    },
+    {
+      "id": "avengers-save-the-city",
+      "title": "The Avengers Save the City",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dla dzieci",
+      "tags": [
+        "adventure",
+        "kids",
+        "superheroes",
+        "fiction"
+      ],
+      "file": "texts/avengers-save-the-city.json",
+      "sha256": "5834ae9ee284704fdae18b7fd3991d1d0843f718eff4b7d49fc0b6d65bf375f8"
     }
   ]
 }
