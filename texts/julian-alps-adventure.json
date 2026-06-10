@@ -18,51 +18,183 @@
           "en": "Adam, Zuzanna, and Piotr were hiking in the beautiful Julian Alps.",
           "pl": "Adam, Zuzanna i Piotr wędrowali w pięknych Alpach Julijskich.",
           "tokens": [
-            { "w": "Adam", "t": "Adam", "lemma": "Adam" },
-            { "w": "Zuzanna", "t": "Zuzanna", "lemma": "Zuzanna" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "Piotr", "t": "Piotr", "lemma": "Piotr" },
-            { "w": "were", "t": "byli", "lemma": "be" },
-            { "w": "hiking", "t": "wędrując", "lemma": "hike" },
-            { "w": "in", "t": "w", "lemma": "in" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "beautiful", "t": "pięknych", "lemma": "beautiful" },
-            { "w": "Julian", "t": "Julijskich", "lemma": "Julian" },
-            { "w": "Alps", "t": "Alpach", "lemma": "Alps" }
+            {
+              "w": "Adam",
+              "t": "Adam",
+              "lemma": "Adam"
+            },
+            {
+              "w": "Zuzanna",
+              "t": "Zuzanna",
+              "lemma": "Zuzanna"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "Piotr",
+              "t": "Piotr",
+              "lemma": "Piotr"
+            },
+            {
+              "w": "were",
+              "t": "byli",
+              "lemma": "be"
+            },
+            {
+              "w": "hiking",
+              "t": "wędrując",
+              "lemma": "hike"
+            },
+            {
+              "w": "in",
+              "t": "w",
+              "lemma": "in"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "beautiful",
+              "t": "pięknych",
+              "lemma": "beautiful"
+            },
+            {
+              "w": "Julian",
+              "t": "Julijskich",
+              "lemma": "Julian"
+            },
+            {
+              "w": "Alps",
+              "t": "Alpach",
+              "lemma": "Alps"
+            }
           ]
         },
         {
           "en": "The rocky peaks reached high into the clear blue sky.",
           "pl": "Skaliste szczyty sięgały wysoko w czyste, niebieskie niebo.",
           "tokens": [
-            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "rocky", "t": "skaliste", "lemma": "rocky" },
-            { "w": "peaks", "t": "szczyty", "lemma": "peak" },
-            { "w": "reached", "t": "sięgały", "lemma": "reach" },
-            { "w": "high", "t": "wysoko", "lemma": "high" },
-            { "w": "into", "t": "w", "lemma": "into" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "clear", "t": "czyste", "lemma": "clear" },
-            { "w": "blue", "t": "niebieskie", "lemma": "blue" },
-            { "w": "sky", "t": "niebo", "lemma": "sky" }
+            {
+              "w": "The",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "rocky",
+              "t": "skaliste",
+              "lemma": "rocky"
+            },
+            {
+              "w": "peaks",
+              "t": "szczyty",
+              "lemma": "peak"
+            },
+            {
+              "w": "reached",
+              "t": "sięgały",
+              "lemma": "reach"
+            },
+            {
+              "w": "high",
+              "t": "wysoko",
+              "lemma": "high"
+            },
+            {
+              "w": "into",
+              "t": "w",
+              "lemma": "into"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "clear",
+              "t": "czyste",
+              "lemma": "clear"
+            },
+            {
+              "w": "blue",
+              "t": "niebieskie",
+              "lemma": "blue"
+            },
+            {
+              "w": "sky",
+              "t": "niebo",
+              "lemma": "sky"
+            }
           ]
         },
         {
           "en": "Adam loved the challenge of climbing steep trails and discovering hidden places.",
           "pl": "Adam uwielbiał wyzwanie wspinania się po stromych szlakach i odkrywania ukrytych miejsc.",
           "tokens": [
-            { "w": "Adam", "t": "Adam", "lemma": "Adam" },
-            { "w": "loved", "t": "uwielbiał", "lemma": "love" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "challenge", "t": "wyzwanie", "lemma": "challenge" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "climbing", "t": "wspinania się", "lemma": "climb" },
-            { "w": "steep", "t": "stromych", "lemma": "steep" },
-            { "w": "trails", "t": "szlakach", "lemma": "trail" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "discovering", "t": "odkrywania", "lemma": "discover" },
-            { "w": "hidden", "t": "ukrytych", "lemma": "hidden" },
-            { "w": "places", "t": "miejsc", "lemma": "place" }
+            {
+              "w": "Adam",
+              "t": "Adam",
+              "lemma": "Adam"
+            },
+            {
+              "w": "loved",
+              "t": "uwielbiał",
+              "lemma": "love"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "challenge",
+              "t": "wyzwanie",
+              "lemma": "challenge"
+            },
+            {
+              "w": "of",
+              "t": "(przyimek dopełniacza)",
+              "lemma": "of"
+            },
+            {
+              "w": "climbing",
+              "t": "wspinania się",
+              "lemma": "climb"
+            },
+            {
+              "w": "steep",
+              "t": "stromych",
+              "lemma": "steep"
+            },
+            {
+              "w": "trails",
+              "t": "szlakach",
+              "lemma": "trail"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "discovering",
+              "t": "odkrywania",
+              "lemma": "discover"
+            },
+            {
+              "w": "hidden",
+              "t": "ukrytych",
+              "lemma": "hidden"
+            },
+            {
+              "w": "places",
+              "t": "miejsc",
+              "lemma": "place"
+            }
           ]
         }
       ]
@@ -73,53 +205,193 @@
           "en": "Suddenly, he noticed a small, dark opening behind a large grey boulder.",
           "pl": "Nagle zauważył mały, ciemny otwór za dużym, szarym głazem.",
           "tokens": [
-            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
-            { "w": "he", "t": "on", "lemma": "he" },
-            { "w": "noticed", "t": "zauważył", "lemma": "notice" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "small", "t": "mały", "lemma": "small" },
-            { "w": "dark", "t": "ciemny", "lemma": "dark" },
-            { "w": "opening", "t": "otwór", "lemma": "opening" },
-            { "w": "behind", "t": "za", "lemma": "behind" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "large", "t": "dużym", "lemma": "large" },
-            { "w": "grey", "t": "szarym", "lemma": "grey" },
-            { "w": "boulder", "t": "głazem", "lemma": "boulder" }
+            {
+              "w": "Suddenly",
+              "t": "nagle",
+              "lemma": "suddenly"
+            },
+            {
+              "w": "he",
+              "t": "on",
+              "lemma": "he"
+            },
+            {
+              "w": "noticed",
+              "t": "zauważył",
+              "lemma": "notice"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "small",
+              "t": "mały",
+              "lemma": "small"
+            },
+            {
+              "w": "dark",
+              "t": "ciemny",
+              "lemma": "dark"
+            },
+            {
+              "w": "opening",
+              "t": "otwór",
+              "lemma": "opening"
+            },
+            {
+              "w": "behind",
+              "t": "za",
+              "lemma": "behind"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "large",
+              "t": "dużym",
+              "lemma": "large"
+            },
+            {
+              "w": "grey",
+              "t": "szarym",
+              "lemma": "grey"
+            },
+            {
+              "w": "boulder",
+              "t": "głazem",
+              "lemma": "boulder"
+            }
           ]
         },
         {
           "en": "He called Zuzanna and Piotr to come and look at his discovery.",
           "pl": "Zawołał Zuzannę i Piotra, aby podeszli i spojrzeli na jego odkrycie.",
           "tokens": [
-            { "w": "He", "t": "on", "lemma": "he" },
-            { "w": "called", "t": "zawołał", "lemma": "call" },
-            { "w": "Zuzanna", "t": "Zuzannę", "lemma": "Zuzanna" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "Piotr", "t": "Piotra", "lemma": "Piotr" },
-            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
-            { "w": "come", "t": "przyjść", "lemma": "come" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "look", "t": "spojrzeć", "lemma": "look" },
-            { "w": "at", "t": "na", "lemma": "at" },
-            { "w": "his", "t": "jego", "lemma": "his" },
-            { "w": "discovery", "t": "odkrycie", "lemma": "discovery" }
+            {
+              "w": "He",
+              "t": "on",
+              "lemma": "he"
+            },
+            {
+              "w": "called",
+              "t": "zawołał",
+              "lemma": "call"
+            },
+            {
+              "w": "Zuzanna",
+              "t": "Zuzannę",
+              "lemma": "Zuzanna"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "Piotr",
+              "t": "Piotra",
+              "lemma": "Piotr"
+            },
+            {
+              "w": "to",
+              "t": "(bezokolicznik)",
+              "lemma": "to"
+            },
+            {
+              "w": "come",
+              "t": "przyjść",
+              "lemma": "come"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "look",
+              "t": "spojrzeć",
+              "lemma": "look"
+            },
+            {
+              "w": "at",
+              "t": "na",
+              "lemma": "at"
+            },
+            {
+              "w": "his",
+              "t": "jego",
+              "lemma": "his"
+            },
+            {
+              "w": "discovery",
+              "t": "odkrycie",
+              "lemma": "discovery"
+            }
           ]
         },
         {
           "en": "They carefully stepped inside the cool cave, shining their flashlights around.",
           "pl": "Ostrożnie weszli do chłodnej jaskini, świecąc dookoła swoimi latarkami.",
           "tokens": [
-            { "w": "They", "t": "oni", "lemma": "they" },
-            { "w": "carefully", "t": "ostrożnie", "lemma": "carefully" },
-            { "w": "stepped", "t": "weszli", "lemma": "step" },
-            { "w": "inside", "t": "do środka", "lemma": "inside" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "cool", "t": "chłodnej", "lemma": "cool" },
-            { "w": "cave", "t": "jaskini", "lemma": "cave" },
-            { "w": "shining", "t": "świecąc", "lemma": "shine" },
-            { "w": "their", "t": "swoimi", "lemma": "their" },
-            { "w": "flashlights", "t": "latarkami", "lemma": "flashlight" },
-            { "w": "around", "t": "dookoła", "lemma": "around" }
+            {
+              "w": "They",
+              "t": "oni",
+              "lemma": "they"
+            },
+            {
+              "w": "carefully",
+              "t": "ostrożnie",
+              "lemma": "carefully"
+            },
+            {
+              "w": "stepped",
+              "t": "weszli",
+              "lemma": "step"
+            },
+            {
+              "w": "inside",
+              "t": "do środka",
+              "lemma": "inside"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "cool",
+              "t": "chłodnej",
+              "lemma": "cool"
+            },
+            {
+              "w": "cave",
+              "t": "jaskini",
+              "lemma": "cave"
+            },
+            {
+              "w": "shining",
+              "t": "świecąc",
+              "lemma": "shine"
+            },
+            {
+              "w": "their",
+              "t": "swoimi",
+              "lemma": "their"
+            },
+            {
+              "w": "flashlights",
+              "t": "latarkami",
+              "lemma": "flashlight"
+            },
+            {
+              "w": "around",
+              "t": "dookoła",
+              "lemma": "around"
+            }
           ]
         }
       ]
@@ -130,57 +402,239 @@
           "en": "The walls of the cave sparkled with strange, green crystals.",
           "pl": "Ściany jaskini błyszczały dziwnymi, zielonymi kryształami.",
           "tokens": [
-            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "walls", "t": "ściany", "lemma": "wall" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "cave", "t": "jaskini", "lemma": "cave" },
-            { "w": "sparkled", "t": "błyszczały", "lemma": "sparkle" },
-            { "w": "with", "t": "od", "lemma": "with" },
-            { "w": "strange", "t": "dziwnymi", "lemma": "strange" },
-            { "w": "green", "t": "zielonymi", "lemma": "green" },
-            { "w": "crystals", "t": "kryształami", "lemma": "crystal" }
+            {
+              "w": "The",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "walls",
+              "t": "ściany",
+              "lemma": "wall"
+            },
+            {
+              "w": "of",
+              "t": "(przyimek dopełniacza)",
+              "lemma": "of"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "cave",
+              "t": "jaskini",
+              "lemma": "cave"
+            },
+            {
+              "w": "sparkled",
+              "t": "błyszczały",
+              "lemma": "sparkle"
+            },
+            {
+              "w": "with",
+              "t": "od",
+              "lemma": "with"
+            },
+            {
+              "w": "strange",
+              "t": "dziwnymi",
+              "lemma": "strange"
+            },
+            {
+              "w": "green",
+              "t": "zielonymi",
+              "lemma": "green"
+            },
+            {
+              "w": "crystals",
+              "t": "kryształami",
+              "lemma": "crystal"
+            }
           ]
         },
         {
           "en": "It felt like they had entered a magical world hidden deep inside the mountain.",
           "pl": "Mieli wrażenie, jakby weszli do magicznego świata ukrytego głęboko wewnątrz góry.",
           "tokens": [
-            { "w": "It", "t": "to", "lemma": "it" },
-            { "w": "felt", "t": "wydawało się", "lemma": "feel" },
-            { "w": "like", "t": "jakby", "lemma": "like" },
-            { "w": "they", "t": "oni", "lemma": "they" },
-            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
-            { "w": "entered", "t": "weszli", "lemma": "enter" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "magical", "t": "magicznego", "lemma": "magical" },
-            { "w": "world", "t": "świata", "lemma": "world" },
-            { "w": "hidden", "t": "ukrytego", "lemma": "hidden" },
-            { "w": "deep", "t": "głęboko", "lemma": "deep" },
-            { "w": "inside", "t": "wewnątrz", "lemma": "inside" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "mountain", "t": "góry", "lemma": "mountain" }
+            {
+              "w": "It",
+              "t": "to",
+              "lemma": "it"
+            },
+            {
+              "w": "felt",
+              "t": "wydawało się",
+              "lemma": "feel"
+            },
+            {
+              "w": "like",
+              "t": "jakby",
+              "lemma": "like"
+            },
+            {
+              "w": "they",
+              "t": "oni",
+              "lemma": "they"
+            },
+            {
+              "w": "had",
+              "t": "(czas zaprzeszły)",
+              "lemma": "have"
+            },
+            {
+              "w": "entered",
+              "t": "weszli",
+              "lemma": "enter"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "magical",
+              "t": "magicznego",
+              "lemma": "magical"
+            },
+            {
+              "w": "world",
+              "t": "świata",
+              "lemma": "world"
+            },
+            {
+              "w": "hidden",
+              "t": "ukrytego",
+              "lemma": "hidden"
+            },
+            {
+              "w": "deep",
+              "t": "głęboko",
+              "lemma": "deep"
+            },
+            {
+              "w": "inside",
+              "t": "wewnątrz",
+              "lemma": "inside"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "mountain",
+              "t": "góry",
+              "lemma": "mountain"
+            }
           ]
         },
         {
           "en": "They took a few photos before heading back to the sunny trail.",
           "pl": "Zrobili kilka zdjęć, zanim ruszyli w drogę powrotną na słoneczny szlak.",
           "tokens": [
-            { "w": "They", "t": "oni", "lemma": "they" },
-            { "w": "took", "t": "zrobili", "lemma": "take" },
-            { "w": "a", "t": "(przedimek przed kilkoma)", "lemma": "a" },
-            { "w": "few", "t": "kilka", "lemma": "few" },
-            { "w": "photos", "t": "zdjęć", "lemma": "photo" },
-            { "w": "before", "t": "zanim", "lemma": "before" },
-            { "w": "heading", "t": "ruszyli (w drogę powrotną)", "lemma": "head" },
-            { "w": "back", "t": "z powrotem", "lemma": "back" },
-            { "w": "to", "t": "na", "lemma": "to" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "sunny", "t": "słoneczny", "lemma": "sunny" },
-            { "w": "trail", "t": "szlak", "lemma": "trail" }
+            {
+              "w": "They",
+              "t": "oni",
+              "lemma": "they"
+            },
+            {
+              "w": "took",
+              "t": "zrobili",
+              "lemma": "take"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek przed kilkoma)",
+              "lemma": "a"
+            },
+            {
+              "w": "few",
+              "t": "kilka",
+              "lemma": "few"
+            },
+            {
+              "w": "photos",
+              "t": "zdjęć",
+              "lemma": "photo"
+            },
+            {
+              "w": "before",
+              "t": "zanim",
+              "lemma": "before"
+            },
+            {
+              "w": "heading",
+              "t": "ruszyli (w drogę powrotną)",
+              "lemma": "head"
+            },
+            {
+              "w": "back",
+              "t": "z powrotem",
+              "lemma": "back"
+            },
+            {
+              "w": "to",
+              "t": "na",
+              "lemma": "to"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "sunny",
+              "t": "słoneczny",
+              "lemma": "sunny"
+            },
+            {
+              "w": "trail",
+              "t": "szlak",
+              "lemma": "trail"
+            }
           ]
         }
       ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Kto wędrował razem w Alpach Julijskich?",
+      "options": [
+        "Adam, Zuzanna i Piotr",
+        "Tylko Adam",
+        "Cała klasa szkolna"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Adam zauważył za dużym, szarym głazem?",
+      "options": [
+        "Mały, ciemny otwór",
+        "Górski strumień",
+        "Drewnianą chatkę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym błyszczały ściany jaskini?",
+      "options": [
+        "Dziwnymi, zielonymi kryształami",
+        "Złotymi monetami",
+        "Lodem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobili, zanim ruszyli w drogę powrotną?",
+      "options": [
+        "Zrobili kilka zdjęć",
+        "Rozpalili ognisko",
+        "Zostawili plecaki w jaskini"
+      ],
+      "answer": 0
     }
   ]
 }

@@ -19,40 +19,152 @@
           "en": "Three siblings, two brothers and a sister, were exploring the Julian Alps in Slovenia.",
           "pl": "Troje rodzeństwa, dwóch braci i siostra, odkrywało Alpy Julijskie w Słowenii.",
           "tokens": [
-            { "w": "Three", "t": "troje", "lemma": "three" },
-            { "w": "siblings", "t": "rodzeństwa", "lemma": "sibling" },
-            { "w": "two", "t": "dwóch", "lemma": "two" },
-            { "w": "brothers", "t": "braci", "lemma": "brother" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "sister", "t": "siostra", "lemma": "sister" },
-            { "w": "were", "t": "byli", "lemma": "be" },
-            { "w": "exploring", "t": "odkrywając", "lemma": "explore" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "Julian", "t": "Julijskie", "lemma": "Julian" },
-            { "w": "Alps", "t": "Alpy", "lemma": "Alps" },
-            { "w": "in", "t": "w", "lemma": "in" },
-            { "w": "Slovenia", "t": "Słowenii", "lemma": "Slovenia" }
+            {
+              "w": "Three",
+              "t": "troje",
+              "lemma": "three"
+            },
+            {
+              "w": "siblings",
+              "t": "rodzeństwa",
+              "lemma": "sibling"
+            },
+            {
+              "w": "two",
+              "t": "dwóch",
+              "lemma": "two"
+            },
+            {
+              "w": "brothers",
+              "t": "braci",
+              "lemma": "brother"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "sister",
+              "t": "siostra",
+              "lemma": "sister"
+            },
+            {
+              "w": "were",
+              "t": "byli",
+              "lemma": "be"
+            },
+            {
+              "w": "exploring",
+              "t": "odkrywając",
+              "lemma": "explore"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "Julian",
+              "t": "Julijskie",
+              "lemma": "Julian"
+            },
+            {
+              "w": "Alps",
+              "t": "Alpy",
+              "lemma": "Alps"
+            },
+            {
+              "w": "in",
+              "t": "w",
+              "lemma": "in"
+            },
+            {
+              "w": "Slovenia",
+              "t": "Słowenii",
+              "lemma": "Slovenia"
+            }
           ]
         },
         {
           "en": "While resting on a mountain trail, a local guide told them an ancient legend.",
           "pl": "Podczas odpoczynku na górskim szlaku, lokalny przewodnik opowiedział im starożytną legendę.",
           "tokens": [
-            { "w": "While", "t": "podczas gdy", "lemma": "while" },
-            { "w": "resting", "t": "odpoczywali", "lemma": "rest" },
-            { "w": "on", "t": "na", "lemma": "on" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "mountain", "t": "górskim", "lemma": "mountain" },
-            { "w": "trail", "t": "szlaku", "lemma": "trail" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "local", "t": "lokalny", "lemma": "local" },
-            { "w": "guide", "t": "przewodnik", "lemma": "guide" },
-            { "w": "told", "t": "opowiedział", "lemma": "tell" },
-            { "w": "them", "t": "im", "lemma": "they" },
-            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
-            { "w": "ancient", "t": "starożytną", "lemma": "ancient" },
-            { "w": "legend", "t": "legendę", "lemma": "legend" }
+            {
+              "w": "While",
+              "t": "podczas gdy",
+              "lemma": "while"
+            },
+            {
+              "w": "resting",
+              "t": "odpoczywali",
+              "lemma": "rest"
+            },
+            {
+              "w": "on",
+              "t": "na",
+              "lemma": "on"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "mountain",
+              "t": "górskim",
+              "lemma": "mountain"
+            },
+            {
+              "w": "trail",
+              "t": "szlaku",
+              "lemma": "trail"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "local",
+              "t": "lokalny",
+              "lemma": "local"
+            },
+            {
+              "w": "guide",
+              "t": "przewodnik",
+              "lemma": "guide"
+            },
+            {
+              "w": "told",
+              "t": "opowiedział",
+              "lemma": "tell"
+            },
+            {
+              "w": "them",
+              "t": "im",
+              "lemma": "they"
+            },
+            {
+              "w": "an",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "an"
+            },
+            {
+              "w": "ancient",
+              "t": "starożytną",
+              "lemma": "ancient"
+            },
+            {
+              "w": "legend",
+              "t": "legendę",
+              "lemma": "legend"
+            }
           ]
         }
       ]
@@ -63,57 +175,213 @@
           "en": "He spoke about Zlatorog, a magical white chamois with golden horns.",
           "pl": "Mówił o Zlatorogu, magicznej białej kozicy ze złotymi rogami.",
           "tokens": [
-            { "w": "He", "t": "on", "lemma": "he" },
-            { "w": "spoke", "t": "mówił", "lemma": "speak" },
-            { "w": "about", "t": "o", "lemma": "about" },
-            { "w": "Zlatorog", "t": "Zlatorogu", "lemma": "Zlatorog" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "magical", "t": "magicznej", "lemma": "magical" },
-            { "w": "white", "t": "białej", "lemma": "white" },
-            { "w": "chamois", "t": "kozicy", "lemma": "chamois" },
-            { "w": "with", "t": "z", "lemma": "with" },
-            { "w": "golden", "t": "złotymi", "lemma": "golden" },
-            { "w": "horns", "t": "rogami", "lemma": "horn" }
+            {
+              "w": "He",
+              "t": "on",
+              "lemma": "he"
+            },
+            {
+              "w": "spoke",
+              "t": "mówił",
+              "lemma": "speak"
+            },
+            {
+              "w": "about",
+              "t": "o",
+              "lemma": "about"
+            },
+            {
+              "w": "Zlatorog",
+              "t": "Zlatorogu",
+              "lemma": "Zlatorog"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "magical",
+              "t": "magicznej",
+              "lemma": "magical"
+            },
+            {
+              "w": "white",
+              "t": "białej",
+              "lemma": "white"
+            },
+            {
+              "w": "chamois",
+              "t": "kozicy",
+              "lemma": "chamois"
+            },
+            {
+              "w": "with",
+              "t": "z",
+              "lemma": "with"
+            },
+            {
+              "w": "golden",
+              "t": "złotymi",
+              "lemma": "golden"
+            },
+            {
+              "w": "horns",
+              "t": "rogami",
+              "lemma": "horn"
+            }
           ]
         },
         {
           "en": "This beautiful animal lived high up on Mount Triglav and guarded a hidden treasure.",
           "pl": "To piękne zwierzę żyło wysoko na górze Triglav i strzegło ukrytego skarbu.",
           "tokens": [
-            { "w": "This", "t": "to", "lemma": "this" },
-            { "w": "beautiful", "t": "piękne", "lemma": "beautiful" },
-            { "w": "animal", "t": "zwierzę", "lemma": "animal" },
-            { "w": "lived", "t": "żyło", "lemma": "live" },
-            { "w": "high", "t": "wysoko", "lemma": "high" },
-            { "w": "up", "t": "w górze", "lemma": "up" },
-            { "w": "on", "t": "na", "lemma": "on" },
-            { "w": "Mount", "t": "górze", "lemma": "mount" },
-            { "w": "Triglav", "t": "Triglav", "lemma": "Triglav" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "guarded", "t": "strzegło", "lemma": "guard" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "hidden", "t": "ukrytego", "lemma": "hidden" },
-            { "w": "treasure", "t": "skarbu", "lemma": "treasure" }
+            {
+              "w": "This",
+              "t": "to",
+              "lemma": "this"
+            },
+            {
+              "w": "beautiful",
+              "t": "piękne",
+              "lemma": "beautiful"
+            },
+            {
+              "w": "animal",
+              "t": "zwierzę",
+              "lemma": "animal"
+            },
+            {
+              "w": "lived",
+              "t": "żyło",
+              "lemma": "live"
+            },
+            {
+              "w": "high",
+              "t": "wysoko",
+              "lemma": "high"
+            },
+            {
+              "w": "up",
+              "t": "w górze",
+              "lemma": "up"
+            },
+            {
+              "w": "on",
+              "t": "na",
+              "lemma": "on"
+            },
+            {
+              "w": "Mount",
+              "t": "górze",
+              "lemma": "mount"
+            },
+            {
+              "w": "Triglav",
+              "t": "Triglav",
+              "lemma": "Triglav"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "guarded",
+              "t": "strzegło",
+              "lemma": "guard"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "hidden",
+              "t": "ukrytego",
+              "lemma": "hidden"
+            },
+            {
+              "w": "treasure",
+              "t": "skarbu",
+              "lemma": "treasure"
+            }
           ]
         },
         {
           "en": "His golden horns glowed brightly in the sunlight, showing the way to the gold.",
           "pl": "Jego złote rogi świeciły jasno w świetle słonecznym, wskazując drogę do złota.",
           "tokens": [
-            { "w": "His", "t": "jego", "lemma": "his" },
-            { "w": "golden", "t": "złote", "lemma": "golden" },
-            { "w": "horns", "t": "rogi", "lemma": "horn" },
-            { "w": "glowed", "t": "świeciły", "lemma": "glow" },
-            { "w": "brightly", "t": "jasno", "lemma": "brightly" },
-            { "w": "in", "t": "w", "lemma": "in" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "sunlight", "t": "świetle słonecznym", "lemma": "sunlight" },
-            { "w": "showing", "t": "wskazując", "lemma": "show" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "way", "t": "drogę", "lemma": "way" },
-            { "w": "to", "t": "do", "lemma": "to" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "gold", "t": "złota", "lemma": "gold" }
+            {
+              "w": "His",
+              "t": "jego",
+              "lemma": "his"
+            },
+            {
+              "w": "golden",
+              "t": "złote",
+              "lemma": "golden"
+            },
+            {
+              "w": "horns",
+              "t": "rogi",
+              "lemma": "horn"
+            },
+            {
+              "w": "glowed",
+              "t": "świeciły",
+              "lemma": "glow"
+            },
+            {
+              "w": "brightly",
+              "t": "jasno",
+              "lemma": "brightly"
+            },
+            {
+              "w": "in",
+              "t": "w",
+              "lemma": "in"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "sunlight",
+              "t": "świetle słonecznym",
+              "lemma": "sunlight"
+            },
+            {
+              "w": "showing",
+              "t": "wskazując",
+              "lemma": "show"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "way",
+              "t": "drogę",
+              "lemma": "way"
+            },
+            {
+              "w": "to",
+              "t": "do",
+              "lemma": "to"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "gold",
+              "t": "złota",
+              "lemma": "gold"
+            }
           ]
         }
       ]
@@ -124,60 +392,228 @@
           "en": "One day, a greedy hunter tried to steal the treasure and shot the magical creature.",
           "pl": "Pewnego dnia chciwy myśliwy spróbował ukraść skarb i postrzelił magiczne stworzenie.",
           "tokens": [
-            { "w": "One", "t": "pewnego", "lemma": "one" },
-            { "w": "day", "t": "dnia", "lemma": "day" },
-            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
-            { "w": "greedy", "t": "chciwy", "lemma": "greedy" },
-            { "w": "hunter", "t": "myśliwy", "lemma": "hunter" },
-            { "w": "tried", "t": "spróbował", "lemma": "try" },
-            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
-            { "w": "steal", "t": "ukraść", "lemma": "steal" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "treasure", "t": "skarb", "lemma": "treasure" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "shot", "t": "postrzelił", "lemma": "shoot" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "magical", "t": "magiczne", "lemma": "magical" },
-            { "w": "creature", "t": "stworzenie", "lemma": "creature" }
+            {
+              "w": "One",
+              "t": "pewnego",
+              "lemma": "one"
+            },
+            {
+              "w": "day",
+              "t": "dnia",
+              "lemma": "day"
+            },
+            {
+              "w": "a",
+              "t": "(przedimek nieokreślony)",
+              "lemma": "a"
+            },
+            {
+              "w": "greedy",
+              "t": "chciwy",
+              "lemma": "greedy"
+            },
+            {
+              "w": "hunter",
+              "t": "myśliwy",
+              "lemma": "hunter"
+            },
+            {
+              "w": "tried",
+              "t": "spróbował",
+              "lemma": "try"
+            },
+            {
+              "w": "to",
+              "t": "(bezokolicznik)",
+              "lemma": "to"
+            },
+            {
+              "w": "steal",
+              "t": "ukraść",
+              "lemma": "steal"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "treasure",
+              "t": "skarb",
+              "lemma": "treasure"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "shot",
+              "t": "postrzelił",
+              "lemma": "shoot"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "magical",
+              "t": "magiczne",
+              "lemma": "magical"
+            },
+            {
+              "w": "creature",
+              "t": "stworzenie",
+              "lemma": "creature"
+            }
           ]
         },
         {
           "en": "But where the blood of Zlatorog fell on the ground, magical healing flowers quickly grew.",
           "pl": "Ale tam, gdzie krew Zlatoroga spadła na ziemię, szybko wyrosły magiczne uzdrawiające kwiaty.",
           "tokens": [
-            { "w": "But", "t": "ale", "lemma": "but" },
-            { "w": "where", "t": "gdzie", "lemma": "where" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "blood", "t": "krew", "lemma": "blood" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "Zlatorog", "t": "Zlatoroga", "lemma": "Zlatorog" },
-            { "w": "fell", "t": "spadła", "lemma": "fall" },
-            { "w": "on", "t": "na", "lemma": "on" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "ground", "t": "ziemię", "lemma": "ground" },
-            { "w": "magical", "t": "magiczne", "lemma": "magical" },
-            { "w": "healing", "t": "uzdrawiające", "lemma": "healing" },
-            { "w": "flowers", "t": "kwiaty", "lemma": "flower" },
-            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
-            { "w": "grew", "t": "wyrosły", "lemma": "grow" }
+            {
+              "w": "But",
+              "t": "ale",
+              "lemma": "but"
+            },
+            {
+              "w": "where",
+              "t": "gdzie",
+              "lemma": "where"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "blood",
+              "t": "krew",
+              "lemma": "blood"
+            },
+            {
+              "w": "of",
+              "t": "(przyimek dopełniacza)",
+              "lemma": "of"
+            },
+            {
+              "w": "Zlatorog",
+              "t": "Zlatoroga",
+              "lemma": "Zlatorog"
+            },
+            {
+              "w": "fell",
+              "t": "spadła",
+              "lemma": "fall"
+            },
+            {
+              "w": "on",
+              "t": "na",
+              "lemma": "on"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "ground",
+              "t": "ziemię",
+              "lemma": "ground"
+            },
+            {
+              "w": "magical",
+              "t": "magiczne",
+              "lemma": "magical"
+            },
+            {
+              "w": "healing",
+              "t": "uzdrawiające",
+              "lemma": "healing"
+            },
+            {
+              "w": "flowers",
+              "t": "kwiaty",
+              "lemma": "flower"
+            },
+            {
+              "w": "quickly",
+              "t": "szybko",
+              "lemma": "quickly"
+            },
+            {
+              "w": "grew",
+              "t": "wyrosły",
+              "lemma": "grow"
+            }
           ]
         },
         {
           "en": "The chamois ate the flowers, instantly healed his wounds, and disappeared forever.",
           "pl": "Kozica zjadła kwiaty, natychmiast uleczyła swoje rany i zniknęła na zawsze.",
           "tokens": [
-            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "chamois", "t": "kozica", "lemma": "chamois" },
-            { "w": "ate", "t": "zjadła", "lemma": "eat" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "flowers", "t": "kwiaty", "lemma": "flower" },
-            { "w": "instantly", "t": "natychmiast", "lemma": "instantly" },
-            { "w": "healed", "t": "uleczyła", "lemma": "heal" },
-            { "w": "his", "t": "swoje", "lemma": "his" },
-            { "w": "wounds", "t": "rany", "lemma": "wound" },
-            { "w": "and", "t": "i", "lemma": "and" },
-            { "w": "disappeared", "t": "zniknęła", "lemma": "disappear" },
-            { "w": "forever", "t": "na zawsze", "lemma": "forever" }
+            {
+              "w": "The",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "chamois",
+              "t": "kozica",
+              "lemma": "chamois"
+            },
+            {
+              "w": "ate",
+              "t": "zjadła",
+              "lemma": "eat"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "flowers",
+              "t": "kwiaty",
+              "lemma": "flower"
+            },
+            {
+              "w": "instantly",
+              "t": "natychmiast",
+              "lemma": "instantly"
+            },
+            {
+              "w": "healed",
+              "t": "uleczyła",
+              "lemma": "heal"
+            },
+            {
+              "w": "his",
+              "t": "swoje",
+              "lemma": "his"
+            },
+            {
+              "w": "wounds",
+              "t": "rany",
+              "lemma": "wound"
+            },
+            {
+              "w": "and",
+              "t": "i",
+              "lemma": "and"
+            },
+            {
+              "w": "disappeared",
+              "t": "zniknęła",
+              "lemma": "disappear"
+            },
+            {
+              "w": "forever",
+              "t": "na zawsze",
+              "lemma": "forever"
+            }
           ]
         }
       ]
@@ -188,44 +624,207 @@
           "en": "The siblings looked up at the rocky peaks, wondering if the creature was still watching them.",
           "pl": "Rodzeństwo spojrzało w górę na skaliste szczyty, zastanawiając się, czy stworzenie wciąż ich obserwuje.",
           "tokens": [
-            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "siblings", "t": "rodzeństwo", "lemma": "sibling" },
-            { "w": "looked", "t": "spojrzało", "lemma": "look" },
-            { "w": "up", "t": "w górę", "lemma": "up" },
-            { "w": "at", "t": "na", "lemma": "at" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "rocky", "t": "skaliste", "lemma": "rocky" },
-            { "w": "peaks", "t": "szczyty", "lemma": "peak" },
-            { "w": "wondering", "t": "zastanawiając się", "lemma": "wonder" },
-            { "w": "if", "t": "czy", "lemma": "if" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "creature", "t": "stworzenie", "lemma": "creature" },
-            { "w": "was", "t": "było", "lemma": "be" },
-            { "w": "still", "t": "wciąż", "lemma": "still" },
-            { "w": "watching", "t": "obserwujące", "lemma": "watch" },
-            { "w": "them", "t": "ich", "lemma": "they" }
+            {
+              "w": "The",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "siblings",
+              "t": "rodzeństwo",
+              "lemma": "sibling"
+            },
+            {
+              "w": "looked",
+              "t": "spojrzało",
+              "lemma": "look"
+            },
+            {
+              "w": "up",
+              "t": "w górę",
+              "lemma": "up"
+            },
+            {
+              "w": "at",
+              "t": "na",
+              "lemma": "at"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "rocky",
+              "t": "skaliste",
+              "lemma": "rocky"
+            },
+            {
+              "w": "peaks",
+              "t": "szczyty",
+              "lemma": "peak"
+            },
+            {
+              "w": "wondering",
+              "t": "zastanawiając się",
+              "lemma": "wonder"
+            },
+            {
+              "w": "if",
+              "t": "czy",
+              "lemma": "if"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "creature",
+              "t": "stworzenie",
+              "lemma": "creature"
+            },
+            {
+              "w": "was",
+              "t": "było",
+              "lemma": "be"
+            },
+            {
+              "w": "still",
+              "t": "wciąż",
+              "lemma": "still"
+            },
+            {
+              "w": "watching",
+              "t": "obserwujące",
+              "lemma": "watch"
+            },
+            {
+              "w": "them",
+              "t": "ich",
+              "lemma": "they"
+            }
           ]
         },
         {
           "en": "They realized that the real treasure of the mountains was the untouched nature.",
           "pl": "Zrozumieli, że prawdziwym skarbem gór była nietknięta natura.",
           "tokens": [
-            { "w": "They", "t": "oni", "lemma": "they" },
-            { "w": "realized", "t": "zrozumieli", "lemma": "realize" },
-            { "w": "that", "t": "że", "lemma": "that" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "real", "t": "prawdziwym", "lemma": "real" },
-            { "w": "treasure", "t": "skarbem", "lemma": "treasure" },
-            { "w": "of", "t": "(przyimek dopełniacza)", "lemma": "of" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "mountains", "t": "gór", "lemma": "mountain" },
-            { "w": "was", "t": "była", "lemma": "be" },
-            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
-            { "w": "untouched", "t": "nietknięta", "lemma": "untouched" },
-            { "w": "nature", "t": "natura", "lemma": "nature" }
+            {
+              "w": "They",
+              "t": "oni",
+              "lemma": "they"
+            },
+            {
+              "w": "realized",
+              "t": "zrozumieli",
+              "lemma": "realize"
+            },
+            {
+              "w": "that",
+              "t": "że",
+              "lemma": "that"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "real",
+              "t": "prawdziwym",
+              "lemma": "real"
+            },
+            {
+              "w": "treasure",
+              "t": "skarbem",
+              "lemma": "treasure"
+            },
+            {
+              "w": "of",
+              "t": "(przyimek dopełniacza)",
+              "lemma": "of"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "mountains",
+              "t": "gór",
+              "lemma": "mountain"
+            },
+            {
+              "w": "was",
+              "t": "była",
+              "lemma": "be"
+            },
+            {
+              "w": "the",
+              "t": "(przedimek określony)",
+              "lemma": "the"
+            },
+            {
+              "w": "untouched",
+              "t": "nietknięta",
+              "lemma": "untouched"
+            },
+            {
+              "w": "nature",
+              "t": "natura",
+              "lemma": "nature"
+            }
           ]
         }
       ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Kim był Zlatorog?",
+      "options": [
+        "Magiczną białą kozicą ze złotymi rogami",
+        "Starym przewodnikiem",
+        "Królem gór"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Na której górze żył Zlatorog?",
+      "options": [
+        "Triglav",
+        "Mont Blanc",
+        "Śnieżka"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobił chciwy myśliwy?",
+      "options": [
+        "Postrzelił kozicę, próbując ukraść skarb",
+        "Uratował ranną kozicę",
+        "Zgubił się w jaskini"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co wyrosło tam, gdzie spadła krew Zlatoroga?",
+      "options": [
+        "Magiczne uzdrawiające kwiaty",
+        "Złote monety",
+        "Wysokie drzewa"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co rodzeństwo uznało za prawdziwy skarb gór?",
+      "options": [
+        "Nietkniętą naturę",
+        "Złote rogi kozicy",
+        "Ukrytą jaskinię"
+      ],
+      "answer": 0
     }
   ]
 }
