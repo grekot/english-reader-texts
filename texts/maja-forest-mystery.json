@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 1,
+  "id": "maja-forest-mystery",
+  "title": "Maja and the Forest Mystery",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B1",
+  "tags": [
+    "fiction",
+    "mystery",
+    "animals",
+    "nature",
+    "teen"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Maja was thirteen years old, and she was spending the summer at her grandmother's house near a quiet forest.",
+          "pl": "Maja miała trzynaście lat i spędzała lato w domu swojej babci, blisko cichego lasu.",
+          "tokens": [
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "was", "t": "miała", "lemma": "be" },
+            { "w": "thirteen", "t": "trzynaście", "lemma": "thirteen" },
+            { "w": "years", "t": "lat", "lemma": "year" },
+            { "w": "old", "t": "(w wieku)", "lemma": "old" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "spending", "t": "spędzała", "lemma": "spend" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "summer", "t": "lato", "lemma": "summer" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "her", "t": "swojej", "lemma": "her" },
+            { "w": "grandmother's", "t": "babci", "lemma": "grandmother" },
+            { "w": "house", "t": "domu", "lemma": "house" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "quiet", "t": "cichego", "lemma": "quiet" },
+            { "w": "forest", "t": "lasu", "lemma": "forest" }
+          ]
+        },
+        {
+          "en": "She loved animals more than anything, but the long holiday was starting to feel a little boring.",
+          "pl": "Kochała zwierzęta bardziej niż cokolwiek innego, ale długie wakacje zaczynały wydawać się trochę nudne.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "loved", "t": "kochała", "lemma": "love" },
+            { "w": "animals", "t": "zwierzęta", "lemma": "animal" },
+            { "w": "more", "t": "bardziej", "lemma": "more" },
+            { "w": "than", "t": "niż", "lemma": "than" },
+            { "w": "anything", "t": "cokolwiek", "lemma": "anything" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "long", "t": "długie", "lemma": "long" },
+            { "w": "holiday", "t": "wakacje", "lemma": "holiday" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "starting", "t": "zaczynały się", "lemma": "start" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "feel", "t": "wydawać się", "lemma": "feel" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "little", "t": "trochę", "lemma": "little" },
+            { "w": "boring", "t": "nudne", "lemma": "boring" }
+          ]
+        },
+        {
+          "en": "Every morning she walked along the same path, hoping that something exciting would finally happen.",
+          "pl": "Każdego ranka szła tą samą ścieżką, mając nadzieję, że wreszcie wydarzy się coś ekscytującego.",
+          "tokens": [
+            { "w": "Every", "t": "każdego", "lemma": "every" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "walked", "t": "szła", "lemma": "walk" },
+            { "w": "along", "t": "(wzdłuż)", "lemma": "along" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "same", "t": "tą samą", "lemma": "same" },
+            { "w": "path", "t": "ścieżką", "lemma": "path" },
+            { "w": "hoping", "t": "mając nadzieję", "lemma": "hope" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "something", "t": "coś", "lemma": "something" },
+            { "w": "exciting", "t": "ekscytującego", "lemma": "exciting" },
+            { "w": "would", "t": "(tryb przypuszczający)", "lemma": "would" },
+            { "w": "finally", "t": "wreszcie", "lemma": "finally" },
+            { "w": "happen", "t": "się wydarzy", "lemma": "happen" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One day, she heard a strange, frightened sound coming from the bushes.",
+          "pl": "Pewnego dnia usłyszała dziwny, przerażony dźwięk dochodzący z krzaków.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "heard", "t": "usłyszała", "lemma": "hear" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "strange", "t": "dziwny", "lemma": "strange" },
+            { "w": "frightened", "t": "przerażony", "lemma": "frightened" },
+            { "w": "sound", "t": "dźwięk", "lemma": "sound" },
+            { "w": "coming", "t": "dochodzący", "lemma": "come" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bushes", "t": "krzaków", "lemma": "bush" }
+          ]
+        },
+        {
+          "en": "When she looked closer, she found a young fox with a thin wire wrapped tightly around its paw.",
+          "pl": "Kiedy przyjrzała się bliżej, znalazła młodego lisa z cienkim drutem ciasno owiniętym wokół łapy.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "looked", "t": "przyjrzała się", "lemma": "look" },
+            { "w": "closer", "t": "bliżej", "lemma": "close" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "found", "t": "znalazła", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "young", "t": "młodego", "lemma": "young" },
+            { "w": "fox", "t": "lisa", "lemma": "fox" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "thin", "t": "cienkim", "lemma": "thin" },
+            { "w": "wire", "t": "drutem", "lemma": "wire" },
+            { "w": "wrapped", "t": "owiniętym", "lemma": "wrap" },
+            { "w": "tightly", "t": "ciasno", "lemma": "tightly" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "its", "t": "jego", "lemma": "its" },
+            { "w": "paw", "t": "łapy", "lemma": "paw" }
+          ]
+        },
+        {
+          "en": "The animal was shaking with fear, and its leg was bleeding.",
+          "pl": "Zwierzę trzęsło się ze strachu, a jego noga krwawiła.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "animal", "t": "zwierzę", "lemma": "animal" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "shaking", "t": "trzęsło się", "lemma": "shake" },
+            { "w": "with", "t": "ze", "lemma": "with" },
+            { "w": "fear", "t": "strachu", "lemma": "fear" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "its", "t": "jego", "lemma": "its" },
+            { "w": "leg", "t": "noga", "lemma": "leg" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "bleeding", "t": "krwawiła", "lemma": "bleed" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Maja knelt down slowly and spoke in a calm, gentle voice.",
+          "pl": "Maja powoli uklękła i mówiła spokojnym, łagodnym głosem.",
+          "tokens": [
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "knelt", "t": "uklękła", "lemma": "kneel" },
+            { "w": "down", "t": "(w dół)", "lemma": "down" },
+            { "w": "slowly", "t": "powoli", "lemma": "slowly" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "spoke", "t": "mówiła", "lemma": "speak" },
+            { "w": "in", "t": "(przyimek)", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "calm", "t": "spokojnym", "lemma": "calm" },
+            { "w": "gentle", "t": "łagodnym", "lemma": "gentle" },
+            { "w": "voice", "t": "głosem", "lemma": "voice" }
+          ]
+        },
+        {
+          "en": "Carefully, she loosened the wire and set the trembling fox free.",
+          "pl": "Ostrożnie poluzowała drut i uwolniła drżącego lisa.",
+          "tokens": [
+            { "w": "Carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "loosened", "t": "poluzowała", "lemma": "loosen" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wire", "t": "drut", "lemma": "wire" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "set", "t": "uwolniła", "lemma": "set" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trembling", "t": "drżącego", "lemma": "tremble" },
+            { "w": "fox", "t": "lisa", "lemma": "fox" },
+            { "w": "free", "t": "(na wolność)", "lemma": "free" }
+          ]
+        },
+        {
+          "en": "Then she noticed several more hidden traps among the leaves, and she realized that someone was catching animals illegally.",
+          "pl": "Wtedy zauważyła kilka kolejnych ukrytych pułapek wśród liści i zdała sobie sprawę, że ktoś nielegalnie łapie zwierzęta.",
+          "tokens": [
+            { "w": "Then", "t": "wtedy", "lemma": "then" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "noticed", "t": "zauważyła", "lemma": "notice" },
+            { "w": "several", "t": "kilka", "lemma": "several" },
+            { "w": "more", "t": "kolejnych", "lemma": "more" },
+            { "w": "hidden", "t": "ukrytych", "lemma": "hidden" },
+            { "w": "traps", "t": "pułapek", "lemma": "trap" },
+            { "w": "among", "t": "wśród", "lemma": "among" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "leaves", "t": "liści", "lemma": "leaf" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "realized", "t": "zdała sobie sprawę", "lemma": "realize" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "someone", "t": "ktoś", "lemma": "someone" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "catching", "t": "łapie", "lemma": "catch" },
+            { "w": "animals", "t": "zwierzęta", "lemma": "animal" },
+            { "w": "illegally", "t": "nielegalnie", "lemma": "illegally" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "She ran home and told her grandmother everything she had seen.",
+          "pl": "Pobiegła do domu i opowiedziała babci wszystko, co widziała.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "ran", "t": "pobiegła", "lemma": "run" },
+            { "w": "home", "t": "do domu", "lemma": "home" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "told", "t": "opowiedziała", "lemma": "tell" },
+            { "w": "her", "t": "swojej", "lemma": "her" },
+            { "w": "grandmother", "t": "babci", "lemma": "grandmother" },
+            { "w": "everything", "t": "wszystko", "lemma": "everything" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "seen", "t": "widziała", "lemma": "see" }
+          ]
+        },
+        {
+          "en": "Her grandmother frowned and said that many animals had been disappearing from the forest lately.",
+          "pl": "Babcia zmarszczyła brwi i powiedziała, że ostatnio z lasu znikało wiele zwierząt.",
+          "tokens": [
+            { "w": "Her", "t": "jej", "lemma": "her" },
+            { "w": "grandmother", "t": "babcia", "lemma": "grandmother" },
+            { "w": "frowned", "t": "zmarszczyła brwi", "lemma": "frown" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "animals", "t": "zwierząt", "lemma": "animal" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "been", "t": "(aspekt ciągły)", "lemma": "be" },
+            { "w": "disappearing", "t": "znikało", "lemma": "disappear" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "forest", "t": "lasu", "lemma": "forest" },
+            { "w": "lately", "t": "ostatnio", "lemma": "lately" }
+          ]
+        },
+        {
+          "en": "Maja decided that she would find out who was responsible.",
+          "pl": "Maja postanowiła, że dowie się, kto jest za to odpowiedzialny.",
+          "tokens": [
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "decided", "t": "postanowiła", "lemma": "decide" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "would", "t": "(tryb przypuszczający)", "lemma": "would" },
+            { "w": "find", "t": "dowie się", "lemma": "find" },
+            { "w": "out", "t": "(partykuła: find out)", "lemma": "out" },
+            { "w": "who", "t": "kto", "lemma": "who" },
+            { "w": "was", "t": "jest", "lemma": "be" },
+            { "w": "responsible", "t": "odpowiedzialny", "lemma": "responsible" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The next morning, she took a notebook and followed the muddy footprints between the trees.",
+          "pl": "Następnego ranka wzięła notes i podążała za błotnistymi śladami stóp między drzewami.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnego", "lemma": "next" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "took", "t": "wzięła", "lemma": "take" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "notebook", "t": "notes", "lemma": "notebook" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "followed", "t": "podążała za", "lemma": "follow" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "muddy", "t": "błotnistymi", "lemma": "muddy" },
+            { "w": "footprints", "t": "śladami stóp", "lemma": "footprint" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trees", "t": "drzewami", "lemma": "tree" }
+          ]
+        },
+        {
+          "en": "Near an old, broken mill, she discovered a heavy bag full of metal traps.",
+          "pl": "Blisko starego, zniszczonego młyna odkryła ciężką torbę pełną metalowych pułapek.",
+          "tokens": [
+            { "w": "Near", "t": "blisko", "lemma": "near" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "old", "t": "starego", "lemma": "old" },
+            { "w": "broken", "t": "zniszczonego", "lemma": "break" },
+            { "w": "mill", "t": "młyna", "lemma": "mill" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "discovered", "t": "odkryła", "lemma": "discover" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "heavy", "t": "ciężką", "lemma": "heavy" },
+            { "w": "bag", "t": "torbę", "lemma": "bag" },
+            { "w": "full", "t": "pełną", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "metal", "t": "metalowych", "lemma": "metal" },
+            { "w": "traps", "t": "pułapek", "lemma": "trap" }
+          ]
+        },
+        {
+          "en": "Her heart was beating fast, but she was too curious to turn back.",
+          "pl": "Serce biło jej szybko, ale była zbyt ciekawa, by zawrócić.",
+          "tokens": [
+            { "w": "Her", "t": "jej", "lemma": "her" },
+            { "w": "heart", "t": "serce", "lemma": "heart" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "beating", "t": "biło", "lemma": "beat" },
+            { "w": "fast", "t": "szybko", "lemma": "fast" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "too", "t": "zbyt", "lemma": "too" },
+            { "w": "curious", "t": "ciekawa", "lemma": "curious" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "turn", "t": "zawrócić", "lemma": "turn" },
+            { "w": "back", "t": "(z powrotem)", "lemma": "back" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, she heard footsteps, so she hid quietly behind a thick tree.",
+          "pl": "Nagle usłyszała kroki, więc cicho schowała się za grubym drzewem.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "heard", "t": "usłyszała", "lemma": "hear" },
+            { "w": "footsteps", "t": "kroki", "lemma": "footstep" },
+            { "w": "so", "t": "więc", "lemma": "so" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "hid", "t": "schowała się", "lemma": "hide" },
+            { "w": "quietly", "t": "cicho", "lemma": "quietly" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "thick", "t": "grubym", "lemma": "thick" },
+            { "w": "tree", "t": "drzewem", "lemma": "tree" }
+          ]
+        },
+        {
+          "en": "A tall man appeared and began checking the traps one by one.",
+          "pl": "Pojawił się wysoki mężczyzna i zaczął sprawdzać pułapki jedną po drugiej.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "tall", "t": "wysoki", "lemma": "tall" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "appeared", "t": "pojawił się", "lemma": "appear" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "began", "t": "zaczął", "lemma": "begin" },
+            { "w": "checking", "t": "sprawdzać", "lemma": "check" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "traps", "t": "pułapki", "lemma": "trap" },
+            { "w": "one", "t": "jedną", "lemma": "one" },
+            { "w": "by", "t": "po", "lemma": "by" },
+            { "w": "one", "t": "drugiej", "lemma": "one" }
+          ]
+        },
+        {
+          "en": "With shaking hands, Maja took a photo of him with her phone.",
+          "pl": "Drżącymi rękami Maja zrobiła mu zdjęcie swoim telefonem.",
+          "tokens": [
+            { "w": "With", "t": "(z)", "lemma": "with" },
+            { "w": "shaking", "t": "drżącymi", "lemma": "shake" },
+            { "w": "hands", "t": "rękami", "lemma": "hand" },
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "took", "t": "zrobiła", "lemma": "take" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "photo", "t": "zdjęcie", "lemma": "photo" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "him", "t": "jego", "lemma": "he" },
+            { "w": "with", "t": "(za pomocą)", "lemma": "with" },
+            { "w": "her", "t": "swoim", "lemma": "her" },
+            { "w": "phone", "t": "telefonem", "lemma": "phone" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "That evening, she showed the picture to the local forest ranger.",
+          "pl": "Tego wieczoru pokazała zdjęcie miejscowemu leśniczemu.",
+          "tokens": [
+            { "w": "That", "t": "tego", "lemma": "that" },
+            { "w": "evening", "t": "wieczoru", "lemma": "evening" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "showed", "t": "pokazała", "lemma": "show" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "picture", "t": "zdjęcie", "lemma": "picture" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "local", "t": "miejscowemu", "lemma": "local" },
+            { "w": "forest", "t": "leśnemu", "lemma": "forest" },
+            { "w": "ranger", "t": "leśniczemu", "lemma": "ranger" }
+          ]
+        },
+        {
+          "en": "The next day, the ranger removed every trap and stopped the man for good.",
+          "pl": "Następnego dnia leśniczy usunął każdą pułapkę i powstrzymał mężczyznę raz na zawsze.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnego", "lemma": "next" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ranger", "t": "leśniczy", "lemma": "ranger" },
+            { "w": "removed", "t": "usunął", "lemma": "remove" },
+            { "w": "every", "t": "każdą", "lemma": "every" },
+            { "w": "trap", "t": "pułapkę", "lemma": "trap" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "stopped", "t": "powstrzymał", "lemma": "stop" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "man", "t": "mężczyznę", "lemma": "man" },
+            { "w": "for", "t": "raz na", "lemma": "for" },
+            { "w": "good", "t": "zawsze", "lemma": "good" }
+          ]
+        },
+        {
+          "en": "The little fox recovered well, and Maja knew that one day she wanted to protect wild animals too.",
+          "pl": "Mały lis dobrze wyzdrowiał, a Maja wiedziała, że pewnego dnia ona też chce chronić dzikie zwierzęta.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "little", "t": "mały", "lemma": "little" },
+            { "w": "fox", "t": "lis", "lemma": "fox" },
+            { "w": "recovered", "t": "wyzdrowiał", "lemma": "recover" },
+            { "w": "well", "t": "dobrze", "lemma": "well" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "Maja", "t": "Maja", "lemma": "Maja" },
+            { "w": "knew", "t": "wiedziała", "lemma": "know" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "one", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "wanted", "t": "chce", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "protect", "t": "chronić", "lemma": "protect" },
+            { "w": "wild", "t": "dzikie", "lemma": "wild" },
+            { "w": "animals", "t": "zwierzęta", "lemma": "animal" },
+            { "w": "too", "t": "też", "lemma": "too" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie Maja spędzała wakacje?",
+      "options": [
+        "W domu babci, blisko cichego lasu",
+        "Nad morzem z rodzicami",
+        "Na obozie sportowym"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Maja znalazła w krzakach?",
+      "options": [
+        "Młodego lisa z drutem owiniętym wokół łapy",
+        "Zagubionego psa",
+        "Stary, zardzewiały rower"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zauważyła wśród liści po uwolnieniu lisa?",
+      "options": [
+        "Kilka kolejnych ukrytych pułapek",
+        "Gniazdo z pisklętami",
+        "Mapę skarbów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Maja zrobiła, gdy zobaczyła mężczyznę przy pułapkach?",
+      "options": [
+        "Schowała się i zrobiła mu zdjęcie telefonem",
+        "Krzyknęła na niego",
+        "Uciekła i o wszystkim zapomniała"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Komu Maja pokazała zdjęcie?",
+      "options": [
+        "Miejscowemu leśniczemu",
+        "Policjantowi w mieście",
+        "Swoim rodzicom"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym Maja chce zajmować się w przyszłości?",
+      "options": [
+        "Chce chronić dzikie zwierzęta",
+        "Chce zostać kłusownikiem",
+        "Chce sprzedawać pułapki"
+      ],
+      "answer": 0
+    }
+  ]
+}

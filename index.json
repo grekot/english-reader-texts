@@ -166,6 +166,22 @@
       ],
       "file": "texts/travel-dialogues-slovenia.json",
       "sha256": "eaa2404fbc068be5fdb56f5eedd86e171929fc9af2af390720d12f6561b54995"
+    },
+    {
+      "id": "maja-forest-mystery",
+      "title": "Maja and the Forest Mystery",
+      "author": "AI Assistant",
+      "level": "B1",
+      "category": "Dla młodzieży",
+      "tags": [
+        "fiction",
+        "mystery",
+        "animals",
+        "nature",
+        "teen"
+      ],
+      "file": "texts/maja-forest-mystery.json",
+      "sha256": "82904d68756d4e6730a5f93e61e1ccdc7a89a4d8c2ceed81baec6d25a4c6f2d9"
     }
   ]
 }
