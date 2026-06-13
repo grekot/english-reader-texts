@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-02-first-test",
+  "title": "Spy School 2: The First Test",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "On his first morning, Max put on a black training uniform.",
+          "pl": "Pierwszego ranka Max założył czarny strój treningowy.",
+          "tokens": [
+            { "w": "On", "t": "(w)", "lemma": "on" },
+            { "w": "his", "t": "swój", "lemma": "his" },
+            { "w": "first", "t": "pierwszego", "lemma": "first" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "put", "t": "założył", "lemma": "put" },
+            { "w": "on", "t": "(na siebie)", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "black", "t": "czarny", "lemma": "black" },
+            { "w": "training", "t": "treningowy", "lemma": "training" },
+            { "w": "uniform", "t": "strój", "lemma": "uniform" }
+          ]
+        },
+        {
+          "en": "Agent Stone led the students to a large training room.",
+          "pl": "Agentka Stone poprowadziła uczniów do dużej sali treningowej.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "led", "t": "poprowadziła", "lemma": "lead" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "students", "t": "uczniów", "lemma": "student" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "large", "t": "dużej", "lemma": "large" },
+            { "w": "training", "t": "treningowej", "lemma": "training" },
+            { "w": "room", "t": "sali", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "\"Today you will take your first test,\" she announced.",
+          "pl": "„Dziś przystąpicie do swojego pierwszego testu”, ogłosiła.",
+          "tokens": [
+            { "w": "Today", "t": "dziś", "lemma": "today" },
+            { "w": "you", "t": "wy", "lemma": "you" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "take", "t": "przystąpicie do", "lemma": "take" },
+            { "w": "your", "t": "swojego", "lemma": "your" },
+            { "w": "first", "t": "pierwszego", "lemma": "first" },
+            { "w": "test", "t": "testu", "lemma": "test" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "announced", "t": "ogłosiła", "lemma": "announce" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The test was a long obstacle course full of traps.",
+          "pl": "Test był długim torem przeszkód pełnym pułapek.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "test", "t": "test", "lemma": "test" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "long", "t": "długim", "lemma": "long" },
+            { "w": "obstacle", "t": "przeszkód", "lemma": "obstacle" },
+            { "w": "course", "t": "torem", "lemma": "course" },
+            { "w": "full", "t": "pełnym", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "traps", "t": "pułapek", "lemma": "trap" }
+          ]
+        },
+        {
+          "en": "Max had to climb ropes, jump over walls, and crawl under lasers.",
+          "pl": "Max musiał wspinać się po linach, przeskakiwać mury i czołgać się pod laserami.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "had", "t": "musiał", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "climb", "t": "wspinać się", "lemma": "climb" },
+            { "w": "ropes", "t": "po linach", "lemma": "rope" },
+            { "w": "jump", "t": "skakać", "lemma": "jump" },
+            { "w": "over", "t": "przez", "lemma": "over" },
+            { "w": "walls", "t": "mury", "lemma": "wall" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "crawl", "t": "czołgać się", "lemma": "crawl" },
+            { "w": "under", "t": "pod", "lemma": "under" },
+            { "w": "lasers", "t": "laserami", "lemma": "laser" }
+          ]
+        },
+        {
+          "en": "His heart was beating fast.",
+          "pl": "Jego serce biło szybko.",
+          "tokens": [
+            { "w": "His", "t": "jego", "lemma": "his" },
+            { "w": "heart", "t": "serce", "lemma": "heart" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "beating", "t": "biło", "lemma": "beat" },
+            { "w": "fast", "t": "szybko", "lemma": "fast" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara finished the course quickly and without a single mistake.",
+          "pl": "Zara ukończyła tor szybko i bez jednego błędu.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "finished", "t": "ukończyła", "lemma": "finish" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "course", "t": "tor", "lemma": "course" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "without", "t": "bez", "lemma": "without" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "single", "t": "jednego", "lemma": "single" },
+            { "w": "mistake", "t": "błędu", "lemma": "mistake" }
+          ]
+        },
+        {
+          "en": "Max was slower, but he never gave up.",
+          "pl": "Max był wolniejszy, ale nigdy się nie poddał.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "slower", "t": "wolniejszy", "lemma": "slow" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "gave", "t": "poddał się", "lemma": "give" },
+            { "w": "up", "t": "(nie)", "lemma": "up" }
+          ]
+        },
+        {
+          "en": "He used his brain to find the safest path.",
+          "pl": "Użył swojego rozumu, by znaleźć najbezpieczniejszą ścieżkę.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "used", "t": "użył", "lemma": "use" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "brain", "t": "rozumu", "lemma": "brain" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "safest", "t": "najbezpieczniejszą", "lemma": "safe" },
+            { "w": "path", "t": "ścieżkę", "lemma": "path" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Near the end, a fake alarm tried to trick the students.",
+          "pl": "Blisko końca fałszywy alarm próbował oszukać uczniów.",
+          "tokens": [
+            { "w": "Near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "end", "t": "końca", "lemma": "end" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "fake", "t": "fałszywy", "lemma": "fake" },
+            { "w": "alarm", "t": "alarm", "lemma": "alarm" },
+            { "w": "tried", "t": "próbował", "lemma": "try" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "trick", "t": "oszukać", "lemma": "trick" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "students", "t": "uczniów", "lemma": "student" }
+          ]
+        },
+        {
+          "en": "Many recruits stopped and looked confused.",
+          "pl": "Wielu rekrutów zatrzymało się i wyglądało na zdezorientowanych.",
+          "tokens": [
+            { "w": "Many", "t": "wielu", "lemma": "many" },
+            { "w": "recruits", "t": "rekrutów", "lemma": "recruit" },
+            { "w": "stopped", "t": "zatrzymało się", "lemma": "stop" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "looked", "t": "wyglądało", "lemma": "look" },
+            { "w": "confused", "t": "na zdezorientowanych", "lemma": "confused" }
+          ]
+        },
+        {
+          "en": "Max stayed calm and kept moving forward.",
+          "pl": "Max zachował spokój i wciąż szedł do przodu.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "stayed", "t": "zachował", "lemma": "stay" },
+            { "w": "calm", "t": "spokój", "lemma": "calm" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "kept", "t": "wciąż", "lemma": "keep" },
+            { "w": "moving", "t": "poruszał się", "lemma": "move" },
+            { "w": "forward", "t": "do przodu", "lemma": "forward" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "When he crossed the finish line, Agent Stone smiled.",
+          "pl": "Kiedy przekroczył linię mety, Agentka Stone uśmiechnęła się.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "crossed", "t": "przekroczył", "lemma": "cross" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "finish", "t": "(mety)", "lemma": "finish" },
+            { "w": "line", "t": "linię", "lemma": "line" },
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "smiled", "t": "uśmiechnęła się", "lemma": "smile" }
+          ]
+        },
+        {
+          "en": "\"You think before you act,\" she said. \"That is a good spy.\"",
+          "pl": "„Myślisz, zanim zadziałasz”, powiedziała. „To dobry szpieg”.",
+          "tokens": [
+            { "w": "You", "t": "ty", "lemma": "you" },
+            { "w": "think", "t": "myślisz", "lemma": "think" },
+            { "w": "before", "t": "zanim", "lemma": "before" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "act", "t": "działasz", "lemma": "act" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" },
+            { "w": "That", "t": "to", "lemma": "that" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "good", "t": "dobry", "lemma": "good" },
+            { "w": "spy", "t": "szpieg", "lemma": "spy" }
+          ]
+        },
+        {
+          "en": "Max felt proud of himself for the first time.",
+          "pl": "Max po raz pierwszy poczuł się z siebie dumny.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "felt", "t": "poczuł się", "lemma": "feel" },
+            { "w": "proud", "t": "dumny", "lemma": "proud" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "himself", "t": "siebie", "lemma": "himself" },
+            { "w": "for", "t": "(po raz)", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszy", "lemma": "first" },
+            { "w": "time", "t": "raz", "lemma": "time" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co Max założył pierwszego ranka?",
+      "options": [
+        "Czarny strój treningowy",
+        "Szkolny mundurek",
+        "Pelerynę superbohatera"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym był pierwszy test?",
+      "options": [
+        "Długim torem przeszkód pełnym pułapek",
+        "Egzaminem z matematyki",
+        "Wyścigiem samochodowym"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Zara ukończyła tor?",
+      "options": [
+        "Szybko i bez żadnego błędu",
+        "Bardzo wolno",
+        "Poddała się w połowie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Max poradził sobie z fałszywym alarmem?",
+      "options": [
+        "Zachował spokój i szedł dalej",
+        "Spanikował i uciekł",
+        "Zatrzymał się jak inni"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Agentka Stone powiedziała o Maxie?",
+      "options": [
+        "Że myśli, zanim działa — to dobry szpieg",
+        "Że jest za wolny na szpiega",
+        "Że powinien więcej ćwiczyć"
+      ],
+      "answer": 0
+    }
+  ]
+}

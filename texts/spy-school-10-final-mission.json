@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-10-final-mission",
+  "title": "Spy School 10: The Final Mission",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "After months of training, Max was ready for his final mission.",
+          "pl": "Po miesiącach treningu Max był gotowy na swoją ostatnią misję.",
+          "tokens": [
+            { "w": "After", "t": "po", "lemma": "after" },
+            { "w": "months", "t": "miesiącach", "lemma": "month" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "training", "t": "treningu", "lemma": "training" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "ready", "t": "gotowy", "lemma": "ready" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "his", "t": "swoją", "lemma": "his" },
+            { "w": "final", "t": "ostatnią", "lemma": "final" },
+            { "w": "mission", "t": "misję", "lemma": "mission" }
+          ]
+        },
+        {
+          "en": "A villain known as the Crow wanted to steal a powerful computer.",
+          "pl": "Złoczyńca znany jako Wrona chciał ukraść potężny komputer.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "villain", "t": "złoczyńca", "lemma": "villain" },
+            { "w": "known", "t": "znany", "lemma": "know" },
+            { "w": "as", "t": "jako", "lemma": "as" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Crow", "t": "Wrona", "lemma": "crow" },
+            { "w": "wanted", "t": "chciał", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "steal", "t": "ukraść", "lemma": "steal" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "powerful", "t": "potężny", "lemma": "powerful" },
+            { "w": "computer", "t": "komputer", "lemma": "computer" }
+          ]
+        },
+        {
+          "en": "The computer controlled the safety of the whole city.",
+          "pl": "Ten komputer kontrolował bezpieczeństwo całego miasta.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "computer", "t": "komputer", "lemma": "computer" },
+            { "w": "controlled", "t": "kontrolował", "lemma": "control" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "safety", "t": "bezpieczeństwo", "lemma": "safety" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "whole", "t": "całego", "lemma": "whole" },
+            { "w": "city", "t": "miasta", "lemma": "city" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max and Zara traveled to the Crow's secret base at night.",
+          "pl": "Max i Zara udali się do tajnej bazy Wrony w nocy.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "traveled", "t": "udali się", "lemma": "travel" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Crow's", "t": "Wrony", "lemma": "crow" },
+            { "w": "secret", "t": "tajnej", "lemma": "secret" },
+            { "w": "base", "t": "bazy", "lemma": "base" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "night", "t": "nocy", "lemma": "night" }
+          ]
+        },
+        {
+          "en": "They climbed over a high fence and avoided the cameras.",
+          "pl": "Wspięli się na wysokie ogrodzenie i unikali kamer.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "climbed", "t": "wspięli się", "lemma": "climb" },
+            { "w": "over", "t": "przez", "lemma": "over" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "high", "t": "wysokie", "lemma": "high" },
+            { "w": "fence", "t": "ogrodzenie", "lemma": "fence" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "avoided", "t": "unikali", "lemma": "avoid" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "cameras", "t": "kamer", "lemma": "camera" }
+          ]
+        },
+        {
+          "en": "Inside, dozens of guards were watching every door.",
+          "pl": "W środku dziesiątki strażników obserwowało każde drzwi.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "dozens", "t": "dziesiątki", "lemma": "dozen" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "guards", "t": "strażników", "lemma": "guard" },
+            { "w": "were", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "watching", "t": "obserwowało", "lemma": "watch" },
+            { "w": "every", "t": "każde", "lemma": "every" },
+            { "w": "door", "t": "drzwi", "lemma": "door" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Using his watch, Max turned off the lights for a moment.",
+          "pl": "Używając swojego zegarka, Max wyłączył światła na chwilę.",
+          "tokens": [
+            { "w": "Using", "t": "używając", "lemma": "use" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "watch", "t": "zegarka", "lemma": "watch" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "turned", "t": "wyłączył", "lemma": "turn" },
+            { "w": "off", "t": "(partykuła)", "lemma": "off" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "lights", "t": "światła", "lemma": "light" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "moment", "t": "chwilę", "lemma": "moment" }
+          ]
+        },
+        {
+          "en": "In the darkness, the two friends slipped past the guards.",
+          "pl": "W ciemności dwoje przyjaciół przemknęło obok strażników.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "darkness", "t": "ciemności", "lemma": "darkness" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "slipped", "t": "przemknęło", "lemma": "slip" },
+            { "w": "past", "t": "obok", "lemma": "past" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "guards", "t": "strażników", "lemma": "guard" }
+          ]
+        },
+        {
+          "en": "They finally reached the room with the powerful computer.",
+          "pl": "W końcu dotarli do pokoju z potężnym komputerem.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "reached", "t": "dotarli do", "lemma": "reach" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "room", "t": "pokoju", "lemma": "room" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "powerful", "t": "potężnym", "lemma": "powerful" },
+            { "w": "computer", "t": "komputerem", "lemma": "computer" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The Crow was waiting for them with an evil smile.",
+          "pl": "Wrona czekał na nich ze złowrogim uśmiechem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Crow", "t": "Wrona", "lemma": "crow" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "waiting", "t": "czekał", "lemma": "wait" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "them", "t": "nich", "lemma": "them" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "evil", "t": "złowrogim", "lemma": "evil" },
+            { "w": "smile", "t": "uśmiechem", "lemma": "smile" }
+          ]
+        },
+        {
+          "en": "But Zara was faster and locked him inside a glass room.",
+          "pl": "Ale Zara była szybsza i zamknęła go w szklanym pokoju.",
+          "tokens": [
+            { "w": "But", "t": "ale", "lemma": "but" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "faster", "t": "szybsza", "lemma": "fast" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "locked", "t": "zamknęła", "lemma": "lock" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "inside", "t": "w", "lemma": "inside" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "glass", "t": "szklanym", "lemma": "glass" },
+            { "w": "room", "t": "pokoju", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "Max quickly took back the stolen computer.",
+          "pl": "Max szybko odzyskał skradziony komputer.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "took", "t": "odzyskał", "lemma": "take" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stolen", "t": "skradziony", "lemma": "steal" },
+            { "w": "computer", "t": "komputer", "lemma": "computer" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The city was safe again, thanks to the two young spies.",
+          "pl": "Miasto znowu było bezpieczne, dzięki dwojgu młodym szpiegom.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "city", "t": "miasto", "lemma": "city" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "safe", "t": "bezpieczne", "lemma": "safe" },
+            { "w": "again", "t": "znowu", "lemma": "again" },
+            { "w": "thanks", "t": "dzięki", "lemma": "thanks" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwojgu", "lemma": "two" },
+            { "w": "young", "t": "młodym", "lemma": "young" },
+            { "w": "spies", "t": "szpiegom", "lemma": "spy" }
+          ]
+        },
+        {
+          "en": "Agent Stone gave them a special medal of honour.",
+          "pl": "Agentka Stone dała im specjalny medal honoru.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "gave", "t": "dała", "lemma": "give" },
+            { "w": "them", "t": "im", "lemma": "them" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "special", "t": "specjalny", "lemma": "special" },
+            { "w": "medal", "t": "medal", "lemma": "medal" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "honour", "t": "honoru", "lemma": "honour" }
+          ]
+        },
+        {
+          "en": "Max knew that this was only the beginning of his adventures.",
+          "pl": "Max wiedział, że to dopiero początek jego przygód.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "knew", "t": "wiedział", "lemma": "know" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "this", "t": "to", "lemma": "this" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "beginning", "t": "początek", "lemma": "beginning" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "adventures", "t": "przygód", "lemma": "adventure" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Czego chciał złoczyńca zwany Wroną?",
+      "options": [
+        "Ukraść potężny komputer kontrolujący bezpieczeństwo miasta",
+        "Zostać dyrektorem szkoły",
+        "Ukraść mapę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Max i Zara dostali się do bazy?",
+      "options": [
+        "Wspięli się na wysokie ogrodzenie i unikali kamer",
+        "Weszli głównymi drzwiami",
+        "Przylecieli helikopterem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Max przemknął obok strażników?",
+      "options": [
+        "Zegarkiem wyłączył światła na chwilę",
+        "Przebrał się za strażnika",
+        "Uśpił ich"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobiła Zara z Wroną?",
+      "options": [
+        "Zamknęła go w szklanym pokoju",
+        "Pozwoliła mu uciec",
+        "Oddała mu komputer"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max i Zara dostali od Agentki Stone?",
+      "options": [
+        "Specjalny medal honoru",
+        "Nowe zegarki",
+        "Bilet do domu"
+      ],
+      "answer": 0
+    }
+  ]
+}

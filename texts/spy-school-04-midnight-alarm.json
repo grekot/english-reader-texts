@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-04-midnight-alarm",
+  "title": "Spy School 4: The Midnight Alarm",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One night, a loud alarm woke the whole school.",
+          "pl": "Pewnej nocy głośny alarm obudził całą szkołę.",
+          "tokens": [
+            { "w": "One", "t": "pewnej", "lemma": "one" },
+            { "w": "night", "t": "nocy", "lemma": "night" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "loud", "t": "głośny", "lemma": "loud" },
+            { "w": "alarm", "t": "alarm", "lemma": "alarm" },
+            { "w": "woke", "t": "obudził", "lemma": "wake" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "whole", "t": "całą", "lemma": "whole" },
+            { "w": "school", "t": "szkołę", "lemma": "school" }
+          ]
+        },
+        {
+          "en": "Red lights flashed in every hallway.",
+          "pl": "Czerwone światła migały w każdym korytarzu.",
+          "tokens": [
+            { "w": "Red", "t": "czerwone", "lemma": "red" },
+            { "w": "lights", "t": "światła", "lemma": "light" },
+            { "w": "flashed", "t": "migały", "lemma": "flash" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "every", "t": "każdym", "lemma": "every" },
+            { "w": "hallway", "t": "korytarzu", "lemma": "hallway" }
+          ]
+        },
+        {
+          "en": "Someone had broken into the building.",
+          "pl": "Ktoś włamał się do budynku.",
+          "tokens": [
+            { "w": "Someone", "t": "ktoś", "lemma": "someone" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "broken", "t": "włamał się", "lemma": "break" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "building", "t": "budynku", "lemma": "building" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max and Zara quietly left their rooms to investigate.",
+          "pl": "Max i Zara cicho opuścili swoje pokoje, by zbadać sprawę.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "quietly", "t": "cicho", "lemma": "quietly" },
+            { "w": "left", "t": "opuścili", "lemma": "leave" },
+            { "w": "their", "t": "swoje", "lemma": "their" },
+            { "w": "rooms", "t": "pokoje", "lemma": "room" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "investigate", "t": "zbadać", "lemma": "investigate" }
+          ]
+        },
+        {
+          "en": "They saw a dark shadow moving near the library.",
+          "pl": "Zobaczyli ciemny cień poruszający się blisko biblioteki.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "saw", "t": "zobaczyli", "lemma": "see" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dark", "t": "ciemny", "lemma": "dark" },
+            { "w": "shadow", "t": "cień", "lemma": "shadow" },
+            { "w": "moving", "t": "poruszający się", "lemma": "move" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "library", "t": "biblioteki", "lemma": "library" }
+          ]
+        },
+        {
+          "en": "The stranger was carrying a small black box.",
+          "pl": "Nieznajomy niósł małe czarne pudełko.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stranger", "t": "nieznajomy", "lemma": "stranger" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "carrying", "t": "niósł", "lemma": "carry" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "małe", "lemma": "small" },
+            { "w": "black", "t": "czarne", "lemma": "black" },
+            { "w": "box", "t": "pudełko", "lemma": "box" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max followed the thief while Zara called for help.",
+          "pl": "Max podążał za złodziejem, podczas gdy Zara wołała o pomoc.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "followed", "t": "podążał za", "lemma": "follow" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziejem", "lemma": "thief" },
+            { "w": "while", "t": "podczas gdy", "lemma": "while" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "called", "t": "wołała", "lemma": "call" },
+            { "w": "for", "t": "o", "lemma": "for" },
+            { "w": "help", "t": "pomoc", "lemma": "help" }
+          ]
+        },
+        {
+          "en": "The thief ran down a long, dark corridor.",
+          "pl": "Złodziej biegł w głąb długiego, ciemnego korytarza.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "ran", "t": "biegł", "lemma": "run" },
+            { "w": "down", "t": "(w głąb)", "lemma": "down" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "long", "t": "długiego", "lemma": "long" },
+            { "w": "dark", "t": "ciemnego", "lemma": "dark" },
+            { "w": "corridor", "t": "korytarza", "lemma": "corridor" }
+          ]
+        },
+        {
+          "en": "Suddenly, he dropped the black box on the floor.",
+          "pl": "Nagle upuścił czarne pudełko na podłogę.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "dropped", "t": "upuścił", "lemma": "drop" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "black", "t": "czarne", "lemma": "black" },
+            { "w": "box", "t": "pudełko", "lemma": "box" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "floor", "t": "podłogę", "lemma": "floor" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara grabbed the box and held it tightly.",
+          "pl": "Zara chwyciła pudełko i trzymała je mocno.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "grabbed", "t": "chwyciła", "lemma": "grab" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "box", "t": "pudełko", "lemma": "box" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "held", "t": "trzymała", "lemma": "hold" },
+            { "w": "it", "t": "je", "lemma": "it" },
+            { "w": "tightly", "t": "mocno", "lemma": "tightly" }
+          ]
+        },
+        {
+          "en": "Inside were the school's most important plans.",
+          "pl": "W środku były najważniejsze plany szkoły.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "school's", "t": "szkoły", "lemma": "school" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "important", "t": "najważniejsze", "lemma": "important" },
+            { "w": "plans", "t": "plany", "lemma": "plan" }
+          ]
+        },
+        {
+          "en": "The thief tried to escape through a window.",
+          "pl": "Złodziej próbował uciec przez okno.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "tried", "t": "próbował", "lemma": "try" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "escape", "t": "uciec", "lemma": "escape" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "window", "t": "okno", "lemma": "window" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "But Agent Stone was already waiting outside.",
+          "pl": "Ale Agentka Stone już czekała na zewnątrz.",
+          "tokens": [
+            { "w": "But", "t": "ale", "lemma": "but" },
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "was", "t": "(czas przeszły)", "lemma": "be" },
+            { "w": "already", "t": "już", "lemma": "already" },
+            { "w": "waiting", "t": "czekała", "lemma": "wait" },
+            { "w": "outside", "t": "na zewnątrz", "lemma": "outside" }
+          ]
+        },
+        {
+          "en": "She caught the thief and saved the plans.",
+          "pl": "Złapała złodzieja i ocaliła plany.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "caught", "t": "złapała", "lemma": "catch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "saved", "t": "ocaliła", "lemma": "save" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "plans", "t": "plany", "lemma": "plan" }
+          ]
+        },
+        {
+          "en": "The two friends had stopped the night robbery.",
+          "pl": "Dwoje przyjaciół powstrzymało nocną kradzież.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "stopped", "t": "powstrzymało", "lemma": "stop" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "night", "t": "nocną", "lemma": "night" },
+            { "w": "robbery", "t": "kradzież", "lemma": "robbery" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co obudziło całą szkołę w nocy?",
+      "options": [
+        "Głośny alarm — ktoś włamał się do budynku",
+        "Burza",
+        "Dzwonek na lekcje"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co niósł nieznajomy?",
+      "options": [
+        "Małe czarne pudełko",
+        "Wielki worek",
+        "Latarkę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co było w pudełku?",
+      "options": [
+        "Najważniejsze plany szkoły",
+        "Słodycze",
+        "Stare zdjęcia"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto czekał na zewnątrz?",
+      "options": [
+        "Agentka Stone",
+        "Inny złodziej",
+        "Policja z miasta"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co udało się dwójce przyjaciół?",
+      "options": [
+        "Powstrzymali nocną kradzież",
+        "Zgubili plany",
+        "Przespali cały alarm"
+      ],
+      "answer": 0
+    }
+  ]
+}

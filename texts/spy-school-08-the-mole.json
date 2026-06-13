@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-08-the-mole",
+  "title": "Spy School 8: The Mole",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Strange things started to happen at Falcon Academy.",
+          "pl": "W Akademii Falcon zaczęły dziać się dziwne rzeczy.",
+          "tokens": [
+            { "w": "Strange", "t": "dziwne", "lemma": "strange" },
+            { "w": "things", "t": "rzeczy", "lemma": "thing" },
+            { "w": "started", "t": "zaczęły", "lemma": "start" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "happen", "t": "dziać się", "lemma": "happen" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "Falcon", "t": "Falcon", "lemma": "Falcon" },
+            { "w": "Academy", "t": "Akademii", "lemma": "academy" }
+          ]
+        },
+        {
+          "en": "Secret plans kept disappearing from locked rooms.",
+          "pl": "Tajne plany ciągle znikały z zamkniętych pokoi.",
+          "tokens": [
+            { "w": "Secret", "t": "tajne", "lemma": "secret" },
+            { "w": "plans", "t": "plany", "lemma": "plan" },
+            { "w": "kept", "t": "ciągle", "lemma": "keep" },
+            { "w": "disappearing", "t": "znikały", "lemma": "disappear" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "locked", "t": "zamkniętych", "lemma": "lock" },
+            { "w": "rooms", "t": "pokoi", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "Agent Stone believed there was a traitor in the school.",
+          "pl": "Agentka Stone wierzyła, że w szkole jest zdrajca.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "believed", "t": "wierzyła", "lemma": "believe" },
+            { "w": "there", "t": "(był)", "lemma": "there" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "traitor", "t": "zdrajca", "lemma": "traitor" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "school", "t": "szkole", "lemma": "school" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A traitor inside a team is called a \"mole.\"",
+          "pl": "Zdrajcę wewnątrz zespołu nazywa się „kretem”.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "traitor", "t": "zdrajca", "lemma": "traitor" },
+            { "w": "inside", "t": "wewnątrz", "lemma": "inside" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "team", "t": "zespołu", "lemma": "team" },
+            { "w": "is", "t": "(jest)", "lemma": "be" },
+            { "w": "called", "t": "nazywany", "lemma": "call" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "mole", "t": "kret", "lemma": "mole" }
+          ]
+        },
+        {
+          "en": "Max and Zara decided to find the mole quietly.",
+          "pl": "Max i Zara postanowili po cichu znaleźć kreta.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "decided", "t": "postanowili", "lemma": "decide" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mole", "t": "kreta", "lemma": "mole" },
+            { "w": "quietly", "t": "po cichu", "lemma": "quietly" }
+          ]
+        },
+        {
+          "en": "They watched the other students very carefully.",
+          "pl": "Bardzo uważnie obserwowali innych uczniów.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "watched", "t": "obserwowali", "lemma": "watch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "other", "t": "innych", "lemma": "other" },
+            { "w": "students", "t": "uczniów", "lemma": "student" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "carefully", "t": "uważnie", "lemma": "carefully" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One teacher always seemed to be near the missing files.",
+          "pl": "Jeden nauczyciel zawsze zdawał się być blisko znikających plików.",
+          "tokens": [
+            { "w": "One", "t": "jeden", "lemma": "one" },
+            { "w": "teacher", "t": "nauczyciel", "lemma": "teacher" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "seemed", "t": "zdawał się", "lemma": "seem" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "missing", "t": "znikających", "lemma": "missing" },
+            { "w": "files", "t": "plików", "lemma": "file" }
+          ]
+        },
+        {
+          "en": "He often stayed late and asked too many questions.",
+          "pl": "Często zostawał do późna i zadawał zbyt wiele pytań.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "often", "t": "często", "lemma": "often" },
+            { "w": "stayed", "t": "zostawał", "lemma": "stay" },
+            { "w": "late", "t": "do późna", "lemma": "late" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "asked", "t": "zadawał", "lemma": "ask" },
+            { "w": "too", "t": "zbyt", "lemma": "too" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "questions", "t": "pytań", "lemma": "question" }
+          ]
+        },
+        {
+          "en": "Max wrote down everything he noticed in a small notebook.",
+          "pl": "Max zapisywał wszystko, co zauważył, w małym notesie.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "wrote", "t": "zapisywał", "lemma": "write" },
+            { "w": "down", "t": "(zapisywał)", "lemma": "down" },
+            { "w": "everything", "t": "wszystko", "lemma": "everything" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "noticed", "t": "zauważył", "lemma": "notice" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "małym", "lemma": "small" },
+            { "w": "notebook", "t": "notesie", "lemma": "notebook" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One evening, they saw the teacher hide a file in his bag.",
+          "pl": "Pewnego wieczoru zobaczyli, jak nauczyciel chowa plik do swojej torby.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "evening", "t": "wieczoru", "lemma": "evening" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "saw", "t": "zobaczyli", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "teacher", "t": "nauczyciela", "lemma": "teacher" },
+            { "w": "hide", "t": "chowa", "lemma": "hide" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "file", "t": "plik", "lemma": "file" },
+            { "w": "in", "t": "do", "lemma": "in" },
+            { "w": "his", "t": "swojej", "lemma": "his" },
+            { "w": "bag", "t": "torby", "lemma": "bag" }
+          ]
+        },
+        {
+          "en": "Zara quickly took a photo as proof.",
+          "pl": "Zara szybko zrobiła zdjęcie jako dowód.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "took", "t": "zrobiła", "lemma": "take" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "photo", "t": "zdjęcie", "lemma": "photo" },
+            { "w": "as", "t": "jako", "lemma": "as" },
+            { "w": "proof", "t": "dowód", "lemma": "proof" }
+          ]
+        },
+        {
+          "en": "Their hearts were beating with excitement.",
+          "pl": "Ich serca biły z emocji.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "hearts", "t": "serca", "lemma": "heart" },
+            { "w": "were", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "beating", "t": "biły", "lemma": "beat" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "excitement", "t": "emocji", "lemma": "excitement" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "They showed the photo to Agent Stone the next day.",
+          "pl": "Następnego dnia pokazali zdjęcie Agentce Stone.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "showed", "t": "pokazali", "lemma": "show" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "photo", "t": "zdjęcie", "lemma": "photo" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "Agent", "t": "Agentce", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnego", "lemma": "next" },
+            { "w": "day", "t": "dnia", "lemma": "day" }
+          ]
+        },
+        {
+          "en": "The mole was caught and could not hurt the school again.",
+          "pl": "Kret został złapany i nie mógł już więcej szkodzić szkole.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mole", "t": "kret", "lemma": "mole" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "caught", "t": "złapany", "lemma": "catch" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "hurt", "t": "szkodzić", "lemma": "hurt" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "school", "t": "szkole", "lemma": "school" },
+            { "w": "again", "t": "więcej", "lemma": "again" }
+          ]
+        },
+        {
+          "en": "Max learned that a good spy always watches and waits.",
+          "pl": "Max nauczył się, że dobry szpieg zawsze obserwuje i czeka.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "learned", "t": "nauczył się", "lemma": "learn" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "good", "t": "dobry", "lemma": "good" },
+            { "w": "spy", "t": "szpieg", "lemma": "spy" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "watches", "t": "obserwuje", "lemma": "watch" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "waits", "t": "czeka", "lemma": "wait" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co zaczęło dziać się w akademii?",
+      "options": [
+        "Tajne plany znikały z zamkniętych pokoi",
+        "Uczniowie przestali przychodzić",
+        "Zepsuło się ogrzewanie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak nazywa się zdrajca wewnątrz zespołu?",
+      "options": [
+        "„Kret” (mole)",
+        "„Lis”",
+        "„Sokół”"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co podejrzanego robił jeden nauczyciel?",
+      "options": [
+        "Często zostawał do późna i kręcił się przy znikających plikach",
+        "Spóźniał się na lekcje",
+        "Nigdy nie rozmawiał z uczniami"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobiła Zara, gdy nauczyciel chował plik?",
+      "options": [
+        "Szybko zrobiła zdjęcie jako dowód",
+        "Krzyknęła na niego",
+        "Zabrała mu torbę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego nauczył się Max?",
+      "options": [
+        "Że dobry szpieg zawsze obserwuje i czeka",
+        "Że nie warto nikomu ufać",
+        "Że lepiej działać samemu"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-05-hidden-gadget",
+  "title": "Spy School 5: The Hidden Gadget",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "During a lesson, Max received his first spy gadget.",
+          "pl": "Podczas lekcji Max otrzymał swój pierwszy szpiegowski gadżet.",
+          "tokens": [
+            { "w": "During", "t": "podczas", "lemma": "during" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "lesson", "t": "lekcji", "lemma": "lesson" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "received", "t": "otrzymał", "lemma": "receive" },
+            { "w": "his", "t": "swój", "lemma": "his" },
+            { "w": "first", "t": "pierwszy", "lemma": "first" },
+            { "w": "spy", "t": "szpiegowski", "lemma": "spy" },
+            { "w": "gadget", "t": "gadżet", "lemma": "gadget" }
+          ]
+        },
+        {
+          "en": "It looked like a normal watch, but it was very special.",
+          "pl": "Wyglądał jak zwykły zegarek, ale był bardzo wyjątkowy.",
+          "tokens": [
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "looked", "t": "wyglądał", "lemma": "look" },
+            { "w": "like", "t": "jak", "lemma": "like" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "normal", "t": "zwykły", "lemma": "normal" },
+            { "w": "watch", "t": "zegarek", "lemma": "watch" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "it", "t": "on", "lemma": "it" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "special", "t": "wyjątkowy", "lemma": "special" }
+          ]
+        },
+        {
+          "en": "The watch could send secret messages and shine a bright light.",
+          "pl": "Zegarek mógł wysyłać tajne wiadomości i świecić jasnym światłem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "watch", "t": "zegarek", "lemma": "watch" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "send", "t": "wysyłać", "lemma": "send" },
+            { "w": "secret", "t": "tajne", "lemma": "secret" },
+            { "w": "messages", "t": "wiadomości", "lemma": "message" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "shine", "t": "świecić", "lemma": "shine" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "bright", "t": "jasnym", "lemma": "bright" },
+            { "w": "light", "t": "światłem", "lemma": "light" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara already had a pen that could open any lock.",
+          "pl": "Zara miała już długopis, który mógł otworzyć każdy zamek.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "already", "t": "już", "lemma": "already" },
+            { "w": "had", "t": "miała", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "pen", "t": "długopis", "lemma": "pen" },
+            { "w": "that", "t": "który", "lemma": "that" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "open", "t": "otworzyć", "lemma": "open" },
+            { "w": "any", "t": "każdy", "lemma": "any" },
+            { "w": "lock", "t": "zamek", "lemma": "lock" }
+          ]
+        },
+        {
+          "en": "\"Every good spy needs the right tools,\" she explained.",
+          "pl": "„Każdy dobry szpieg potrzebuje odpowiednich narzędzi”, wyjaśniła.",
+          "tokens": [
+            { "w": "Every", "t": "każdy", "lemma": "every" },
+            { "w": "good", "t": "dobry", "lemma": "good" },
+            { "w": "spy", "t": "szpieg", "lemma": "spy" },
+            { "w": "needs", "t": "potrzebuje", "lemma": "need" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "right", "t": "odpowiednich", "lemma": "right" },
+            { "w": "tools", "t": "narzędzi", "lemma": "tool" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "explained", "t": "wyjaśniła", "lemma": "explain" }
+          ]
+        },
+        {
+          "en": "Max could not wait to try his new gadget.",
+          "pl": "Max nie mógł się doczekać, by wypróbować swój nowy gadżet.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "wait", "t": "doczekać się", "lemma": "wait" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "try", "t": "wypróbować", "lemma": "try" },
+            { "w": "his", "t": "swojego", "lemma": "his" },
+            { "w": "new", "t": "nowego", "lemma": "new" },
+            { "w": "gadget", "t": "gadżetu", "lemma": "gadget" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "That day, the students practiced using their gadgets in the dark.",
+          "pl": "Tego dnia uczniowie ćwiczyli używanie swoich gadżetów w ciemności.",
+          "tokens": [
+            { "w": "That", "t": "tego", "lemma": "that" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "students", "t": "uczniowie", "lemma": "student" },
+            { "w": "practiced", "t": "ćwiczyli", "lemma": "practice" },
+            { "w": "using", "t": "używanie", "lemma": "use" },
+            { "w": "their", "t": "swoich", "lemma": "their" },
+            { "w": "gadgets", "t": "gadżetów", "lemma": "gadget" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "dark", "t": "ciemności", "lemma": "dark" }
+          ]
+        },
+        {
+          "en": "Max used the light to find a hidden door.",
+          "pl": "Max użył światła, by znaleźć ukryte drzwi.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "used", "t": "użył", "lemma": "use" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "light", "t": "światła", "lemma": "light" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hidden", "t": "ukryte", "lemma": "hidden" },
+            { "w": "door", "t": "drzwi", "lemma": "door" }
+          ]
+        },
+        {
+          "en": "Behind the door was a secret training tunnel.",
+          "pl": "Za drzwiami był tajny tunel treningowy.",
+          "tokens": [
+            { "w": "Behind", "t": "za", "lemma": "behind" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "door", "t": "drzwiami", "lemma": "door" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajny", "lemma": "secret" },
+            { "w": "training", "t": "treningowy", "lemma": "training" },
+            { "w": "tunnel", "t": "tunel", "lemma": "tunnel" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The tunnel was narrow and full of tricky puzzles.",
+          "pl": "Tunel był wąski i pełen podchwytliwych zagadek.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tunnel", "t": "tunel", "lemma": "tunnel" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "narrow", "t": "wąski", "lemma": "narrow" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "full", "t": "pełen", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "tricky", "t": "podchwytliwych", "lemma": "tricky" },
+            { "w": "puzzles", "t": "zagadek", "lemma": "puzzle" }
+          ]
+        },
+        {
+          "en": "Zara's pen opened a locked gate at the end.",
+          "pl": "Długopis Zary otworzył zamkniętą bramę na końcu.",
+          "tokens": [
+            { "w": "Zara's", "t": "Zary", "lemma": "Zara" },
+            { "w": "pen", "t": "długopis", "lemma": "pen" },
+            { "w": "opened", "t": "otworzył", "lemma": "open" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "locked", "t": "zamkniętą", "lemma": "lock" },
+            { "w": "gate", "t": "bramę", "lemma": "gate" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "end", "t": "końcu", "lemma": "end" }
+          ]
+        },
+        {
+          "en": "Together, they solved every challenge inside.",
+          "pl": "Razem rozwiązali każde wyzwanie w środku.",
+          "tokens": [
+            { "w": "Together", "t": "razem", "lemma": "together" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "solved", "t": "rozwiązali", "lemma": "solve" },
+            { "w": "every", "t": "każde", "lemma": "every" },
+            { "w": "challenge", "t": "wyzwanie", "lemma": "challenge" },
+            { "w": "inside", "t": "w środku", "lemma": "inside" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "When they came out, Agent Stone was impressed.",
+          "pl": "Kiedy wyszli, Agentka Stone była pod wrażeniem.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "came", "t": "wyszli", "lemma": "come" },
+            { "w": "out", "t": "(na zewnątrz)", "lemma": "out" },
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "impressed", "t": "pod wrażeniem", "lemma": "impress" }
+          ]
+        },
+        {
+          "en": "\"You are learning to use your tools wisely,\" she said.",
+          "pl": "„Uczycie się mądrze używać swoich narzędzi”, powiedziała.",
+          "tokens": [
+            { "w": "You", "t": "wy", "lemma": "you" },
+            { "w": "are", "t": "(forma ciągła)", "lemma": "be" },
+            { "w": "learning", "t": "uczycie się", "lemma": "learn" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "use", "t": "używać", "lemma": "use" },
+            { "w": "your", "t": "swoich", "lemma": "your" },
+            { "w": "tools", "t": "narzędzi", "lemma": "tool" },
+            { "w": "wisely", "t": "mądrze", "lemma": "wisely" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" }
+          ]
+        },
+        {
+          "en": "Max smiled and looked proudly at his watch.",
+          "pl": "Max uśmiechnął się i z dumą spojrzał na swój zegarek.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "smiled", "t": "uśmiechnął się", "lemma": "smile" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "looked", "t": "spojrzał", "lemma": "look" },
+            { "w": "proudly", "t": "z dumą", "lemma": "proudly" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "his", "t": "swój", "lemma": "his" },
+            { "w": "watch", "t": "zegarek", "lemma": "watch" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Jak wyglądał pierwszy gadżet Maxa?",
+      "options": [
+        "Jak zwykły zegarek (wysyłał wiadomości i świecił)",
+        "Jak wielki młot",
+        "Jak zwykły długopis"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co potrafił długopis Zary?",
+      "options": [
+        "Otworzyć każdy zamek",
+        "Pisać niewidzialnym atramentem",
+        "Latać"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max znalazł dzięki światłu zegarka?",
+      "options": [
+        "Ukryte drzwi (tajny tunel)",
+        "Zgubiony klucz",
+        "Skarb"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co otworzyło zamkniętą bramę na końcu tunelu?",
+      "options": [
+        "Długopis Zary",
+        "Zegarek Maxa",
+        "Zwykły klucz"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co powiedziała Agentka Stone?",
+      "options": [
+        "Że uczą się mądrze używać swoich narzędzi",
+        "Że gadżety są zbyt niebezpieczne",
+        "Że muszą oddać gadżety"
+      ],
+      "answer": 0
+    }
+  ]
+}

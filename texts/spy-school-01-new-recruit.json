@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-01-new-recruit",
+  "title": "Spy School 1: The New Recruit",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Max Carter was a clever boy who loved puzzles and computers.",
+          "pl": "Max Carter był sprytnym chłopcem, który uwielbiał zagadki i komputery.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "Carter", "t": "Carter", "lemma": "Carter" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "clever", "t": "sprytnym", "lemma": "clever" },
+            { "w": "boy", "t": "chłopcem", "lemma": "boy" },
+            { "w": "who", "t": "który", "lemma": "who" },
+            { "w": "loved", "t": "uwielbiał", "lemma": "love" },
+            { "w": "puzzles", "t": "zagadki", "lemma": "puzzle" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "computers", "t": "komputery", "lemma": "computer" }
+          ]
+        },
+        {
+          "en": "One day, a mysterious letter arrived at his house.",
+          "pl": "Pewnego dnia tajemniczy list przybył do jego domu.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "mysterious", "t": "tajemniczy", "lemma": "mysterious" },
+            { "w": "letter", "t": "list", "lemma": "letter" },
+            { "w": "arrived", "t": "przybył", "lemma": "arrive" },
+            { "w": "at", "t": "do", "lemma": "at" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "house", "t": "domu", "lemma": "house" }
+          ]
+        },
+        {
+          "en": "It invited him to a secret school called Falcon Academy.",
+          "pl": "Zapraszał go do tajnej szkoły zwanej Akademią Falcon.",
+          "tokens": [
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "invited", "t": "zapraszał", "lemma": "invite" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajnej", "lemma": "secret" },
+            { "w": "school", "t": "szkoły", "lemma": "school" },
+            { "w": "called", "t": "zwanej", "lemma": "call" },
+            { "w": "Falcon", "t": "Falcon", "lemma": "Falcon" },
+            { "w": "Academy", "t": "Akademia", "lemma": "academy" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A quiet car took Max to a big building hidden in the forest.",
+          "pl": "Cichy samochód zabrał Maxa do dużego budynku ukrytego w lesie.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "quiet", "t": "cichy", "lemma": "quiet" },
+            { "w": "car", "t": "samochód", "lemma": "car" },
+            { "w": "took", "t": "zabrał", "lemma": "take" },
+            { "w": "Max", "t": "Maxa", "lemma": "Max" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "big", "t": "dużego", "lemma": "big" },
+            { "w": "building", "t": "budynku", "lemma": "building" },
+            { "w": "hidden", "t": "ukrytego", "lemma": "hidden" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "forest", "t": "lesie", "lemma": "forest" }
+          ]
+        },
+        {
+          "en": "Inside, he saw students learning how to become spies.",
+          "pl": "W środku zobaczył uczniów uczących się, jak zostać szpiegami.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "saw", "t": "zobaczył", "lemma": "see" },
+            { "w": "students", "t": "uczniów", "lemma": "student" },
+            { "w": "learning", "t": "uczących się", "lemma": "learn" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "become", "t": "zostać", "lemma": "become" },
+            { "w": "spies", "t": "szpiegami", "lemma": "spy" }
+          ]
+        },
+        {
+          "en": "Max could not believe his eyes.",
+          "pl": "Max nie mógł uwierzyć własnym oczom.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "believe", "t": "uwierzyć", "lemma": "believe" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "eyes", "t": "oczom", "lemma": "eye" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A strict woman named Agent Stone welcomed the new recruit.",
+          "pl": "Surowa kobieta o imieniu Agentka Stone powitała nowego rekruta.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "strict", "t": "surowa", "lemma": "strict" },
+            { "w": "woman", "t": "kobieta", "lemma": "woman" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "welcomed", "t": "powitała", "lemma": "welcome" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "new", "t": "nowego", "lemma": "new" },
+            { "w": "recruit", "t": "rekruta", "lemma": "recruit" }
+          ]
+        },
+        {
+          "en": "\"Here you will learn to be brave and smart,\" she said.",
+          "pl": "„Tutaj nauczysz się być odważnym i mądrym”, powiedziała.",
+          "tokens": [
+            { "w": "Here", "t": "tutaj", "lemma": "here" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "learn", "t": "nauczysz się", "lemma": "learn" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "brave", "t": "odważnym", "lemma": "brave" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "smart", "t": "mądrym", "lemma": "smart" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" }
+          ]
+        },
+        {
+          "en": "Max felt nervous but very excited.",
+          "pl": "Max czuł się zdenerwowany, ale bardzo podekscytowany.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "felt", "t": "czuł się", "lemma": "feel" },
+            { "w": "nervous", "t": "zdenerwowany", "lemma": "nervous" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "excited", "t": "podekscytowany", "lemma": "excited" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A girl named Zara showed him around the academy.",
+          "pl": "Dziewczyna o imieniu Zara oprowadziła go po akademii.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "girl", "t": "dziewczyna", "lemma": "girl" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "showed", "t": "oprowadziła", "lemma": "show" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "around", "t": "po", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "academy", "t": "akademii", "lemma": "academy" }
+          ]
+        },
+        {
+          "en": "She was the best student and knew every secret room.",
+          "pl": "Była najlepszą uczennicą i znała każdy tajny pokój.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "best", "t": "najlepszą", "lemma": "good" },
+            { "w": "student", "t": "uczennicą", "lemma": "student" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "knew", "t": "znała", "lemma": "know" },
+            { "w": "every", "t": "każdy", "lemma": "every" },
+            { "w": "secret", "t": "tajny", "lemma": "secret" },
+            { "w": "room", "t": "pokój", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "\"Stay close to me, and you will be fine,\" she smiled.",
+          "pl": "„Trzymaj się blisko mnie, a wszystko będzie dobrze”, uśmiechnęła się.",
+          "tokens": [
+            { "w": "Stay", "t": "trzymaj się", "lemma": "stay" },
+            { "w": "close", "t": "blisko", "lemma": "close" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "me", "t": "mnie", "lemma": "me" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "be", "t": "będziesz", "lemma": "be" },
+            { "w": "fine", "t": "w porządku", "lemma": "fine" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "smiled", "t": "uśmiechnęła się", "lemma": "smile" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "That night, Max lay in bed and thought about his new life.",
+          "pl": "Tej nocy Max leżał w łóżku i myślał o swoim nowym życiu.",
+          "tokens": [
+            { "w": "That", "t": "tej", "lemma": "that" },
+            { "w": "night", "t": "nocy", "lemma": "night" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "lay", "t": "leżał", "lemma": "lie" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "bed", "t": "łóżku", "lemma": "bed" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "thought", "t": "myślał", "lemma": "think" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "new", "t": "nowym", "lemma": "new" },
+            { "w": "life", "t": "życiu", "lemma": "life" }
+          ]
+        },
+        {
+          "en": "He was not just an ordinary boy anymore.",
+          "pl": "Nie był już tylko zwykłym chłopcem.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "just", "t": "tylko", "lemma": "just" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "ordinary", "t": "zwykłym", "lemma": "ordinary" },
+            { "w": "boy", "t": "chłopcem", "lemma": "boy" },
+            { "w": "anymore", "t": "już", "lemma": "anymore" }
+          ]
+        },
+        {
+          "en": "He was a student at a real spy school.",
+          "pl": "Był uczniem w prawdziwej szkole szpiegów.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "student", "t": "uczniem", "lemma": "student" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "real", "t": "prawdziwej", "lemma": "real" },
+            { "w": "spy", "t": "szpiegowskiej", "lemma": "spy" },
+            { "w": "school", "t": "szkole", "lemma": "school" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co Max dostał pewnego dnia?",
+      "options": [
+        "Tajemniczy list zapraszający do Akademii Falcon",
+        "Nowy komputer",
+        "Bilet na wakacje"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego uczyli się uczniowie w szkole?",
+      "options": [
+        "Jak zostać szpiegami",
+        "Jak gotować",
+        "Jak grać w piłkę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto powitał nowego rekruta?",
+      "options": [
+        "Agentka Stone — surowa kobieta",
+        "Zara",
+        "Dyrektor zwykłej szkoły"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kim była Zara?",
+      "options": [
+        "Najlepszą uczennicą, która oprowadziła Maxa",
+        "Nową kucharką",
+        "Siostrą Maxa"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Max czuł się, gdy myślał o swoim nowym życiu?",
+      "options": [
+        "Już nie był zwykłym chłopcem — był uczniem szkoły szpiegów",
+        "Chciał natychmiast wrócić do domu",
+        "Był znudzony"
+      ],
+      "answer": 0
+    }
+  ]
+}

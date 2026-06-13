@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-09-rooftop-chase",
+  "title": "Spy School 9: The Rooftop Chase",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "A clever thief stole a secret map from the academy.",
+          "pl": "Sprytny złodziej ukradł tajną mapę z akademii.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "clever", "t": "sprytny", "lemma": "clever" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "stole", "t": "ukradł", "lemma": "steal" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajną", "lemma": "secret" },
+            { "w": "map", "t": "mapę", "lemma": "map" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "academy", "t": "akademii", "lemma": "academy" }
+          ]
+        },
+        {
+          "en": "Max and Zara chased him out into the busy city.",
+          "pl": "Max i Zara gonili go aż na ruchliwe miasto.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "chased", "t": "gonili", "lemma": "chase" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "out", "t": "(na zewnątrz)", "lemma": "out" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "busy", "t": "ruchliwe", "lemma": "busy" },
+            { "w": "city", "t": "miasto", "lemma": "city" }
+          ]
+        },
+        {
+          "en": "The thief ran up the stairs of a tall building.",
+          "pl": "Złodziej wbiegł po schodach wysokiego budynku.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "ran", "t": "wbiegł", "lemma": "run" },
+            { "w": "up", "t": "(w górę)", "lemma": "up" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stairs", "t": "po schodach", "lemma": "stair" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "tall", "t": "wysokiego", "lemma": "tall" },
+            { "w": "building", "t": "budynku", "lemma": "building" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "On the roof, cold wind blew around the young spies.",
+          "pl": "Na dachu zimny wiatr wiał wokół młodych szpiegów.",
+          "tokens": [
+            { "w": "On", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "roof", "t": "dachu", "lemma": "roof" },
+            { "w": "cold", "t": "zimny", "lemma": "cold" },
+            { "w": "wind", "t": "wiatr", "lemma": "wind" },
+            { "w": "blew", "t": "wiał", "lemma": "blow" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "young", "t": "młodych", "lemma": "young" },
+            { "w": "spies", "t": "szpiegów", "lemma": "spy" }
+          ]
+        },
+        {
+          "en": "The thief jumped across to the next building.",
+          "pl": "Złodziej przeskoczył na następny budynek.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "jumped", "t": "przeskoczył", "lemma": "jump" },
+            { "w": "across", "t": "(na drugą stronę)", "lemma": "across" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następny", "lemma": "next" },
+            { "w": "building", "t": "budynek", "lemma": "building" }
+          ]
+        },
+        {
+          "en": "Max felt afraid, but he could not stop now.",
+          "pl": "Max czuł strach, ale nie mógł teraz się zatrzymać.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "felt", "t": "czuł", "lemma": "feel" },
+            { "w": "afraid", "t": "strach", "lemma": "afraid" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "stop", "t": "zatrzymać się", "lemma": "stop" },
+            { "w": "now", "t": "teraz", "lemma": "now" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara used her grappling hook to swing across the gap.",
+          "pl": "Zara użyła swojego haka z liną, by przehuśtać się przez przerwę.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "used", "t": "użyła", "lemma": "use" },
+            { "w": "her", "t": "swojego", "lemma": "her" },
+            { "w": "grappling", "t": "(z liną)", "lemma": "grappling" },
+            { "w": "hook", "t": "haka", "lemma": "hook" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "swing", "t": "przehuśtać się", "lemma": "swing" },
+            { "w": "across", "t": "przez", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "gap", "t": "przerwę", "lemma": "gap" }
+          ]
+        },
+        {
+          "en": "Max followed her bravely, holding on tightly.",
+          "pl": "Max odważnie podążył za nią, trzymając się mocno.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "followed", "t": "podążył za", "lemma": "follow" },
+            { "w": "her", "t": "nią", "lemma": "her" },
+            { "w": "bravely", "t": "odważnie", "lemma": "bravely" },
+            { "w": "holding", "t": "trzymając się", "lemma": "hold" },
+            { "w": "on", "t": "(mocno)", "lemma": "on" },
+            { "w": "tightly", "t": "mocno", "lemma": "tightly" }
+          ]
+        },
+        {
+          "en": "They landed safely on the other roof.",
+          "pl": "Wylądowali bezpiecznie na drugim dachu.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "landed", "t": "wylądowali", "lemma": "land" },
+            { "w": "safely", "t": "bezpiecznie", "lemma": "safely" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "other", "t": "drugim", "lemma": "other" },
+            { "w": "roof", "t": "dachu", "lemma": "roof" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The thief was now trapped in a corner.",
+          "pl": "Złodziej był teraz uwięziony w narożniku.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "now", "t": "teraz", "lemma": "now" },
+            { "w": "trapped", "t": "uwięziony", "lemma": "trap" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "corner", "t": "narożniku", "lemma": "corner" }
+          ]
+        },
+        {
+          "en": "He had nowhere left to run.",
+          "pl": "Nie miał już dokąd uciec.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "had", "t": "nie miał", "lemma": "have" },
+            { "w": "nowhere", "t": "dokąd", "lemma": "nowhere" },
+            { "w": "left", "t": "już", "lemma": "leave" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "run", "t": "uciec", "lemma": "run" }
+          ]
+        },
+        {
+          "en": "Slowly, he handed over the stolen map.",
+          "pl": "Powoli oddał skradzioną mapę.",
+          "tokens": [
+            { "w": "Slowly", "t": "powoli", "lemma": "slowly" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "handed", "t": "oddał", "lemma": "hand" },
+            { "w": "over", "t": "(partykuła)", "lemma": "over" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stolen", "t": "skradzioną", "lemma": "steal" },
+            { "w": "map", "t": "mapę", "lemma": "map" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The police arrived and took the thief away.",
+          "pl": "Policja przybyła i zabrała złodzieja.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "police", "t": "policja", "lemma": "police" },
+            { "w": "arrived", "t": "przybyła", "lemma": "arrive" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "took", "t": "zabrała", "lemma": "take" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" },
+            { "w": "away", "t": "(stąd)", "lemma": "away" }
+          ]
+        },
+        {
+          "en": "Max and Zara returned the map to Agent Stone.",
+          "pl": "Max i Zara oddali mapę Agentce Stone.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "returned", "t": "oddali", "lemma": "return" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "map", "t": "mapę", "lemma": "map" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "Agent", "t": "Agentce", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" }
+          ]
+        },
+        {
+          "en": "\"You are becoming real spies,\" she said proudly.",
+          "pl": "„Stajecie się prawdziwymi szpiegami”, powiedziała z dumą.",
+          "tokens": [
+            { "w": "You", "t": "wy", "lemma": "you" },
+            { "w": "are", "t": "(forma ciągła)", "lemma": "be" },
+            { "w": "becoming", "t": "stajecie się", "lemma": "become" },
+            { "w": "real", "t": "prawdziwymi", "lemma": "real" },
+            { "w": "spies", "t": "szpiegami", "lemma": "spy" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" },
+            { "w": "proudly", "t": "z dumą", "lemma": "proudly" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co ukradł złodziej?",
+      "options": [
+        "Tajną mapę z akademii",
+        "Złoty klucz",
+        "Gadżet Maxa"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dokąd uciekł złodziej?",
+      "options": [
+        "Na dach wysokiego budynku",
+        "Do lasu",
+        "Do piwnicy szkoły"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego użyła Zara, by przeskoczyć przerwę między budynkami?",
+      "options": [
+        "Haka z liną (grappling hook)",
+        "Drabiny",
+        "Skrzydeł"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobił złodziej, gdy znalazł się w narożniku?",
+      "options": [
+        "Oddał skradzioną mapę (nie miał dokąd uciec)",
+        "Przeskoczył na kolejny dach",
+        "Zniknął bez śladu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co powiedziała Agentka Stone?",
+      "options": [
+        "Że stają się prawdziwymi szpiegami",
+        "Że byli zbyt nieostrożni",
+        "Że mapa jest bezwartościowa"
+      ],
+      "answer": 0
+    }
+  ]
+}

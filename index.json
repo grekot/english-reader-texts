@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-10",
+  "updatedAt": "2026-06-13",
   "texts": [
     {
       "id": "alice-ch01",
@@ -386,6 +386,166 @@
       ],
       "file": "texts/hulks-big-day.json",
       "sha256": "d4b99e8d33c034b91482df2a2ac764850eea886c8ec505b34ae19d14a286021b"
+    },
+    {
+      "id": "spy-school-01-new-recruit",
+      "title": "Spy School 1: The New Recruit",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-01-new-recruit.json",
+      "sha256": "3410abda581b66293699b56c4eacdcb2a1cb1a628f7d6abb0623c0844d2c5296"
+    },
+    {
+      "id": "spy-school-02-first-test",
+      "title": "Spy School 2: The First Test",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-02-first-test.json",
+      "sha256": "7e1c9a8f91fdac9f5c4b0dac3d0e701edf0eead252fe38d65b858bfca5ce5067"
+    },
+    {
+      "id": "spy-school-03-secret-code",
+      "title": "Spy School 3: The Secret Code",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-03-secret-code.json",
+      "sha256": "e0641d0f0335b7f819aa5c1f53ee73704b34b42fe3c38d5de26f4b0214b7c165"
+    },
+    {
+      "id": "spy-school-04-midnight-alarm",
+      "title": "Spy School 4: The Midnight Alarm",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-04-midnight-alarm.json",
+      "sha256": "cda4878c1153cbf7adef3fdfbc267fd06192684d2531eaa62dcec4b4633961fa"
+    },
+    {
+      "id": "spy-school-05-hidden-gadget",
+      "title": "Spy School 5: The Hidden Gadget",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-05-hidden-gadget.json",
+      "sha256": "7ee9b762231f13fd85dc56a9fccb923cccd4eccbb08ac03a36af21c5369c8350"
+    },
+    {
+      "id": "spy-school-06-stolen-key",
+      "title": "Spy School 6: The Stolen Key",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-06-stolen-key.json",
+      "sha256": "30c8806903a18b3315a6fe7076cd5da6d99cb2e22ca63f946afddacef675bdb5"
+    },
+    {
+      "id": "spy-school-07-the-disguise",
+      "title": "Spy School 7: The Disguise",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-07-the-disguise.json",
+      "sha256": "c0d802a01e6145ffeca0369fa05ed2893b58751882b1897f4bb584e9e25ff1e7"
+    },
+    {
+      "id": "spy-school-08-the-mole",
+      "title": "Spy School 8: The Mole",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-08-the-mole.json",
+      "sha256": "eadde6a0a790f628c8eaab8c71550a4fe7e88a262627ad21863a76c0c193aa36"
+    },
+    {
+      "id": "spy-school-09-rooftop-chase",
+      "title": "Spy School 9: The Rooftop Chase",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-09-rooftop-chase.json",
+      "sha256": "8f292ce0ca9dbfb3e772e93d46ffd7151b98ae40907b09fff14193d828347938"
+    },
+    {
+      "id": "spy-school-10-final-mission",
+      "title": "Spy School 10: The Final Mission",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-10-final-mission.json",
+      "sha256": "932b9b13fd878c493074b5b3e5391dace7874d82356c477d5902718c028be829"
     }
   ]
 }

@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-07-the-disguise",
+  "title": "Spy School 7: The Disguise",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "The students learned a new skill: how to wear a disguise.",
+          "pl": "Uczniowie nauczyli się nowej umiejętności: jak nosić przebranie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "students", "t": "uczniowie", "lemma": "student" },
+            { "w": "learned", "t": "nauczyli się", "lemma": "learn" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "new", "t": "nowej", "lemma": "new" },
+            { "w": "skill", "t": "umiejętności", "lemma": "skill" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "wear", "t": "nosić", "lemma": "wear" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "disguise", "t": "przebranie", "lemma": "disguise" }
+          ]
+        },
+        {
+          "en": "Max put on glasses, a hat, and an old brown coat.",
+          "pl": "Max założył okulary, kapelusz i stary brązowy płaszcz.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "put", "t": "założył", "lemma": "put" },
+            { "w": "on", "t": "(na siebie)", "lemma": "on" },
+            { "w": "glasses", "t": "okulary", "lemma": "glasses" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hat", "t": "kapelusz", "lemma": "hat" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "old", "t": "stary", "lemma": "old" },
+            { "w": "brown", "t": "brązowy", "lemma": "brown" },
+            { "w": "coat", "t": "płaszcz", "lemma": "coat" }
+          ]
+        },
+        {
+          "en": "Even Zara did not recognize him at first.",
+          "pl": "Nawet Zara z początku go nie poznała.",
+          "tokens": [
+            { "w": "Even", "t": "nawet", "lemma": "even" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "did", "t": "(czas przeszły – przeczenie)", "lemma": "do" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "recognize", "t": "poznała", "lemma": "recognize" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "at", "t": "(z)", "lemma": "at" },
+            { "w": "first", "t": "początku", "lemma": "first" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Their mission was to enter a fancy party in secret.",
+          "pl": "Ich misją było wejść na eleganckie przyjęcie w tajemnicy.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "mission", "t": "misja", "lemma": "mission" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "enter", "t": "wejść na", "lemma": "enter" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "fancy", "t": "eleganckie", "lemma": "fancy" },
+            { "w": "party", "t": "przyjęcie", "lemma": "party" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "secret", "t": "tajemnicy", "lemma": "secret" }
+          ]
+        },
+        {
+          "en": "A dangerous man at the party was selling stolen secrets.",
+          "pl": "Niebezpieczny mężczyzna na przyjęciu sprzedawał skradzione sekrety.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dangerous", "t": "niebezpieczny", "lemma": "dangerous" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "party", "t": "przyjęciu", "lemma": "party" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "selling", "t": "sprzedawał", "lemma": "sell" },
+            { "w": "stolen", "t": "skradzione", "lemma": "steal" },
+            { "w": "secrets", "t": "sekrety", "lemma": "secret" }
+          ]
+        },
+        {
+          "en": "The young spies had to listen and gather information.",
+          "pl": "Młodzi szpiedzy musieli słuchać i zbierać informacje.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "young", "t": "młodzi", "lemma": "young" },
+            { "w": "spies", "t": "szpiedzy", "lemma": "spy" },
+            { "w": "had", "t": "musieli", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "listen", "t": "słuchać", "lemma": "listen" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "gather", "t": "zbierać", "lemma": "gather" },
+            { "w": "information", "t": "informacje", "lemma": "information" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max pretended to be a waiter carrying a silver tray.",
+          "pl": "Max udawał kelnera niosącego srebrną tacę.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "pretended", "t": "udawał", "lemma": "pretend" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "waiter", "t": "kelnera", "lemma": "waiter" },
+            { "w": "carrying", "t": "niosącego", "lemma": "carry" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "silver", "t": "srebrną", "lemma": "silver" },
+            { "w": "tray", "t": "tacę", "lemma": "tray" }
+          ]
+        },
+        {
+          "en": "He moved quietly between the guests and listened carefully.",
+          "pl": "Poruszał się cicho między gośćmi i uważnie słuchał.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "moved", "t": "poruszał się", "lemma": "move" },
+            { "w": "quietly", "t": "cicho", "lemma": "quietly" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "guests", "t": "gośćmi", "lemma": "guest" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "listened", "t": "słuchał", "lemma": "listen" },
+            { "w": "carefully", "t": "uważnie", "lemma": "carefully" }
+          ]
+        },
+        {
+          "en": "Zara wore an elegant dress and watched the front door.",
+          "pl": "Zara miała na sobie elegancką sukienkę i obserwowała frontowe drzwi.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "wore", "t": "miała na sobie", "lemma": "wear" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "elegant", "t": "elegancką", "lemma": "elegant" },
+            { "w": "dress", "t": "sukienkę", "lemma": "dress" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "watched", "t": "obserwowała", "lemma": "watch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "front", "t": "frontowe", "lemma": "front" },
+            { "w": "door", "t": "drzwi", "lemma": "door" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Soon, Max heard the man whisper about a secret meeting.",
+          "pl": "Wkrótce Max usłyszał, jak mężczyzna szepcze o tajnym spotkaniu.",
+          "tokens": [
+            { "w": "Soon", "t": "wkrótce", "lemma": "soon" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "heard", "t": "usłyszał", "lemma": "hear" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "man", "t": "mężczyznę", "lemma": "man" },
+            { "w": "whisper", "t": "szepczącego", "lemma": "whisper" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajnym", "lemma": "secret" },
+            { "w": "meeting", "t": "spotkaniu", "lemma": "meeting" }
+          ]
+        },
+        {
+          "en": "He remembered every important word.",
+          "pl": "Zapamiętał każde ważne słowo.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "remembered", "t": "zapamiętał", "lemma": "remember" },
+            { "w": "every", "t": "każde", "lemma": "every" },
+            { "w": "important", "t": "ważne", "lemma": "important" },
+            { "w": "word", "t": "słowo", "lemma": "word" }
+          ]
+        },
+        {
+          "en": "Then he calmly walked back to Zara.",
+          "pl": "Potem spokojnie wrócił do Zary.",
+          "tokens": [
+            { "w": "Then", "t": "potem", "lemma": "then" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "calmly", "t": "spokojnie", "lemma": "calmly" },
+            { "w": "walked", "t": "wrócił", "lemma": "walk" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "Zara", "t": "Zary", "lemma": "Zara" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Outside, they reported everything to Agent Stone.",
+          "pl": "Na zewnątrz zrelacjonowali wszystko Agentce Stone.",
+          "tokens": [
+            { "w": "Outside", "t": "na zewnątrz", "lemma": "outside" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "reported", "t": "zrelacjonowali", "lemma": "report" },
+            { "w": "everything", "t": "wszystko", "lemma": "everything" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "Agent", "t": "Agentce", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" }
+          ]
+        },
+        {
+          "en": "\"Your disguises worked perfectly,\" she said.",
+          "pl": "„Wasze przebrania zadziałały idealnie”, powiedziała.",
+          "tokens": [
+            { "w": "Your", "t": "wasze", "lemma": "your" },
+            { "w": "disguises", "t": "przebrania", "lemma": "disguise" },
+            { "w": "worked", "t": "zadziałały", "lemma": "work" },
+            { "w": "perfectly", "t": "idealnie", "lemma": "perfectly" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" }
+          ]
+        },
+        {
+          "en": "The mission was a complete success.",
+          "pl": "Misja była całkowitym sukcesem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mission", "t": "misja", "lemma": "mission" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "complete", "t": "całkowitym", "lemma": "complete" },
+            { "w": "success", "t": "sukcesem", "lemma": "success" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Jakiej nowej umiejętności uczyli się uczniowie?",
+      "options": [
+        "Jak nosić przebranie",
+        "Jak prowadzić samochód",
+        "Jak gotować obiad"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max założył na przebranie?",
+      "options": [
+        "Okulary, kapelusz i stary brązowy płaszcz",
+        "Maskę i pelerynę",
+        "Strój kosmonauty"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Za kogo Max przebrał się na przyjęciu?",
+      "options": [
+        "Za kelnera niosącego srebrną tacę",
+        "Za muzyka",
+        "Za ochroniarza"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co usłyszał Max?",
+      "options": [
+        "Jak mężczyzna szepcze o tajnym spotkaniu",
+        "Że przyjęcie się kończy",
+        "Alarm pożarowy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co powiedziała Agentka Stone po misji?",
+      "options": [
+        "Że ich przebrania zadziałały idealnie",
+        "Że misja się nie udała",
+        "Że muszą wracać na przyjęcie"
+      ],
+      "answer": 0
+    }
+  ]
+}

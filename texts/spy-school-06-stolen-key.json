@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-06-stolen-key",
+  "title": "Spy School 6: The Stolen Key",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": [
+    "spy",
+    "adventure",
+    "kids",
+    "fiction",
+    "series"
+  ],
+  "createdAt": "2026-06-10",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One morning, the golden key to the secret lab disappeared.",
+          "pl": "Pewnego ranka złoty klucz do tajnego laboratorium zniknął.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "morning", "t": "ranka", "lemma": "morning" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "golden", "t": "złoty", "lemma": "golden" },
+            { "w": "key", "t": "klucz", "lemma": "key" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "secret", "t": "tajnego", "lemma": "secret" },
+            { "w": "lab", "t": "laboratorium", "lemma": "lab" },
+            { "w": "disappeared", "t": "zniknął", "lemma": "disappear" }
+          ]
+        },
+        {
+          "en": "Without it, no one could open the most important room.",
+          "pl": "Bez niego nikt nie mógł otworzyć najważniejszego pokoju.",
+          "tokens": [
+            { "w": "Without", "t": "bez", "lemma": "without" },
+            { "w": "it", "t": "niego", "lemma": "it" },
+            { "w": "no", "t": "nikt", "lemma": "no" },
+            { "w": "one", "t": "(nikt)", "lemma": "one" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "open", "t": "otworzyć", "lemma": "open" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "most", "t": "(najbardziej)", "lemma": "most" },
+            { "w": "important", "t": "najważniejszego", "lemma": "important" },
+            { "w": "room", "t": "pokoju", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "Agent Stone asked Max and Zara to find the thief.",
+          "pl": "Agentka Stone poprosiła Maxa i Zarę, by znaleźli złodzieja.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "asked", "t": "poprosiła", "lemma": "ask" },
+            { "w": "Max", "t": "Maxa", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zarę", "lemma": "Zara" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The two friends looked for clues around the school.",
+          "pl": "Dwoje przyjaciół szukało wskazówek po szkole.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "looked", "t": "szukali", "lemma": "look" },
+            { "w": "for", "t": "(za)", "lemma": "for" },
+            { "w": "clues", "t": "wskazówek", "lemma": "clue" },
+            { "w": "around", "t": "po", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "school", "t": "szkole", "lemma": "school" }
+          ]
+        },
+        {
+          "en": "Max found muddy footprints near the garden door.",
+          "pl": "Max znalazł błotniste ślady stóp blisko drzwi ogrodowych.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "found", "t": "znalazł", "lemma": "find" },
+            { "w": "muddy", "t": "błotniste", "lemma": "muddy" },
+            { "w": "footprints", "t": "ślady stóp", "lemma": "footprint" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "garden", "t": "ogrodowych", "lemma": "garden" },
+            { "w": "door", "t": "drzwi", "lemma": "door" }
+          ]
+        },
+        {
+          "en": "The prints led straight to the sports field.",
+          "pl": "Ślady prowadziły prosto na boisko sportowe.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "prints", "t": "ślady", "lemma": "print" },
+            { "w": "led", "t": "prowadziły", "lemma": "lead" },
+            { "w": "straight", "t": "prosto", "lemma": "straight" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sports", "t": "sportowe", "lemma": "sport" },
+            { "w": "field", "t": "boisko", "lemma": "field" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "On the field, they met a nervous young student.",
+          "pl": "Na boisku spotkali zdenerwowanego młodego ucznia.",
+          "tokens": [
+            { "w": "On", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "field", "t": "boisku", "lemma": "field" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "met", "t": "spotkali", "lemma": "meet" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "nervous", "t": "zdenerwowanego", "lemma": "nervous" },
+            { "w": "young", "t": "młodego", "lemma": "young" },
+            { "w": "student", "t": "ucznia", "lemma": "student" }
+          ]
+        },
+        {
+          "en": "His shoes were covered in the same brown mud.",
+          "pl": "Jego buty były pokryte tym samym brązowym błotem.",
+          "tokens": [
+            { "w": "His", "t": "jego", "lemma": "his" },
+            { "w": "shoes", "t": "buty", "lemma": "shoe" },
+            { "w": "were", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "covered", "t": "pokryte", "lemma": "cover" },
+            { "w": "in", "t": "(czym)", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "same", "t": "tym samym", "lemma": "same" },
+            { "w": "brown", "t": "brązowym", "lemma": "brown" },
+            { "w": "mud", "t": "błotem", "lemma": "mud" }
+          ]
+        },
+        {
+          "en": "\"Did you take the golden key?\" Zara asked gently.",
+          "pl": "„Czy ty wziąłeś złoty klucz?” zapytała łagodnie Zara.",
+          "tokens": [
+            { "w": "Did", "t": "(czas przeszły – pytanie)", "lemma": "do" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "take", "t": "wziąłeś", "lemma": "take" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "golden", "t": "złoty", "lemma": "golden" },
+            { "w": "key", "t": "klucz", "lemma": "key" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "asked", "t": "zapytała", "lemma": "ask" },
+            { "w": "gently", "t": "łagodnie", "lemma": "gently" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The boy admitted that he only wanted to explore the lab.",
+          "pl": "Chłopiec przyznał, że chciał tylko zwiedzić laboratorium.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "boy", "t": "chłopiec", "lemma": "boy" },
+            { "w": "admitted", "t": "przyznał", "lemma": "admit" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "only", "t": "tylko", "lemma": "only" },
+            { "w": "wanted", "t": "chciał", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "explore", "t": "zwiedzić", "lemma": "explore" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "lab", "t": "laboratorium", "lemma": "lab" }
+          ]
+        },
+        {
+          "en": "He was sorry and gave the key back at once.",
+          "pl": "Było mu przykro i od razu oddał klucz.",
+          "tokens": [
+            { "w": "He", "t": "(jemu)", "lemma": "he" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "sorry", "t": "przykro", "lemma": "sorry" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "gave", "t": "oddał", "lemma": "give" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "key", "t": "klucz", "lemma": "key" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "at", "t": "(od)", "lemma": "at" },
+            { "w": "once", "t": "razu", "lemma": "once" }
+          ]
+        },
+        {
+          "en": "Max understood that not every thief is truly bad.",
+          "pl": "Max zrozumiał, że nie każdy złodziej jest naprawdę zły.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "understood", "t": "zrozumiał", "lemma": "understand" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "every", "t": "każdy", "lemma": "every" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "truly", "t": "naprawdę", "lemma": "truly" },
+            { "w": "bad", "t": "zły", "lemma": "bad" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Agent Stone returned the key to its safe place.",
+          "pl": "Agentka Stone odłożyła klucz na jego bezpieczne miejsce.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "returned", "t": "odłożyła", "lemma": "return" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "key", "t": "klucz", "lemma": "key" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "its", "t": "jego", "lemma": "its" },
+            { "w": "safe", "t": "bezpieczne", "lemma": "safe" },
+            { "w": "place", "t": "miejsce", "lemma": "place" }
+          ]
+        },
+        {
+          "en": "She thanked the friends for solving the case kindly.",
+          "pl": "Podziękowała przyjaciołom za życzliwe rozwiązanie sprawy.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "thanked", "t": "podziękowała", "lemma": "thank" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "friends", "t": "przyjaciołom", "lemma": "friend" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "solving", "t": "rozwiązanie", "lemma": "solve" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "case", "t": "sprawy", "lemma": "case" },
+            { "w": "kindly", "t": "życzliwie", "lemma": "kindly" }
+          ]
+        },
+        {
+          "en": "The young student promised never to do it again.",
+          "pl": "Młody uczeń obiecał, że nigdy więcej tego nie zrobi.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "young", "t": "młody", "lemma": "young" },
+            { "w": "student", "t": "uczeń", "lemma": "student" },
+            { "w": "promised", "t": "obiecał", "lemma": "promise" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "do", "t": "robić", "lemma": "do" },
+            { "w": "it", "t": "tego", "lemma": "it" },
+            { "w": "again", "t": "więcej", "lemma": "again" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co zniknęło pewnego ranka?",
+      "options": [
+        "Złoty klucz do tajnego laboratorium",
+        "Komputer Maxa",
+        "Mundur treningowy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jaki ślad znalazł Max?",
+      "options": [
+        "Błotniste ślady stóp prowadzące na boisko",
+        "Krople wody",
+        "Odciski palców na oknie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Po czym poznali ucznia na boisku?",
+      "options": [
+        "Buty pokryte tym samym brązowym błotem",
+        "Złoty klucz w ręce",
+        "Czarny strój"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dlaczego chłopiec wziął klucz?",
+      "options": [
+        "Chciał tylko zwiedzić laboratorium",
+        "Chciał go sprzedać",
+        "Chciał zniszczyć szkołę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego nauczył się Max?",
+      "options": [
+        "Że nie każdy złodziej jest naprawdę zły",
+        "Że nie warto szukać wskazówek",
+        "Że klucze są bezużyteczne"
+      ],
+      "answer": 0
+    }
+  ]
+}
