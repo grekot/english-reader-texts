@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-15-desert-chase",
+  "title": "Spy School 15: The Desert Chase",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Max and Zara traveled to a hot, sandy desert.",
+          "pl": "Max i Zara udali się na gorącą, piaszczystą pustynię.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "traveled", "t": "udali się", "lemma": "travel" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hot", "t": "gorącą", "lemma": "hot" },
+            { "w": "sandy", "t": "piaszczystą", "lemma": "sandy" },
+            { "w": "desert", "t": "pustynię", "lemma": "desert" }
+          ]
+        },
+        {
+          "en": "Their mission was to find a hidden treasure map.",
+          "pl": "Ich misją było znaleźć ukrytą mapę skarbów.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "mission", "t": "misja", "lemma": "mission" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hidden", "t": "ukrytą", "lemma": "hidden" },
+            { "w": "treasure", "t": "skarbów", "lemma": "treasure" },
+            { "w": "map", "t": "mapę", "lemma": "map" }
+          ]
+        },
+        {
+          "en": "The sun was burning high in the blue sky.",
+          "pl": "Słońce paliło wysoko na niebieskim niebie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sun", "t": "słońce", "lemma": "sun" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "burning", "t": "paliło", "lemma": "burn" },
+            { "w": "high", "t": "wysoko", "lemma": "high" },
+            { "w": "in", "t": "na", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "blue", "t": "niebieskim", "lemma": "blue" },
+            { "w": "sky", "t": "niebie", "lemma": "sky" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "They drove a fast jeep across the golden sand.",
+          "pl": "Jechali szybkim jeepem przez złoty piasek.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "drove", "t": "jechali", "lemma": "drive" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "fast", "t": "szybkim", "lemma": "fast" },
+            { "w": "jeep", "t": "jeepem", "lemma": "jeep" },
+            { "w": "across", "t": "przez", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "golden", "t": "złoty", "lemma": "golden" },
+            { "w": "sand", "t": "piasek", "lemma": "sand" }
+          ]
+        },
+        {
+          "en": "Suddenly, an enemy car appeared behind them.",
+          "pl": "Nagle za nimi pojawił się samochód wroga.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "enemy", "t": "wroga", "lemma": "enemy" },
+            { "w": "car", "t": "samochód", "lemma": "car" },
+            { "w": "appeared", "t": "pojawił się", "lemma": "appear" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "them", "t": "nimi", "lemma": "them" }
+          ]
+        },
+        {
+          "en": "The chase across the desert had begun.",
+          "pl": "Pościg przez pustynię się rozpoczął.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "chase", "t": "pościg", "lemma": "chase" },
+            { "w": "across", "t": "przez", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "desert", "t": "pustynię", "lemma": "desert" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "begun", "t": "rozpoczął się", "lemma": "begin" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "A strong sandstorm started to blow around them.",
+          "pl": "Wokół nich zaczęła wiać silna burza piaskowa.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "strong", "t": "silna", "lemma": "strong" },
+            { "w": "sandstorm", "t": "burza piaskowa", "lemma": "sandstorm" },
+            { "w": "started", "t": "zaczęła", "lemma": "start" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "blow", "t": "wiać", "lemma": "blow" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "them", "t": "nich", "lemma": "them" }
+          ]
+        },
+        {
+          "en": "Max could barely see the road ahead.",
+          "pl": "Max ledwo widział drogę przed sobą.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "barely", "t": "ledwo", "lemma": "barely" },
+            { "w": "see", "t": "widzieć", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "road", "t": "drogę", "lemma": "road" },
+            { "w": "ahead", "t": "przed sobą", "lemma": "ahead" }
+          ]
+        },
+        {
+          "en": "Zara used her map to find a safe path.",
+          "pl": "Zara użyła swojej mapy, by znaleźć bezpieczną drogę.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "used", "t": "użyła", "lemma": "use" },
+            { "w": "her", "t": "swojej", "lemma": "her" },
+            { "w": "map", "t": "mapy", "lemma": "map" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "safe", "t": "bezpieczną", "lemma": "safe" },
+            { "w": "path", "t": "drogę", "lemma": "path" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The enemy car got stuck deep in the soft sand.",
+          "pl": "Samochód wroga ugrzązł głęboko w miękkim piasku.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wroga", "lemma": "enemy" },
+            { "w": "car", "t": "samochód", "lemma": "car" },
+            { "w": "got", "t": "ugrzązł", "lemma": "get" },
+            { "w": "stuck", "t": "(utknął)", "lemma": "stick" },
+            { "w": "deep", "t": "głęboko", "lemma": "deep" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "soft", "t": "miękkim", "lemma": "soft" },
+            { "w": "sand", "t": "piasku", "lemma": "sand" }
+          ]
+        },
+        {
+          "en": "Max and Zara drove away and left it behind.",
+          "pl": "Max i Zara odjechali i zostawili go za sobą.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "drove", "t": "odjechali", "lemma": "drive" },
+            { "w": "away", "t": "(stąd)", "lemma": "away" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "left", "t": "zostawili", "lemma": "leave" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "behind", "t": "za sobą", "lemma": "behind" }
+          ]
+        },
+        {
+          "en": "Finally, they reached an old stone temple.",
+          "pl": "W końcu dotarli do starej kamiennej świątyni.",
+          "tokens": [
+            { "w": "Finally", "t": "w końcu", "lemma": "finally" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "reached", "t": "dotarli do", "lemma": "reach" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "old", "t": "starej", "lemma": "old" },
+            { "w": "stone", "t": "kamiennej", "lemma": "stone" },
+            { "w": "temple", "t": "świątyni", "lemma": "temple" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Inside the temple, they found the ancient map.",
+          "pl": "Wewnątrz świątyni znaleźli starożytną mapę.",
+          "tokens": [
+            { "w": "Inside", "t": "wewnątrz", "lemma": "inside" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "temple", "t": "świątyni", "lemma": "temple" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "found", "t": "znaleźli", "lemma": "find" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "ancient", "t": "starożytną", "lemma": "ancient" },
+            { "w": "map", "t": "mapę", "lemma": "map" }
+          ]
+        },
+        {
+          "en": "It showed the way to a forgotten city.",
+          "pl": "Wskazywała drogę do zapomnianego miasta.",
+          "tokens": [
+            { "w": "It", "t": "ona", "lemma": "it" },
+            { "w": "showed", "t": "wskazywała", "lemma": "show" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "way", "t": "drogę", "lemma": "way" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "forgotten", "t": "zapomnianego", "lemma": "forget" },
+            { "w": "city", "t": "miasta", "lemma": "city" }
+          ]
+        },
+        {
+          "en": "The brave spies had won the desert race.",
+          "pl": "Odważni szpiedzy wygrali pustynny wyścig.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "brave", "t": "odważni", "lemma": "brave" },
+            { "w": "spies", "t": "szpiedzy", "lemma": "spy" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "won", "t": "wygrali", "lemma": "win" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "desert", "t": "pustynny", "lemma": "desert" },
+            { "w": "race", "t": "wyścig", "lemma": "race" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Czego Max i Zara szukali na pustyni?",
+      "options": [
+        "Ukrytej mapy skarbów",
+        "Źródła wody",
+        "Zaginionego wielbłąda"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym jechali przez piasek?",
+      "options": [
+        "Szybkim jeepem",
+        "Na wielbłądzie",
+        "Motocyklem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zaczęło wiać wokół nich?",
+      "options": [
+        "Silna burza piaskowa",
+        "Mroźny wiatr",
+        "Ulewny deszcz"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co stało się z samochodem wroga?",
+      "options": [
+        "Ugrzązł głęboko w miękkim piasku",
+        "Wyprzedził bohaterów",
+        "Wpadł do rzeki"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co znaleźli w starej świątyni?",
+      "options": [
+        "Starożytną mapę do zapomnianego miasta",
+        "Skrzynię złota",
+        "Tajne laboratorium"
+      ],
+      "answer": 0
+    }
+  ]
+}

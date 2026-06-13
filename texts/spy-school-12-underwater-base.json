@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-12-underwater-base",
+  "title": "Spy School 12: The Underwater Base",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "The enemy had built a secret base under the sea.",
+          "pl": "Wróg zbudował tajną bazę pod morzem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wróg", "lemma": "enemy" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "built", "t": "zbudował", "lemma": "build" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajną", "lemma": "secret" },
+            { "w": "base", "t": "bazę", "lemma": "base" },
+            { "w": "under", "t": "pod", "lemma": "under" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "sea", "t": "morzem", "lemma": "sea" }
+          ]
+        },
+        {
+          "en": "Max and Zara put on special diving suits.",
+          "pl": "Max i Zara założyli specjalne kombinezony do nurkowania.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "put", "t": "założyli", "lemma": "put" },
+            { "w": "on", "t": "(na siebie)", "lemma": "on" },
+            { "w": "special", "t": "specjalne", "lemma": "special" },
+            { "w": "diving", "t": "do nurkowania", "lemma": "dive" },
+            { "w": "suits", "t": "kombinezony", "lemma": "suit" }
+          ]
+        },
+        {
+          "en": "They had to find a stolen device deep underwater.",
+          "pl": "Musieli znaleźć skradzione urządzenie głęboko pod wodą.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "had", "t": "musieli", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "stolen", "t": "skradzione", "lemma": "steal" },
+            { "w": "device", "t": "urządzenie", "lemma": "device" },
+            { "w": "deep", "t": "głęboko", "lemma": "deep" },
+            { "w": "underwater", "t": "pod wodą", "lemma": "underwater" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The water was dark and very cold.",
+          "pl": "Woda była ciemna i bardzo zimna.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "water", "t": "woda", "lemma": "water" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "dark", "t": "ciemna", "lemma": "dark" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "cold", "t": "zimna", "lemma": "cold" }
+          ]
+        },
+        {
+          "en": "Colorful fish swam quietly around them.",
+          "pl": "Kolorowe ryby pływały cicho wokół nich.",
+          "tokens": [
+            { "w": "Colorful", "t": "kolorowe", "lemma": "colorful" },
+            { "w": "fish", "t": "ryby", "lemma": "fish" },
+            { "w": "swam", "t": "pływały", "lemma": "swim" },
+            { "w": "quietly", "t": "cicho", "lemma": "quietly" },
+            { "w": "around", "t": "wokół", "lemma": "around" },
+            { "w": "them", "t": "nich", "lemma": "them" }
+          ]
+        },
+        {
+          "en": "Soon they saw the metal walls of the hidden base.",
+          "pl": "Wkrótce zobaczyli metalowe ściany ukrytej bazy.",
+          "tokens": [
+            { "w": "Soon", "t": "wkrótce", "lemma": "soon" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "saw", "t": "zobaczyli", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "metal", "t": "metalowe", "lemma": "metal" },
+            { "w": "walls", "t": "ściany", "lemma": "wall" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "hidden", "t": "ukrytej", "lemma": "hidden" },
+            { "w": "base", "t": "bazy", "lemma": "base" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara opened a heavy door with her special tool.",
+          "pl": "Zara otworzyła ciężkie drzwi swoim specjalnym narzędziem.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "opened", "t": "otworzyła", "lemma": "open" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "heavy", "t": "ciężkie", "lemma": "heavy" },
+            { "w": "door", "t": "drzwi", "lemma": "door" },
+            { "w": "with", "t": "(za pomocą)", "lemma": "with" },
+            { "w": "her", "t": "swoim", "lemma": "her" },
+            { "w": "special", "t": "specjalnym", "lemma": "special" },
+            { "w": "tool", "t": "narzędziem", "lemma": "tool" }
+          ]
+        },
+        {
+          "en": "Inside, the base was full of strange machines.",
+          "pl": "W środku baza była pełna dziwnych maszyn.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "base", "t": "baza", "lemma": "base" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "full", "t": "pełna", "lemma": "full" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "strange", "t": "dziwnych", "lemma": "strange" },
+            { "w": "machines", "t": "maszyn", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "The stolen device was glowing on a high shelf.",
+          "pl": "Skradzione urządzenie świeciło na wysokiej półce.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stolen", "t": "skradzione", "lemma": "steal" },
+            { "w": "device", "t": "urządzenie", "lemma": "device" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "glowing", "t": "świeciło", "lemma": "glow" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "high", "t": "wysokiej", "lemma": "high" },
+            { "w": "shelf", "t": "półce", "lemma": "shelf" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max swam up carefully and grabbed the device.",
+          "pl": "Max ostrożnie podpłynął w górę i chwycił urządzenie.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "swam", "t": "podpłynął", "lemma": "swim" },
+            { "w": "up", "t": "w górę", "lemma": "up" },
+            { "w": "carefully", "t": "ostrożnie", "lemma": "carefully" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "grabbed", "t": "chwycił", "lemma": "grab" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "device", "t": "urządzenie", "lemma": "device" }
+          ]
+        },
+        {
+          "en": "An alarm started to ring through the water.",
+          "pl": "Alarm zaczął rozbrzmiewać w wodzie.",
+          "tokens": [
+            { "w": "An", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "alarm", "t": "alarm", "lemma": "alarm" },
+            { "w": "started", "t": "zaczął", "lemma": "start" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "ring", "t": "rozbrzmiewać", "lemma": "ring" },
+            { "w": "through", "t": "w", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "water", "t": "wodzie", "lemma": "water" }
+          ]
+        },
+        {
+          "en": "The two friends quickly swam back to the exit.",
+          "pl": "Dwoje przyjaciół szybko popłynęło z powrotem do wyjścia.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "swam", "t": "popłynęło", "lemma": "swim" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "exit", "t": "wyjścia", "lemma": "exit" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "They reached their small boat just in time.",
+          "pl": "Dotarli do swojej małej łodzi w samą porę.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "reached", "t": "dotarli do", "lemma": "reach" },
+            { "w": "their", "t": "swojej", "lemma": "their" },
+            { "w": "small", "t": "małej", "lemma": "small" },
+            { "w": "boat", "t": "łodzi", "lemma": "boat" },
+            { "w": "just", "t": "w samą", "lemma": "just" },
+            { "w": "in", "t": "(porę)", "lemma": "in" },
+            { "w": "time", "t": "porę", "lemma": "time" }
+          ]
+        },
+        {
+          "en": "The enemy base sank slowly into the deep sea.",
+          "pl": "Baza wroga powoli zatonęła w głębokim morzu.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wroga", "lemma": "enemy" },
+            { "w": "base", "t": "baza", "lemma": "base" },
+            { "w": "sank", "t": "zatonęła", "lemma": "sink" },
+            { "w": "slowly", "t": "powoli", "lemma": "slowly" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "deep", "t": "głębokim", "lemma": "deep" },
+            { "w": "sea", "t": "morzu", "lemma": "sea" }
+          ]
+        },
+        {
+          "en": "Max and Zara had completed another dangerous mission.",
+          "pl": "Max i Zara ukończyli kolejną niebezpieczną misję.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "completed", "t": "ukończyli", "lemma": "complete" },
+            { "w": "another", "t": "kolejną", "lemma": "another" },
+            { "w": "dangerous", "t": "niebezpieczną", "lemma": "dangerous" },
+            { "w": "mission", "t": "misję", "lemma": "mission" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie wróg zbudował tajną bazę?",
+      "options": [
+        "Pod morzem",
+        "W górach",
+        "Na pustyni"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max i Zara założyli na misję?",
+      "options": [
+        "Specjalne kombinezony do nurkowania",
+        "Czarne stroje treningowe",
+        "Przebrania kelnerów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego mieli szukać w bazie?",
+      "options": [
+        "Skradzionego urządzenia",
+        "Złotej korony",
+        "Tajnej mapy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie znajdowało się urządzenie?",
+      "options": [
+        "Świeciło na wysokiej półce",
+        "W sejfie",
+        "Pod łodzią"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co stało się z bazą wroga?",
+      "options": [
+        "Powoli zatonęła w głębokim morzu",
+        "Wybuchła",
+        "Odpłynęła"
+      ],
+      "answer": 0
+    }
+  ]
+}

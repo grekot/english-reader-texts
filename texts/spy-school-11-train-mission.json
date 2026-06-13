@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-11-train-mission",
+  "title": "Spy School 11: The Train Mission",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Agent Stone gave Max and Zara an important new mission.",
+          "pl": "Agentka Stone dała Maxowi i Zarze ważną nową misję.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "gave", "t": "dała", "lemma": "give" },
+            { "w": "Max", "t": "Maxowi", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zarze", "lemma": "Zara" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "important", "t": "ważną", "lemma": "important" },
+            { "w": "new", "t": "nową", "lemma": "new" },
+            { "w": "mission", "t": "misję", "lemma": "mission" }
+          ]
+        },
+        {
+          "en": "They had to protect a secret briefcase on a fast train.",
+          "pl": "Musieli chronić tajną walizkę w szybkim pociągu.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "had", "t": "musieli", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "protect", "t": "chronić", "lemma": "protect" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajną", "lemma": "secret" },
+            { "w": "briefcase", "t": "walizkę", "lemma": "briefcase" },
+            { "w": "on", "t": "w", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "fast", "t": "szybkim", "lemma": "fast" },
+            { "w": "train", "t": "pociągu", "lemma": "train" }
+          ]
+        },
+        {
+          "en": "Inside the briefcase were the plans for a new invention.",
+          "pl": "W środku walizki były plany nowego wynalazku.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "briefcase", "t": "walizki", "lemma": "briefcase" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "plans", "t": "plany", "lemma": "plan" },
+            { "w": "for", "t": "(do)", "lemma": "for" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "new", "t": "nowego", "lemma": "new" },
+            { "w": "invention", "t": "wynalazku", "lemma": "invention" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The two spies sat quietly in a crowded carriage.",
+          "pl": "Dwoje szpiegów siedziało cicho w zatłoczonym wagonie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "spies", "t": "szpiegów", "lemma": "spy" },
+            { "w": "sat", "t": "siedziało", "lemma": "sit" },
+            { "w": "quietly", "t": "cicho", "lemma": "quietly" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "crowded", "t": "zatłoczonym", "lemma": "crowded" },
+            { "w": "carriage", "t": "wagonie", "lemma": "carriage" }
+          ]
+        },
+        {
+          "en": "Max watched the passengers while Zara guarded the case.",
+          "pl": "Max obserwował pasażerów, podczas gdy Zara pilnowała walizki.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "watched", "t": "obserwował", "lemma": "watch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "passengers", "t": "pasażerów", "lemma": "passenger" },
+            { "w": "while", "t": "podczas gdy", "lemma": "while" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "guarded", "t": "pilnowała", "lemma": "guard" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "case", "t": "walizki", "lemma": "case" }
+          ]
+        },
+        {
+          "en": "Everything seemed calm and normal.",
+          "pl": "Wszystko wydawało się spokojne i normalne.",
+          "tokens": [
+            { "w": "Everything", "t": "wszystko", "lemma": "everything" },
+            { "w": "seemed", "t": "wydawało się", "lemma": "seem" },
+            { "w": "calm", "t": "spokojne", "lemma": "calm" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "normal", "t": "normalne", "lemma": "normal" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Suddenly, a tall man grabbed the briefcase and ran.",
+          "pl": "Nagle wysoki mężczyzna chwycił walizkę i uciekł.",
+          "tokens": [
+            { "w": "Suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "tall", "t": "wysoki", "lemma": "tall" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "grabbed", "t": "chwycił", "lemma": "grab" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "briefcase", "t": "walizkę", "lemma": "briefcase" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "ran", "t": "uciekł", "lemma": "run" }
+          ]
+        },
+        {
+          "en": "He pushed through the doors into the next carriage.",
+          "pl": "Przepchnął się przez drzwi do następnego wagonu.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "pushed", "t": "przepchnął się", "lemma": "push" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "doors", "t": "drzwi", "lemma": "door" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnego", "lemma": "next" },
+            { "w": "carriage", "t": "wagonu", "lemma": "carriage" }
+          ]
+        },
+        {
+          "en": "Max jumped up and chased him at once.",
+          "pl": "Max zerwał się na nogi i od razu go gonił.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "jumped", "t": "zerwał się", "lemma": "jump" },
+            { "w": "up", "t": "(na nogi)", "lemma": "up" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "chased", "t": "gonił", "lemma": "chase" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "at", "t": "(od)", "lemma": "at" },
+            { "w": "once", "t": "razu", "lemma": "once" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The train was moving fast, and the floor was shaking.",
+          "pl": "Pociąg jechał szybko, a podłoga się trzęsła.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "train", "t": "pociąg", "lemma": "train" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "moving", "t": "jechał", "lemma": "move" },
+            { "w": "fast", "t": "szybko", "lemma": "fast" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "floor", "t": "podłoga", "lemma": "floor" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "shaking", "t": "trzęsła się", "lemma": "shake" }
+          ]
+        },
+        {
+          "en": "Max caught the thief between two carriages.",
+          "pl": "Max złapał złodzieja między dwoma wagonami.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "caught", "t": "złapał", "lemma": "catch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" },
+            { "w": "between", "t": "między", "lemma": "between" },
+            { "w": "two", "t": "dwoma", "lemma": "two" },
+            { "w": "carriages", "t": "wagonami", "lemma": "carriage" }
+          ]
+        },
+        {
+          "en": "Zara arrived and took the briefcase back safely.",
+          "pl": "Zara przybyła i bezpiecznie odebrała walizkę.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "arrived", "t": "przybyła", "lemma": "arrive" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "took", "t": "odebrała", "lemma": "take" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "briefcase", "t": "walizkę", "lemma": "briefcase" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "safely", "t": "bezpiecznie", "lemma": "safely" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The thief tried to escape, but there was nowhere to go.",
+          "pl": "Złodziej próbował uciec, ale nie było dokąd pójść.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thief", "t": "złodziej", "lemma": "thief" },
+            { "w": "tried", "t": "próbował", "lemma": "try" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "escape", "t": "uciec", "lemma": "escape" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "there", "t": "(nie było)", "lemma": "there" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "nowhere", "t": "dokąd", "lemma": "nowhere" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "go", "t": "pójść", "lemma": "go" }
+          ]
+        },
+        {
+          "en": "At the next station, the police were already waiting.",
+          "pl": "Na następnej stacji policja już czekała.",
+          "tokens": [
+            { "w": "At", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następnej", "lemma": "next" },
+            { "w": "station", "t": "stacji", "lemma": "station" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "police", "t": "policja", "lemma": "police" },
+            { "w": "were", "t": "(czas przeszły)", "lemma": "be" },
+            { "w": "already", "t": "już", "lemma": "already" },
+            { "w": "waiting", "t": "czekała", "lemma": "wait" }
+          ]
+        },
+        {
+          "en": "The secret plans were safe once again.",
+          "pl": "Tajne plany znów były bezpieczne.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "secret", "t": "tajne", "lemma": "secret" },
+            { "w": "plans", "t": "plany", "lemma": "plan" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "safe", "t": "bezpieczne", "lemma": "safe" },
+            { "w": "once", "t": "znów", "lemma": "once" },
+            { "w": "again", "t": "(ponownie)", "lemma": "again" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co Max i Zara mieli chronić w pociągu?",
+      "options": [
+        "Tajną walizkę z planami nowego wynalazku",
+        "Worek złota",
+        "Zwykłą pocztę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto pilnował walizki?",
+      "options": [
+        "Zara (Max obserwował pasażerów)",
+        "Agentka Stone",
+        "Konduktor"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobił wysoki mężczyzna?",
+      "options": [
+        "Chwycił walizkę i uciekł",
+        "Zasnął w wagonie",
+        "Poprosił o bilet"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie Max złapał złodzieja?",
+      "options": [
+        "Między dwoma wagonami",
+        "Na dachu pociągu",
+        "Na peronie"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto czekał na następnej stacji?",
+      "options": [
+        "Policja",
+        "Inny złodziej",
+        "Nikt"
+      ],
+      "answer": 0
+    }
+  ]
+}

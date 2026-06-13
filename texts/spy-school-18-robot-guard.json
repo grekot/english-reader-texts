@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-18-robot-guard",
+  "title": "Spy School 18: The Robot Guard",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "A famous diamond was kept in a guarded museum.",
+          "pl": "Słynny diament był przechowywany w strzeżonym muzeum.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "famous", "t": "słynny", "lemma": "famous" },
+            { "w": "diamond", "t": "diament", "lemma": "diamond" },
+            { "w": "was", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "kept", "t": "przechowywany", "lemma": "keep" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "guarded", "t": "strzeżonym", "lemma": "guard" },
+            { "w": "museum", "t": "muzeum", "lemma": "museum" }
+          ]
+        },
+        {
+          "en": "A huge robot watched the room day and night.",
+          "pl": "Ogromny robot pilnował pokoju dniem i nocą.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "huge", "t": "ogromny", "lemma": "huge" },
+            { "w": "robot", "t": "robot", "lemma": "robot" },
+            { "w": "watched", "t": "pilnował", "lemma": "watch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "room", "t": "pokoju", "lemma": "room" },
+            { "w": "day", "t": "dniem", "lemma": "day" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "night", "t": "nocą", "lemma": "night" }
+          ]
+        },
+        {
+          "en": "Max and Zara had to get the diamond back from a thief.",
+          "pl": "Max i Zara musieli odzyskać diament od złodzieja.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "had", "t": "musieli", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "get", "t": "odzyskać", "lemma": "get" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "diamond", "t": "diament", "lemma": "diamond" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "thief", "t": "złodzieja", "lemma": "thief" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The robot could hear even the smallest sound.",
+          "pl": "Robot słyszał nawet najmniejszy dźwięk.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "robot", "t": "robot", "lemma": "robot" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "hear", "t": "słyszeć", "lemma": "hear" },
+            { "w": "even", "t": "nawet", "lemma": "even" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "smallest", "t": "najmniejszy", "lemma": "small" },
+            { "w": "sound", "t": "dźwięk", "lemma": "sound" }
+          ]
+        },
+        {
+          "en": "It turned its head toward every tiny movement.",
+          "pl": "Obracał głowę w stronę każdego najmniejszego ruchu.",
+          "tokens": [
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "turned", "t": "obracał", "lemma": "turn" },
+            { "w": "its", "t": "swoją", "lemma": "its" },
+            { "w": "head", "t": "głowę", "lemma": "head" },
+            { "w": "toward", "t": "w stronę", "lemma": "toward" },
+            { "w": "every", "t": "każdego", "lemma": "every" },
+            { "w": "tiny", "t": "najmniejszego", "lemma": "tiny" },
+            { "w": "movement", "t": "ruchu", "lemma": "movement" }
+          ]
+        },
+        {
+          "en": "The two spies had to be perfectly silent.",
+          "pl": "Dwoje szpiegów musiało być idealnie cicho.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "spies", "t": "szpiegów", "lemma": "spy" },
+            { "w": "had", "t": "musiało", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "perfectly", "t": "idealnie", "lemma": "perfectly" },
+            { "w": "silent", "t": "cicho", "lemma": "silent" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max threw a small ball to the far corner.",
+          "pl": "Max rzucił małą piłkę w daleki róg.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "threw", "t": "rzucił", "lemma": "throw" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "małą", "lemma": "small" },
+            { "w": "ball", "t": "piłkę", "lemma": "ball" },
+            { "w": "to", "t": "w", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "far", "t": "daleki", "lemma": "far" },
+            { "w": "corner", "t": "róg", "lemma": "corner" }
+          ]
+        },
+        {
+          "en": "The robot turned to check the strange noise.",
+          "pl": "Robot odwrócił się, by sprawdzić dziwny hałas.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "robot", "t": "robot", "lemma": "robot" },
+            { "w": "turned", "t": "odwrócił się", "lemma": "turn" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "check", "t": "sprawdzić", "lemma": "check" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "strange", "t": "dziwny", "lemma": "strange" },
+            { "w": "noise", "t": "hałas", "lemma": "noise" }
+          ]
+        },
+        {
+          "en": "In that moment, Zara ran to the diamond.",
+          "pl": "W tej chwili Zara podbiegła do diamentu.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "that", "t": "tej", "lemma": "that" },
+            { "w": "moment", "t": "chwili", "lemma": "moment" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "ran", "t": "podbiegła", "lemma": "run" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "diamond", "t": "diamentu", "lemma": "diamond" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "She quickly swapped the diamond for a glass copy.",
+          "pl": "Szybko zamieniła diament na szklaną kopię.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "quickly", "t": "szybko", "lemma": "quickly" },
+            { "w": "swapped", "t": "zamieniła", "lemma": "swap" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "diamond", "t": "diament", "lemma": "diamond" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "glass", "t": "szklaną", "lemma": "glass" },
+            { "w": "copy", "t": "kopię", "lemma": "copy" }
+          ]
+        },
+        {
+          "en": "The robot turned back and noticed nothing.",
+          "pl": "Robot odwrócił się z powrotem i niczego nie zauważył.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "robot", "t": "robot", "lemma": "robot" },
+            { "w": "turned", "t": "odwrócił się", "lemma": "turn" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "noticed", "t": "zauważył", "lemma": "notice" },
+            { "w": "nothing", "t": "niczego", "lemma": "nothing" }
+          ]
+        },
+        {
+          "en": "The trick had worked perfectly.",
+          "pl": "Sztuczka zadziałała idealnie.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "trick", "t": "sztuczka", "lemma": "trick" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "worked", "t": "zadziałała", "lemma": "work" },
+            { "w": "perfectly", "t": "idealnie", "lemma": "perfectly" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Outside, they gave the real diamond to Agent Stone.",
+          "pl": "Na zewnątrz oddali prawdziwy diament Agentce Stone.",
+          "tokens": [
+            { "w": "Outside", "t": "na zewnątrz", "lemma": "outside" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "gave", "t": "oddali", "lemma": "give" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "real", "t": "prawdziwy", "lemma": "real" },
+            { "w": "diamond", "t": "diament", "lemma": "diamond" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "Agent", "t": "Agentce", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" }
+          ]
+        },
+        {
+          "en": "\"Sometimes brains beat strength,\" she said with a smile.",
+          "pl": "„Czasem rozum pokonuje siłę”, powiedziała z uśmiechem.",
+          "tokens": [
+            { "w": "Sometimes", "t": "czasem", "lemma": "sometimes" },
+            { "w": "brains", "t": "rozum", "lemma": "brain" },
+            { "w": "beat", "t": "pokonuje", "lemma": "beat" },
+            { "w": "strength", "t": "siłę", "lemma": "strength" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "smile", "t": "uśmiechem", "lemma": "smile" }
+          ]
+        },
+        {
+          "en": "Max agreed completely.",
+          "pl": "Max całkowicie się zgodził.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "agreed", "t": "zgodził się", "lemma": "agree" },
+            { "w": "completely", "t": "całkowicie", "lemma": "completely" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co było pilnowane w muzeum?",
+      "options": [
+        "Słynny diament",
+        "Stary obraz",
+        "Złoty klucz"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co potrafił robot?",
+      "options": [
+        "Słyszał nawet najmniejszy dźwięk",
+        "Latać",
+        "Mówić wieloma językami"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Max odwrócił uwagę robota?",
+      "options": [
+        "Rzucił małą piłkę w daleki róg",
+        "Wyłączył światła",
+        "Zawołał go po imieniu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobiła Zara z diamentem?",
+      "options": [
+        "Zamieniła go na szklaną kopię",
+        "Schowała go do kieszeni i uciekła",
+        "Zostawiła go na miejscu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co powiedziała Agentka Stone?",
+      "options": [
+        "Że czasem rozum pokonuje siłę",
+        "Że robot był za silny",
+        "Że misja się nie udała"
+      ],
+      "answer": 0
+    }
+  ]
+}

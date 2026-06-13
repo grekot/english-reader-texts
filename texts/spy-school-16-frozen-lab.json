@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-16-frozen-lab",
+  "title": "Spy School 16: The Frozen Lab",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "High in the snowy mountains stood a secret enemy lab.",
+          "pl": "Wysoko w zaśnieżonych górach stało tajne laboratorium wroga.",
+          "tokens": [
+            { "w": "High", "t": "wysoko", "lemma": "high" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "snowy", "t": "zaśnieżonych", "lemma": "snowy" },
+            { "w": "mountains", "t": "górach", "lemma": "mountain" },
+            { "w": "stood", "t": "stało", "lemma": "stand" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajne", "lemma": "secret" },
+            { "w": "enemy", "t": "wroga", "lemma": "enemy" },
+            { "w": "lab", "t": "laboratorium", "lemma": "lab" }
+          ]
+        },
+        {
+          "en": "Inside it, the enemy hid a stolen formula.",
+          "pl": "W jego wnętrzu wróg ukrył skradziony wzór.",
+          "tokens": [
+            { "w": "Inside", "t": "wewnątrz", "lemma": "inside" },
+            { "w": "it", "t": "niego", "lemma": "it" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wróg", "lemma": "enemy" },
+            { "w": "hid", "t": "ukrył", "lemma": "hide" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "stolen", "t": "skradziony", "lemma": "steal" },
+            { "w": "formula", "t": "wzór", "lemma": "formula" }
+          ]
+        },
+        {
+          "en": "Max and Zara climbed up through the deep snow.",
+          "pl": "Max i Zara wspinali się przez głęboki śnieg.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "climbed", "t": "wspinali się", "lemma": "climb" },
+            { "w": "up", "t": "(w górę)", "lemma": "up" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "deep", "t": "głęboki", "lemma": "deep" },
+            { "w": "snow", "t": "śnieg", "lemma": "snow" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The cold wind was strong and the path was icy.",
+          "pl": "Zimny wiatr był silny, a ścieżka była oblodzona.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "cold", "t": "zimny", "lemma": "cold" },
+            { "w": "wind", "t": "wiatr", "lemma": "wind" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "strong", "t": "silny", "lemma": "strong" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "path", "t": "ścieżka", "lemma": "path" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "icy", "t": "oblodzona", "lemma": "icy" }
+          ]
+        },
+        {
+          "en": "They wore thick coats and warm gloves.",
+          "pl": "Mieli na sobie grube płaszcze i ciepłe rękawiczki.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "wore", "t": "mieli na sobie", "lemma": "wear" },
+            { "w": "thick", "t": "grube", "lemma": "thick" },
+            { "w": "coats", "t": "płaszcze", "lemma": "coat" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "warm", "t": "ciepłe", "lemma": "warm" },
+            { "w": "gloves", "t": "rękawiczki", "lemma": "glove" }
+          ]
+        },
+        {
+          "en": "At last, they reached the frozen metal door.",
+          "pl": "W końcu dotarli do zamarzniętych metalowych drzwi.",
+          "tokens": [
+            { "w": "At", "t": "(w końcu)", "lemma": "at" },
+            { "w": "last", "t": "w końcu", "lemma": "last" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "reached", "t": "dotarli do", "lemma": "reach" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "frozen", "t": "zamarzniętych", "lemma": "frozen" },
+            { "w": "metal", "t": "metalowych", "lemma": "metal" },
+            { "w": "door", "t": "drzwi", "lemma": "door" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara opened the door, and warm air rushed out.",
+          "pl": "Zara otworzyła drzwi i wypłynęło ciepłe powietrze.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "opened", "t": "otworzyła", "lemma": "open" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "door", "t": "drzwi", "lemma": "door" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "warm", "t": "ciepłe", "lemma": "warm" },
+            { "w": "air", "t": "powietrze", "lemma": "air" },
+            { "w": "rushed", "t": "wypłynęło", "lemma": "rush" },
+            { "w": "out", "t": "(na zewnątrz)", "lemma": "out" }
+          ]
+        },
+        {
+          "en": "Inside, scientists were working on a dangerous machine.",
+          "pl": "W środku naukowcy pracowali nad niebezpieczną maszyną.",
+          "tokens": [
+            { "w": "Inside", "t": "w środku", "lemma": "inside" },
+            { "w": "scientists", "t": "naukowcy", "lemma": "scientist" },
+            { "w": "were", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "working", "t": "pracowali", "lemma": "work" },
+            { "w": "on", "t": "nad", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dangerous", "t": "niebezpieczną", "lemma": "dangerous" },
+            { "w": "machine", "t": "maszyną", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "The two spies hid behind a row of large boxes.",
+          "pl": "Dwoje szpiegów schowało się za rzędem dużych skrzyń.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "spies", "t": "szpiegów", "lemma": "spy" },
+            { "w": "hid", "t": "schowało się", "lemma": "hide" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "row", "t": "rzędem", "lemma": "row" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "large", "t": "dużych", "lemma": "large" },
+            { "w": "boxes", "t": "skrzyń", "lemma": "box" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "When the room was empty, Max took the formula.",
+          "pl": "Kiedy pokój opustoszał, Max zabrał wzór.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "room", "t": "pokój", "lemma": "room" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "empty", "t": "pusty", "lemma": "empty" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "took", "t": "zabrał", "lemma": "take" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "formula", "t": "wzór", "lemma": "formula" }
+          ]
+        },
+        {
+          "en": "He put it safely inside his jacket pocket.",
+          "pl": "Schował go bezpiecznie do kieszeni kurtki.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "put", "t": "schował", "lemma": "put" },
+            { "w": "it", "t": "go", "lemma": "it" },
+            { "w": "safely", "t": "bezpiecznie", "lemma": "safely" },
+            { "w": "inside", "t": "do", "lemma": "inside" },
+            { "w": "his", "t": "swojej", "lemma": "his" },
+            { "w": "jacket", "t": "kurtki", "lemma": "jacket" },
+            { "w": "pocket", "t": "kieszeni", "lemma": "pocket" }
+          ]
+        },
+        {
+          "en": "Then they crept quietly back to the door.",
+          "pl": "Potem cicho zakradli się z powrotem do drzwi.",
+          "tokens": [
+            { "w": "Then", "t": "potem", "lemma": "then" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "crept", "t": "zakradli się", "lemma": "creep" },
+            { "w": "quietly", "t": "cicho", "lemma": "quietly" },
+            { "w": "back", "t": "z powrotem", "lemma": "back" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "door", "t": "drzwi", "lemma": "door" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Outside, they slid down the mountain on a sled.",
+          "pl": "Na zewnątrz zjechali z góry na sankach.",
+          "tokens": [
+            { "w": "Outside", "t": "na zewnątrz", "lemma": "outside" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "slid", "t": "zjechali", "lemma": "slide" },
+            { "w": "down", "t": "(w dół)", "lemma": "down" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mountain", "t": "góry", "lemma": "mountain" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "sled", "t": "sankach", "lemma": "sled" }
+          ]
+        },
+        {
+          "en": "The enemy never saw them leave.",
+          "pl": "Wróg nigdy nie zobaczył, jak odchodzą.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wróg", "lemma": "enemy" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "saw", "t": "zobaczył", "lemma": "see" },
+            { "w": "them", "t": "ich", "lemma": "them" },
+            { "w": "leave", "t": "odchodzić", "lemma": "leave" }
+          ]
+        },
+        {
+          "en": "Agent Stone was proud of their clever escape.",
+          "pl": "Agentka Stone była dumna z ich sprytnej ucieczki.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "proud", "t": "dumna", "lemma": "proud" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "clever", "t": "sprytnej", "lemma": "clever" },
+            { "w": "escape", "t": "ucieczki", "lemma": "escape" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Gdzie stało tajne laboratorium wroga?",
+      "options": [
+        "Wysoko w zaśnieżonych górach",
+        "Pod morzem",
+        "Na pustyni"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co wróg ukrywał w laboratorium?",
+      "options": [
+        "Skradziony wzór (formułę)",
+        "Złotą koronę",
+        "Mapę skarbów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Max i Zara byli ubrani?",
+      "options": [
+        "W grube płaszcze i ciepłe rękawiczki",
+        "W kombinezony do nurkowania",
+        "W stroje kelnerów"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie Max schował wzór?",
+      "options": [
+        "W kieszeni kurtki",
+        "W plecaku Zary",
+        "Pod śniegiem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak zjechali z góry?",
+      "options": [
+        "Na sankach",
+        "Na nartach",
+        "Helikopterem"
+      ],
+      "answer": 0
+    }
+  ]
+}

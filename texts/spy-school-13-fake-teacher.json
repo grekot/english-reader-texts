@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-13-fake-teacher",
+  "title": "Spy School 13: The Fake Teacher",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "A new teacher arrived at Falcon Academy one Monday.",
+          "pl": "Pewnego poniedziałku do Akademii Falcon przybył nowy nauczyciel.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "new", "t": "nowy", "lemma": "new" },
+            { "w": "teacher", "t": "nauczyciel", "lemma": "teacher" },
+            { "w": "arrived", "t": "przybył", "lemma": "arrive" },
+            { "w": "at", "t": "do", "lemma": "at" },
+            { "w": "Falcon", "t": "Falcon", "lemma": "Falcon" },
+            { "w": "Academy", "t": "Akademii", "lemma": "academy" },
+            { "w": "one", "t": "pewnego", "lemma": "one" },
+            { "w": "Monday", "t": "poniedziałku", "lemma": "Monday" }
+          ]
+        },
+        {
+          "en": "He smiled a lot, but his eyes looked cold.",
+          "pl": "Dużo się uśmiechał, ale jego oczy wyglądały zimno.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "smiled", "t": "uśmiechał się", "lemma": "smile" },
+            { "w": "a", "t": "(dużo)", "lemma": "a" },
+            { "w": "lot", "t": "dużo", "lemma": "lot" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "eyes", "t": "oczy", "lemma": "eye" },
+            { "w": "looked", "t": "wyglądały", "lemma": "look" },
+            { "w": "cold", "t": "zimno", "lemma": "cold" }
+          ]
+        },
+        {
+          "en": "Max felt that something was not right.",
+          "pl": "Max czuł, że coś jest nie tak.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "felt", "t": "czuł", "lemma": "feel" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "something", "t": "coś", "lemma": "something" },
+            { "w": "was", "t": "jest", "lemma": "be" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "right", "t": "tak", "lemma": "right" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The teacher asked many questions about the school's secrets.",
+          "pl": "Nauczyciel zadawał wiele pytań o sekrety szkoły.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "teacher", "t": "nauczyciel", "lemma": "teacher" },
+            { "w": "asked", "t": "zadawał", "lemma": "ask" },
+            { "w": "many", "t": "wiele", "lemma": "many" },
+            { "w": "questions", "t": "pytań", "lemma": "question" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "school's", "t": "szkoły", "lemma": "school" },
+            { "w": "secrets", "t": "sekrety", "lemma": "secret" }
+          ]
+        },
+        {
+          "en": "He always wanted to know where the plans were kept.",
+          "pl": "Zawsze chciał wiedzieć, gdzie trzymane są plany.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "wanted", "t": "chciał", "lemma": "want" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "know", "t": "wiedzieć", "lemma": "know" },
+            { "w": "where", "t": "gdzie", "lemma": "where" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "plans", "t": "plany", "lemma": "plan" },
+            { "w": "were", "t": "(strona bierna)", "lemma": "be" },
+            { "w": "kept", "t": "trzymane", "lemma": "keep" }
+          ]
+        },
+        {
+          "en": "Real teachers never asked such strange things.",
+          "pl": "Prawdziwi nauczyciele nigdy nie pytali o tak dziwne rzeczy.",
+          "tokens": [
+            { "w": "Real", "t": "prawdziwi", "lemma": "real" },
+            { "w": "teachers", "t": "nauczyciele", "lemma": "teacher" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "asked", "t": "pytali", "lemma": "ask" },
+            { "w": "such", "t": "tak", "lemma": "such" },
+            { "w": "strange", "t": "dziwne", "lemma": "strange" },
+            { "w": "things", "t": "rzeczy", "lemma": "thing" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "One day, Max saw the teacher take off a rubber mask.",
+          "pl": "Pewnego dnia Max zobaczył, jak nauczyciel zdejmuje gumową maskę.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "saw", "t": "zobaczył", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "teacher", "t": "nauczyciela", "lemma": "teacher" },
+            { "w": "take", "t": "zdejmuje", "lemma": "take" },
+            { "w": "off", "t": "(partykuła)", "lemma": "off" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "rubber", "t": "gumową", "lemma": "rubber" },
+            { "w": "mask", "t": "maskę", "lemma": "mask" }
+          ]
+        },
+        {
+          "en": "Under the mask was the face of a known enemy.",
+          "pl": "Pod maską była twarz znanego wroga.",
+          "tokens": [
+            { "w": "Under", "t": "pod", "lemma": "under" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mask", "t": "maską", "lemma": "mask" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "face", "t": "twarz", "lemma": "face" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "known", "t": "znanego", "lemma": "known" },
+            { "w": "enemy", "t": "wroga", "lemma": "enemy" }
+          ]
+        },
+        {
+          "en": "The fake teacher was really a dangerous spy.",
+          "pl": "Fałszywy nauczyciel był naprawdę niebezpiecznym szpiegiem.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fake", "t": "fałszywy", "lemma": "fake" },
+            { "w": "teacher", "t": "nauczyciel", "lemma": "teacher" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "really", "t": "naprawdę", "lemma": "really" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "dangerous", "t": "niebezpiecznym", "lemma": "dangerous" },
+            { "w": "spy", "t": "szpiegiem", "lemma": "spy" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max ran to tell Agent Stone everything.",
+          "pl": "Max pobiegł, by powiedzieć Agentce Stone wszystko.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "ran", "t": "pobiegł", "lemma": "run" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "tell", "t": "powiedzieć", "lemma": "tell" },
+            { "w": "Agent", "t": "Agentce", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "everything", "t": "wszystko", "lemma": "everything" }
+          ]
+        },
+        {
+          "en": "At first, she was surprised by the news.",
+          "pl": "Z początku była zaskoczona tą wiadomością.",
+          "tokens": [
+            { "w": "At", "t": "(z)", "lemma": "at" },
+            { "w": "first", "t": "początku", "lemma": "first" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "surprised", "t": "zaskoczona", "lemma": "surprise" },
+            { "w": "by", "t": "(czym)", "lemma": "by" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "news", "t": "wiadomością", "lemma": "news" }
+          ]
+        },
+        {
+          "en": "But Max showed her a photo as proof.",
+          "pl": "Ale Max pokazał jej zdjęcie jako dowód.",
+          "tokens": [
+            { "w": "But", "t": "ale", "lemma": "but" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "showed", "t": "pokazał", "lemma": "show" },
+            { "w": "her", "t": "jej", "lemma": "her" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "photo", "t": "zdjęcie", "lemma": "photo" },
+            { "w": "as", "t": "jako", "lemma": "as" },
+            { "w": "proof", "t": "dowód", "lemma": "proof" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Agent Stone caught the enemy before he could escape.",
+          "pl": "Agentka Stone złapała wroga, zanim zdążył uciec.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "caught", "t": "złapała", "lemma": "catch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wroga", "lemma": "enemy" },
+            { "w": "before", "t": "zanim", "lemma": "before" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "could", "t": "zdążył", "lemma": "can" },
+            { "w": "escape", "t": "uciec", "lemma": "escape" }
+          ]
+        },
+        {
+          "en": "\"You trusted your feelings, and you were right,\" she said.",
+          "pl": "„Zaufałeś swoim przeczuciom i miałeś rację”, powiedziała.",
+          "tokens": [
+            { "w": "You", "t": "ty", "lemma": "you" },
+            { "w": "trusted", "t": "zaufałeś", "lemma": "trust" },
+            { "w": "your", "t": "swoim", "lemma": "your" },
+            { "w": "feelings", "t": "przeczuciom", "lemma": "feeling" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "were", "t": "miałeś", "lemma": "be" },
+            { "w": "right", "t": "rację", "lemma": "right" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" }
+          ]
+        },
+        {
+          "en": "Max felt like a true spy at last.",
+          "pl": "Max wreszcie poczuł się jak prawdziwy szpieg.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "felt", "t": "poczuł się", "lemma": "feel" },
+            { "w": "like", "t": "jak", "lemma": "like" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "true", "t": "prawdziwy", "lemma": "true" },
+            { "w": "spy", "t": "szpieg", "lemma": "spy" },
+            { "w": "at", "t": "(wreszcie)", "lemma": "at" },
+            { "w": "last", "t": "wreszcie", "lemma": "last" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co było dziwnego w nowym nauczycielu?",
+      "options": [
+        "Dużo się uśmiechał, ale miał zimne oczy i wypytywał o sekrety",
+        "Był bardzo niski",
+        "Nigdy się nie odzywał"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "O co zawsze pytał nauczyciel?",
+      "options": [
+        "Gdzie trzymane są plany",
+        "O oceny uczniów",
+        "O godziny posiłków"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max zobaczył pewnego dnia?",
+      "options": [
+        "Jak nauczyciel zdejmuje gumową maskę",
+        "Jak nauczyciel śpi na lekcji",
+        "Jak nauczyciel ucieka oknem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kim naprawdę był nauczyciel?",
+      "options": [
+        "Niebezpiecznym szpiegiem (znanym wrogiem)",
+        "Bratem Agentki Stone",
+        "Zwykłym nowym pracownikiem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co powiedziała Agentka Stone?",
+      "options": [
+        "Że Max zaufał przeczuciom i miał rację",
+        "Że Max się pomylił",
+        "Że to nie jego sprawa"
+      ],
+      "answer": 0
+    }
+  ]
+}

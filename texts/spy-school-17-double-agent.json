@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-17-double-agent",
+  "title": "Spy School 17: The Double Agent",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "One day, a friendly man offered to help the young spies.",
+          "pl": "Pewnego dnia przyjazny mężczyzna zaoferował pomoc młodym szpiegom.",
+          "tokens": [
+            { "w": "One", "t": "pewnego", "lemma": "one" },
+            { "w": "day", "t": "dnia", "lemma": "day" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "friendly", "t": "przyjazny", "lemma": "friendly" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "offered", "t": "zaoferował", "lemma": "offer" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "help", "t": "pomóc", "lemma": "help" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "young", "t": "młodym", "lemma": "young" },
+            { "w": "spies", "t": "szpiegom", "lemma": "spy" }
+          ]
+        },
+        {
+          "en": "He said he knew a secret way into the enemy's house.",
+          "pl": "Powiedział, że zna tajne wejście do domu wroga.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "said", "t": "powiedział", "lemma": "say" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "knew", "t": "zna", "lemma": "know" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajne", "lemma": "secret" },
+            { "w": "way", "t": "wejście", "lemma": "way" },
+            { "w": "into", "t": "do", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy's", "t": "wroga", "lemma": "enemy" },
+            { "w": "house", "t": "domu", "lemma": "house" }
+          ]
+        },
+        {
+          "en": "But Zara did not fully trust the stranger.",
+          "pl": "Ale Zara nie do końca ufała nieznajomemu.",
+          "tokens": [
+            { "w": "But", "t": "ale", "lemma": "but" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "did", "t": "(czas przeszły – przeczenie)", "lemma": "do" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "fully", "t": "do końca", "lemma": "fully" },
+            { "w": "trust", "t": "ufała", "lemma": "trust" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stranger", "t": "nieznajomemu", "lemma": "stranger" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "\"Let's test him first,\" she whispered to Max.",
+          "pl": "„Najpierw go sprawdźmy”, szepnęła do Maxa.",
+          "tokens": [
+            { "w": "Let's", "t": "(zróbmy to)", "lemma": "let us" },
+            { "w": "test", "t": "sprawdźmy", "lemma": "test" },
+            { "w": "him", "t": "go", "lemma": "he" },
+            { "w": "first", "t": "najpierw", "lemma": "first" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "whispered", "t": "szepnęła", "lemma": "whisper" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "Max", "t": "Maxa", "lemma": "Max" }
+          ]
+        },
+        {
+          "en": "They gave the man a false piece of information.",
+          "pl": "Dali mężczyźnie fałszywą informację.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "gave", "t": "dali", "lemma": "give" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "man", "t": "mężczyźnie", "lemma": "man" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "false", "t": "fałszywą", "lemma": "false" },
+            { "w": "piece", "t": "(kawałek)", "lemma": "piece" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "information", "t": "informację", "lemma": "information" }
+          ]
+        },
+        {
+          "en": "Then they waited to see what he would do.",
+          "pl": "Potem czekali, by zobaczyć, co zrobi.",
+          "tokens": [
+            { "w": "Then", "t": "potem", "lemma": "then" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "waited", "t": "czekali", "lemma": "wait" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "see", "t": "zobaczyć", "lemma": "see" },
+            { "w": "what", "t": "co", "lemma": "what" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "would", "t": "(tryb przypuszczający)", "lemma": "would" },
+            { "w": "do", "t": "zrobi", "lemma": "do" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "That evening, the man secretly sent the false news to the enemy.",
+          "pl": "Tego wieczoru mężczyzna po cichu wysłał fałszywą wiadomość wrogowi.",
+          "tokens": [
+            { "w": "That", "t": "tego", "lemma": "that" },
+            { "w": "evening", "t": "wieczoru", "lemma": "evening" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "secretly", "t": "po cichu", "lemma": "secretly" },
+            { "w": "sent", "t": "wysłał", "lemma": "send" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "false", "t": "fałszywą", "lemma": "false" },
+            { "w": "news", "t": "wiadomość", "lemma": "news" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wrogowi", "lemma": "enemy" }
+          ]
+        },
+        {
+          "en": "Now the friends knew the truth about him.",
+          "pl": "Teraz przyjaciele znali o nim prawdę.",
+          "tokens": [
+            { "w": "Now", "t": "teraz", "lemma": "now" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "friends", "t": "przyjaciele", "lemma": "friend" },
+            { "w": "knew", "t": "znali", "lemma": "know" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "truth", "t": "prawdę", "lemma": "truth" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "him", "t": "nim", "lemma": "he" }
+          ]
+        },
+        {
+          "en": "He was a double agent working for both sides.",
+          "pl": "Był podwójnym agentem pracującym dla obu stron.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "double", "t": "podwójnym", "lemma": "double" },
+            { "w": "agent", "t": "agentem", "lemma": "agent" },
+            { "w": "working", "t": "pracującym", "lemma": "work" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "both", "t": "obu", "lemma": "both" },
+            { "w": "sides", "t": "stron", "lemma": "side" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "The enemy acted on the false information and made a mistake.",
+          "pl": "Wróg działał według fałszywej informacji i popełnił błąd.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "enemy", "t": "wróg", "lemma": "enemy" },
+            { "w": "acted", "t": "działał", "lemma": "act" },
+            { "w": "on", "t": "według", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "false", "t": "fałszywej", "lemma": "false" },
+            { "w": "information", "t": "informacji", "lemma": "information" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "made", "t": "popełnił", "lemma": "make" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "mistake", "t": "błąd", "lemma": "mistake" }
+          ]
+        },
+        {
+          "en": "Their whole plan fell apart in a single night.",
+          "pl": "Cały ich plan rozpadł się w jedną noc.",
+          "tokens": [
+            { "w": "Their", "t": "ich", "lemma": "their" },
+            { "w": "whole", "t": "cały", "lemma": "whole" },
+            { "w": "plan", "t": "plan", "lemma": "plan" },
+            { "w": "fell", "t": "rozpadł się", "lemma": "fall" },
+            { "w": "apart", "t": "(na kawałki)", "lemma": "apart" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "single", "t": "jedną", "lemma": "single" },
+            { "w": "night", "t": "noc", "lemma": "night" }
+          ]
+        },
+        {
+          "en": "Max and Zara could not stop smiling.",
+          "pl": "Max i Zara nie mogli przestać się uśmiechać.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "could", "t": "mogli", "lemma": "can" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "stop", "t": "przestać", "lemma": "stop" },
+            { "w": "smiling", "t": "się uśmiechać", "lemma": "smile" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Agent Stone explained that spies must always stay careful.",
+          "pl": "Agentka Stone wyjaśniła, że szpiedzy muszą zawsze być ostrożni.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "explained", "t": "wyjaśniła", "lemma": "explain" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "spies", "t": "szpiedzy", "lemma": "spy" },
+            { "w": "must", "t": "muszą", "lemma": "must" },
+            { "w": "always", "t": "zawsze", "lemma": "always" },
+            { "w": "stay", "t": "być", "lemma": "stay" },
+            { "w": "careful", "t": "ostrożni", "lemma": "careful" }
+          ]
+        },
+        {
+          "en": "\"Not everyone who smiles is your friend,\" she said.",
+          "pl": "„Nie każdy, kto się uśmiecha, jest twoim przyjacielem”, powiedziała.",
+          "tokens": [
+            { "w": "Not", "t": "nie", "lemma": "not" },
+            { "w": "everyone", "t": "każdy", "lemma": "everyone" },
+            { "w": "who", "t": "kto", "lemma": "who" },
+            { "w": "smiles", "t": "się uśmiecha", "lemma": "smile" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "your", "t": "twoim", "lemma": "your" },
+            { "w": "friend", "t": "przyjacielem", "lemma": "friend" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" }
+          ]
+        },
+        {
+          "en": "Max wrote that important lesson in his notebook.",
+          "pl": "Max zapisał tę ważną lekcję w swoim notesie.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "wrote", "t": "zapisał", "lemma": "write" },
+            { "w": "that", "t": "tę", "lemma": "that" },
+            { "w": "important", "t": "ważną", "lemma": "important" },
+            { "w": "lesson", "t": "lekcję", "lemma": "lesson" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "his", "t": "swoim", "lemma": "his" },
+            { "w": "notebook", "t": "notesie", "lemma": "notebook" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co zaoferował przyjazny mężczyzna?",
+      "options": [
+        "Że zna tajne wejście do domu wroga",
+        "Że da im pieniądze",
+        "Że nauczy ich latać"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Zara postanowiła go sprawdzić?",
+      "options": [
+        "Dali mu fałszywą informację",
+        "Zapytali Agentkę Stone",
+        "Śledzili go cały dzień"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobił mężczyzna wieczorem?",
+      "options": [
+        "Po cichu wysłał fałszywą wiadomość wrogowi",
+        "Poszedł spać",
+        "Powiedział prawdę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kim okazał się mężczyzna?",
+      "options": [
+        "Podwójnym agentem pracującym dla obu stron",
+        "Nowym nauczycielem",
+        "Bratem Zary"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego nauczyła Agentka Stone?",
+      "options": [
+        "Że nie każdy, kto się uśmiecha, jest przyjacielem",
+        "Że trzeba ufać wszystkim",
+        "Że szpiedzy nie potrzebują planów"
+      ],
+      "answer": 0
+    }
+  ]
+}

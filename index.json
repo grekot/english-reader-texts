@@ -546,6 +546,166 @@
       ],
       "file": "texts/spy-school-10-final-mission.json",
       "sha256": "932b9b13fd878c493074b5b3e5391dace7874d82356c477d5902718c028be829"
+    },
+    {
+      "id": "spy-school-11-train-mission",
+      "title": "Spy School 11: The Train Mission",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-11-train-mission.json",
+      "sha256": "b43a92f1ca4733e041f45827409760eb9d61a0d5c03f14d94274e27c6ec552ae"
+    },
+    {
+      "id": "spy-school-12-underwater-base",
+      "title": "Spy School 12: The Underwater Base",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-12-underwater-base.json",
+      "sha256": "7f1a421ff2968b5ec89933631d54bbf7162778f00eddd5720abce6bba28edf82"
+    },
+    {
+      "id": "spy-school-13-fake-teacher",
+      "title": "Spy School 13: The Fake Teacher",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-13-fake-teacher.json",
+      "sha256": "cd4d2065a840976ff621317ba68d6ead328dd37ac2441e8d34d4ac446105bf31"
+    },
+    {
+      "id": "spy-school-14-lost-signal",
+      "title": "Spy School 14: The Lost Signal",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-14-lost-signal.json",
+      "sha256": "e5189033d0aff48aaeebb51384ef144394b0bdeca7a5ffd55ef09210cb7db8fd"
+    },
+    {
+      "id": "spy-school-15-desert-chase",
+      "title": "Spy School 15: The Desert Chase",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-15-desert-chase.json",
+      "sha256": "7eb06c5c92dcbf0c7db1844652bf6c5f5e4fc5faa55d02289618981f0d7e259d"
+    },
+    {
+      "id": "spy-school-16-frozen-lab",
+      "title": "Spy School 16: The Frozen Lab",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-16-frozen-lab.json",
+      "sha256": "012b25e520f2e8e682b598a8f1c51d7daeb1a544501c8430b5f57809e2ff07b6"
+    },
+    {
+      "id": "spy-school-17-double-agent",
+      "title": "Spy School 17: The Double Agent",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-17-double-agent.json",
+      "sha256": "04566aef1842ee50ffe3720c02928690f72cbcbeac583cb3c5a123e018f6846a"
+    },
+    {
+      "id": "spy-school-18-robot-guard",
+      "title": "Spy School 18: The Robot Guard",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-18-robot-guard.json",
+      "sha256": "b583439ceb8eedfc0195dc77ead3d3e996c07fa5ee7ac3bc8a03d9360bea1b84"
+    },
+    {
+      "id": "spy-school-19-secret-vault",
+      "title": "Spy School 19: The Secret Vault",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-19-secret-vault.json",
+      "sha256": "bbb77917bf92d69b612b80b8f4f6af44fd66f94fa55879d586bdd50e16c4f4ed"
+    },
+    {
+      "id": "spy-school-20-graduation-exam",
+      "title": "Spy School 20: The Graduation Exam",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Szkoła szpiegów",
+      "tags": [
+        "spy",
+        "adventure",
+        "kids",
+        "fiction",
+        "series"
+      ],
+      "file": "texts/spy-school-20-graduation-exam.json",
+      "sha256": "b9b809c59228eba4d10b13829a2e7f8773d7cfc41ae7b806793e3e32e9f9ae5f"
     }
   ]
 }

@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-20-graduation-exam",
+  "title": "Spy School 20: The Graduation Exam",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "The day of the final exam had finally come.",
+          "pl": "Dzień egzaminu końcowego wreszcie nadszedł.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "day", "t": "dzień", "lemma": "day" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "final", "t": "końcowego", "lemma": "final" },
+            { "w": "exam", "t": "egzaminu", "lemma": "exam" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "finally", "t": "wreszcie", "lemma": "finally" },
+            { "w": "come", "t": "nadszedł", "lemma": "come" }
+          ]
+        },
+        {
+          "en": "To pass, each student had to complete one last mission alone.",
+          "pl": "Aby zdać, każdy uczeń musiał wykonać samodzielnie jedną ostatnią misję.",
+          "tokens": [
+            { "w": "To", "t": "(aby)", "lemma": "to" },
+            { "w": "pass", "t": "zdać", "lemma": "pass" },
+            { "w": "each", "t": "każdy", "lemma": "each" },
+            { "w": "student", "t": "uczeń", "lemma": "student" },
+            { "w": "had", "t": "musiał", "lemma": "have" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "complete", "t": "wykonać", "lemma": "complete" },
+            { "w": "one", "t": "jedną", "lemma": "one" },
+            { "w": "last", "t": "ostatnią", "lemma": "last" },
+            { "w": "mission", "t": "misję", "lemma": "mission" },
+            { "w": "alone", "t": "samodzielnie", "lemma": "alone" }
+          ]
+        },
+        {
+          "en": "Max felt nervous, but he remembered all his training.",
+          "pl": "Max czuł się zdenerwowany, ale pamiętał cały swój trening.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "felt", "t": "czuł się", "lemma": "feel" },
+            { "w": "nervous", "t": "zdenerwowany", "lemma": "nervous" },
+            { "w": "but", "t": "ale", "lemma": "but" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "remembered", "t": "pamiętał", "lemma": "remember" },
+            { "w": "all", "t": "cały", "lemma": "all" },
+            { "w": "his", "t": "swój", "lemma": "his" },
+            { "w": "training", "t": "trening", "lemma": "training" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "His task was to enter a building and find a hidden flag.",
+          "pl": "Jego zadaniem było wejść do budynku i znaleźć ukrytą flagę.",
+          "tokens": [
+            { "w": "His", "t": "jego", "lemma": "his" },
+            { "w": "task", "t": "zadanie", "lemma": "task" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "enter", "t": "wejść do", "lemma": "enter" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "building", "t": "budynku", "lemma": "building" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hidden", "t": "ukrytą", "lemma": "hidden" },
+            { "w": "flag", "t": "flagę", "lemma": "flag" }
+          ]
+        },
+        {
+          "en": "Guards, cameras, and traps were waiting everywhere.",
+          "pl": "Strażnicy, kamery i pułapki czekały wszędzie.",
+          "tokens": [
+            { "w": "Guards", "t": "strażnicy", "lemma": "guard" },
+            { "w": "cameras", "t": "kamery", "lemma": "camera" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "traps", "t": "pułapki", "lemma": "trap" },
+            { "w": "were", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "waiting", "t": "czekały", "lemma": "wait" },
+            { "w": "everywhere", "t": "wszędzie", "lemma": "everywhere" }
+          ]
+        },
+        {
+          "en": "Max moved slowly and used everything he had learned.",
+          "pl": "Max poruszał się powoli i wykorzystał wszystko, czego się nauczył.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "moved", "t": "poruszał się", "lemma": "move" },
+            { "w": "slowly", "t": "powoli", "lemma": "slowly" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "used", "t": "wykorzystał", "lemma": "use" },
+            { "w": "everything", "t": "wszystko", "lemma": "everything" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "learned", "t": "nauczył się", "lemma": "learn" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "He cracked a code, climbed a wall, and avoided a laser.",
+          "pl": "Złamał szyfr, wspiął się po ścianie i ominął laser.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "cracked", "t": "złamał", "lemma": "crack" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "code", "t": "szyfr", "lemma": "code" },
+            { "w": "climbed", "t": "wspiął się", "lemma": "climb" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "wall", "t": "po ścianie", "lemma": "wall" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "avoided", "t": "ominął", "lemma": "avoid" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "laser", "t": "laser", "lemma": "laser" }
+          ]
+        },
+        {
+          "en": "At the top of the building, he found the red flag.",
+          "pl": "Na szczycie budynku znalazł czerwoną flagę.",
+          "tokens": [
+            { "w": "At", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "top", "t": "szczycie", "lemma": "top" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "building", "t": "budynku", "lemma": "building" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "found", "t": "znalazł", "lemma": "find" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "red", "t": "czerwoną", "lemma": "red" },
+            { "w": "flag", "t": "flagę", "lemma": "flag" }
+          ]
+        },
+        {
+          "en": "He had finished the mission without a single mistake.",
+          "pl": "Ukończył misję bez jednego błędu.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "finished", "t": "ukończył", "lemma": "finish" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "mission", "t": "misję", "lemma": "mission" },
+            { "w": "without", "t": "bez", "lemma": "without" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "single", "t": "jednego", "lemma": "single" },
+            { "w": "mistake", "t": "błędu", "lemma": "mistake" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Zara passed her own exam at the very same time.",
+          "pl": "Zara zdała swój egzamin dokładnie w tym samym czasie.",
+          "tokens": [
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "passed", "t": "zdała", "lemma": "pass" },
+            { "w": "her", "t": "swój", "lemma": "her" },
+            { "w": "own", "t": "własny", "lemma": "own" },
+            { "w": "exam", "t": "egzamin", "lemma": "exam" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "very", "t": "dokładnie", "lemma": "very" },
+            { "w": "same", "t": "tym samym", "lemma": "same" },
+            { "w": "time", "t": "czasie", "lemma": "time" }
+          ]
+        },
+        {
+          "en": "The two friends met outside with big smiles.",
+          "pl": "Dwoje przyjaciół spotkało się na zewnątrz z szerokimi uśmiechami.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "met", "t": "spotkało się", "lemma": "meet" },
+            { "w": "outside", "t": "na zewnątrz", "lemma": "outside" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "big", "t": "szerokimi", "lemma": "big" },
+            { "w": "smiles", "t": "uśmiechami", "lemma": "smile" }
+          ]
+        },
+        {
+          "en": "They had both become real, qualified spies.",
+          "pl": "Oboje zostali prawdziwymi, wykwalifikowanymi szpiegami.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "had", "t": "(czas zaprzeszły)", "lemma": "have" },
+            { "w": "both", "t": "oboje", "lemma": "both" },
+            { "w": "become", "t": "zostali", "lemma": "become" },
+            { "w": "real", "t": "prawdziwymi", "lemma": "real" },
+            { "w": "qualified", "t": "wykwalifikowanymi", "lemma": "qualified" },
+            { "w": "spies", "t": "szpiegami", "lemma": "spy" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Agent Stone gave them their official spy badges.",
+          "pl": "Agentka Stone wręczyła im oficjalne odznaki szpiegów.",
+          "tokens": [
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "gave", "t": "wręczyła", "lemma": "give" },
+            { "w": "them", "t": "im", "lemma": "them" },
+            { "w": "their", "t": "ich", "lemma": "their" },
+            { "w": "official", "t": "oficjalne", "lemma": "official" },
+            { "w": "spy", "t": "szpiegowskie", "lemma": "spy" },
+            { "w": "badges", "t": "odznaki", "lemma": "badge" }
+          ]
+        },
+        {
+          "en": "\"I am very proud of you both,\" she said warmly.",
+          "pl": "„Jestem bardzo dumna z was obojga”, powiedziała ciepło.",
+          "tokens": [
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "am", "t": "jestem", "lemma": "be" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "proud", "t": "dumna", "lemma": "proud" },
+            { "w": "of", "t": "z", "lemma": "of" },
+            { "w": "you", "t": "was", "lemma": "you" },
+            { "w": "both", "t": "obojga", "lemma": "both" },
+            { "w": "she", "t": "ona", "lemma": "she" },
+            { "w": "said", "t": "powiedziała", "lemma": "say" },
+            { "w": "warmly", "t": "ciepło", "lemma": "warmly" }
+          ]
+        },
+        {
+          "en": "For Max and Zara, a new adventure was just beginning.",
+          "pl": "Dla Maxa i Zary nowa przygoda dopiero się zaczynała.",
+          "tokens": [
+            { "w": "For", "t": "dla", "lemma": "for" },
+            { "w": "Max", "t": "Maxa", "lemma": "Max" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Zara", "t": "Zary", "lemma": "Zara" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "new", "t": "nowa", "lemma": "new" },
+            { "w": "adventure", "t": "przygoda", "lemma": "adventure" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "just", "t": "dopiero", "lemma": "just" },
+            { "w": "beginning", "t": "się zaczynała", "lemma": "begin" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co musiał zrobić każdy uczeń, by zdać egzamin?",
+      "options": [
+        "Wykonać samodzielnie jedną ostatnią misję",
+        "Napisać test pisemny",
+        "Pokonać Agentkę Stone"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jakie było zadanie Maxa?",
+      "options": [
+        "Wejść do budynku i znaleźć ukrytą flagę",
+        "Złapać złodzieja w pociągu",
+        "Otworzyć sejf"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max zrobił po drodze do flagi?",
+      "options": [
+        "Złamał szyfr, wspiął się po ścianie i ominął laser",
+        "Poprosił strażników o pomoc",
+        "Wyłączył cały prąd"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kto zdał egzamin w tym samym czasie?",
+      "options": [
+        "Zara",
+        "Agentka Stone",
+        "Nikt inny"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co Max i Zara dostali od Agentki Stone?",
+      "options": [
+        "Oficjalne odznaki szpiegów",
+        "Bilety na wakacje",
+        "Nowe gadżety"
+      ],
+      "answer": 0
+    }
+  ]
+}

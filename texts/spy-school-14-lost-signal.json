@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "id": "spy-school-14-lost-signal",
+  "title": "Spy School 14: The Lost Signal",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["spy", "adventure", "kids", "fiction", "series"],
+  "createdAt": "2026-06-13",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "During a mission, Zara's tracker suddenly went silent.",
+          "pl": "Podczas misji lokalizator Zary nagle ucichł.",
+          "tokens": [
+            { "w": "During", "t": "podczas", "lemma": "during" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "mission", "t": "misji", "lemma": "mission" },
+            { "w": "Zara's", "t": "Zary", "lemma": "Zara" },
+            { "w": "tracker", "t": "lokalizator", "lemma": "tracker" },
+            { "w": "suddenly", "t": "nagle", "lemma": "suddenly" },
+            { "w": "went", "t": "ucichł", "lemma": "go" },
+            { "w": "silent", "t": "(zamilkł)", "lemma": "silent" }
+          ]
+        },
+        {
+          "en": "Max could no longer hear her voice on the radio.",
+          "pl": "Max nie słyszał już jej głosu w radiu.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "could", "t": "mógł", "lemma": "can" },
+            { "w": "no", "t": "już", "lemma": "no" },
+            { "w": "longer", "t": "nie", "lemma": "longer" },
+            { "w": "hear", "t": "słyszeć", "lemma": "hear" },
+            { "w": "her", "t": "jej", "lemma": "her" },
+            { "w": "voice", "t": "głosu", "lemma": "voice" },
+            { "w": "on", "t": "w", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "radio", "t": "radiu", "lemma": "radio" }
+          ]
+        },
+        {
+          "en": "He knew that his friend was in trouble.",
+          "pl": "Wiedział, że jego przyjaciółka jest w tarapatach.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "knew", "t": "wiedział", "lemma": "know" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "friend", "t": "przyjaciółka", "lemma": "friend" },
+            { "w": "was", "t": "jest", "lemma": "be" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "trouble", "t": "tarapatach", "lemma": "trouble" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Max looked at the map of her last known signal.",
+          "pl": "Max spojrzał na mapę jej ostatniego znanego sygnału.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "looked", "t": "spojrzał", "lemma": "look" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "map", "t": "mapę", "lemma": "map" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "her", "t": "jej", "lemma": "her" },
+            { "w": "last", "t": "ostatniego", "lemma": "last" },
+            { "w": "known", "t": "znanego", "lemma": "known" },
+            { "w": "signal", "t": "sygnału", "lemma": "signal" }
+          ]
+        },
+        {
+          "en": "It pointed to an old factory outside the city.",
+          "pl": "Wskazywał na starą fabrykę za miastem.",
+          "tokens": [
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "pointed", "t": "wskazywał", "lemma": "point" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "old", "t": "starą", "lemma": "old" },
+            { "w": "factory", "t": "fabrykę", "lemma": "factory" },
+            { "w": "outside", "t": "za", "lemma": "outside" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "city", "t": "miastem", "lemma": "city" }
+          ]
+        },
+        {
+          "en": "He hurried there as fast as he could.",
+          "pl": "Pospieszył tam tak szybko, jak tylko mógł.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "hurried", "t": "pospieszył", "lemma": "hurry" },
+            { "w": "there", "t": "tam", "lemma": "there" },
+            { "w": "as", "t": "tak", "lemma": "as" },
+            { "w": "fast", "t": "szybko", "lemma": "fast" },
+            { "w": "as", "t": "jak", "lemma": "as" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "could", "t": "mógł", "lemma": "can" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Inside the factory, the rooms were dark and empty.",
+          "pl": "Wewnątrz fabryki pokoje były ciemne i puste.",
+          "tokens": [
+            { "w": "Inside", "t": "wewnątrz", "lemma": "inside" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "factory", "t": "fabryki", "lemma": "factory" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "rooms", "t": "pokoje", "lemma": "room" },
+            { "w": "were", "t": "były", "lemma": "be" },
+            { "w": "dark", "t": "ciemne", "lemma": "dark" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "empty", "t": "puste", "lemma": "empty" }
+          ]
+        },
+        {
+          "en": "Then Max heard a quiet tapping on a metal pipe.",
+          "pl": "Wtedy Max usłyszał ciche stukanie w metalową rurę.",
+          "tokens": [
+            { "w": "Then", "t": "wtedy", "lemma": "then" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "heard", "t": "usłyszał", "lemma": "hear" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "quiet", "t": "ciche", "lemma": "quiet" },
+            { "w": "tapping", "t": "stukanie", "lemma": "tap" },
+            { "w": "on", "t": "w", "lemma": "on" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "metal", "t": "metalową", "lemma": "metal" },
+            { "w": "pipe", "t": "rurę", "lemma": "pipe" }
+          ]
+        },
+        {
+          "en": "It was Zara, sending him a secret message in code.",
+          "pl": "To była Zara, wysyłająca mu tajną wiadomość szyfrem.",
+          "tokens": [
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "Zara", "t": "Zara", "lemma": "Zara" },
+            { "w": "sending", "t": "wysyłająca", "lemma": "send" },
+            { "w": "him", "t": "mu", "lemma": "he" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "secret", "t": "tajną", "lemma": "secret" },
+            { "w": "message", "t": "wiadomość", "lemma": "message" },
+            { "w": "in", "t": "(za pomocą)", "lemma": "in" },
+            { "w": "code", "t": "szyfrem", "lemma": "code" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "She was locked inside a small storage room.",
+          "pl": "Była zamknięta w małym pomieszczeniu na rzeczy.",
+          "tokens": [
+            { "w": "She", "t": "ona", "lemma": "she" },
+            { "w": "was", "t": "była", "lemma": "be" },
+            { "w": "locked", "t": "zamknięta", "lemma": "lock" },
+            { "w": "inside", "t": "w", "lemma": "inside" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "small", "t": "małym", "lemma": "small" },
+            { "w": "storage", "t": "na rzeczy", "lemma": "storage" },
+            { "w": "room", "t": "pomieszczeniu", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "Max used Zara's own pen to open the lock.",
+          "pl": "Max użył własnego długopisu Zary, by otworzyć zamek.",
+          "tokens": [
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "used", "t": "użył", "lemma": "use" },
+            { "w": "Zara's", "t": "Zary", "lemma": "Zara" },
+            { "w": "own", "t": "własnego", "lemma": "own" },
+            { "w": "pen", "t": "długopisu", "lemma": "pen" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "open", "t": "otworzyć", "lemma": "open" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "lock", "t": "zamek", "lemma": "lock" }
+          ]
+        },
+        {
+          "en": "The two friends hugged with relief.",
+          "pl": "Dwoje przyjaciół przytuliło się z ulgą.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "two", "t": "dwoje", "lemma": "two" },
+            { "w": "friends", "t": "przyjaciół", "lemma": "friend" },
+            { "w": "hugged", "t": "przytuliło się", "lemma": "hug" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "relief", "t": "ulgą", "lemma": "relief" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Together, they escaped through a broken window.",
+          "pl": "Razem uciekli przez wybite okno.",
+          "tokens": [
+            { "w": "Together", "t": "razem", "lemma": "together" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "escaped", "t": "uciekli", "lemma": "escape" },
+            { "w": "through", "t": "przez", "lemma": "through" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "broken", "t": "wybite", "lemma": "break" },
+            { "w": "window", "t": "okno", "lemma": "window" }
+          ]
+        },
+        {
+          "en": "Outside, Agent Stone was waiting with the car.",
+          "pl": "Na zewnątrz Agentka Stone czekała z samochodem.",
+          "tokens": [
+            { "w": "Outside", "t": "na zewnątrz", "lemma": "outside" },
+            { "w": "Agent", "t": "Agentka", "lemma": "agent" },
+            { "w": "Stone", "t": "Stone", "lemma": "Stone" },
+            { "w": "was", "t": "(czas przeszły ciągły)", "lemma": "be" },
+            { "w": "waiting", "t": "czekała", "lemma": "wait" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "car", "t": "samochodem", "lemma": "car" }
+          ]
+        },
+        {
+          "en": "\"A good team never leaves anyone behind,\" Max said.",
+          "pl": "„Dobry zespół nigdy nikogo nie zostawia”, powiedział Max.",
+          "tokens": [
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "good", "t": "dobry", "lemma": "good" },
+            { "w": "team", "t": "zespół", "lemma": "team" },
+            { "w": "never", "t": "nigdy", "lemma": "never" },
+            { "w": "leaves", "t": "zostawia", "lemma": "leave" },
+            { "w": "anyone", "t": "nikogo", "lemma": "anyone" },
+            { "w": "behind", "t": "(za sobą)", "lemma": "behind" },
+            { "w": "Max", "t": "Max", "lemma": "Max" },
+            { "w": "said", "t": "powiedział", "lemma": "say" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co nagle ucichło podczas misji?",
+      "options": [
+        "Lokalizator (tracker) Zary",
+        "Cała szkoła",
+        "Silnik samochodu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dokąd wskazywał ostatni sygnał Zary?",
+      "options": [
+        "Do starej fabryki za miastem",
+        "Na lotnisko",
+        "Do akademii"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Jak Zara dała znać, gdzie jest?",
+      "options": [
+        "Stukała szyfr w metalową rurę",
+        "Krzyczała przez okno",
+        "Wysłała e-mail"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czym Max otworzył zamek?",
+      "options": [
+        "Długopisem Zary",
+        "Zwykłym kluczem",
+        "Swoim zegarkiem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co powiedział Max na końcu?",
+      "options": [
+        "Że dobry zespół nigdy nikogo nie zostawia",
+        "Że to była łatwa misja",
+        "Że chce wrócić do domu"
+      ],
+      "answer": 0
+    }
+  ]
+}
