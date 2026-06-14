@@ -1,0 +1,482 @@
+{
+  "schemaVersion": 1,
+  "id": "great-explorers",
+  "title": "Great Explorers and Their Journeys",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "B2",
+  "tags": [
+    "history",
+    "explorers",
+    "geography",
+    "nonfiction",
+    "trivia"
+  ],
+  "createdAt": "2026-06-14",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "For thousands of years, brave explorers have traveled into the unknown.",
+          "pl": "Przez tysiące lat odważni odkrywcy wyruszali w nieznane.",
+          "tokens": [
+            { "w": "For", "t": "przez", "lemma": "for" },
+            { "w": "thousands", "t": "tysiące", "lemma": "thousand" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "years", "t": "lat", "lemma": "year" },
+            { "w": "brave", "t": "odważni", "lemma": "brave" },
+            { "w": "explorers", "t": "odkrywcy", "lemma": "explorer" },
+            { "w": "have", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "traveled", "t": "podróżowali", "lemma": "travel" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "unknown", "t": "nieznane", "lemma": "unknown" }
+          ]
+        },
+        {
+          "en": "They crossed wide oceans, frozen lands, and even outer space.",
+          "pl": "Przemierzali szerokie oceany, zamarznięte krainy, a nawet przestrzeń kosmiczną.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "crossed", "t": "przemierzali", "lemma": "cross" },
+            { "w": "wide", "t": "szerokie", "lemma": "wide" },
+            { "w": "oceans", "t": "oceany", "lemma": "ocean" },
+            { "w": "frozen", "t": "zamarznięte", "lemma": "frozen" },
+            { "w": "lands", "t": "krainy", "lemma": "land" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "even", "t": "nawet", "lemma": "even" },
+            { "w": "outer", "t": "kosmiczną", "lemma": "outer" },
+            { "w": "space", "t": "przestrzeń", "lemma": "space" }
+          ]
+        },
+        {
+          "en": "Here are five explorers who changed how we see the world.",
+          "pl": "Oto pięciu odkrywców, którzy zmienili to, jak postrzegamy świat.",
+          "tokens": [
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "are", "t": "(jest)", "lemma": "be" },
+            { "w": "five", "t": "pięciu", "lemma": "five" },
+            { "w": "explorers", "t": "odkrywców", "lemma": "explorer" },
+            { "w": "who", "t": "którzy", "lemma": "who" },
+            { "w": "changed", "t": "zmienili", "lemma": "change" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "see", "t": "postrzegamy", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świat", "lemma": "world" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In the thirteenth century, a young Italian named Marco Polo traveled all the way to China.",
+          "pl": "W trzynastym wieku młody Włoch o imieniu Marco Polo dotarł aż do Chin.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thirteenth", "t": "trzynastym", "lemma": "thirteenth" },
+            { "w": "century", "t": "wieku", "lemma": "century" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "young", "t": "młody", "lemma": "young" },
+            { "w": "Italian", "t": "Włoch", "lemma": "Italian" },
+            { "w": "named", "t": "o imieniu", "lemma": "name" },
+            { "w": "Marco", "t": "Marco", "lemma": "Marco" },
+            { "w": "Polo", "t": "Polo", "lemma": "Polo" },
+            { "w": "traveled", "t": "podróżował", "lemma": "travel" },
+            { "w": "all", "t": "aż", "lemma": "all" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "way", "t": "(całą drogę)", "lemma": "way" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "China", "t": "Chin", "lemma": "China" }
+          ]
+        },
+        {
+          "en": "His journey along the Silk Road took several years.",
+          "pl": "Jego podróż wzdłuż Jedwabnego Szlaku zajęła kilka lat.",
+          "tokens": [
+            { "w": "His", "t": "jego", "lemma": "his" },
+            { "w": "journey", "t": "podróż", "lemma": "journey" },
+            { "w": "along", "t": "wzdłuż", "lemma": "along" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Silk", "t": "Jedwabnego", "lemma": "silk" },
+            { "w": "Road", "t": "Szlaku", "lemma": "road" },
+            { "w": "took", "t": "zajęła", "lemma": "take" },
+            { "w": "several", "t": "kilka", "lemma": "several" },
+            { "w": "years", "t": "lat", "lemma": "year" }
+          ]
+        },
+        {
+          "en": "When he returned, his amazing stories taught Europe about the distant East.",
+          "pl": "Kiedy wrócił, jego niesamowite opowieści nauczyły Europę o odległym Wschodzie.",
+          "tokens": [
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "returned", "t": "wrócił", "lemma": "return" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "amazing", "t": "niesamowite", "lemma": "amazing" },
+            { "w": "stories", "t": "opowieści", "lemma": "story" },
+            { "w": "taught", "t": "nauczyły", "lemma": "teach" },
+            { "w": "Europe", "t": "Europę", "lemma": "Europe" },
+            { "w": "about", "t": "o", "lemma": "about" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "distant", "t": "odległym", "lemma": "distant" },
+            { "w": "East", "t": "Wschodzie", "lemma": "east" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1519, Ferdinand Magellan led the first expedition to sail around the whole world.",
+          "pl": "W 1519 roku Ferdynand Magellan poprowadził pierwszą wyprawę, by opłynąć cały świat.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1519", "t": "1519" },
+            { "w": "Ferdinand", "t": "Ferdynand", "lemma": "Ferdinand" },
+            { "w": "Magellan", "t": "Magellan", "lemma": "Magellan" },
+            { "w": "led", "t": "poprowadził", "lemma": "lead" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszą", "lemma": "first" },
+            { "w": "expedition", "t": "wyprawę", "lemma": "expedition" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "sail", "t": "opłynąć", "lemma": "sail" },
+            { "w": "around", "t": "dookoła", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "whole", "t": "cały", "lemma": "whole" },
+            { "w": "world", "t": "świat", "lemma": "world" }
+          ]
+        },
+        {
+          "en": "The voyage was long and dangerous, and Magellan himself died on the way.",
+          "pl": "Rejs był długi i niebezpieczny, a sam Magellan zmarł w drodze.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "voyage", "t": "rejs", "lemma": "voyage" },
+            { "w": "was", "t": "był", "lemma": "be" },
+            { "w": "long", "t": "długi", "lemma": "long" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "dangerous", "t": "niebezpieczny", "lemma": "dangerous" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "Magellan", "t": "Magellan", "lemma": "Magellan" },
+            { "w": "himself", "t": "sam", "lemma": "himself" },
+            { "w": "died", "t": "zmarł", "lemma": "die" },
+            { "w": "on", "t": "w", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "way", "t": "drodze", "lemma": "way" }
+          ]
+        },
+        {
+          "en": "However, his crew finished the journey and proved that the Earth is round.",
+          "pl": "Jednak jego załoga ukończyła podróż i udowodniła, że Ziemia jest okrągła.",
+          "tokens": [
+            { "w": "However", "t": "jednak", "lemma": "however" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "crew", "t": "załoga", "lemma": "crew" },
+            { "w": "finished", "t": "ukończyła", "lemma": "finish" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "journey", "t": "podróż", "lemma": "journey" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "proved", "t": "udowodniła", "lemma": "prove" },
+            { "w": "that", "t": "że", "lemma": "that" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Earth", "t": "Ziemia", "lemma": "Earth" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "round", "t": "okrągła", "lemma": "round" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1911, the Norwegian explorer Roald Amundsen reached the South Pole.",
+          "pl": "W 1911 roku norweski odkrywca Roald Amundsen dotarł na biegun południowy.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1911", "t": "1911" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Norwegian", "t": "norweski", "lemma": "Norwegian" },
+            { "w": "explorer", "t": "odkrywca", "lemma": "explorer" },
+            { "w": "Roald", "t": "Roald", "lemma": "Roald" },
+            { "w": "Amundsen", "t": "Amundsen", "lemma": "Amundsen" },
+            { "w": "reached", "t": "dotarł do", "lemma": "reach" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "South", "t": "południowego", "lemma": "south" },
+            { "w": "Pole", "t": "bieguna", "lemma": "pole" }
+          ]
+        },
+        {
+          "en": "He and his team crossed endless ice in freezing temperatures.",
+          "pl": "On i jego zespół przemierzali niekończący się lód w mroźnych temperaturach.",
+          "tokens": [
+            { "w": "He", "t": "on", "lemma": "he" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "his", "t": "jego", "lemma": "his" },
+            { "w": "team", "t": "zespół", "lemma": "team" },
+            { "w": "crossed", "t": "przemierzali", "lemma": "cross" },
+            { "w": "endless", "t": "niekończący się", "lemma": "endless" },
+            { "w": "ice", "t": "lód", "lemma": "ice" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "freezing", "t": "mroźnych", "lemma": "freezing" },
+            { "w": "temperatures", "t": "temperaturach", "lemma": "temperature" }
+          ]
+        },
+        {
+          "en": "They were the first people ever to stand at the bottom of the world.",
+          "pl": "Byli pierwszymi ludźmi w historii, którzy stanęli na dnie świata.",
+          "tokens": [
+            { "w": "They", "t": "oni", "lemma": "they" },
+            { "w": "were", "t": "byli", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszymi", "lemma": "first" },
+            { "w": "people", "t": "ludźmi", "lemma": "people" },
+            { "w": "ever", "t": "w historii", "lemma": "ever" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "stand", "t": "stanąć", "lemma": "stand" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bottom", "t": "dnie", "lemma": "bottom" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świata", "lemma": "world" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1953, Edmund Hillary and Tenzing Norgay climbed Mount Everest, the highest mountain on Earth.",
+          "pl": "W 1953 roku Edmund Hillary i Tenzing Norgay zdobyli Mount Everest, najwyższą górę na Ziemi.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1953", "t": "1953" },
+            { "w": "Edmund", "t": "Edmund", "lemma": "Edmund" },
+            { "w": "Hillary", "t": "Hillary", "lemma": "Hillary" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "Tenzing", "t": "Tenzing", "lemma": "Tenzing" },
+            { "w": "Norgay", "t": "Norgay", "lemma": "Norgay" },
+            { "w": "climbed", "t": "zdobyli", "lemma": "climb" },
+            { "w": "Mount", "t": "Górę", "lemma": "mount" },
+            { "w": "Everest", "t": "Everest", "lemma": "Everest" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "highest", "t": "najwyższą", "lemma": "high" },
+            { "w": "mountain", "t": "górę", "lemma": "mountain" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "Earth", "t": "Ziemi", "lemma": "Earth" }
+          ]
+        },
+        {
+          "en": "The thin air near the top made every step extremely hard.",
+          "pl": "Rzadkie powietrze blisko szczytu sprawiało, że każdy krok był niezwykle trudny.",
+          "tokens": [
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "thin", "t": "rzadkie", "lemma": "thin" },
+            { "w": "air", "t": "powietrze", "lemma": "air" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "top", "t": "szczytu", "lemma": "top" },
+            { "w": "made", "t": "sprawiało", "lemma": "make" },
+            { "w": "every", "t": "każdy", "lemma": "every" },
+            { "w": "step", "t": "krok", "lemma": "step" },
+            { "w": "extremely", "t": "niezwykle", "lemma": "extremely" },
+            { "w": "hard", "t": "trudny", "lemma": "hard" }
+          ]
+        },
+        {
+          "en": "At the summit, they became the first climbers to reach the roof of the world.",
+          "pl": "Na szczycie stali się pierwszymi wspinaczami, którzy dotarli na dach świata.",
+          "tokens": [
+            { "w": "At", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "summit", "t": "szczycie", "lemma": "summit" },
+            { "w": "they", "t": "oni", "lemma": "they" },
+            { "w": "became", "t": "stali się", "lemma": "become" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszymi", "lemma": "first" },
+            { "w": "climbers", "t": "wspinaczami", "lemma": "climber" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "reach", "t": "dotrzeć", "lemma": "reach" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "roof", "t": "dach", "lemma": "roof" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "world", "t": "świata", "lemma": "world" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "In 1969, the astronaut Neil Armstrong became the first person to walk on the Moon.",
+          "pl": "W 1969 roku astronauta Neil Armstrong stał się pierwszym człowiekiem, który stąpał po Księżycu.",
+          "tokens": [
+            { "w": "In", "t": "w", "lemma": "in" },
+            { "w": "1969", "t": "1969" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "astronaut", "t": "astronauta", "lemma": "astronaut" },
+            { "w": "Neil", "t": "Neil", "lemma": "Neil" },
+            { "w": "Armstrong", "t": "Armstrong", "lemma": "Armstrong" },
+            { "w": "became", "t": "stał się", "lemma": "become" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "first", "t": "pierwszym", "lemma": "first" },
+            { "w": "person", "t": "człowiekiem", "lemma": "person" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "walk", "t": "stąpać", "lemma": "walk" },
+            { "w": "on", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Moon", "t": "Księżycu", "lemma": "Moon" }
+          ]
+        },
+        {
+          "en": "Millions of people watched the event live on television.",
+          "pl": "Miliony ludzi oglądały to wydarzenie na żywo w telewizji.",
+          "tokens": [
+            { "w": "Millions", "t": "miliony", "lemma": "million" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "people", "t": "ludzi", "lemma": "people" },
+            { "w": "watched", "t": "oglądały", "lemma": "watch" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "event", "t": "wydarzenie", "lemma": "event" },
+            { "w": "live", "t": "na żywo", "lemma": "live" },
+            { "w": "on", "t": "w", "lemma": "on" },
+            { "w": "television", "t": "telewizji", "lemma": "television" }
+          ]
+        },
+        {
+          "en": "His first step turned a childhood dream into history.",
+          "pl": "Jego pierwszy krok zamienił marzenie z dzieciństwa w historię.",
+          "tokens": [
+            { "w": "His", "t": "jego", "lemma": "his" },
+            { "w": "first", "t": "pierwszy", "lemma": "first" },
+            { "w": "step", "t": "krok", "lemma": "step" },
+            { "w": "turned", "t": "zamienił", "lemma": "turn" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "childhood", "t": "z dzieciństwa", "lemma": "childhood" },
+            { "w": "dream", "t": "marzenie", "lemma": "dream" },
+            { "w": "into", "t": "w", "lemma": "into" },
+            { "w": "history", "t": "historię", "lemma": "history" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "These explorers all shared courage, curiosity, and a love of discovery.",
+          "pl": "Wszystkich tych odkrywców łączyły odwaga, ciekawość i zamiłowanie do odkrywania.",
+          "tokens": [
+            { "w": "These", "t": "tych", "lemma": "this" },
+            { "w": "explorers", "t": "odkrywców", "lemma": "explorer" },
+            { "w": "all", "t": "wszystkich", "lemma": "all" },
+            { "w": "shared", "t": "łączyły", "lemma": "share" },
+            { "w": "courage", "t": "odwaga", "lemma": "courage" },
+            { "w": "curiosity", "t": "ciekawość", "lemma": "curiosity" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "love", "t": "zamiłowanie", "lemma": "love" },
+            { "w": "of", "t": "do", "lemma": "of" },
+            { "w": "discovery", "t": "odkrywania", "lemma": "discovery" }
+          ]
+        },
+        {
+          "en": "Because of them, places that once seemed impossible are now part of our maps.",
+          "pl": "Dzięki nim miejsca, które kiedyś wydawały się niemożliwe, są dziś częścią naszych map.",
+          "tokens": [
+            { "w": "Because", "t": "dzięki", "lemma": "because" },
+            { "w": "of", "t": "(nim)", "lemma": "of" },
+            { "w": "them", "t": "nim", "lemma": "them" },
+            { "w": "places", "t": "miejsca", "lemma": "place" },
+            { "w": "that", "t": "które", "lemma": "that" },
+            { "w": "once", "t": "kiedyś", "lemma": "once" },
+            { "w": "seemed", "t": "wydawały się", "lemma": "seem" },
+            { "w": "impossible", "t": "niemożliwe", "lemma": "impossible" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "now", "t": "dziś", "lemma": "now" },
+            { "w": "part", "t": "częścią", "lemma": "part" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "our", "t": "naszych", "lemma": "our" },
+            { "w": "maps", "t": "map", "lemma": "map" }
+          ]
+        },
+        {
+          "en": "Perhaps the next great journey is still waiting for someone brave.",
+          "pl": "Być może następna wielka podróż wciąż czeka na kogoś odważnego.",
+          "tokens": [
+            { "w": "Perhaps", "t": "być może", "lemma": "perhaps" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następna", "lemma": "next" },
+            { "w": "great", "t": "wielka", "lemma": "great" },
+            { "w": "journey", "t": "podróż", "lemma": "journey" },
+            { "w": "is", "t": "(czas teraźniejszy)", "lemma": "be" },
+            { "w": "still", "t": "wciąż", "lemma": "still" },
+            { "w": "waiting", "t": "czeka", "lemma": "wait" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "someone", "t": "kogoś", "lemma": "someone" },
+            { "w": "brave", "t": "odważnego", "lemma": "brave" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Dokąd podróżował Marco Polo w XIII wieku?",
+      "options": [
+        "Do Chin, wzdłuż Jedwabnego Szlaku",
+        "Do Ameryki",
+        "Na biegun południowy"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego dowiodła wyprawa Magellana, mimo jego śmierci?",
+      "options": [
+        "Że Ziemia jest okrągła (pierwsze opłynięcie świata)",
+        "Że ocean nie ma końca",
+        "Że Chiny są wyspą"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co osiągnął Roald Amundsen w 1911 roku?",
+      "options": [
+        "Jako pierwszy dotarł na biegun południowy",
+        "Zdobył Mount Everest",
+        "Poleciał na Księżyc"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Czego dokonali Hillary i Tenzing w 1953 roku?",
+      "options": [
+        "Jako pierwsi zdobyli Mount Everest",
+        "Opłynęli świat",
+        "Odkryli Amerykę"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kim był Neil Armstrong?",
+      "options": [
+        "Pierwszym człowiekiem, który stąpał po Księżycu (1969)",
+        "Norweskim polarnikiem",
+        "Włoskim podróżnikiem"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Co łączyło wszystkich tych odkrywców?",
+      "options": [
+        "Odwaga, ciekawość i zamiłowanie do odkrywania",
+        "Strach przed nieznanym",
+        "Niechęć do podróży"
+      ],
+      "answer": 0
+    }
+  ]
+}

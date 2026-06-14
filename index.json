@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-13",
+  "updatedAt": "2026-06-14",
   "texts": [
     {
       "id": "alice-ch01",
@@ -706,6 +706,22 @@
       ],
       "file": "texts/spy-school-20-graduation-exam.json",
       "sha256": "b9b809c59228eba4d10b13829a2e7f8773d7cfc41ae7b806793e3e32e9f9ae5f"
+    },
+    {
+      "id": "great-explorers",
+      "title": "Great Explorers and Their Journeys",
+      "author": "AI Assistant",
+      "level": "B2",
+      "category": "Historia",
+      "tags": [
+        "history",
+        "explorers",
+        "geography",
+        "nonfiction",
+        "trivia"
+      ],
+      "file": "texts/great-explorers.json",
+      "sha256": "f07f154a12b87037b4110710a9a3af6e8fccebefbab902a5c27424fc8ef605a9"
     }
   ]
 }
