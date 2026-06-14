@@ -391,7 +391,7 @@
       "id": "spy-school-01-new-recruit",
       "title": "Spy School 1: The New Recruit",
       "author": "AI Assistant",
-      "level": "A2",
+      "level": "B1",
       "category": "Szkoła szpiegów",
       "tags": [
         "spy",
@@ -401,7 +401,7 @@
         "series"
       ],
       "file": "texts/spy-school-01-new-recruit.json",
-      "sha256": "3410abda581b66293699b56c4eacdcb2a1cb1a628f7d6abb0623c0844d2c5296"
+      "sha256": "cd6ce019895dcbca2013d09ebf124583c99daae32b39e12f55ef49d3837129c6"
     },
     {
       "id": "spy-school-02-first-test",
