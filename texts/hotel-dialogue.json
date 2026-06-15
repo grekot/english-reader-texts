@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "hotel-dialogue",
+  "title": "Dialogues: At the Hotel",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "hotel", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Receptionist: Good evening. How can I help you?",
+          "pl": "Recepcjonista: Dobry wieczór. W czym mogę pomóc?",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Good", "t": "dobry", "lemma": "good" },
+            { "w": "evening", "t": "wieczór", "lemma": "evening" },
+            { "w": "How", "t": "jak", "lemma": "how" },
+            { "w": "can", "t": "mogę", "lemma": "can" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "help", "t": "pomóc", "lemma": "help" },
+            { "w": "you", "t": "panu", "lemma": "you" }
+          ]
+        },
+        {
+          "en": "Guest: Hello. I have a booking for two nights.",
+          "pl": "Gość: Dzień dobry. Mam rezerwację na dwie noce.",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Hello", "t": "dzień dobry", "lemma": "hello" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "have", "t": "mam", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "booking", "t": "rezerwację", "lemma": "booking" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "two", "t": "dwie", "lemma": "two" },
+            { "w": "nights", "t": "noce", "lemma": "night" }
+          ]
+        },
+        {
+          "en": "Receptionist: May I have your name and passport, please?",
+          "pl": "Recepcjonista: Czy mogę prosić o pana nazwisko i paszport?",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "May", "t": "czy mogę", "lemma": "may" },
+            { "w": "I", "t": "(ja)", "lemma": "I" },
+            { "w": "have", "t": "prosić o", "lemma": "have" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "name", "t": "nazwisko", "lemma": "name" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "passport", "t": "paszport", "lemma": "passport" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Guest: Here you are. Is breakfast included in the price?",
+          "pl": "Gość: Proszę bardzo. Czy śniadanie jest wliczone w cenę?",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Here", "t": "proszę bardzo (idiom)", "lemma": "here" },
+            { "w": "you", "t": "(część zwrotu)", "lemma": "you" },
+            { "w": "are", "t": "(część zwrotu)", "lemma": "be" },
+            { "w": "Is", "t": "(czy) jest", "lemma": "be" },
+            { "w": "breakfast", "t": "śniadanie", "lemma": "breakfast" },
+            { "w": "included", "t": "wliczone", "lemma": "include" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "price", "t": "cenę", "lemma": "price" }
+          ]
+        },
+        {
+          "en": "Receptionist: Yes, breakfast is served from seven until ten.",
+          "pl": "Recepcjonista: Tak, śniadanie jest podawane od siódmej do dziesiątej.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "breakfast", "t": "śniadanie", "lemma": "breakfast" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "served", "t": "podawane", "lemma": "serve" },
+            { "w": "from", "t": "od", "lemma": "from" },
+            { "w": "seven", "t": "siódmej", "lemma": "seven" },
+            { "w": "until", "t": "do", "lemma": "until" },
+            { "w": "ten", "t": "dziesiątej", "lemma": "ten" }
+          ]
+        },
+        {
+          "en": "Guest: Great. Does the room have air conditioning?",
+          "pl": "Gość: Świetnie. Czy pokój ma klimatyzację?",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Great", "t": "świetnie", "lemma": "great" },
+            { "w": "Does", "t": "(czy)", "lemma": "do" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "room", "t": "pokój", "lemma": "room" },
+            { "w": "have", "t": "ma", "lemma": "have" },
+            { "w": "air", "t": "klimatyzację", "lemma": "air" },
+            { "w": "conditioning", "t": "(klimatyzacja)", "lemma": "conditioning" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Receptionist: Of course. Here is your key card for room twelve.",
+          "pl": "Recepcjonista: Oczywiście. Oto pana karta-klucz do pokoju numer dwanaście.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "key", "t": "karta", "lemma": "key" },
+            { "w": "card", "t": "klucz", "lemma": "card" },
+            { "w": "for", "t": "do", "lemma": "for" },
+            { "w": "room", "t": "pokoju", "lemma": "room" },
+            { "w": "twelve", "t": "dwanaście", "lemma": "twelve" }
+          ]
+        },
+        {
+          "en": "Guest: Thank you. What is the password for the Wi-Fi?",
+          "pl": "Gość: Dziękuję. Jakie jest hasło do Wi-Fi?",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "What", "t": "jakie", "lemma": "what" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "password", "t": "hasło", "lemma": "password" },
+            { "w": "for", "t": "do", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "Wi-Fi", "t": "Wi-Fi", "lemma": "Wi-Fi" }
+          ]
+        },
+        {
+          "en": "Receptionist: It is printed on the back of your key card.",
+          "pl": "Recepcjonista: Jest wydrukowane na odwrocie pana karty-klucza.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "It", "t": "ono", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "printed", "t": "wydrukowane", "lemma": "print" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "back", "t": "odwrocie", "lemma": "back" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "key", "t": "karty", "lemma": "key" },
+            { "w": "card", "t": "klucza", "lemma": "card" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Guest: Could we have an extra towel and a pillow?",
+          "pl": "Gość: Czy moglibyśmy dostać dodatkowy ręcznik i poduszkę?",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Could", "t": "czy moglibyśmy", "lemma": "can" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "have", "t": "dostać", "lemma": "have" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "extra", "t": "dodatkowy", "lemma": "extra" },
+            { "w": "towel", "t": "ręcznik", "lemma": "towel" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "pillow", "t": "poduszkę", "lemma": "pillow" }
+          ]
+        },
+        {
+          "en": "Receptionist: Certainly. I will send them to your room right away.",
+          "pl": "Recepcjonista: Oczywiście. Wyślę je do pana pokoju od razu.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Certainly", "t": "oczywiście", "lemma": "certainly" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "send", "t": "wyślę", "lemma": "send" },
+            { "w": "them", "t": "je", "lemma": "them" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "room", "t": "pokoju", "lemma": "room" },
+            { "w": "right", "t": "od", "lemma": "right" },
+            { "w": "away", "t": "razu", "lemma": "away" }
+          ]
+        },
+        {
+          "en": "Guest: That is very kind of you.",
+          "pl": "Gość: To bardzo miłe z pana strony.",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "That", "t": "to", "lemma": "that" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "kind", "t": "miłe", "lemma": "kind" },
+            { "w": "of", "t": "(z)", "lemma": "of" },
+            { "w": "you", "t": "pana strony", "lemma": "you" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Guest: We are leaving tomorrow. What time is checkout?",
+          "pl": "Gość: Wyjeżdżamy jutro. O której godzinie jest wymeldowanie?",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "We", "t": "my", "lemma": "we" },
+            { "w": "are", "t": "(czas teraźniejszy ciągły)", "lemma": "be" },
+            { "w": "leaving", "t": "wyjeżdżamy", "lemma": "leave" },
+            { "w": "tomorrow", "t": "jutro", "lemma": "tomorrow" },
+            { "w": "What", "t": "o której", "lemma": "what" },
+            { "w": "time", "t": "godzinie", "lemma": "time" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "checkout", "t": "wymeldowanie", "lemma": "checkout" }
+          ]
+        },
+        {
+          "en": "Receptionist: Checkout is at eleven o'clock in the morning.",
+          "pl": "Recepcjonista: Wymeldowanie jest o jedenastej rano.",
+          "tokens": [
+            { "w": "Receptionist", "t": "recepcjonista", "lemma": "receptionist" },
+            { "w": "Checkout", "t": "wymeldowanie", "lemma": "checkout" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "at", "t": "o", "lemma": "at" },
+            { "w": "eleven", "t": "jedenastej", "lemma": "eleven" },
+            { "w": "o'clock", "t": "(godzinie)", "lemma": "o'clock" },
+            { "w": "in", "t": "(rano)", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "morning", "t": "rano", "lemma": "morning" }
+          ]
+        },
+        {
+          "en": "Guest: Perfect. Thank you for your help.",
+          "pl": "Gość: Doskonale. Dziękuję za pomoc.",
+          "tokens": [
+            { "w": "Guest", "t": "gość", "lemma": "guest" },
+            { "w": "Perfect", "t": "doskonale", "lemma": "perfect" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "help", "t": "pomoc", "lemma": "help" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Na ile nocy gość ma rezerwację?",
+      "options": ["Na dwie noce", "Na jedną noc", "Na tydzień"],
+      "answer": 0
+    },
+    {
+      "q": "W jakich godzinach podawane jest śniadanie?",
+      "options": ["Od siódmej do dziesiątej", "Od szóstej do ósmej", "Tylko o dziewiątej"],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie znajduje się hasło do Wi-Fi?",
+      "options": ["Na odwrocie karty-klucza", "Na drzwiach pokoju", "W menu restauracji"],
+      "answer": 0
+    },
+    {
+      "q": "O co gość poprosił do pokoju?",
+      "options": ["O dodatkowy ręcznik i poduszkę", "O dodatkowe łóżko", "O nowy telewizor"],
+      "answer": 0
+    },
+    {
+      "q": "O której godzinie jest wymeldowanie?",
+      "options": ["O jedenastej rano", "O dwunastej w południe", "O dziewiątej wieczorem"],
+      "answer": 0
+    }
+  ]
+}

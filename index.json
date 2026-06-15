@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-14",
+  "updatedAt": "2026-06-15",
   "texts": [
     {
       "id": "alice-ch01",
@@ -722,6 +722,86 @@
       ],
       "file": "texts/great-explorers.json",
       "sha256": "f07f154a12b87037b4110710a9a3af6e8fccebefbab902a5c27424fc8ef605a9"
+    },
+    {
+      "id": "hotel-dialogue",
+      "title": "Dialogues: At the Hotel",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "hotel",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/hotel-dialogue.json",
+      "sha256": "a1f54803fb0cbbee2f7ab239a961c0b0adab587eaf41be451c0f795ce64b91b2"
+    },
+    {
+      "id": "restaurant-dialogue",
+      "title": "Dialogues: At the Restaurant",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "restaurant",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/restaurant-dialogue.json",
+      "sha256": "93cd1cd6f4302ff1d1f37f72b57110f95fa64b7a8a54ad5092405b5da3799e9b"
+    },
+    {
+      "id": "swimming-pool-dialogue",
+      "title": "Dialogues: At the Swimming Pool",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "swimming",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/swimming-pool-dialogue.json",
+      "sha256": "035db04c8e2158255edb353960bc8d985d1ac80ea9659e42a5e291bdf459fd56"
+    },
+    {
+      "id": "shop-dialogue",
+      "title": "Dialogues: At the Shop",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "shopping",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/shop-dialogue.json",
+      "sha256": "3695142250b469846ae9241bcaefbfa54b84fd405575d2034b86a29dbf656a68"
+    },
+    {
+      "id": "gas-station-dialogue",
+      "title": "Dialogues: At the Gas Station",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "driving",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/gas-station-dialogue.json",
+      "sha256": "6b49e7259863b67c40533923fcab1982fd7259d068701eb829b9bc0742024237"
     }
   ]
 }

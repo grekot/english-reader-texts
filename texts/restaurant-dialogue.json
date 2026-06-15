@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "id": "restaurant-dialogue",
+  "title": "Dialogues: At the Restaurant",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "restaurant", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Waiter: Good evening. Do you have a reservation?",
+          "pl": "Kelner: Dobry wieczór. Czy mają państwo rezerwację?",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Good", "t": "dobry", "lemma": "good" },
+            { "w": "evening", "t": "wieczór", "lemma": "evening" },
+            { "w": "Do", "t": "(czy)", "lemma": "do" },
+            { "w": "you", "t": "państwo", "lemma": "you" },
+            { "w": "have", "t": "mają", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "reservation", "t": "rezerwację", "lemma": "reservation" }
+          ]
+        },
+        {
+          "en": "Customer: No, we don't. Do you have a table for two?",
+          "pl": "Klient: Nie, nie mamy. Czy jest wolny stolik dla dwóch osób?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "No", "t": "nie", "lemma": "no" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "don't", "t": "nie mamy", "lemma": "do not" },
+            { "w": "Do", "t": "(czy)", "lemma": "do" },
+            { "w": "you", "t": "(wy)", "lemma": "you" },
+            { "w": "have", "t": "jest", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "table", "t": "stolik", "lemma": "table" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "two", "t": "dwóch", "lemma": "two" }
+          ]
+        },
+        {
+          "en": "Waiter: Yes, please follow me to this table by the window.",
+          "pl": "Kelner: Tak, proszę za mną do tego stolika przy oknie.",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "please", "t": "proszę", "lemma": "please" },
+            { "w": "follow", "t": "za mną iść", "lemma": "follow" },
+            { "w": "me", "t": "(mną)", "lemma": "me" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "this", "t": "tego", "lemma": "this" },
+            { "w": "table", "t": "stolika", "lemma": "table" },
+            { "w": "by", "t": "przy", "lemma": "by" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "window", "t": "oknie", "lemma": "window" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Customer: Could we see the menu, please?",
+          "pl": "Klient: Czy moglibyśmy zobaczyć menu?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Could", "t": "czy moglibyśmy", "lemma": "can" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "see", "t": "zobaczyć", "lemma": "see" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "menu", "t": "menu", "lemma": "menu" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Waiter: Here you are. Today's special is grilled fish with vegetables.",
+          "pl": "Kelner: Proszę bardzo. Daniem dnia jest grillowana ryba z warzywami.",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Here", "t": "proszę bardzo (idiom)", "lemma": "here" },
+            { "w": "you", "t": "(część zwrotu)", "lemma": "you" },
+            { "w": "are", "t": "(część zwrotu)", "lemma": "be" },
+            { "w": "Today's", "t": "dnia", "lemma": "today" },
+            { "w": "special", "t": "danie specjalne", "lemma": "special" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "grilled", "t": "grillowana", "lemma": "grill" },
+            { "w": "fish", "t": "ryba", "lemma": "fish" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "vegetables", "t": "warzywami", "lemma": "vegetable" }
+          ]
+        },
+        {
+          "en": "Customer: That sounds delicious. I will have the fish, please.",
+          "pl": "Klient: Brzmi pysznie. Poproszę rybę.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "That", "t": "to", "lemma": "that" },
+            { "w": "sounds", "t": "brzmi", "lemma": "sound" },
+            { "w": "delicious", "t": "pysznie", "lemma": "delicious" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "have", "t": "poproszę", "lemma": "have" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fish", "t": "rybę", "lemma": "fish" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Waiter: And to drink?",
+          "pl": "Kelner: A do picia?",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "And", "t": "a", "lemma": "and" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "drink", "t": "picia", "lemma": "drink" }
+          ]
+        },
+        {
+          "en": "Customer: A bottle of still water and one orange juice, please.",
+          "pl": "Klient: Butelkę wody niegazowanej i jeden sok pomarańczowy, proszę.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "bottle", "t": "butelkę", "lemma": "bottle" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "still", "t": "niegazowanej", "lemma": "still" },
+            { "w": "water", "t": "wody", "lemma": "water" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "one", "t": "jeden", "lemma": "one" },
+            { "w": "orange", "t": "pomarańczowy", "lemma": "orange" },
+            { "w": "juice", "t": "sok", "lemma": "juice" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Waiter: Would you like anything else with your meal?",
+          "pl": "Kelner: Czy chcieliby państwo coś jeszcze do posiłku?",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "you", "t": "państwo", "lemma": "you" },
+            { "w": "like", "t": "chcieliby", "lemma": "like" },
+            { "w": "anything", "t": "coś", "lemma": "anything" },
+            { "w": "else", "t": "jeszcze", "lemma": "else" },
+            { "w": "with", "t": "do", "lemma": "with" },
+            { "w": "your", "t": "swojego", "lemma": "your" },
+            { "w": "meal", "t": "posiłku", "lemma": "meal" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Customer: Excuse me, this soup is a little cold.",
+          "pl": "Klient: Przepraszam, ta zupa jest trochę zimna.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Excuse", "t": "przepraszam", "lemma": "excuse" },
+            { "w": "me", "t": "(mnie)", "lemma": "me" },
+            { "w": "this", "t": "ta", "lemma": "this" },
+            { "w": "soup", "t": "zupa", "lemma": "soup" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "little", "t": "trochę", "lemma": "little" },
+            { "w": "cold", "t": "zimna", "lemma": "cold" }
+          ]
+        },
+        {
+          "en": "Waiter: I am very sorry. I will bring you a hot bowl at once.",
+          "pl": "Kelner: Bardzo przepraszam. Od razu przyniosę panu gorącą miskę.",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "am", "t": "jestem", "lemma": "be" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "sorry", "t": "(przepraszam)", "lemma": "sorry" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "bring", "t": "przyniosę", "lemma": "bring" },
+            { "w": "you", "t": "panu", "lemma": "you" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "hot", "t": "gorącą", "lemma": "hot" },
+            { "w": "bowl", "t": "miskę", "lemma": "bowl" },
+            { "w": "at", "t": "od", "lemma": "at" },
+            { "w": "once", "t": "razu", "lemma": "once" }
+          ]
+        },
+        {
+          "en": "Customer: Thank you, I appreciate it.",
+          "pl": "Klient: Dziękuję, doceniam to.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "appreciate", "t": "doceniam", "lemma": "appreciate" },
+            { "w": "it", "t": "to", "lemma": "it" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Customer: Could we have the bill, please?",
+          "pl": "Klient: Czy moglibyśmy prosić o rachunek?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Could", "t": "czy moglibyśmy", "lemma": "can" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "have", "t": "prosić o", "lemma": "have" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bill", "t": "rachunek", "lemma": "bill" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Waiter: Of course. You can pay by card or in cash.",
+          "pl": "Kelner: Oczywiście. Mogą państwo zapłacić kartą lub gotówką.",
+          "tokens": [
+            { "w": "Waiter", "t": "kelner", "lemma": "waiter" },
+            { "w": "Of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "You", "t": "państwo", "lemma": "you" },
+            { "w": "can", "t": "mogą", "lemma": "can" },
+            { "w": "pay", "t": "zapłacić", "lemma": "pay" },
+            { "w": "by", "t": "(za pomocą)", "lemma": "by" },
+            { "w": "card", "t": "kartą", "lemma": "card" },
+            { "w": "or", "t": "lub", "lemma": "or" },
+            { "w": "in", "t": "(za pomocą)", "lemma": "in" },
+            { "w": "cash", "t": "gotówką", "lemma": "cash" }
+          ]
+        },
+        {
+          "en": "Customer: I will pay by card. The food was excellent.",
+          "pl": "Klient: Zapłacę kartą. Jedzenie było wyśmienite.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "pay", "t": "zapłacę", "lemma": "pay" },
+            { "w": "by", "t": "(za pomocą)", "lemma": "by" },
+            { "w": "card", "t": "kartą", "lemma": "card" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "food", "t": "jedzenie", "lemma": "food" },
+            { "w": "was", "t": "było", "lemma": "be" },
+            { "w": "excellent", "t": "wyśmienite", "lemma": "excellent" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Czy klienci mieli rezerwację?",
+      "options": ["Nie; dostali stolik przy oknie", "Tak, na taras", "Tak, na dziesięć osób"],
+      "answer": 0
+    },
+    {
+      "q": "Co było daniem dnia?",
+      "options": ["Grillowana ryba z warzywami", "Pizza z serem", "Zupa pomidorowa"],
+      "answer": 0
+    },
+    {
+      "q": "Co klient zamówił do picia?",
+      "options": ["Butelkę wody niegazowanej i sok pomarańczowy", "Dwie kawy", "Tylko herbatę"],
+      "answer": 0
+    },
+    {
+      "q": "Na co poskarżył się klient?",
+      "options": ["Że zupa jest trochę zimna", "Że stolik jest brudny", "Że muzyka jest za głośna"],
+      "answer": 0
+    },
+    {
+      "q": "Jak klient zapłacił?",
+      "options": ["Kartą", "Gotówką", "Czekiem"],
+      "answer": 0
+    }
+  ]
+}

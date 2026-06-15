@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "id": "shop-dialogue",
+  "title": "Dialogues: At the Shop",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "shopping", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Customer: Excuse me, I am looking for a blue T-shirt.",
+          "pl": "Klient: Przepraszam, szukam niebieskiej koszulki.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Excuse", "t": "przepraszam", "lemma": "excuse" },
+            { "w": "me", "t": "(mnie)", "lemma": "me" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "am", "t": "(szukam)", "lemma": "be" },
+            { "w": "looking", "t": "szukam", "lemma": "look" },
+            { "w": "for", "t": "(za)", "lemma": "for" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "blue", "t": "niebieskiej", "lemma": "blue" },
+            { "w": "T-shirt", "t": "koszulki", "lemma": "T-shirt" }
+          ]
+        },
+        {
+          "en": "Shop assistant: The T-shirts are over there, on the second shelf.",
+          "pl": "Sprzedawca: Koszulki są tam, na drugiej półce.",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "T-shirts", "t": "koszulki", "lemma": "T-shirt" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "over", "t": "tam", "lemma": "over" },
+            { "w": "there", "t": "(tam)", "lemma": "there" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "second", "t": "drugiej", "lemma": "second" },
+            { "w": "shelf", "t": "półce", "lemma": "shelf" }
+          ]
+        },
+        {
+          "en": "Customer: Do you have this one in a larger size?",
+          "pl": "Klient: Czy mają państwo tę w większym rozmiarze?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Do", "t": "(czy)", "lemma": "do" },
+            { "w": "you", "t": "państwo", "lemma": "you" },
+            { "w": "have", "t": "mają", "lemma": "have" },
+            { "w": "this", "t": "tę", "lemma": "this" },
+            { "w": "one", "t": "(jedną)", "lemma": "one" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "larger", "t": "większym", "lemma": "large" },
+            { "w": "size", "t": "rozmiarze", "lemma": "size" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Shop assistant: Yes, here is a large size. Would you like to try it on?",
+          "pl": "Sprzedawca: Tak, oto rozmiar L. Czy chciałby pan ją przymierzyć?",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "here", "t": "oto", "lemma": "here" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "large", "t": "duży", "lemma": "large" },
+            { "w": "size", "t": "rozmiar", "lemma": "size" },
+            { "w": "Would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "like", "t": "chciałby", "lemma": "like" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "try", "t": "przymierzyć", "lemma": "try" },
+            { "w": "it", "t": "ją", "lemma": "it" },
+            { "w": "on", "t": "(part.)", "lemma": "on" }
+          ]
+        },
+        {
+          "en": "Customer: Yes, please. Where is the changing room?",
+          "pl": "Klient: Tak, proszę. Gdzie jest przymierzalnia?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "please", "t": "proszę", "lemma": "please" },
+            { "w": "Where", "t": "gdzie", "lemma": "where" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "changing", "t": "(przymierzalnia)", "lemma": "change" },
+            { "w": "room", "t": "przymierzalnia", "lemma": "room" }
+          ]
+        },
+        {
+          "en": "Shop assistant: It is at the back of the shop, on the right.",
+          "pl": "Sprzedawca: Jest z tyłu sklepu, po prawej stronie.",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "It", "t": "ona", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "at", "t": "z", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "back", "t": "tyłu", "lemma": "back" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "shop", "t": "sklepu", "lemma": "shop" },
+            { "w": "on", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "right", "t": "prawej stronie", "lemma": "right" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Customer: This size fits perfectly. How much does it cost?",
+          "pl": "Klient: Ten rozmiar pasuje idealnie. Ile kosztuje?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "This", "t": "ten", "lemma": "this" },
+            { "w": "size", "t": "rozmiar", "lemma": "size" },
+            { "w": "fits", "t": "pasuje", "lemma": "fit" },
+            { "w": "perfectly", "t": "idealnie", "lemma": "perfectly" },
+            { "w": "How", "t": "ile", "lemma": "how" },
+            { "w": "much", "t": "(ile)", "lemma": "much" },
+            { "w": "does", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "it", "t": "ona", "lemma": "it" },
+            { "w": "cost", "t": "kosztuje", "lemma": "cost" }
+          ]
+        },
+        {
+          "en": "Shop assistant: It costs fifteen euros. It is on sale this week.",
+          "pl": "Sprzedawca: Kosztuje piętnaście euro. W tym tygodniu jest na wyprzedaży.",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "It", "t": "ona", "lemma": "it" },
+            { "w": "costs", "t": "kosztuje", "lemma": "cost" },
+            { "w": "fifteen", "t": "piętnaście", "lemma": "fifteen" },
+            { "w": "euros", "t": "euro", "lemma": "euro" },
+            { "w": "It", "t": "ona", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "sale", "t": "wyprzedaży", "lemma": "sale" },
+            { "w": "this", "t": "tym", "lemma": "this" },
+            { "w": "week", "t": "tygodniu", "lemma": "week" }
+          ]
+        },
+        {
+          "en": "Customer: That is a good price. I will take it.",
+          "pl": "Klient: To dobra cena. Wezmę ją.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "That", "t": "to", "lemma": "that" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "good", "t": "dobra", "lemma": "good" },
+            { "w": "price", "t": "cena", "lemma": "price" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "take", "t": "wezmę", "lemma": "take" },
+            { "w": "it", "t": "ją", "lemma": "it" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Shop assistant: Would you like to pay by card or in cash?",
+          "pl": "Sprzedawca: Czy chciałby pan zapłacić kartą czy gotówką?",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "Would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "like", "t": "chciałby", "lemma": "like" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "pay", "t": "zapłacić", "lemma": "pay" },
+            { "w": "by", "t": "(za pomocą)", "lemma": "by" },
+            { "w": "card", "t": "kartą", "lemma": "card" },
+            { "w": "or", "t": "czy", "lemma": "or" },
+            { "w": "in", "t": "(za pomocą)", "lemma": "in" },
+            { "w": "cash", "t": "gotówką", "lemma": "cash" }
+          ]
+        },
+        {
+          "en": "Customer: By card, please. Can I have a receipt?",
+          "pl": "Klient: Kartą, proszę. Czy mogę dostać paragon?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "By", "t": "(za pomocą)", "lemma": "by" },
+            { "w": "card", "t": "kartą", "lemma": "card" },
+            { "w": "please", "t": "proszę", "lemma": "please" },
+            { "w": "Can", "t": "czy mogę", "lemma": "can" },
+            { "w": "I", "t": "(ja)", "lemma": "I" },
+            { "w": "have", "t": "dostać", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "receipt", "t": "paragon", "lemma": "receipt" }
+          ]
+        },
+        {
+          "en": "Shop assistant: Of course. Here is your receipt and your bag.",
+          "pl": "Sprzedawca: Oczywiście. Oto pana paragon i pana torba.",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "Of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "receipt", "t": "paragon", "lemma": "receipt" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "bag", "t": "torba", "lemma": "bag" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Customer: If it is the wrong size, can I bring it back?",
+          "pl": "Klient: Jeśli rozmiar będzie zły, czy mogę ją zwrócić?",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "If", "t": "jeśli", "lemma": "if" },
+            { "w": "it", "t": "(rozmiar)", "lemma": "it" },
+            { "w": "is", "t": "będzie", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "wrong", "t": "zły", "lemma": "wrong" },
+            { "w": "size", "t": "rozmiar", "lemma": "size" },
+            { "w": "can", "t": "czy mogę", "lemma": "can" },
+            { "w": "I", "t": "(ja)", "lemma": "I" },
+            { "w": "bring", "t": "zwrócić", "lemma": "bring" },
+            { "w": "it", "t": "ją", "lemma": "it" },
+            { "w": "back", "t": "(z powrotem)", "lemma": "back" }
+          ]
+        },
+        {
+          "en": "Shop assistant: Yes, you can return it within fourteen days.",
+          "pl": "Sprzedawca: Tak, można ją zwrócić w ciągu czternastu dni.",
+          "tokens": [
+            { "w": "Shop", "t": "sklepowy", "lemma": "shop" },
+            { "w": "assistant", "t": "sprzedawca", "lemma": "assistant" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "you", "t": "(można)", "lemma": "you" },
+            { "w": "can", "t": "można", "lemma": "can" },
+            { "w": "return", "t": "zwrócić", "lemma": "return" },
+            { "w": "it", "t": "ją", "lemma": "it" },
+            { "w": "within", "t": "w ciągu", "lemma": "within" },
+            { "w": "fourteen", "t": "czternastu", "lemma": "fourteen" },
+            { "w": "days", "t": "dni", "lemma": "day" }
+          ]
+        },
+        {
+          "en": "Customer: Perfect. Thank you very much for your help.",
+          "pl": "Klient: Doskonale. Bardzo dziękuję za pomoc.",
+          "tokens": [
+            { "w": "Customer", "t": "klient", "lemma": "customer" },
+            { "w": "Perfect", "t": "doskonale", "lemma": "perfect" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "very", "t": "bardzo", "lemma": "very" },
+            { "w": "much", "t": "(bardzo)", "lemma": "much" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "help", "t": "pomoc", "lemma": "help" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Czego szukał klient?",
+      "options": ["Niebieskiej koszulki (T-shirt)", "Czarnych spodni", "Czerwonej czapki"],
+      "answer": 0
+    },
+    {
+      "q": "O co poprosił klient odnośnie rozmiaru?",
+      "options": ["O większy rozmiar", "O mniejszy rozmiar", "O dwie sztuki"],
+      "answer": 0
+    },
+    {
+      "q": "Ile kosztowała koszulka?",
+      "options": ["Piętnaście euro (była na wyprzedaży)", "Pięćdziesiąt euro", "Pięć euro"],
+      "answer": 0
+    },
+    {
+      "q": "Jak klient zapłacił?",
+      "options": ["Kartą (i poprosił o paragon)", "Gotówką", "Telefonem"],
+      "answer": 0
+    },
+    {
+      "q": "W jakim czasie można zwrócić towar?",
+      "options": ["W ciągu czternastu dni", "W ciągu dwóch dni", "Nie można go zwrócić"],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "id": "gas-station-dialogue",
+  "title": "Dialogues: At the Gas Station",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "driving", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Driver: Hello, I would like to fill up my car, please.",
+          "pl": "Kierowca: Dzień dobry, chciałbym zatankować do pełna, proszę.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Hello", "t": "dzień dobry", "lemma": "hello" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "like", "t": "chciałbym", "lemma": "like" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "fill", "t": "zatankować", "lemma": "fill" },
+            { "w": "up", "t": "do pełna", "lemma": "up" },
+            { "w": "my", "t": "swój", "lemma": "my" },
+            { "w": "car", "t": "samochód", "lemma": "car" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        },
+        {
+          "en": "Attendant: Which pump are you using?",
+          "pl": "Pracownik: Którego dystrybutora pan używa?",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "Which", "t": "którego", "lemma": "which" },
+            { "w": "pump", "t": "dystrybutora", "lemma": "pump" },
+            { "w": "are", "t": "(czy)", "lemma": "be" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "using", "t": "używa", "lemma": "use" }
+          ]
+        },
+        {
+          "en": "Driver: I am at pump number four.",
+          "pl": "Kierowca: Jestem przy dystrybutorze numer cztery.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "am", "t": "jestem", "lemma": "be" },
+            { "w": "at", "t": "przy", "lemma": "at" },
+            { "w": "pump", "t": "dystrybutorze", "lemma": "pump" },
+            { "w": "number", "t": "numer", "lemma": "number" },
+            { "w": "four", "t": "cztery", "lemma": "four" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Attendant: Do you need petrol or diesel?",
+          "pl": "Pracownik: Potrzebuje pan benzyny czy oleju napędowego?",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "Do", "t": "(czy)", "lemma": "do" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "need", "t": "potrzebuje", "lemma": "need" },
+            { "w": "petrol", "t": "benzyny", "lemma": "petrol" },
+            { "w": "or", "t": "czy", "lemma": "or" },
+            { "w": "diesel", "t": "oleju napędowego", "lemma": "diesel" }
+          ]
+        },
+        {
+          "en": "Driver: Diesel, please. Can I also check the tyre pressure here?",
+          "pl": "Kierowca: Olej napędowy, proszę. Czy mogę tu też sprawdzić ciśnienie w oponach?",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Diesel", "t": "olej napędowy", "lemma": "diesel" },
+            { "w": "please", "t": "proszę", "lemma": "please" },
+            { "w": "Can", "t": "czy mogę", "lemma": "can" },
+            { "w": "I", "t": "(ja)", "lemma": "I" },
+            { "w": "also", "t": "też", "lemma": "also" },
+            { "w": "check", "t": "sprawdzić", "lemma": "check" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "tyre", "t": "w oponach", "lemma": "tyre" },
+            { "w": "pressure", "t": "ciśnienie", "lemma": "pressure" },
+            { "w": "here", "t": "tu", "lemma": "here" }
+          ]
+        },
+        {
+          "en": "Attendant: Yes, the air machine is next to the car wash.",
+          "pl": "Pracownik: Tak, kompresor jest obok myjni samochodowej.",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "air", "t": "(do powietrza)", "lemma": "air" },
+            { "w": "machine", "t": "kompresor", "lemma": "machine" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "next", "t": "obok", "lemma": "next" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "car", "t": "samochodowej", "lemma": "car" },
+            { "w": "wash", "t": "myjni", "lemma": "wash" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Driver: How much do I owe you for the fuel?",
+          "pl": "Kierowca: Ile jestem panu winien za paliwo?",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "How", "t": "ile", "lemma": "how" },
+            { "w": "much", "t": "(ile)", "lemma": "much" },
+            { "w": "do", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "owe", "t": "jestem winien", "lemma": "owe" },
+            { "w": "you", "t": "panu", "lemma": "you" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "fuel", "t": "paliwo", "lemma": "fuel" }
+          ]
+        },
+        {
+          "en": "Attendant: That is fifty euros for pump number four.",
+          "pl": "Pracownik: To pięćdziesiąt euro za dystrybutor numer cztery.",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "That", "t": "to", "lemma": "that" },
+            { "w": "is", "t": "(jest)", "lemma": "be" },
+            { "w": "fifty", "t": "pięćdziesiąt", "lemma": "fifty" },
+            { "w": "euros", "t": "euro", "lemma": "euro" },
+            { "w": "for", "t": "za", "lemma": "for" },
+            { "w": "pump", "t": "dystrybutor", "lemma": "pump" },
+            { "w": "number", "t": "numer", "lemma": "number" },
+            { "w": "four", "t": "cztery", "lemma": "four" }
+          ]
+        },
+        {
+          "en": "Driver: Can I pay by card?",
+          "pl": "Kierowca: Czy mogę zapłacić kartą?",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Can", "t": "czy mogę", "lemma": "can" },
+            { "w": "I", "t": "(ja)", "lemma": "I" },
+            { "w": "pay", "t": "zapłacić", "lemma": "pay" },
+            { "w": "by", "t": "(za pomocą)", "lemma": "by" },
+            { "w": "card", "t": "kartą", "lemma": "card" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Attendant: Yes, of course. Would you like anything from the shop?",
+          "pl": "Pracownik: Tak, oczywiście. Czy chciałby pan coś ze sklepu?",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "Would", "t": "(tryb grzecznościowy)", "lemma": "would" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "like", "t": "chciałby", "lemma": "like" },
+            { "w": "anything", "t": "coś", "lemma": "anything" },
+            { "w": "from", "t": "ze", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "shop", "t": "sklepu", "lemma": "shop" }
+          ]
+        },
+        {
+          "en": "Driver: I will take a coffee and a bottle of water.",
+          "pl": "Kierowca: Wezmę kawę i butelkę wody.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "take", "t": "wezmę", "lemma": "take" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "coffee", "t": "kawę", "lemma": "coffee" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "bottle", "t": "butelkę", "lemma": "bottle" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "water", "t": "wody", "lemma": "water" }
+          ]
+        },
+        {
+          "en": "Attendant: The coffee machine is just behind you.",
+          "pl": "Pracownik: Ekspres do kawy jest tuż za panem.",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "coffee", "t": "do kawy", "lemma": "coffee" },
+            { "w": "machine", "t": "ekspres", "lemma": "machine" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "just", "t": "tuż", "lemma": "just" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "you", "t": "panem", "lemma": "you" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Driver: Thank you. Where is the restroom?",
+          "pl": "Kierowca: Dziękuję. Gdzie jest toaleta?",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "Where", "t": "gdzie", "lemma": "where" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "restroom", "t": "toaleta", "lemma": "restroom" }
+          ]
+        },
+        {
+          "en": "Attendant: It is around the corner, next to the entrance.",
+          "pl": "Pracownik: Jest za rogiem, obok wejścia.",
+          "tokens": [
+            { "w": "Attendant", "t": "pracownik", "lemma": "attendant" },
+            { "w": "It", "t": "ona", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "around", "t": "za", "lemma": "around" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "corner", "t": "rogiem", "lemma": "corner" },
+            { "w": "next", "t": "obok", "lemma": "next" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "entrance", "t": "wejścia", "lemma": "entrance" }
+          ]
+        },
+        {
+          "en": "Driver: Great. Have a nice day!",
+          "pl": "Kierowca: Świetnie. Miłego dnia!",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Great", "t": "świetnie", "lemma": "great" },
+            { "w": "Have", "t": "miłego", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "nice", "t": "(miłego)", "lemma": "nice" },
+            { "w": "day", "t": "dnia", "lemma": "day" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Co kierowca chciał zrobić ze swoim autem?",
+      "options": ["Zatankować do pełna", "Umyć je w myjni", "Sprzedać je"],
+      "answer": 0
+    },
+    {
+      "q": "Przy którym dystrybutorze stał kierowca?",
+      "options": ["Numer cztery", "Numer jeden", "Numer dziesięć"],
+      "answer": 0
+    },
+    {
+      "q": "Jakiego paliwa potrzebował kierowca?",
+      "options": ["Oleju napędowego (i chciał sprawdzić ciśnienie w oponach)", "Benzyny", "Gazu"],
+      "answer": 0
+    },
+    {
+      "q": "Ile kierowca zapłacił za paliwo?",
+      "options": ["Pięćdziesiąt euro", "Piętnaście euro", "Sto euro"],
+      "answer": 0
+    },
+    {
+      "q": "Co kierowca wziął ze sklepu?",
+      "options": ["Kawę i butelkę wody", "Kanapkę i gazetę", "Nic"],
+      "answer": 0
+    }
+  ]
+}

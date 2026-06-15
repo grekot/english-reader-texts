@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "id": "swimming-pool-dialogue",
+  "title": "Dialogues: At the Swimming Pool",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "swimming", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Visitor: Hello, how much is a ticket for the swimming pool?",
+          "pl": "Odwiedzający: Dzień dobry, ile kosztuje bilet na basen?",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Hello", "t": "dzień dobry", "lemma": "hello" },
+            { "w": "how", "t": "ile", "lemma": "how" },
+            { "w": "much", "t": "(ile)", "lemma": "much" },
+            { "w": "is", "t": "kosztuje", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "ticket", "t": "bilet", "lemma": "ticket" },
+            { "w": "for", "t": "na", "lemma": "for" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "swimming", "t": "pływacki", "lemma": "swim" },
+            { "w": "pool", "t": "basen", "lemma": "pool" }
+          ]
+        },
+        {
+          "en": "Cashier: It is eight euros for adults and four euros for children.",
+          "pl": "Kasjer: Osiem euro dla dorosłych i cztery euro dla dzieci.",
+          "tokens": [
+            { "w": "Cashier", "t": "kasjer", "lemma": "cashier" },
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "is", "t": "(kosztuje)", "lemma": "be" },
+            { "w": "eight", "t": "osiem", "lemma": "eight" },
+            { "w": "euros", "t": "euro", "lemma": "euro" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "adults", "t": "dorosłych", "lemma": "adult" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "four", "t": "cztery", "lemma": "four" },
+            { "w": "euros", "t": "euro", "lemma": "euro" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "children", "t": "dzieci", "lemma": "child" }
+          ]
+        },
+        {
+          "en": "Visitor: Two adults and one child, please.",
+          "pl": "Odwiedzający: Dwoje dorosłych i jedno dziecko, proszę.",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Two", "t": "dwoje", "lemma": "two" },
+            { "w": "adults", "t": "dorosłych", "lemma": "adult" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "one", "t": "jedno", "lemma": "one" },
+            { "w": "child", "t": "dziecko", "lemma": "child" },
+            { "w": "please", "t": "proszę", "lemma": "please" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Cashier: Here are your wristbands. The changing rooms are on the left.",
+          "pl": "Kasjer: Oto wasze opaski. Przebieralnie są po lewej stronie.",
+          "tokens": [
+            { "w": "Cashier", "t": "kasjer", "lemma": "cashier" },
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "your", "t": "wasze", "lemma": "your" },
+            { "w": "wristbands", "t": "opaski", "lemma": "wristband" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "changing", "t": "(przebieralnie)", "lemma": "change" },
+            { "w": "rooms", "t": "przebieralnie", "lemma": "room" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "on", "t": "po", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "left", "t": "lewej stronie", "lemma": "left" }
+          ]
+        },
+        {
+          "en": "Visitor: Thank you. How do the lockers work?",
+          "pl": "Odwiedzający: Dziękuję. Jak działają szafki?",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "How", "t": "jak", "lemma": "how" },
+            { "w": "do", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "lockers", "t": "szafki", "lemma": "locker" },
+            { "w": "work", "t": "działają", "lemma": "work" }
+          ]
+        },
+        {
+          "en": "Cashier: Put a coin inside, and your wristband opens the locker.",
+          "pl": "Kasjer: Włóż monetę do środka, a opaska otwiera szafkę.",
+          "tokens": [
+            { "w": "Cashier", "t": "kasjer", "lemma": "cashier" },
+            { "w": "Put", "t": "włóż", "lemma": "put" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "coin", "t": "monetę", "lemma": "coin" },
+            { "w": "inside", "t": "do środka", "lemma": "inside" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "your", "t": "twoja", "lemma": "your" },
+            { "w": "wristband", "t": "opaska", "lemma": "wristband" },
+            { "w": "opens", "t": "otwiera", "lemma": "open" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "locker", "t": "szafkę", "lemma": "locker" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Lifeguard: Please take a shower before you enter the water.",
+          "pl": "Ratownik: Proszę wziąć prysznic, zanim wejdziesz do wody.",
+          "tokens": [
+            { "w": "Lifeguard", "t": "ratownik", "lemma": "lifeguard" },
+            { "w": "Please", "t": "proszę", "lemma": "please" },
+            { "w": "take", "t": "wziąć", "lemma": "take" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "shower", "t": "prysznic", "lemma": "shower" },
+            { "w": "before", "t": "zanim", "lemma": "before" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "enter", "t": "wejdziesz do", "lemma": "enter" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "water", "t": "wody", "lemma": "water" }
+          ]
+        },
+        {
+          "en": "Visitor: Of course. Is the deep pool safe for children?",
+          "pl": "Odwiedzający: Oczywiście. Czy głęboki basen jest bezpieczny dla dzieci?",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Of", "t": "(oczywiście)", "lemma": "of" },
+            { "w": "course", "t": "oczywiście", "lemma": "course" },
+            { "w": "Is", "t": "(czy) jest", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "deep", "t": "głęboki", "lemma": "deep" },
+            { "w": "pool", "t": "basen", "lemma": "pool" },
+            { "w": "safe", "t": "bezpieczny", "lemma": "safe" },
+            { "w": "for", "t": "dla", "lemma": "for" },
+            { "w": "children", "t": "dzieci", "lemma": "child" }
+          ]
+        },
+        {
+          "en": "Lifeguard: Children must swim in the shallow pool over there.",
+          "pl": "Ratownik: Dzieci muszą pływać w płytkim basenie tam.",
+          "tokens": [
+            { "w": "Lifeguard", "t": "ratownik", "lemma": "lifeguard" },
+            { "w": "Children", "t": "dzieci", "lemma": "child" },
+            { "w": "must", "t": "muszą", "lemma": "must" },
+            { "w": "swim", "t": "pływać", "lemma": "swim" },
+            { "w": "in", "t": "w", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "shallow", "t": "płytkim", "lemma": "shallow" },
+            { "w": "pool", "t": "basenie", "lemma": "pool" },
+            { "w": "over", "t": "tam", "lemma": "over" },
+            { "w": "there", "t": "(tam)", "lemma": "there" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Visitor: Where can I rent a towel?",
+          "pl": "Odwiedzający: Gdzie mogę wypożyczyć ręcznik?",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Where", "t": "gdzie", "lemma": "where" },
+            { "w": "can", "t": "mogę", "lemma": "can" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "rent", "t": "wypożyczyć", "lemma": "rent" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "towel", "t": "ręcznik", "lemma": "towel" }
+          ]
+        },
+        {
+          "en": "Lifeguard: You can rent towels at the small desk near the entrance.",
+          "pl": "Ratownik: Ręczniki można wypożyczyć przy małym stanowisku blisko wejścia.",
+          "tokens": [
+            { "w": "Lifeguard", "t": "ratownik", "lemma": "lifeguard" },
+            { "w": "You", "t": "(można)", "lemma": "you" },
+            { "w": "can", "t": "można", "lemma": "can" },
+            { "w": "rent", "t": "wypożyczyć", "lemma": "rent" },
+            { "w": "towels", "t": "ręczniki", "lemma": "towel" },
+            { "w": "at", "t": "przy", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "small", "t": "małym", "lemma": "small" },
+            { "w": "desk", "t": "stanowisku", "lemma": "desk" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "entrance", "t": "wejścia", "lemma": "entrance" }
+          ]
+        },
+        {
+          "en": "Visitor: Great, and where are the toilets?",
+          "pl": "Odwiedzający: Świetnie, a gdzie są toalety?",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Great", "t": "świetnie", "lemma": "great" },
+            { "w": "and", "t": "a", "lemma": "and" },
+            { "w": "where", "t": "gdzie", "lemma": "where" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "toilets", "t": "toalety", "lemma": "toilet" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Lifeguard: The toilets are next to the showers.",
+          "pl": "Ratownik: Toalety są obok pryszniców.",
+          "tokens": [
+            { "w": "Lifeguard", "t": "ratownik", "lemma": "lifeguard" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "toilets", "t": "toalety", "lemma": "toilet" },
+            { "w": "are", "t": "są", "lemma": "be" },
+            { "w": "next", "t": "obok", "lemma": "next" },
+            { "w": "to", "t": "(przyimek)", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "showers", "t": "pryszniców", "lemma": "shower" }
+          ]
+        },
+        {
+          "en": "Visitor: Thank you. What time does the pool close?",
+          "pl": "Odwiedzający: Dziękuję. O której godzinie zamyka się basen?",
+          "tokens": [
+            { "w": "Visitor", "t": "odwiedzający", "lemma": "visitor" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(panu)", "lemma": "you" },
+            { "w": "What", "t": "o której", "lemma": "what" },
+            { "w": "time", "t": "godzinie", "lemma": "time" },
+            { "w": "does", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "pool", "t": "basen", "lemma": "pool" },
+            { "w": "close", "t": "zamyka się", "lemma": "close" }
+          ]
+        },
+        {
+          "en": "Lifeguard: The pool closes at eight in the evening.",
+          "pl": "Ratownik: Basen zamyka się o ósmej wieczorem.",
+          "tokens": [
+            { "w": "Lifeguard", "t": "ratownik", "lemma": "lifeguard" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "pool", "t": "basen", "lemma": "pool" },
+            { "w": "closes", "t": "zamyka się", "lemma": "close" },
+            { "w": "at", "t": "o", "lemma": "at" },
+            { "w": "eight", "t": "ósmej", "lemma": "eight" },
+            { "w": "in", "t": "(wieczorem)", "lemma": "in" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "evening", "t": "wieczorem", "lemma": "evening" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Ile kosztuje bilet dla dorosłego?",
+      "options": ["Osiem euro (dziecko cztery)", "Cztery euro", "Dziesięć euro"],
+      "answer": 0
+    },
+    {
+      "q": "Jak działają szafki?",
+      "options": ["Włóż monetę, a opaska otwiera szafkę", "Otwiera je kasjer", "Są zawsze otwarte"],
+      "answer": 0
+    },
+    {
+      "q": "Co trzeba zrobić przed wejściem do wody?",
+      "options": ["Wziąć prysznic", "Kupić ręcznik", "Zadzwonić do ratownika"],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie mają pływać dzieci?",
+      "options": ["W płytkim basenie", "W głębokim basenie", "Tylko pod prysznicem"],
+      "answer": 0
+    },
+    {
+      "q": "O której godzinie zamyka się basen?",
+      "options": ["O ósmej wieczorem", "O szóstej rano", "O dziesiątej wieczorem"],
+      "answer": 0
+    }
+  ]
+}
