@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "directions-transport-dialogue",
+  "title": "Dialogues: Directions and Public Transport",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "transport", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Tourist: Excuse me, how do I get to the train station?",
+          "pl": "Turysta: Przepraszam, jak dostać się na dworzec kolejowy?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Excuse", "t": "przepraszam", "lemma": "excuse" },
+            { "w": "me", "t": "(mnie)", "lemma": "me" },
+            { "w": "how", "t": "jak", "lemma": "how" },
+            { "w": "do", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "get", "t": "dostać się", "lemma": "get" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "train", "t": "kolejowy", "lemma": "train" },
+            { "w": "station", "t": "dworzec", "lemma": "station" }
+          ]
+        },
+        {
+          "en": "Local: Go straight ahead and turn left at the traffic lights.",
+          "pl": "Miejscowy: Idź prosto przed siebie i skręć w lewo przy światłach.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "Go", "t": "idź", "lemma": "go" },
+            { "w": "straight", "t": "prosto", "lemma": "straight" },
+            { "w": "ahead", "t": "przed siebie", "lemma": "ahead" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "turn", "t": "skręć", "lemma": "turn" },
+            { "w": "left", "t": "w lewo", "lemma": "left" },
+            { "w": "at", "t": "przy", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "traffic", "t": "(drogowych)", "lemma": "traffic" },
+            { "w": "lights", "t": "światłach", "lemma": "light" }
+          ]
+        },
+        {
+          "en": "Tourist: Is it far, or can I walk there?",
+          "pl": "Turysta: Czy to daleko, czy mogę tam dojść pieszo?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Is", "t": "(czy) jest", "lemma": "be" },
+            { "w": "it", "t": "to", "lemma": "it" },
+            { "w": "far", "t": "daleko", "lemma": "far" },
+            { "w": "or", "t": "czy", "lemma": "or" },
+            { "w": "can", "t": "mogę", "lemma": "can" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "walk", "t": "dojść pieszo", "lemma": "walk" },
+            { "w": "there", "t": "tam", "lemma": "there" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Local: It is about ten minutes on foot, or you can take the bus.",
+          "pl": "Miejscowy: To około dziesięć minut pieszo albo możesz pojechać autobusem.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "about", "t": "około", "lemma": "about" },
+            { "w": "ten", "t": "dziesięć", "lemma": "ten" },
+            { "w": "minutes", "t": "minut", "lemma": "minute" },
+            { "w": "on", "t": "(pieszo)", "lemma": "on" },
+            { "w": "foot", "t": "pieszo", "lemma": "foot" },
+            { "w": "or", "t": "albo", "lemma": "or" },
+            { "w": "you", "t": "ty", "lemma": "you" },
+            { "w": "can", "t": "możesz", "lemma": "can" },
+            { "w": "take", "t": "pojechać", "lemma": "take" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bus", "t": "autobusem", "lemma": "bus" }
+          ]
+        },
+        {
+          "en": "Tourist: Which bus goes to the station?",
+          "pl": "Turysta: Który autobus jedzie na dworzec?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Which", "t": "który", "lemma": "which" },
+            { "w": "bus", "t": "autobus", "lemma": "bus" },
+            { "w": "goes", "t": "jedzie", "lemma": "go" },
+            { "w": "to", "t": "na", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "station", "t": "dworzec", "lemma": "station" }
+          ]
+        },
+        {
+          "en": "Local: Take bus number five from the stop across the street.",
+          "pl": "Miejscowy: Wsiądź w autobus numer pięć z przystanku po drugiej stronie ulicy.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "Take", "t": "wsiądź w", "lemma": "take" },
+            { "w": "bus", "t": "autobus", "lemma": "bus" },
+            { "w": "number", "t": "numer", "lemma": "number" },
+            { "w": "five", "t": "pięć", "lemma": "five" },
+            { "w": "from", "t": "z", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "stop", "t": "przystanku", "lemma": "stop" },
+            { "w": "across", "t": "po drugiej stronie", "lemma": "across" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "street", "t": "ulicy", "lemma": "street" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Tourist: Thank you! Where can I buy a ticket?",
+          "pl": "Turysta: Dziękuję! Gdzie mogę kupić bilet?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(ci)", "lemma": "you" },
+            { "w": "Where", "t": "gdzie", "lemma": "where" },
+            { "w": "can", "t": "mogę", "lemma": "can" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "buy", "t": "kupić", "lemma": "buy" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "ticket", "t": "bilet", "lemma": "ticket" }
+          ]
+        },
+        {
+          "en": "Local: You can buy a ticket from the driver or at the machine.",
+          "pl": "Miejscowy: Możesz kupić bilet u kierowcy albo w automacie.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "You", "t": "ty", "lemma": "you" },
+            { "w": "can", "t": "możesz", "lemma": "can" },
+            { "w": "buy", "t": "kupić", "lemma": "buy" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "ticket", "t": "bilet", "lemma": "ticket" },
+            { "w": "from", "t": "u", "lemma": "from" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "driver", "t": "kierowcy", "lemma": "driver" },
+            { "w": "or", "t": "albo", "lemma": "or" },
+            { "w": "at", "t": "w", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "machine", "t": "automacie", "lemma": "machine" }
+          ]
+        },
+        {
+          "en": "Tourist: How much is a single ticket to the centre?",
+          "pl": "Turysta: Ile kosztuje bilet w jedną stronę do centrum?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "How", "t": "ile", "lemma": "how" },
+            { "w": "much", "t": "(ile)", "lemma": "much" },
+            { "w": "is", "t": "kosztuje", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "single", "t": "w jedną stronę", "lemma": "single" },
+            { "w": "ticket", "t": "bilet", "lemma": "ticket" },
+            { "w": "to", "t": "do", "lemma": "to" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "centre", "t": "centrum", "lemma": "centre" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Local: It costs two euros. The bus is coming now.",
+          "pl": "Miejscowy: Kosztuje dwa euro. Autobus już nadjeżdża.",
+          "tokens": [
+            { "w": "Local", "t": "miejscowy", "lemma": "local" },
+            { "w": "It", "t": "on", "lemma": "it" },
+            { "w": "costs", "t": "kosztuje", "lemma": "cost" },
+            { "w": "two", "t": "dwa", "lemma": "two" },
+            { "w": "euros", "t": "euro", "lemma": "euro" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "bus", "t": "autobus", "lemma": "bus" },
+            { "w": "is", "t": "(już)", "lemma": "be" },
+            { "w": "coming", "t": "nadjeżdża", "lemma": "come" },
+            { "w": "now", "t": "teraz", "lemma": "now" }
+          ]
+        },
+        {
+          "en": "Tourist: Driver, does this bus stop at the train station?",
+          "pl": "Turysta: Kierowco, czy ten autobus zatrzymuje się na dworcu kolejowym?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Driver", "t": "kierowco", "lemma": "driver" },
+            { "w": "does", "t": "(czy)", "lemma": "do" },
+            { "w": "this", "t": "ten", "lemma": "this" },
+            { "w": "bus", "t": "autobus", "lemma": "bus" },
+            { "w": "stop", "t": "zatrzymuje się", "lemma": "stop" },
+            { "w": "at", "t": "na", "lemma": "at" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "train", "t": "kolejowym", "lemma": "train" },
+            { "w": "station", "t": "dworcu", "lemma": "station" }
+          ]
+        },
+        {
+          "en": "Driver: Yes, it does. I will tell you when to get off.",
+          "pl": "Kierowca: Tak, zatrzymuje. Powiem ci, kiedy wysiąść.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Yes", "t": "tak", "lemma": "yes" },
+            { "w": "it", "t": "on", "lemma": "it" },
+            { "w": "does", "t": "zatrzymuje", "lemma": "do" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "tell", "t": "powiem", "lemma": "tell" },
+            { "w": "you", "t": "ci", "lemma": "you" },
+            { "w": "when", "t": "kiedy", "lemma": "when" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "get", "t": "wysiąść", "lemma": "get" },
+            { "w": "off", "t": "(part.)", "lemma": "off" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Driver: Here is your stop. The station is on platform two.",
+          "pl": "Kierowca: Oto twój przystanek. Dworzec jest przy peronie drugim.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "Here", "t": "oto", "lemma": "here" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "your", "t": "twój", "lemma": "your" },
+            { "w": "stop", "t": "przystanek", "lemma": "stop" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "station", "t": "dworzec", "lemma": "station" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "on", "t": "przy", "lemma": "on" },
+            { "w": "platform", "t": "peronie", "lemma": "platform" },
+            { "w": "two", "t": "drugim", "lemma": "two" }
+          ]
+        },
+        {
+          "en": "Tourist: Thank you. What time does the next train leave?",
+          "pl": "Turysta: Dziękuję. O której odjeżdża następny pociąg?",
+          "tokens": [
+            { "w": "Tourist", "t": "turysta", "lemma": "tourist" },
+            { "w": "Thank", "t": "dziękuję", "lemma": "thank" },
+            { "w": "you", "t": "(ci)", "lemma": "you" },
+            { "w": "What", "t": "o której", "lemma": "what" },
+            { "w": "time", "t": "godzinie", "lemma": "time" },
+            { "w": "does", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następny", "lemma": "next" },
+            { "w": "train", "t": "pociąg", "lemma": "train" },
+            { "w": "leave", "t": "odjeżdża", "lemma": "leave" }
+          ]
+        },
+        {
+          "en": "Driver: The next train leaves in fifteen minutes. Have a good trip!",
+          "pl": "Kierowca: Następny pociąg odjeżdża za piętnaście minut. Udanej podróży!",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "next", "t": "następny", "lemma": "next" },
+            { "w": "train", "t": "pociąg", "lemma": "train" },
+            { "w": "leaves", "t": "odjeżdża", "lemma": "leave" },
+            { "w": "in", "t": "za", "lemma": "in" },
+            { "w": "fifteen", "t": "piętnaście", "lemma": "fifteen" },
+            { "w": "minutes", "t": "minut", "lemma": "minute" },
+            { "w": "Have", "t": "(życzę)", "lemma": "have" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "good", "t": "udanej", "lemma": "good" },
+            { "w": "trip", "t": "podróży", "lemma": "trip" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Jak dojść na dworzec według miejscowego?",
+      "options": ["Iść prosto i skręcić w lewo przy światłach", "Skręcić w prawo za mostem", "Iść wzdłuż rzeki"],
+      "answer": 0
+    },
+    {
+      "q": "Który autobus jedzie na dworzec?",
+      "options": ["Numer pięć, z przystanku po drugiej stronie ulicy", "Numer dziesięć", "Żaden autobus tam nie jedzie"],
+      "answer": 0
+    },
+    {
+      "q": "Gdzie można kupić bilet?",
+      "options": ["U kierowcy albo w automacie", "Tylko przez internet", "W banku"],
+      "answer": 0
+    },
+    {
+      "q": "Ile kosztuje bilet w jedną stronę do centrum?",
+      "options": ["Dwa euro", "Pięć euro", "Dziesięć euro"],
+      "answer": 0
+    },
+    {
+      "q": "O której odjeżdża następny pociąg?",
+      "options": ["Za piętnaście minut", "Za godzinę", "Dopiero jutro"],
+      "answer": 0
+    }
+  ]
+}

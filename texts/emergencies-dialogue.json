@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "id": "emergencies-dialogue",
+  "title": "Dialogues: Emergencies and Problems",
+  "author": "AI Assistant",
+  "source": "Original Material",
+  "level": "A2",
+  "tags": ["dialogues", "travel", "emergency", "phrases", "everyday"],
+  "createdAt": "2026-06-15",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "en": "Traveller: Excuse me, I cannot find my suitcase.",
+          "pl": "Podróżny: Przepraszam, nie mogę znaleźć mojej walizki.",
+          "tokens": [
+            { "w": "Traveller", "t": "podróżny", "lemma": "traveller" },
+            { "w": "Excuse", "t": "przepraszam", "lemma": "excuse" },
+            { "w": "me", "t": "(mnie)", "lemma": "me" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "cannot", "t": "nie mogę", "lemma": "cannot" },
+            { "w": "find", "t": "znaleźć", "lemma": "find" },
+            { "w": "my", "t": "mojej", "lemma": "my" },
+            { "w": "suitcase", "t": "walizki", "lemma": "suitcase" }
+          ]
+        },
+        {
+          "en": "Officer: Don't worry. What does your suitcase look like?",
+          "pl": "Urzędnik: Proszę się nie martwić. Jak wygląda pana walizka?",
+          "tokens": [
+            { "w": "Officer", "t": "urzędnik", "lemma": "officer" },
+            { "w": "Don't", "t": "nie", "lemma": "do not" },
+            { "w": "worry", "t": "martw się", "lemma": "worry" },
+            { "w": "What", "t": "jak", "lemma": "what" },
+            { "w": "does", "t": "(czasownik posiłkowy)", "lemma": "do" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "suitcase", "t": "walizka", "lemma": "suitcase" },
+            { "w": "look", "t": "wygląda", "lemma": "look" },
+            { "w": "like", "t": "(jak)", "lemma": "like" }
+          ]
+        },
+        {
+          "en": "Traveller: It is a large red suitcase with a yellow ribbon.",
+          "pl": "Podróżny: To duża czerwona walizka z żółtą wstążką.",
+          "tokens": [
+            { "w": "Traveller", "t": "podróżny", "lemma": "traveller" },
+            { "w": "It", "t": "to", "lemma": "it" },
+            { "w": "is", "t": "jest", "lemma": "be" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "large", "t": "duża", "lemma": "large" },
+            { "w": "red", "t": "czerwona", "lemma": "red" },
+            { "w": "suitcase", "t": "walizka", "lemma": "suitcase" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "yellow", "t": "żółtą", "lemma": "yellow" },
+            { "w": "ribbon", "t": "wstążką", "lemma": "ribbon" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Officer: Please fill in this form with your name and hotel address.",
+          "pl": "Urzędnik: Proszę wypełnić ten formularz nazwiskiem i adresem hotelu.",
+          "tokens": [
+            { "w": "Officer", "t": "urzędnik", "lemma": "officer" },
+            { "w": "Please", "t": "proszę", "lemma": "please" },
+            { "w": "fill", "t": "wypełnić", "lemma": "fill" },
+            { "w": "in", "t": "(part.)", "lemma": "in" },
+            { "w": "this", "t": "ten", "lemma": "this" },
+            { "w": "form", "t": "formularz", "lemma": "form" },
+            { "w": "with", "t": "(czym)", "lemma": "with" },
+            { "w": "your", "t": "pana", "lemma": "your" },
+            { "w": "name", "t": "nazwiskiem", "lemma": "name" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "hotel", "t": "hotelu", "lemma": "hotel" },
+            { "w": "address", "t": "adresem", "lemma": "address" }
+          ]
+        },
+        {
+          "en": "Traveller: Here it is. When will you find my bag?",
+          "pl": "Podróżny: Proszę bardzo. Kiedy znajdziecie moją torbę?",
+          "tokens": [
+            { "w": "Traveller", "t": "podróżny", "lemma": "traveller" },
+            { "w": "Here", "t": "proszę bardzo (idiom)", "lemma": "here" },
+            { "w": "it", "t": "(część zwrotu)", "lemma": "it" },
+            { "w": "is", "t": "(część zwrotu)", "lemma": "be" },
+            { "w": "When", "t": "kiedy", "lemma": "when" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "you", "t": "wy", "lemma": "you" },
+            { "w": "find", "t": "znajdziecie", "lemma": "find" },
+            { "w": "my", "t": "moją", "lemma": "my" },
+            { "w": "bag", "t": "torbę", "lemma": "bag" }
+          ]
+        },
+        {
+          "en": "Officer: We will call you as soon as it arrives.",
+          "pl": "Urzędnik: Zadzwonimy do pana, gdy tylko dotrze.",
+          "tokens": [
+            { "w": "Officer", "t": "urzędnik", "lemma": "officer" },
+            { "w": "We", "t": "my", "lemma": "we" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "call", "t": "zadzwonimy", "lemma": "call" },
+            { "w": "you", "t": "do pana", "lemma": "you" },
+            { "w": "as", "t": "gdy", "lemma": "as" },
+            { "w": "soon", "t": "tylko", "lemma": "soon" },
+            { "w": "as", "t": "(gdy tylko)", "lemma": "as" },
+            { "w": "it", "t": "ona", "lemma": "it" },
+            { "w": "arrives", "t": "dotrze", "lemma": "arrive" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Driver: My car has broken down on the side of the road.",
+          "pl": "Kierowca: Mój samochód zepsuł się na poboczu drogi.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "My", "t": "mój", "lemma": "my" },
+            { "w": "car", "t": "samochód", "lemma": "car" },
+            { "w": "has", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "broken", "t": "zepsuł się", "lemma": "break" },
+            { "w": "down", "t": "(part.)", "lemma": "down" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "side", "t": "poboczu", "lemma": "side" },
+            { "w": "of", "t": "(przyimek)", "lemma": "of" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "road", "t": "drogi", "lemma": "road" }
+          ]
+        },
+        {
+          "en": "Mechanic: What seems to be the problem with it?",
+          "pl": "Mechanik: Na czym polega problem?",
+          "tokens": [
+            { "w": "Mechanic", "t": "mechanik", "lemma": "mechanic" },
+            { "w": "What", "t": "jaki", "lemma": "what" },
+            { "w": "seems", "t": "wydaje się", "lemma": "seem" },
+            { "w": "to", "t": "(bezokolicznik)", "lemma": "to" },
+            { "w": "be", "t": "być", "lemma": "be" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "problem", "t": "problem", "lemma": "problem" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "it", "t": "nim", "lemma": "it" }
+          ]
+        },
+        {
+          "en": "Driver: The engine stopped, and now it will not start.",
+          "pl": "Kierowca: Silnik zgasł i teraz nie chce zapalić.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "The", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "engine", "t": "silnik", "lemma": "engine" },
+            { "w": "stopped", "t": "zgasł", "lemma": "stop" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "now", "t": "teraz", "lemma": "now" },
+            { "w": "it", "t": "on", "lemma": "it" },
+            { "w": "will", "t": "(nie chce)", "lemma": "will" },
+            { "w": "not", "t": "nie", "lemma": "not" },
+            { "w": "start", "t": "zapalić", "lemma": "start" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Mechanic: Where are you exactly? I will send a tow truck.",
+          "pl": "Mechanik: Gdzie pan dokładnie jest? Wyślę lawetę.",
+          "tokens": [
+            { "w": "Mechanic", "t": "mechanik", "lemma": "mechanic" },
+            { "w": "Where", "t": "gdzie", "lemma": "where" },
+            { "w": "are", "t": "(czy)", "lemma": "be" },
+            { "w": "you", "t": "pan", "lemma": "you" },
+            { "w": "exactly", "t": "dokładnie", "lemma": "exactly" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "send", "t": "wyślę", "lemma": "send" },
+            { "w": "a", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "tow", "t": "lawetę", "lemma": "tow" },
+            { "w": "truck", "t": "(lawetę)", "lemma": "truck" }
+          ]
+        },
+        {
+          "en": "Driver: I am near exit twelve on the main motorway.",
+          "pl": "Kierowca: Jestem blisko zjazdu numer dwanaście na głównej autostradzie.",
+          "tokens": [
+            { "w": "Driver", "t": "kierowca", "lemma": "driver" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "am", "t": "jestem", "lemma": "be" },
+            { "w": "near", "t": "blisko", "lemma": "near" },
+            { "w": "exit", "t": "zjazdu", "lemma": "exit" },
+            { "w": "twelve", "t": "dwanaście", "lemma": "twelve" },
+            { "w": "on", "t": "na", "lemma": "on" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "main", "t": "głównej", "lemma": "main" },
+            { "w": "motorway", "t": "autostradzie", "lemma": "motorway" }
+          ]
+        },
+        {
+          "en": "Mechanic: Stay safe behind the barrier. We will be there soon.",
+          "pl": "Mechanik: Proszę bezpiecznie czekać za barierką. Będziemy tam wkrótce.",
+          "tokens": [
+            { "w": "Mechanic", "t": "mechanik", "lemma": "mechanic" },
+            { "w": "Stay", "t": "czekaj", "lemma": "stay" },
+            { "w": "safe", "t": "bezpiecznie", "lemma": "safe" },
+            { "w": "behind", "t": "za", "lemma": "behind" },
+            { "w": "the", "t": "(przedimek określony)", "lemma": "the" },
+            { "w": "barrier", "t": "barierką", "lemma": "barrier" },
+            { "w": "We", "t": "my", "lemma": "we" },
+            { "w": "will", "t": "(czas przyszły)", "lemma": "will" },
+            { "w": "be", "t": "będziemy", "lemma": "be" },
+            { "w": "there", "t": "tam", "lemma": "there" },
+            { "w": "soon", "t": "wkrótce", "lemma": "soon" }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "en": "Woman: Help! A man has fallen and he cannot stand up.",
+          "pl": "Kobieta: Pomocy! Mężczyzna upadł i nie może wstać.",
+          "tokens": [
+            { "w": "Woman", "t": "kobieta", "lemma": "woman" },
+            { "w": "Help", "t": "pomocy", "lemma": "help" },
+            { "w": "A", "t": "(przedimek nieokreślony)", "lemma": "a" },
+            { "w": "man", "t": "mężczyzna", "lemma": "man" },
+            { "w": "has", "t": "(czas dokonany)", "lemma": "have" },
+            { "w": "fallen", "t": "upadł", "lemma": "fall" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "he", "t": "on", "lemma": "he" },
+            { "w": "cannot", "t": "nie może", "lemma": "cannot" },
+            { "w": "stand", "t": "wstać", "lemma": "stand" },
+            { "w": "up", "t": "(part.)", "lemma": "up" }
+          ]
+        },
+        {
+          "en": "Operator: Stay calm. I am sending an ambulance right now.",
+          "pl": "Operator: Proszę zachować spokój. Wysyłam karetkę już teraz.",
+          "tokens": [
+            { "w": "Operator", "t": "operator", "lemma": "operator" },
+            { "w": "Stay", "t": "zachowaj", "lemma": "stay" },
+            { "w": "calm", "t": "spokój", "lemma": "calm" },
+            { "w": "I", "t": "ja", "lemma": "I" },
+            { "w": "am", "t": "(właśnie)", "lemma": "be" },
+            { "w": "sending", "t": "wysyłam", "lemma": "send" },
+            { "w": "an", "t": "(przedimek nieokreślony)", "lemma": "an" },
+            { "w": "ambulance", "t": "karetkę", "lemma": "ambulance" },
+            { "w": "right", "t": "już", "lemma": "right" },
+            { "w": "now", "t": "teraz", "lemma": "now" }
+          ]
+        },
+        {
+          "en": "Operator: Tell me your address and stay with him until we arrive.",
+          "pl": "Operator: Proszę podać adres i zostać z nim, dopóki nie przyjedziemy.",
+          "tokens": [
+            { "w": "Operator", "t": "operator", "lemma": "operator" },
+            { "w": "Tell", "t": "powiedz", "lemma": "tell" },
+            { "w": "me", "t": "mi", "lemma": "me" },
+            { "w": "your", "t": "swój", "lemma": "your" },
+            { "w": "address", "t": "adres", "lemma": "address" },
+            { "w": "and", "t": "i", "lemma": "and" },
+            { "w": "stay", "t": "zostań", "lemma": "stay" },
+            { "w": "with", "t": "z", "lemma": "with" },
+            { "w": "him", "t": "nim", "lemma": "he" },
+            { "w": "until", "t": "dopóki nie", "lemma": "until" },
+            { "w": "we", "t": "my", "lemma": "we" },
+            { "w": "arrive", "t": "przyjedziemy", "lemma": "arrive" }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Jak wyglądała zgubiona walizka?",
+      "options": ["Duża czerwona z żółtą wstążką", "Mała czarna z kółkami", "Zielony plecak"],
+      "answer": 0
+    },
+    {
+      "q": "Co urzędnik kazał zrobić podróżnemu?",
+      "options": ["Wypełnić formularz nazwiskiem i adresem hotelu", "Zadzwonić na policję", "Wrócić jutro"],
+      "answer": 0
+    },
+    {
+      "q": "Co stało się z samochodem kierowcy?",
+      "options": ["Silnik zgasł i nie chce zapalić", "Skończyło się paliwo", "Pękła opona"],
+      "answer": 0
+    },
+    {
+      "q": "Co wyśle mechanik i gdzie jest kierowca?",
+      "options": ["Lawetę; kierowca jest blisko zjazdu 12 na autostradzie", "Taksówkę; kierowca jest w mieście", "Nic; kierowca ma czekać dzień"],
+      "answer": 0
+    },
+    {
+      "q": "Co zrobił operator po zgłoszeniu, że ktoś upadł?",
+      "options": ["Wysłał karetkę i kazał zostać z poszkodowanym", "Kazał zadzwonić później", "Odłożył słuchawkę"],
+      "answer": 0
+    }
+  ]
+}

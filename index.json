@@ -802,6 +802,38 @@
       ],
       "file": "texts/gas-station-dialogue.json",
       "sha256": "6b49e7259863b67c40533923fcab1982fd7259d068701eb829b9bc0742024237"
+    },
+    {
+      "id": "directions-transport-dialogue",
+      "title": "Dialogues: Directions and Public Transport",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "transport",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/directions-transport-dialogue.json",
+      "sha256": "7acb2ea1ce07180de954910f4e557e4f7b569604b439e17e2a076ef58a8638ac"
+    },
+    {
+      "id": "emergencies-dialogue",
+      "title": "Dialogues: Emergencies and Problems",
+      "author": "AI Assistant",
+      "level": "A2",
+      "category": "Dialogi",
+      "tags": [
+        "dialogues",
+        "travel",
+        "emergency",
+        "phrases",
+        "everyday"
+      ],
+      "file": "texts/emergencies-dialogue.json",
+      "sha256": "f8d06935e950788aec7da4b121e18768b581c2e9447dc042a1b635ee80866755"
     }
   ]
 }
